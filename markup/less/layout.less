@@ -1,0 +1,209 @@
+@import 'mixins.less';
+
+body {
+  background-image: url('/img/bg.jpg');
+}
+
+.container {
+  width: 900px;
+  margin: 20px auto;
+  background: white;
+  .box-shadow(0px 0px 4px rgba(50, 50, 50, 0.5));
+  font-family: Georgia;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+header {
+  position: relative;
+  z-index: 750;
+  height: 210px;
+  overflow: visible;
+  background: @blue;
+
+  &:after {
+    display: block;
+    width: 100%;
+    height: 21px;
+    position: absolute;
+    bottom: -21px;
+    content: "";
+    background-image: url('/img/header-bottom.png');
+  }
+
+  h1, h2 {
+    margin: 0;
+    font-family: Helvetica;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+
+  h1 {
+    width: 150px;
+    height: 90px;
+    padding: 20px 10px 20px 70px;
+    font-size: 30px;
+    line-height: 30px;
+    position: absolute;
+    top: 55px;
+    left: 150px;
+    background-color: #f5f5f5;
+    background-image: url('/img/header-bevel.png');
+    background-position: right bottom;
+    background-repeat: no-repeat;
+
+    .year {
+      font-weight: normal;
+    } 
+  }
+
+  h2 {
+    width: 188px;
+    height: 128px;
+    padding-top: 30px;
+    position: absolute;
+    top: 27px;
+    left: 34px;
+    background-image: url('/img/header-ribbon.png');
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+
+    .month {
+      font-size: 17px;
+      font-weight: bolder;
+    }
+    .days {
+      font-size: 33px;
+    }
+  }
+
+  .logo {
+    position: absolute;
+    left: 450px;
+    top: 54px;
+  }
+}
+
+nav.main {
+  .clearfix();
+  position: relative;
+
+  &:before {
+    display: block;
+    width: 100%;
+    height: 23px;
+    position: absolute;
+    top: 1px;
+    // must go in `content`, not in `background-image` (IE8 fix):
+    content: url('/img/header-shadow.png');
+  }
+
+  a {
+    float: left;
+    width: 150px;
+    height: 50px;
+    margin: 0;
+    padding-top: 20px;
+    color: white;
+    background: #898989;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+
+    &.active {
+      position: relative;
+      z-index: 500;
+      color: black;
+      background: white;
+    }
+
+    &.emphasized {
+      color: black;
+      background: @yellow;
+    }
+  }
+}
+
+article {
+  padding: 50px 20px;
+
+  h2 {
+    margin: 0;
+    text-align: center;
+    font-family: Helvetica;
+    text-transform: uppercase;
+    font-weight: bolder;
+  }
+}
+
+footer {
+  height: 52px;
+  padding-top: 40px;
+  background-color: @blue;
+  background-image: url('/img/footer-top.png');
+  background-repeat: no-repeat;
+
+  .social-buttons {
+    float: right;
+    margin-right: 35px;
+    padding: 0;
+
+    a {
+      float: right;
+      display: block;
+      width: 32px;
+      height: 32px;
+      margin: 0 0 0 10px;
+      text-indent: -10000px;
+      background-image: url('/img/social-buttons-sprite.png');
+
+      &.facebook { background-position: 0px 0; }
+      &.vk { background-position: -32px 0; }
+      &.twitter { background-position: -64px 0; }
+    }
+  }
+
+  nav {
+    float: left;
+    margin-left: 35px;
+    color: white;
+    line-height: 32px;
+    font-family: Helvetica;
+
+    a {
+      float: left;
+      padding: 0;
+      color: white;
+      font-size: 12px;
+      text-decoration: none;
+      text-transform: uppercase;
+
+      &:after {
+        content: "\00a0\00a0|\00a0\00a0";
+      }
+
+      &.last:after {
+        content: "";
+      }
+
+      &.emphasized {
+        color: @yellow;
+      }
+    }
+  }
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    padding: 10px;
+    padding-left: 40px;
+    background: url('/img/bullet.png') left center no-repeat;
+    line-height: 20px;
+  }
+}

@@ -1,0 +1,92 @@
+@import 'mixins.less';
+
+#home {
+  .counter {
+    margin: 38px 0;
+    font-family: Helvetica;
+    text-align: center;
+
+    .days, .hours, .minutes, .seconds {
+      display: inline-block;
+      position: relative;
+      width: 82px;
+      margin: 5px;
+      text-align: center;
+
+      .label {
+        margin-top: 8px;
+        text-transform: uppercase;
+        font-size: 11px;
+      }
+
+      .value {
+        height: 78px;
+        color: #363636;
+        background-image: url('/img/counter-bg.png');
+        font-size: 58px;
+        font-weight: bold;
+        line-height: 78px;
+        text-shadow: 1px 1px 1px #ffffff;
+
+        &:after {
+          display: block;
+          top: 40px;
+          width: 100%;
+          height: 1px;
+          position: absolute;
+          background-image: url('/img/separator.png');
+          content: "";
+        }
+      }
+    }
+  }
+
+  h3 {
+    margin: 0 0 20px 0;
+    font-family: Helvetica;
+    text-transform: uppercase;
+  } 
+
+  .location, .conference-objectives, .technical-details {
+    padding: 20px;
+  }
+
+  .location {
+    width: 260px;
+    float: right;
+    background: #ececec;
+    padding-bottom: 40px;
+    background-image: url('/img/location-bottom.png');
+    background-position: center bottom;
+    background-repeat: no-repeat;
+
+    .map-wrapper {
+      padding: 10px 10px 6px 10px;
+      .box-shadow(0px 0px 4px rgba(50, 50, 50, 0.2));
+      background: white;
+
+      a {
+        display: block;
+        height: 30px;
+        margin: 0 0 10px 0;
+        padding-left: 40px;
+        color: @blue;
+        background: url('/img/venue.png') 5px center no-repeat;
+        font-family: Helvetica;
+        font-size: 13px;
+        line-height: 15px;
+        text-decoration: none;
+      }
+
+      img {
+        margin: 0;
+      }
+    }
+  }
+
+  .summary {
+    padding: 20px 20px 40px 20px;
+    margin: 0 0 20px 0;
+    border-bottom: 1px solid #c4c4c4;
+  }
+}
