@@ -1,28 +1,49 @@
 {% extends "_base.html" %}
 
+{% block head_extra %}
+  <script src="/js/countdown.min.js" type="text/javascript"></script>
+  <script>
+    function updateCounter() {
+        var start = new Date(2013, 1, 23, 0,  0, 0, 0);
+        var c = countdown(start, null, countdown.DAYS | countdown.HOURS | countdown.MINUTES | countdown.SECONDS);
+        document.getElementById('days-value').innerHTML = c.days;
+        document.getElementById('hours-value').innerHTML = c.hours;
+        document.getElementById('minutes-value').innerHTML = c.minutes;
+        document.getElementById('seconds-value').innerHTML = c.seconds;
+    }
+    window.onload = function() {
+        setInterval(updateCounter, 1000);
+    }
+  </script>
+{% endblock %}
+
 {% block content %}
   <h2>{% trans %}PyCon Russia 2013, Feb 23&ndash;25{% endtrans %}</h2>
 
   <section class="counter">
     <div class="days">
-      <div class="value">75</div>
+      <div class="value" id="days-value">75</div>
       <div class="label">{{ _('days') }}</div>
     </div>
 
     <div class="hours">
-      <div class="value">06</div>
+      <div class="value" id="hours-value">06</div>
       <div class="label">{{ _('hours') }}</div>
     </div>
 
     <div class="minutes">
-      <div class="value">24</div>
+      <div class="value" id="minutes-value">24</div>
       <div class="label">{{ _('minutes') }}</div>
     </div>
 
     <div class="seconds">
-      <div class="value">33</div>
+      <div class="value" id="seconds-value">33</div>
       <div class="label">{{ _('seconds') }}</div>
     </div>
+
+    <script>
+      updateCounter();
+    </script>
   </section>
   
   <div class="summary">
