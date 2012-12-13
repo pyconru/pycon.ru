@@ -1,5 +1,3 @@
-@import 'mixins.less';
-
 body {
   background-image: url('/img/bg.jpg');
 }
@@ -99,7 +97,7 @@ nav.main {
     content: url('/img/header-shadow.png');
   }
 
-  a {
+  a, span {
     float: left;
     width: 150px;
     height: 50px;
@@ -112,16 +110,16 @@ nav.main {
     text-transform: uppercase;
     text-decoration: none;
 
+    &.emphasized {
+      color: black;
+      background: @yellow;
+    }
+
     &.active {
       position: relative;
       z-index: 500;
       color: black;
       background: white;
-    }
-
-    &.emphasized {
-      color: black;
-      background: @yellow;
     }
   }
 }

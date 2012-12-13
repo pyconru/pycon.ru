@@ -1,0 +1,38 @@
+msgid "About"
+msgstr "Конференция"
+
+msgid "Venue"
+msgstr "Место"
+
+msgid "Schedule"
+msgstr "Расписание"
+
+msgid "Speakers"
+msgstr "Докладчики"
+
+msgid "Partners"
+msgstr "Спонсоры"
+
+msgid "Register"
+msgstr "Регистрация"
+
+msgid "hours"
+msgstr "часы"
+
+msgid "days"
+msgstr "дни"
+
+msgid "minutes"
+msgstr "минуты"
+
+msgid "seconds"
+msgstr "секунды"
+
+msgid "February"
+msgstr "Февраль"
+
+msgid "PyCon Russia 2013, Feb 23&ndash;25"
+msgstr "PyCon Russia 2013, 23&ndash;25 февраля"
+
+msgid "See Venue for more information about conference location." 
+msgstr "Узнать более подробно о месте проведения"

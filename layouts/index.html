@@ -1,0 +1,49 @@
+{% extends "_base.html" %}
+
+{% block content %}
+  <h2>{% trans %}PyCon Russia 2013, Feb 23&ndash;25{% endtrans %}</h2>
+
+  <section class="counter">
+    <div class="days">
+      <div class="value">75</div>
+      <div class="label">{{ _('days') }}</div>
+    </div>
+
+    <div class="hours">
+      <div class="value">06</div>
+      <div class="label">{{ _('hours') }}</div>
+    </div>
+
+    <div class="minutes">
+      <div class="value">24</div>
+      <div class="label">{{ _('minutes') }}</div>
+    </div>
+
+    <div class="seconds">
+      <div class="value">33</div>
+      <div class="label">{{ _('seconds') }}</div>
+    </div>
+  </section>
+  
+  <div class="summary">
+    {{ summary }}
+  </div>
+
+  <aside class="location">
+    {{ location }}
+    <div class="map-wrapper">
+      <a href="{{ url_for('venue') }}">
+        {% trans %}See Venue for more information about conference location.{% endtrans %}
+      </a>
+      <img src="http://static-maps.yandex.ru/1.x/?pt=60.92495,56.5789,pm2lbm&ll=60.92495,56.5789&size=240,140&spn=0.15,0.15&l=map&key=ANpUFEkBAAAAf7jmJwMAHGZHrcKNDsbEqEVjEUtCmufxQMwAAAAAAAAAAAAvVrubVT4btztbduoIgTLAeFILaQ==">
+    </div>
+  </aside>
+
+  <section class="conference-objectives">
+    {{ conference_objectives }}
+  </section>
+  
+  <section class="technical-details">
+    {{ technical_details }}
+  </section>
+{% endblock %}

@@ -1,0 +1,4 @@
+*.pyc
+
+messages.mo
+_build
