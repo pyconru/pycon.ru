@@ -11,7 +11,7 @@ msgid "Speakers"
 msgstr "Докладчики"
 
 msgid "Partners"
-msgstr "Спонсоры"
+msgstr "Партнёры"
 
 msgid "Register"
 msgstr "Регистрация"
@@ -32,7 +32,7 @@ msgid "February"
 msgstr "Февраль"
 
 msgid "PyCon Russia 2013, Feb 23&ndash;25"
-msgstr "PyCon Russia 2013, 23&ndash;25 февраля"
+msgstr "PyCon Россия 2013, 23&ndash;25 февраля"
 
 msgid "See Venue for more information about conference location." 
 msgstr "Узнать более подробно о месте проведения"
