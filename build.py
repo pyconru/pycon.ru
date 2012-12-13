@@ -5,7 +5,6 @@ import codecs
 import gettext
 import subprocess
 
-import yaml
 import markdown
 from jinja2 import Environment, FileSystemLoader, contextfunction
 
