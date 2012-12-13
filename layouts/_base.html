@@ -9,7 +9,9 @@
     <!--[if lt IE 9]>
       <script src="/js/html5shiv.js"></script>
     <![endif]-->
-
+    <!--[if lt IE 9]>
+      <script src="/js/css3-mediaqueries.js"></script>
+    <![endif]-->
     <link rel="stylesheet" href="/css/reset.css">
     <link rel="stylesheet" href="/css/normalize.css">
 
@@ -26,35 +28,39 @@
   <body>
     <div class="container">
       <header>
-        <h1>
-          PyCon <br>
-          Russia <br>
-          <span class="year">2012</span>
-        </h1>
         <h2>
-          <span class="month">{{ _('February') }}</span><br>
-          <span class="days">23&ndash;25</span>
+          <span class="month">{{ _('February') }}</span> <span class="days">23&ndash;25</span>
         </h2>
-        <img src="/img/logo.png" class="logo">
-        <a href="{{ url_for(page_name, language='ru') }}">Ru</a> |
-        <a href="{{ url_for(page_name, language='en') }}">En</a>
+
+        <h1>
+          PyCon Russia <span class="year">2013</span>
+        </h1>
+        
+        <section class="language-selector">
+          <a href="{{ url_for(page_name, language='ru') }}" class="ru{% if LANGUAGE == 'ru' %} active{% endif %}">Рус</a>
+          <a href="{{ url_for(page_name, language='en') }}" class="en{% if LANGUAGE == 'en' %} active{% endif %}">Eng</a>
+        </section>
+
+        <a href="{{ url_for('about') }}">
+          <img src="/img/logo.png" class="logo">
+        </a>
       </header>
 
       {% set navigation = ['about', 'venue', 'schedule', 'speakers', 'partners', 'register'] -%}
       {% set active_page_name = page_name -%} 
 
       <nav class="main">
-        {% for name in navigation %}
-          {% if name == active_page_name %}
-            <span class="{% if name == 'register' %}emphasized{% endif %} active">
+        {% for name in navigation -%}
+          {% if name == active_page_name -%}
+            <span class="{% if name == 'register' %}emphasized{% endif %} {% if loop.last %}last{% endif %} active">
               {{ _(name|capitalize) }}
             </span>
-          {% else %}
-            <a class="{% if name == 'register' %}emphasized{% endif %}" href="{{ url_for(name) }}">
+          {% else -%}
+            <a class="{% if name == 'register' %}emphasized{% endif %} {% if loop.last %}last{% endif %} " href="{{ url_for(name) }}">
               {{ _(name|capitalize) }}
             </a>
-          {% endif %}
-        {% endfor %}
+          {% endif -%}
+        {% endfor -%}
       </nav>
 
       <article id="{{ page_name }}">

@@ -39,24 +39,27 @@
     }
   }
 
-  h3 {
-    margin: 0 0 20px 0;
-    font-family: Helvetica;
-    text-transform: uppercase;
-  } 
-
   .location, .conference-objectives, .technical-details {
     padding: 20px;
+  }
+  .conference-objectives, .technical-details {
+    float: left;
+    clear: left;
+    width: 400px;
   }
 
   .location {
     width: 260px;
-    float: right;
-    background: #ececec;
+    margin: 0 auto;
     padding-bottom: 40px;
+    background: #ececec;
     background-image: url('/img/location-bottom.png');
     background-position: center bottom;
     background-repeat: no-repeat;
+    
+    @media @default {
+     float: right;
+    }
 
     .map-wrapper {
       padding: 10px 10px 6px 10px;
