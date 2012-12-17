@@ -14,6 +14,7 @@
     <![endif]-->
     <link rel="stylesheet" href="/css/reset.css">
     <link rel="stylesheet" href="/css/normalize.css">
+    <base target="_blank">
 
     {% if DEBUG %}
       <link rel="stylesheet/less" type="text/css" href="/less/layout.less" />
@@ -37,11 +38,11 @@
         </h1>
         
         <section class="language-selector">
-          <a href="{{ url_for(page_name, language='ru') }}" class="ru{% if LANGUAGE == 'ru' %} active{% endif %}">Рус</a>
-          <a href="{{ url_for(page_name, language='en') }}" class="en{% if LANGUAGE == 'en' %} active{% endif %}">Eng</a>
+          <a href="{{ url_for(page_name, language='ru') }}" target="_self" class="ru{% if LANGUAGE == 'ru' %} active{% endif %}">Рус</a>
+          <a href="{{ url_for(page_name, language='en') }}" target="_self" class="en{% if LANGUAGE == 'en' %} active{% endif %}">Eng</a>
         </section>
 
-        <a href="{{ url_for('about') }}">
+        <a href="{{ url_for('about') }}" target="_self">
           <img src="/img/logo.png" class="logo">
         </a>
       </header>
@@ -56,7 +57,7 @@
               {{ _(name|capitalize) }}
             </span>
           {% else -%}
-            <a class="{% if name == 'register' %}emphasized{% endif %} {% if loop.last %}last{% endif %} " href="{{ url_for(name) }}">
+            <a class="{% if name == 'register' %}emphasized{% endif %} {% if loop.last %}last{% endif %} " href="{{ url_for(name) }}" target="_self">
               {{ _(name|capitalize) }}
             </a>
           {% endif -%}
@@ -71,7 +72,7 @@
       <footer>
         <nav>
           {% for name in navigation %}
-            <a class="{% if name == 'register' %}emphasized{% endif %} {% if name == active_page_name %}active{% endif %} {% if loop.last %}last{% endif %}" href="{{ url_for(name) }}">
+            <a class="{% if name == 'register' %}emphasized{% endif %} {% if name == active_page_name %}active{% endif %} {% if loop.last %}last{% endif %}" href="{{ url_for(name) }}" target="_self">
               {{ _(name|capitalize) }}
             </a>
           {% endfor %}
