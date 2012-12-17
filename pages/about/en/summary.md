@@ -1,7 +1,7 @@
 First PyCon in Russia:
-February 23-26, 2013
+February 23-25, 2013
 Yekaterinburg
-500 attendees
+400 attendees
 Conference schedule contains: 
 the reports of the foreign speakers
 performances of Russian guru
