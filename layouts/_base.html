@@ -8,8 +8,6 @@
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
       <script src="/js/html5shiv.js"></script>
-    <![endif]-->
-    <!--[if lt IE 9]>
       <script src="/js/css3-mediaqueries.js"></script>
     <![endif]-->
     <link rel="stylesheet" href="/css/reset.css">
@@ -69,22 +67,24 @@
         {% endblock %}
       </article>
 
-      <footer>
-        <nav>
-          {% for name in navigation %}
-            <a class="{% if name == 'register' %}emphasized{% endif %} {% if name == active_page_name %}active{% endif %} {% if loop.last %}last{% endif %}" href="{{ url_for(name) }}" target="_self">
-              {{ _(name|capitalize) }}
-            </a>
-          {% endfor %}
-        </nav>
-
-        <section class="social-buttons">
-          <a href="#" class="facebook">Facebook</a>
-          <a href="#" class="vk">Vk</a>
-          <a href="#" class="twitter">Twitter</a>
-        </section>
-      </footer>
+      <div class="push"></div>
     </div>
+      
+    <footer>
+      <nav>
+        {% for name in navigation %}
+          <a class="{% if name == 'register' %}emphasized{% endif %} {% if name == active_page_name %}active{% endif %} {% if loop.last %}last{% endif %}" href="{{ url_for(name) }}" target="_self">
+            {{ _(name|capitalize) }}
+          </a>
+        {% endfor %}
+      </nav>
+
+      <section class="social-buttons">
+        <a href="#" class="facebook">Facebook</a>
+        <a href="#" class="vk">Vk</a>
+        <a href="#" class="twitter">Twitter</a>
+      </section>
+    </footer>
 
     <script>
         var _gaq=[['_setAccount','UA-37098336-1'],['_trackPageview']];

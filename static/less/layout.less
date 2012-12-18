@@ -1,15 +1,20 @@
 @mobile: ~"screen and (max-width: 940px)";
 @default: ~"not screen and (max-width: 940px)";
 
+html, body {
+	height: 100%;
+}
+
 body {
-  background-image: url('/img/bg.jpg');
+  @media @default {
+    background-image: url('/img/bg.jpg');
+  }
 }
 
 .container {
+  .clearfix();
   min-width: 470px;
-  margin: 20px auto;
-  background: white;
-  .box-shadow(0px 0px 4px rgba(50, 50, 50, 0.5));
+  margin: 0px auto;
   font-family: Georgia;
   font-size: 16px;
   line-height: 22px;
@@ -19,8 +24,24 @@ body {
   }
 
   @media @mobile {
-    width: 95%;
+    width: 100%;
+
+    .push {
+      display: none;
+    }
   }
+
+  @media @default {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -112px auto; /* the bottom margin is the negative value of the footer's height */
+    position: relative;
+  }
+}
+
+.push {
+	height: 92px; /* .push must be the same height as .footer */
 }
 
 header {
@@ -67,6 +88,7 @@ header {
   }
 
   @media @default {
+    margin-top: 20px;
     height: 210px;
 
     h1 {
@@ -208,7 +230,7 @@ nav.main {
     height: 50px;
     margin: 0;
     color: white;
-    background: #898989;
+    background: @gray;
     line-height: 50px;
     text-align: center;
     text-transform: uppercase;
@@ -245,17 +267,57 @@ nav.main {
       background: white;
     }
   }
+
+  a:hover {
+    background: lighten(@gray, 5%);
+  }
+
+  a.emphasized:hover {
+    background: lighten(@yellow, 5%);
+  }
 }
 
 article {
   .clearfix();
   padding: 50px 20px 20px 20px;
+  background: white;
+
+  @media @default {
+    &:before {
+      width: 900px;
+      position: absolute;
+      display: block;
+      content: "";
+      top: 20px;
+      bottom: 20px;
+      left: 50%;
+      margin-left: -450px;
+      z-index: -1;
+      background: white;
+      .box-shadow(0px 0px 4px rgba(50, 50, 50, 0.5));
+    }
+  }
 }
+
 
 footer {
   .clearfix();
+
+  @media @default {
+    width: 900px;
+    height: 32px;
+  }
+  
+  @media @mobile {
+    width: 100%;
+    min-width: 470px;
+  }
+
   padding: 40px 0 20px 0;
+  margin: 0 auto;
   background: @blue url('/img/footer-top.png') center top no-repeat;
+  z-index: 1500;
+  position: relative;
 
   .social-buttons {
     padding: 0;
