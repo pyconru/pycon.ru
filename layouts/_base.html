@@ -27,13 +27,15 @@
   <body>
     <div class="container">
       <header>
-        <h2>
-          <span class="month">{{ _('February') }}</span> <span class="days">23&ndash;25</span>
-        </h2>
+        <a href="{{ url_for('about') }}" target="_self">
+          <h2>
+            <span class="month">{{ _('February') }}</span> <span class="days">23&ndash;25</span>
+          </h2>
 
-        <h1>
-          PyCon Russia <span class="year">2013</span>
-        </h1>
+          <h1>
+            PyCon Russia <span class="year">2013</span>
+          </h1>
+        </a>
         
         <section class="language-selector">
           <a href="{{ url_for(page_name, language='ru') }}" target="_self" class="ru{% if LANGUAGE == 'ru' %} active{% endif %}">Рус</a>

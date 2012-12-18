@@ -19,6 +19,10 @@ body {
   font-size: 16px;
   line-height: 22px;
 
+  .push {
+    height: 92px; /* .push must be the same height as .footer */
+  }
+
   @media @default {
     width: 900px;
   }
@@ -38,10 +42,6 @@ body {
     margin: 0 auto -112px auto; /* the bottom margin is the negative value of the footer's height */
     position: relative;
   }
-}
-
-.push {
-	height: 92px; /* .push must be the same height as .footer */
 }
 
 header {
@@ -104,6 +104,7 @@ header {
       background-image: url('/img/header-bevel.png');
       background-position: right bottom;
       background-repeat: no-repeat;
+      color: black;
     }
 
     h2 {
@@ -164,6 +165,10 @@ header {
       background: @yellow;
       font-size: 18px;
       line-height: 30px;
+    }
+
+    h1 {
+      color: black;
     }
 
     h2 {
@@ -418,4 +423,12 @@ h2 {
 p {
   padding: 0;
   margin: 0 0 20px 0;
+}
+
+a {
+  color: @blue;
+
+  &:hover {
+    text-decoration: none;
+  }
 }
