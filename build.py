@@ -10,7 +10,6 @@ from jinja2 import Environment, FileSystemLoader, contextfunction
 
 
 PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
-BUILD_DIR = os.path.join(PROJECT_DIR, '_build')
 
 DEFAULT_PAGE = 'about'
 DEFAULT_LANGUAGE = 'ru'
@@ -59,7 +58,7 @@ def render_template(template, context, target_fname):
         f.write(render) 
 
 
-def build():
+def build(build_dir):
     pages = ('about', 'venue', 'schedule', 'speakers', 'partners', 'register')
     layouts = dict(zip(pages, ['index.html'] + ['page.html'] * 5))
 
@@ -78,5 +77,6 @@ def build():
                 with codecs.open(fname, 'r', 'utf-8') as f:
                     context[block_name] = markdown.markdown(f.read())
 
-            target_fname = os.path.join(BUILD_DIR, path_for(page, language=language), 'index.html')
+            target_fname = os.path.join(
+                PROJECT_DIR, build_dir, path_for(page, language=language), 'index.html')
             render_template(template, context, target_fname)

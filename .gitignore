@@ -1,4 +1,5 @@
 *.pyc
 
 messages.mo
-_build
+_build-*
+www
