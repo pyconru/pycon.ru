@@ -1,0 +1,118 @@
+{% extends "_base.html" %}
+
+{% block head_extra %}
+    <link rel='stylesheet' type='text/css'
+    href='http://it-people.timepad.ru/templates_subdomain/css/19.eventreg.css?v=343' />
+    <style>
+        #id-tp-reg-widget.tp-reg-widget {
+            font-family: Georgia !important;
+            font-size: 16px !important;
+            border: none !important;
+            padding: 0 !important;
+        }
+        #id-tp-reg-widget .tp-reg-description {
+            font-size: 16px !important;
+        }
+        #id-tp-reg-widget .tp-reg-legend {
+            margin-bottom: 3px !important;
+        }
+        #id-tp-reg-widget .tp-reg-description {
+            margin-top: 0 !important;
+        }
+    </style>
+    
+    <script type="text/javascript">
+        onPromoCodeLinkClick = function () {promoCodeLink = document.getElementById("promo-code-link-52802");
+        promoCodeBlock = document.getElementById("promo-code-block-52802");promoCodeLink.style.display = "none";
+        promoCodeBlock.style.display = "block";return false;}
+    </script>
+{% endblock %}
+
+{% block content %}
+  <div id="eventreg52802">
+    <div class="tp-reg-widget " id="id-tp-reg-widget">
+        <div class="msection">
+            <div class="tp-reg-description">
+                {{ content }}
+            </div>
+        </div>
+        <form enctype="multipart/form-data"
+            action="http://it-people.timepad.ru/event/52802/" class="commonform" method="POST" id="theregform">
+            <input type="hidden" name="httpreferer" value=""/>
+            <input type="hidden" name="reforg" value=""/>
+            <input type="hidden" name="tpref" value=""/>
+            <input type="hidden" name="ref" value=""/>
+            <input type="hidden" name="mailid" value=""/>
+            <input type="hidden" name="source" value=""/>
+            <input type="hidden" name="promocode" value=""/>
+            <div class="msection">
+                <input type="hidden" name="re_id" value="69262">
+                <div class="tp-reg-question" style="margin:0 20px 15px 20px;">
+                    <div class="tp-reg-label" style="font-weight:bold;font-size:16px;display:block;margin-bottom:2px;">
+                        <label for="mail">E-Mail: <span>*</span></label></div><div class="tp-reg-wrapper" style="max-width:380px;">
+                        <input type="text"name="mail"id="mail"class="tp-reg-input-text"autocomplete="off"/>
+                    </div>
+                </div>
+                <div class="tp-reg-question" style="margin:0 20px 15px 20px;">
+                    <div class="tp-reg-label" style="font-weight:bold;font-size:16px;display:block;margin-bottom:2px;">
+                        <label for="surname">Фамилия: <span>*</span></label></div>
+                    <div class="tp-reg-wrapper" style="max-width:380px;">
+                        <input type="text"name="surname"id="surname"class="tp-reg-input-text"autocomplete="off"/></div></div>
+                <div class="tp-reg-question" style="margin:0 20px 15px 20px;">
+                    <div class="tp-reg-label" style="font-weight:bold;font-size:16px;display:block;margin-bottom:2px;">
+                        <label for="name">Имя: <span>*</span></label></div><div class="tp-reg-wrapper" style="max-width:380px;">
+                        <input type="text"name="name"id="name"class="tp-reg-input-text"autocomplete="off"/></div></div>
+                <div class="tp-reg-question" style="margin:0 20px 15px 20px;">
+                    <div class="tp-reg-label" style="font-weight:bold;font-size:16px;display:block;margin-bottom:2px;">
+                        <label for="question101338">Город: <span>*</span></label></div><div class="tp-reg-wrapper" style="max-width:380px;">
+                        <input type="text"name="question101338"id="question101338"class="tp-reg-input-text"autocomplete="off"/></div>
+                </div>
+                <div class="tp-reg-question" style="margin:0 20px 15px 20px;">
+                    <div class="tp-reg-label" style="font-weight:bold;font-size:16px;display:block;margin-bottom:2px;">
+                        <label for="question101339">Компания: <span>*</span></label></div><div class="tp-reg-wrapper" style="max-width:380px;">
+                        <input type="text"name="question101339"id="question101339"class="tp-reg-input-text"autocomplete="off"/></div></div>
+                <div class="tp-reg-question" style="margin:0 20px 15px 20px;">
+                    <div class="tp-reg-label" style="font-weight:bold;font-size:16px;display:block;margin-bottom:2px;">
+                        <label for="question101340">Должность: <span>*</span></label></div>
+                    <div class="tp-reg-wrapper" style="max-width:380px;">
+                        <input type="text"name="question101340"id="question101340"class="tp-reg-input-text"autocomplete="off"/></div></div>
+                <div class="tp-reg-question" style="margin:0 20px 15px 20px;">
+                    <div class="tp-reg-label" style="font-weight:bold;font-size:16px;display:block;margin-bottom:2px;">
+                        <label for="question101341">Телефон: <span>*</span></label></div><div class="tp-reg-wrapper" style="max-width:380px;">
+                        <input type="text"name="question101341"id="question101341"class="tp-reg-input-text"autocomplete="off"/></div></div>
+                <div class="tp-reg-question" style="margin:0 20px 15px 20px;">
+                    <div class="tp-reg-label" style="font-weight:bold;font-size:16px;display:block;margin-bottom:2px;">
+                        <label for="question101373">Опыт разработки на Python: <span>*</span></label></div>
+                    <div class="tp-reg-wrapper" style="max-width:380px;"><div class="tp-reg-item"><label>
+                                <input class="tp-reg-input-checkbox" type="radio" value="1" name="question101373"id="question101373-1">&nbsp;Опытный разработчик Python</label>
+                        </div><div class="tp-reg-item"><label>
+                                <input class="tp-reg-input-checkbox" type="radio" value="2" name="question101373"id="question101373-2">&nbsp;Начинающий разработчик Python</label>
+            </div><div class="tp-reg-item"><label><input class="tp-reg-input-checkbox" type="radio" value="3" name="question101373"id="question101373-3">&nbsp;Не пишу на Python</label>
+</div></div></div>
+<div class="tp-reg-question" style="margin:0 20px 15px 20px;"><div class="tp-reg-label" style="font-weight:bold;font-size:16px;display:block;margin-bottom:2px;">
+        <label for="question101344">Откуда вы узнали о конференции: </label></div><div class="tp-reg-wrapper" style="max-width:380px;">
+        <input type="text"name="question101344"id="question101344"class="tp-reg-input-text"autocomplete="off"/></div></div>
+<div class="tp-reg-question" style="margin:0 20px 15px 20px;">
+    <div class="tp-reg-label" style="font-weight:bold;font-size:16px;display:block;margin-bottom:2px;"><label for="question101372">Способ оплаты: 
+            <span>*</span></label></div><div class="tp-reg-wrapper" style="max-width:380px;"><div class="tp-reg-item"><label>
+                <input class="tp-reg-input-checkbox" type="radio" value="1" name="question101372"id="question101372-1">&nbsp;Безналичный расчет от юридического лица</label></div><div class="tp-reg-item"><label>
+                <input class="tp-reg-input-checkbox" type="radio" value="2" name="question101372"id="question101372-2">&nbsp;Электронный платеж через Timepad</label>
+</div><div class="tp-reg-item"><label>
+        <input class="tp-reg-input-checkbox" type="radio" value="3" name="question101372"id="question101372-3">&nbsp;Наличными в офисе компании IT-People
+</label></div><div class="tp-reg-item"><label>
+        <input class="tp-reg-input-checkbox" type="radio" value="4" name="question101372"id="question101372-4">&nbsp;Наличными в день конференции</label>
+</div></div></div><div class="tp-reg-question" style="margin:0 20px 15px 20px;">
+    <div class="tp-reg-label" style="font-weight:bold;font-size:16px;display:block;margin-bottom:2px;">
+        <label for="question101371">Комментарии: </label></div><div class="tp-reg-wrapper" style="max-width:380px;">
+        <textarea type="textarea" name="question101371" id="question101371" rows="5" class="tp-reg-input-text"></textarea></div>
+</div><div class="tp-reg-question"><label for="subscribe_digest" rel="tooltip" title="Еженедельная рассылка анонсов лучших событий из нашего каталога">
+        <input type="checkbox" name="subscribe_digest" id="subscribe_digest" value="subscribe_digest" checked>&nbsp;Подписаться на Дайджест интересных
+        событий TimePad</label></div><div class="tp-reg-submit-block"><div id="tp-registration">
+        <input type="submit"  name="submit_register" data-loading-text="Идёт регистрация..." value="Продолжить" class="tp-reg-submit-button btn btn-success" accept="" id="tp_submit_send"/></div>
+</div><div class="tp-reg-legend">Регистрируясь на это событие, вы принимаете 
+    <a class="neveriframe" href="http://timepad.ru/upload/docs/TimePad_useragreement.pdf">Пользовательское соглашение</a> и подтверждаете ваше 
+    <a class="neveriframe" href="http://it-people.timepad.ru/event/pdn/52802/">согласие на обработку персональных данных</a></div>
+<div class="tp-reg-legend">Поля, отмеченные звездочкой (<span>*</span>), нужно обязательно заполнить</div></div>
+</form></div></div>
+
+{% endblock %}

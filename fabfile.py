@@ -14,7 +14,7 @@ def deploy():
     build_dir = '_build-%s' % int(time.time())
     local('cp -r ./static ./%s' % build_dir)
     local('lessc --compress '
-          './%(build_dir)s/less/styles.less '
+          './%(build_dir)s/less/styles.less > '
           './%(build_dir)s/css/styles.css' % {'build_dir': build_dir})
     build(build_dir)
 

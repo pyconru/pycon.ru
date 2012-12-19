@@ -59,14 +59,21 @@ def render_template(template, context, target_fname):
 
 
 def build(build_dir):
-    pages = ('about', 'venue', 'schedule', 'speakers', 'partners', 'register')
-    layouts = dict(zip(pages, ['index.html'] + ['page.html'] * 5))
+    pages = {
+        'about': 'index.html',
+        'venue': 'page.html',
+        'schedule': 'page.html',
+        'speakers': 'page.html',
+        'partners': 'page.html',
+        'register': 'register.html',
+    }
+ 
 
     for language in ('ru', 'en'):
         env = create_jinja2_environment(language)
 
-        for page in pages:
-            template = env.get_template(layouts[page])
+        for page, layout in pages.iteritems():
+            template = env.get_template(layout)
 
             context = {
                 'page_name': page,        
