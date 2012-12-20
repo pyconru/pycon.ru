@@ -32,8 +32,8 @@ msgid "February"
 msgstr "Февраль"
 
 #: &#8209; -- non-breaking hyphen
-msgid "PyCon Russia 2013, Feb&nbsp;23&#8209;25"
-msgstr "PyCon Россия 2013, 23&#8209;25&nbsp;февраля"
+msgid "PyCon Russia 2013, Feb&nbsp;24&#8209;25"
+msgstr "PyCon Россия 2013, 24&#8209;25&nbsp;февраля"
 
 msgid "See Venue for more information about conference location." 
 msgstr "Узнать более подробно о месте проведения"
