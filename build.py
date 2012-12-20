@@ -61,11 +61,13 @@ def render_template(template, context, target_fname):
 def build(build_dir):
     pages = {
         'about': 'index.html',
-        'venue': 'page.html',
+        'organizers': 'page.html',
         'schedule': 'page.html',
         'speakers': 'speakers.html',
         'partners': 'page.html',
         'register': 'register.html',
+        
+        'venue': 'page.html',
     }
  
 

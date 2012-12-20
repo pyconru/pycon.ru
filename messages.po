@@ -4,6 +4,9 @@ msgstr "Конференция"
 msgid "Venue"
 msgstr "Место"
 
+msgid "Organizers"
+msgstr "Организаторы"
+
 msgid "Schedule"
 msgstr "Расписание"
 
