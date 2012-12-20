@@ -63,7 +63,7 @@ def build(build_dir):
         'about': 'index.html',
         'venue': 'page.html',
         'schedule': 'page.html',
-        'speakers': 'page.html',
+        'speakers': 'speakers.html',
         'partners': 'page.html',
         'register': 'register.html',
     }
