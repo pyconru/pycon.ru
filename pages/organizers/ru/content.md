@@ -1,21 +1,21 @@
 Программный комитет:
 
-![patrushev](http://dropbucket.ru/pyconru/аpatrushev) -  Anton Patrushev, The initiator of the project, Head of Department at Naumen, Programm Director
+![patrushev](http://dropbucket.ru/pyconru/аpatrushev) -  [Антон Патрушев] (http://www.linkedin.com/in/apatrushev), Глава депратамента в Naumen, Программный директор
 
 
-![korobov](http://dropbucket.ru/pyconru/korobov) - Mikhail Korobov, Python developer, spokesperson on several Python events
+![korobov](http://dropbucket.ru/pyconru/korobov) - Михаил Коробов, Python-разработчик , участник раздичных Python-конференций 
 
 
-![imankulov](http://dropbucket.ru/pyconru/imankulov) - Roman Imankulov, Software developer в Doist Inc
+![imankulov](http://dropbucket.ru/pyconru/imankulov) -Роман Иманкулов, Разработчик в Doist Inc
 
 
-![koshelev](http://dropbucket.ru/pyconru/koshelev) - Alexander Koshelev, Team Leader at Yandex
+![koshelev](http://dropbucket.ru/pyconru/koshelev) - Александр Кошелев, Team Leader в Yandex
 
 
-![hotsyk](http://dropbucket.ru/pyconru/hotsyk) - Volodymyr Hotsyk, Svitla Systems, Inc., Pycamp/Pycon Ukraine organization committee
+![hotsyk](http://dropbucket.ru/pyconru/hotsyk) - Владимир Гоцык, Svitla Systems, Inc., организатор Pycamp/Pycon Ukraine
 
 
-![svetlov](http://dropbucket.ru/pyconru/svetlov) - Andrew Svetlov, Python, Insollo Entertainment, Pycamp/Pycon Ukraine organization committee
+![svetlov](http://dropbucket.ru/pyconru/svetlov) - Андрей Светлов, Python, Insollo Entertainment,организатор Pycamp/Pycon Ukraine
 
 
-![chernin](http://dropbucket.ru/pyconru/chernin) -   Alex Chernin, Head of Education Systems Department в Naumen
+![chernin](http://dropbucket.ru/pyconru/chernin) -   Александр Чернин, разработчик Naumen
