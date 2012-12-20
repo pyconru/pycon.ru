@@ -1,3 +1,10 @@
+Сейчас мы формируем программу конференции. Вы можете стать одним из наших спикеров!
+
+ВОТ СЮДА НУЖНО ПОСТАВИТЬ ГУГЛОФОРМУ :)
+
+
+
+
 Программный комитет:
 
 ![patrushev](http://dropbucket.ru/pyconru/аpatrushev) -  Anton Patrushev, The initiator of the project, Head of Department at Naumen, Programm Director
