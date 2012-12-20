@@ -10,3 +10,12 @@
 
 
 ![koshelev](http://dropbucket.ru/pyconru/koshelev) - Alexander Koshelev, Team Leader at Yandex
+
+
+![hotsyk](http://dropbucket.ru/pyconru/hotsyk) - Volodymyr Hotsyk, Svitla Systems, Inc., Pycamp/Pycon Ukraine organization committee
+
+
+![svetlov](http://dropbucket.ru/pyconru/svetlov) - Andrew Svetlov, Python, Insollo Entertainment, Pycamp/Pycon Ukraine organization committee
+
+
+![chernin](http://dropbucket.ru/pyconru/chernin) -   Alex Chernin, Head of Education Systems Department в Naumen
