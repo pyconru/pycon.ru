@@ -19,3 +19,20 @@
 
 
 ![chernin](http://dropbucket.ru/pyconru/chernin) -   [Александр Чернин](http://www.linkedin.com/pub/alex-chernin/0/b30/949), разработчик Naumen
+
+
+Организационный комитет
+
+![gerasimovich](http://dropbucket.ru/pycon/gerasimovich) -   [Юлия Гкрасимович](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266), Директор компании [IT-People.ru](http://it-people.ru/)
+
+
+![kalinina](http://dropbucket.ru/pycon/kalinina) - Мария Калинина
+
+
+![voronina](http://dropbucket.ru/pycon/voronina) - Елена Воронина
+
+
+![kiskachiii](http://dropbucket.ru/pycon/kiskachiii) - Мария Кискачи
+
+
+![blincheva](http://dropbucket.ru/pycon/blincheva) - Нюта Блиничева
