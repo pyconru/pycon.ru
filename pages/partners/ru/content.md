@@ -1,4 +1,4 @@
-![66.ru](http://dropbucket.ru/pyconru/66logo.png) — технологический партнёр конференции
+![66.ru](http://dropbucket.ru/pycon/66ru) — технологический партнёр конференции
 
 ![it-eburg](http://dropbucket.ru/pycon/iteburg) - информационный партнер конференции
 
