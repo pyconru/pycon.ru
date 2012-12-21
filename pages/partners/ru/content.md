@@ -3,3 +3,4 @@
 ![it-eburg](http://dropbucket.ru/pycon/iteburg) - информационный партнер конференции
 
 ![jet](http://dropbucket.ru/pycon/jet)- дизайн логотипа
+
