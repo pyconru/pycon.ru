@@ -66,10 +66,8 @@ def build(build_dir):
         'speakers': 'speakers.html',
         'partners': 'page.html',
         'register': 'register.html',
-        
         'venue': 'page.html',
     }
- 
 
     for language in ('ru', 'en'):
         env = create_jinja2_environment(language)
