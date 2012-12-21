@@ -23,7 +23,7 @@
 
 Организационный комитет
 
-![gerasimovich](http://dropbucket.ru/pycon/gerasimovich) -   [Юлия Гкрасимович](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266), Директор компании [IT-People.ru](http://it-people.ru/)
+![gerasimovich](http://dropbucket.ru/pycon/gerasimovich) -   [Юлия Герасимович](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266), Директор компании [IT-People.ru](http://it-people.ru/)
 
 
 ![kalinina](http://dropbucket.ru/pycon/kalinina) - Мария Калинина
