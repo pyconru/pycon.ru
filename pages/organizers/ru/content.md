@@ -1,6 +1,6 @@
 Программный комитет:
 
-![patrushev](http://dropbucket.ru/pyconru/аpatrushev) -  [Антон Патрушев](http://www.linkedin.com/in/apatrushev), Глава депратамента в Naumen, Программный директор
+![patrushev](http://dropbucket.ru/pyconru/аpatrushev) [Антон Патрушев](http://www.linkedin.com/in/apatrushev), Глава депратамента в Naumen, Программный директор
 
 
 ![korobov](http://dropbucket.ru/pyconru/korobov) - [Михаил Коробов](http://kmike.ru/), Python-разработчик , участник раздичных Python-конференций 
