@@ -3,7 +3,7 @@
 ![patrushev](http://dropbucket.ru/pyconru/аpatrushev) [Антон Патрушев](http://www.linkedin.com/in/apatrushev), глава депратамента в Naumen, программный директор
 
 
-![korobov](http://dropbucket.ru/pyconru/korobov) [Михаил Коробов](http://kmike.ru/), python-разработчик, участник различных python-конференций 
+![korobov](http://dropbucket.ru/pyconru/korobov) [Михаил Коробов](http://kmike.ru/), python-разработчик, спикер различных python-конференций 
 
 
 ![imankulov](http://dropbucket.ru/pyconru/imankulov) [Роман Иманкулов](http://www.linkedin.com/pub/roman-imankulov/44/761/910), разработчик Doist Inc
