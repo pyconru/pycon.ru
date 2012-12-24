@@ -4,3 +4,4 @@
 
 ![jet](http://dropbucket.ru/pycon/jet) дизайн логотипа
 
+Хотите стать партнером конференции? Напишите нам: pycon@it-people.ru
