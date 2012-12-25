@@ -2,8 +2,8 @@
 
 Предварительное согласие получено от:
 
-* [Jeff Lindsay](http://www.linkedin.com/in/progrium) "Distributed Service Architectures with Python"
-* [Russell Keith-Magee](http://www.linkedin.com/in/freakboy3742)
+* [Jeff Lindsay](http://progrium.com) "Distributed Service Architectures with Python"
+* [Russell Keith-Magee](http://cecinestpasun.com)
 * [Armin Ronacher](http://lucumr.pocoo.org)
 
 
