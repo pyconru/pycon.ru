@@ -1,7 +1,7 @@
 import os
 import time
 
-from fabric.api import env, local
+from fabric.api import local
 
 from build import build
 
@@ -20,7 +20,7 @@ def deploy():
 
     prev_build_dir = os.path.exists('./www') and os.readlink('./www')
 
-    # Link new build to ./www 
+    # Link new build to ./www
     local('ln -snf ./%s ./www' % build_dir)
     # Remove old build if it exists
     if prev_build_dir:
