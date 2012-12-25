@@ -4,7 +4,7 @@
 
 ##24 февраля
 
-* Доклады иностранных спикеров (предварительно согласны Russell Keith-Magee и Jeff Lindsay)
+* Доклады иностранных спикеров (предварительно согласны Russell Keith-Magee, Armin Ronacher и Jeff Lindsay)
 * Выступления российских докладчиков
 * Воркшопы
 * Lighting talks
