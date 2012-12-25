@@ -6,7 +6,7 @@ Action team:
 ![korobov](http://dropbucket.ru/pyconru/korobov) - Mikhail Korobov, Python developer, spokesperson on several Python events
 
 
-![imankulov](http://dropbucket.ru/pyconru/imankulov) - Roman Imankulov, Software developer в Doist Inc
+![imankulov](http://dropbucket.ru/pyconru/imankulov) - Roman Imankulov, Software developer at Doist Inc
 
 
 ![koshelev](http://dropbucket.ru/pyconru/koshelev) - Alexander Koshelev, Team Leader at Yandex
