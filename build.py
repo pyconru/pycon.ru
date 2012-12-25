@@ -62,8 +62,8 @@ def build(build_dir):
     pages = {
         'about': 'index.html',
         'organizers': 'page.html',
-        'schedule': 'schedule.html',
-        'speakers': 'speakers.html',
+        'schedule': 'page.html',
+        'speakers': 'page.html',
         'partners': 'page.html',
         'register': 'register.html',
         'venue': 'page.html',
