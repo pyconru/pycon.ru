@@ -8,7 +8,7 @@ msgid "Organizers"
 msgstr "Организаторы"
 
 msgid "Schedule"
-msgstr "Расписание"
+msgstr "Программа"
 
 msgid "Speakers"
 msgstr "Докладчики"
