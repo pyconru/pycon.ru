@@ -1,1 +1,1 @@
-git+git://github.com/pyconru/pycon.ru.git
+git+git://github.com/aromanovich/carcade.git
