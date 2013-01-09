@@ -1,3 +1,1 @@
-Jinja2==2.6
-Markdown==2.2.1
-Fabric==1.5.1
+git+https://github.com/aromanovich/carcade.git

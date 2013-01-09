@@ -1,5 +1,5 @@
 *.pyc
 
-messages.mo
-_build-*
+translations/*.mo
+.build-*
 www

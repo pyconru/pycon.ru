@@ -66,8 +66,8 @@
         </a>
         
         <section class="language-selector">
-          <a href="{{ url_for(page_name, language='ru') }}" target="_self" class="ru{% if LANGUAGE == 'ru' %} active{% endif %}">Рус</a>
-          <a href="{{ url_for(page_name, language='en') }}" target="_self" class="en{% if LANGUAGE == 'en' %} active{% endif %}">Eng</a>
+          <a href="{{ url_for(PAGE_NAME, language='ru') }}" target="_self" class="ru{% if LANGUAGE == 'ru' %} active{% endif %}">Рус</a>
+          <a href="{{ url_for(PAGE_NAME, language='en') }}" target="_self" class="en{% if LANGUAGE == 'en' %} active{% endif %}">Eng</a>
         </section>
 
         <a href="{{ url_for('about') }}" target="_self">
@@ -76,7 +76,7 @@
       </header>
 
       {% set navigation = ['about', 'organizers', 'schedule', 'speakers', 'partners', 'register'] -%}
-      {% set active_page_name = page_name -%} 
+      {% set active_page_name = PAGE_NAME -%} 
 
       <nav class="main">
         {% for name in navigation -%}
@@ -92,7 +92,7 @@
         {% endfor -%}
       </nav>
 
-      <article id="{{ page_name }}">
+      <article id="{{ PAGE_NAME }}">
         {% block content %}
         {% endblock %}
       </article>
