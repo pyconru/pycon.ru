@@ -52,6 +52,8 @@
     </script>
     <noscript><div><img src="//mc.yandex.ru/watch/18910277" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
+    
+    <a href="https://github.com/pyconru/pycon.ru" class="github-ribbon">Fork me on GitHub</a>
 
     <div class="container">
       <header>
@@ -75,21 +77,53 @@
         </a>
       </header>
 
-      {% set navigation = ['about', 'organizers', 'schedule', 'speakers', 'partners', 'register'] -%}
-      {% set active_page_name = PAGE_NAME -%} 
+      {% set first_level_nav = [
+        ('about', 'About'),
+        ('organizers', 'Organizers'),
+        ('schedule', 'Schedule'),
+        ('speakers', 'Speakers'),
+        ('partners', 'Partners'),
+        ('register', 'Register'),
+      ] -%}
+
+      {% set second_level_nav = {
+        'schedule': [
+          ('talks', 'Talks'),
+          ('schedule', 'Schedule'),
+          ('call', 'Call for papers'),
+        ],
+      } -%}
+
+      {% set active_page = PAGE_NAME -%} 
 
       <nav class="main">
-        {% for name in navigation -%}
-          {% if name == active_page_name -%}
-            <span class="{% if name == 'register' %}emphasized{% endif %} {% if loop.last %}last{% endif %} active">
-              {{ _(name|capitalize) }}
-            </span>
-          {% else -%}
-            <a class="{% if name == 'register' %}emphasized{% endif %} {% if loop.last %}last{% endif %} " href="{{ url_for(name) }}" target="_self">
-              {{ _(name|capitalize) }}
-            </a>
-          {% endif -%}
-        {% endfor -%}
+        <ul>
+          {% for (page, label) in first_level_nav %}
+          
+          {% set subpages = second_level_nav.get(page) -%} 
+          <li class="{% if subpages %}expandable{% endif %}">
+            {% if page == active_page -%}
+              <span class="{% if page == 'register' %}emphasized{% endif %} {% if loop.last %}last{% endif %} active">
+                {{ _(label) }}
+              </span>
+            {% else -%}
+              <a class="{% if page == 'register' %}emphasized{% endif %} {% if loop.last %}last{% endif %} " href="{{ url_for(page) }}" target="_self">
+                {{ _(label) }}
+              </a>
+            {% endif -%}
+
+            {% if subpages %}
+              <ul>
+                {% for subpage, subpage_label in subpages %}
+                <li>
+                  <a href="{{ url_for(page + '/' + subpage) }}">{{ _(subpage_label) }}</a>
+                </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          {% endfor %}
+          <li>
+        </ul>
       </nav>
 
       <article id="{{ PAGE_NAME }}">
@@ -102,9 +136,9 @@
       
     <footer>
       <nav>
-        {% for name in navigation %}
-          <a class="{% if name == 'register' %}emphasized{% endif %} {% if name == active_page_name %}active{% endif %} {% if loop.last %}last{% endif %}" href="{{ url_for(name) }}" target="_self">
-            {{ _(name|capitalize) }}
+        {% for name, label in first_level_nav %}
+          <a class="{% if name == 'register' %}emphasized{% endif %} {% if name == active_page %}active{% endif %} {% if loop.last %}last{% endif %}" href="{{ url_for(name) }}" target="_self">
+            {{ _(label) }}
           </a>
         {% endfor %}
       </nav>

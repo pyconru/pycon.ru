@@ -12,6 +12,21 @@ body {
   }
 }
 
+.github-ribbon {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 149px;
+  height: 149px;
+  background-image: url('/img/github-ribbon.png');
+  text-indent: -10000px;
+  z-index: 5000;
+  
+  @media @mobile {
+    display: none;
+  }
+}
+
 .container {
   .clearfix();
   min-width: 470px;
@@ -232,23 +247,76 @@ nav.main {
       top: 1px;
       // must go in `content`, not in `background-image` (IE8 fix):
       content: url('/img/header-shadow.png');
+      z-index: 100;
+    }
+  }
+
+  &>ul {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    &>li {
+      padding: 0;
+      margin: 0;
+      display: inline-block;
+      position: relative;
+
+      &>a, &>span {
+        height: 50px;
+        line-height: 50px;
+        @media @default {
+          padding-top: 20px;
+        }
+      }
+
+      &>ul {
+        display: none;
+        position: absolute;
+        top: 70px;
+        left: 0px;
+
+        padding: 0;
+        margin: 0;
+
+        a, span {
+          padding: 0 10px;
+          text-align: left;
+          width: 220px;
+          height: 40px;
+          line-height: 40px;
+        }
+      }
+    }
+  }
+
+  li.expandable {
+    ul {
+      display: none;
+    }
+    .arrow {
+      display: inline;
+      vertical-align: middle;
+    }
+    &:hover {
+      ul {
+        display: block;
+      }
     }
   }
 
   a, span {
     float: left;
-    height: 50px;
     margin: 0;
     color: white;
     background: @gray;
-    line-height: 50px;
     text-align: center;
     text-transform: uppercase;
     text-decoration: none;
 
     @media @default {
       width: 149px;
-      padding-top: 20px;
       border-right: #aaa solid 1px;
       &.last {
         width: 150px;
@@ -276,6 +344,13 @@ nav.main {
       color: black;
       background: white;
     }
+
+    .arrow {
+      display: none;
+      margin-bottom: 2px;
+    }
+
+    
   }
 
   a:hover {
@@ -400,7 +475,7 @@ footer {
   }
 }
 
-ul {
+article ul {
   list-style-type: none;
   margin: 0 0 20px 0;
   padding: 0;
