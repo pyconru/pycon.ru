@@ -237,6 +237,7 @@ header {
 nav.main {
   .clearfix();
   position: relative;
+  background: @gray;
 
   @media @default {
     &:before {
@@ -251,7 +252,7 @@ nav.main {
     }
   }
 
-  &>ul {
+  ul.first-level {
     position: relative;
     margin: 0;
     padding: 0;
@@ -260,8 +261,69 @@ nav.main {
     &>li {
       padding: 0;
       margin: 0;
-      display: inline-block;
+      float: left;
       position: relative;
+
+      ul.second-level {
+        display: none;
+      }
+
+      @media @default {
+        width: 149px;
+        border-right: #aaa solid 1px;
+        &.last {
+          width: 150px;
+          border-right: none;
+        }
+
+        ul.second-level {
+          position: absolute;
+          top: 70px;
+          left: 0px;
+
+          padding: 0;
+          margin: 0;
+          background: @gray;
+          z-index: 300;
+
+          a, span {
+            padding: 0 10px;
+            text-align: left;
+            width: 220px;
+            height: 40px;
+            line-height: 40px;
+          }
+        }
+
+        &.expandable {
+          &:hover {
+            ul.second-level {
+              display: block;
+            }
+          }
+
+          &>a {
+            pointer-events: none;
+            &:after {
+              content: url('/img/menu-arrow.png');
+              display: inline;
+            }
+          }
+        }
+      }
+
+      @media @mobile {
+        width: 100%;
+        border-bottom: #525252 solid 1px;
+        &.last {
+          border-bottom: none;
+        }
+        &:first-child {
+          a, span {
+            padding-top: 20px;
+          }
+        }
+      }
 
       &>a, &>span {
         height: 50px;
@@ -270,70 +332,17 @@ nav.main {
           padding-top: 20px;
         }
       }
-
-      &>ul {
-        display: none;
-        position: absolute;
-        top: 70px;
-        left: 0px;
-
-        padding: 0;
-        margin: 0;
-
-        a, span {
-          padding: 0 10px;
-          text-align: left;
-          width: 220px;
-          height: 40px;
-          line-height: 40px;
-        }
-      }
-    }
-  }
-
-  li.expandable {
-    ul {
-      display: none;
-    }
-    .arrow {
-      display: inline;
-      vertical-align: middle;
-    }
-    &:hover {
-      ul {
-        display: block;
-      }
     }
   }
 
   a, span {
-    float: left;
-    margin: 0;
+    display: block;
+    width: 100%;
     color: white;
-    background: @gray;
     text-align: center;
     text-transform: uppercase;
     text-decoration: none;
-
-    @media @default {
-      width: 149px;
-      border-right: #aaa solid 1px;
-      &.last {
-        width: 150px;
-        border-right: none;
-      }
-    }
-
-    @media @mobile {
-      width: 100%;
-      border-bottom: #525252 solid 2px;
-      &.last {
-        border-bottom: none;
-      }
-      &:first-child {
-        padding-top: 20px;
-      }
-    }
+    cursor: pointer;
 
     &.emphasized {
       color: black;
@@ -343,14 +352,8 @@ nav.main {
     &.active {
       color: black;
       background: white;
+      cursor: auto;
     }
-
-    .arrow {
-      display: none;
-      margin-bottom: 2px;
-    }
-
-    
   }
 
   a:hover {
