@@ -8,7 +8,7 @@ from build import build
 
 def deploy():
     # Compile gettext messages
-    local('msgfmt ./messages.po -o ./messages.mo')
+    local('pocompile ./messages.po ./messages.mo')
 
     # Build site in separate folder
     build_dir = '_build-%s' % int(time.time())
