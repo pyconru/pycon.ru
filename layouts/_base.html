@@ -125,20 +125,12 @@
             {% set is_active = active_page.startswith(page) -%} 
             {% set subpages = second_level_nav.get(page) -%} 
             <li class="{% if loop.first%}first{% endif %} {% if subpages %}expandable{% endif %} {% if is_active %}active{% endif %}">
-              {# if is_active -%}
-                <span class="{% if page == 'register' %}emphasized{% endif %} 
-                             {% if loop.last %}last{% endif %} 
-                             {% if is_active %}active{% endif %}">
-                  {{ LABELS[page] }}
-                </span>
-              {% else -%}
-              {% endif -#}
-                <a class="{% if page == 'register' %}emphasized{% endif %}
-                          {% if loop.last %}last{% endif %}
-                          {% if is_active %}active{% endif %} "
-                          href="{{ url_for(page) }}" target="_self">
-                  {{ LABELS[page] }}
-                </a>
+              <a class="{% if page == 'register' %}emphasized{% endif %}
+                        {% if loop.last %}last{% endif %}
+                        {% if is_active %}active{% endif %} "
+                        href="{{ url_for(page) }}" target="_self">
+                {{ LABELS[page] }}
+              </a>
 
               {% if subpages %}
                 <ul class="second-level">

@@ -339,8 +339,8 @@ nav.main {
             }
           }
 
-          &>span {
-            &:after {
+          &.active {
+            a:after {
               content: url('/img/menu-arrow-black.png');
               display: inline;
             }
@@ -371,15 +371,23 @@ nav.main {
     }
   }
 
+  @media @default {
+    a:hover {
+      background: lighten(@gray, 5%);
+    }
+
+    a.emphasized:hover {
+      background: lighten(@yellow, 5%);
+    }
+  }
   
-  a, span {
+  a {
     display: block;
     width: 100%;
     color: white;
     text-align: center;
     text-transform: uppercase;
     text-decoration: none;
-    /*cursor: pointer;*/
 
     &.emphasized {
       color: black;
@@ -389,16 +397,10 @@ nav.main {
     &.active {
       color: black;
       background: white;
-    }
-  }
 
-  @media @default {
-    a:hover {
-      background: lighten(@gray, 5%);
-    }
-
-    a.emphasized:hover {
-      background: lighten(@yellow, 5%);
+      &:hover {
+        background: white;
+      }
     }
   }
 }
