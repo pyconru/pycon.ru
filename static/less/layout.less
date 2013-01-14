@@ -379,7 +379,7 @@ nav.main {
     text-align: center;
     text-transform: uppercase;
     text-decoration: none;
-    cursor: pointer;
+    /*cursor: pointer;*/
 
     &.emphasized {
       color: black;
@@ -392,12 +392,14 @@ nav.main {
     }
   }
 
-  a:hover {
-    background: lighten(@gray, 5%);
-  }
+  @media @default {
+    a:hover {
+      background: lighten(@gray, 5%);
+    }
 
-  a.emphasized:hover {
-    background: lighten(@yellow, 5%);
+    a.emphasized:hover {
+      background: lighten(@yellow, 5%);
+    }
   }
 }
 
