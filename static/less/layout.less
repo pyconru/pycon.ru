@@ -340,7 +340,7 @@ nav.main {
           }
 
           &.active {
-            a:after {
+            &>a:after {
               content: url('/img/menu-arrow-black.png');
               display: inline;
             }
@@ -397,6 +397,7 @@ nav.main {
     &.active {
       color: black;
       background: white;
+      pointer-events: none;
 
       &:hover {
         background: white;
