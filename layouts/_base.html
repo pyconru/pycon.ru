@@ -72,35 +72,54 @@
       </header>
 
       {% set LABELS = {
-        'about': _('About'),
-        'organizers': _('Organizers'),
-        'schedule': _('Schedule'),
-        'speakers': _('Speakers'),
+        'conference': _('Conference'),
+        'conference/about': _('About'),
+        'conference/organizers': _('Organizers'),
+        'conference/contacts': _('Contacts'),
+        
+        'program': _('Program'),
+        'program/headliners': _('Headliners'),
+        'program/content': _('Content'),
+        'program/schedule': _('Schedule'),
+        'program/call-for-papers': _('Call for papers'),
+
+        'participation': _('Participation'),
+        'participation/price': _('Price'),
+        'participation/venue': _('Venue'),
+        'participation/hotels': _('Hotels'),
+
         'partners': _('Partners'),
+        'partners/partners': _('Partners'),
+        'partners/join': _('Join'),
+
         'register': _('Register'),
-        'schedule/talks': _('Talks'),
-        'schedule/schedule': _('Schedule'),
-        'schedule/call': _('Call for papers'), 
+      } %}
+
+      {% set PAGE_IDS = {
+        'conference/about': 'about',
       } %}
 
       {% set first_level_nav = [
-        ('about', 'About'),
-        ('organizers', 'Organizers'),
-        ('schedule', 'Schedule'),
-        ('speakers', 'Speakers'),
-        ('partners', 'Partners'),
-        ('register', 'Register'),
+        'conference',
+        'program',
+        'participation',
+        'partners',
+        'conference/contacts',
+        'register',
       ] -%}
 
       {% set second_level_nav = {
-        'schedule': ['talks', 'schedule', 'call'],
+        'conference': ['about', 'organizers', 'contacts'],
+        'program': ['headliners', 'content', 'schedule', 'call-for-papers'],
+        'participation': ['price', 'venue', 'hotels'],
+        'partners': ['partners', 'join'],
       } -%}
 
       {% set active_page = PAGE_NAME -%} 
 
       <nav class="main">
         <ul class="first-level">
-          {% for (page, label) in first_level_nav %}
+          {% for page in first_level_nav %}
             {% set is_active = page == active_page -%} 
             {% set subpages = second_level_nav.get(page) -%} 
             <li class="{% if subpages %}expandable{% endif %}">
@@ -134,7 +153,7 @@
         </ul>
       </nav>
 
-      <article id="{{ PAGE_NAME }}">
+      <article id="{{ PAGE_IDS.get(PAGE_NAME, PAGE_NAME) }}">
         {{ labels }}
         {% block content %}
         {% endblock %}
@@ -145,9 +164,9 @@
       
     <footer>
       <nav>
-        {% for name, label in first_level_nav %}
+        {% for name in first_level_nav %}
           <a class="{% if name == 'register' %}emphasized{% endif %} {% if name == active_page %}active{% endif %} {% if loop.last %}last{% endif %}" href="{{ url_for(name) }}" target="_self">
-            {{ _(label) }}
+            {{ _(LABELS[name]) }}
           </a>
         {% endfor %}
       </nav>

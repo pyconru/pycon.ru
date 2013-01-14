@@ -1,47 +1,98 @@
+# 
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: ru_RU\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 
-msgid "About"
+#: _base.html:75
+msgid "Conference"
 msgstr "Конференция"
 
-msgid "Venue"
-msgstr "Место"
-
-msgid "Organizers"
-msgstr "Организаторы"
-
-msgid "Schedule"
-msgstr "Программа"
-
-msgid "Speakers"
-msgstr "Докладчики"
-
+#: _base.html:91 _base.html:92
 msgid "Partners"
 msgstr "Партнёры"
 
-msgid "Register"
-msgstr "Регистрация"
+#: _base.html:78
+msgid "Contacts"
+msgstr "Контакты"
 
-msgid "hours"
-msgstr "часы"
+#: _base.html:76
+msgid "About"
+msgstr "О конференции"
 
-msgid "days"
-msgstr "дни"
+#: _base.html:82
+msgid "Content"
+msgstr "Содержание"
 
-msgid "minutes"
-msgstr "минуты"
+#: _base.html:80
+msgid "Program"
+msgstr "Программа"
 
-msgid "seconds"
-msgstr "секунды"
+#: _base.html:86
+msgid "Participation"
+msgstr "Участникам"
 
+#: _base.html:83
+msgid "Schedule"
+msgstr "Расписание"
+
+#: _base.html:87
+msgid "Price"
+msgstr "Стоимость билета"
+
+#: _base.html:81
+msgid "Headliners"
+msgstr "Хэдлайнеры"
+
+#: index.html:57
+msgid "See Venue for more information about conference location." 
+msgstr "Узнать более подробно о месте проведения"
+
+#: _base.html:54
 msgid "February"
 msgstr "Февраль"
 
+#: index.html:41
+msgid "seconds"
+msgstr "секунды"
+
+#: _base.html:95
+msgid "Register"
+msgstr "Регистрация"
+
+#: _base.html:88
+msgid "Venue"
+msgstr "Как добраться"
+
+#: _base.html:84
+msgid "Call for papers"
+msgstr "Call for papers"
+
+#: index.html:31
+msgid "hours"
+msgstr "hours"
+
+#: _base.html:77
+msgid "Organizers"
+msgstr "Организаторы"
+
+#: index.html:21
 #: &#8209; -- non-breaking hyphen
 msgid "PyCon Russia 2013, Feb&nbsp;24&#8209;25"
 msgstr "PyCon Россия 2013, 24&#8209;25&nbsp;февраля"
 
-msgid "See Venue for more information about conference location." 
-msgstr "Узнать более подробно о месте проведения"
+#: index.html:26
+msgid "days"
+msgstr "дни"
+
+#: _base.html:93
+msgid "Join"
+msgstr "Стать партнёром"
+
+#: index.html:36
+msgid "minutes"
+msgstr "минуты"
+
+#: _base.html:89
+msgid "Hotels"
+msgstr "Где жить"
