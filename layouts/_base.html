@@ -96,57 +96,39 @@
         'register': _('Register'),
       } %}
 
-      {% set PAGE_IDS = {
-        'conference/about': 'about',
-        'conference/organizers': 'organizers',
-      } %}
-
-      {% set first_level_nav = [
-        'conference',
-        'program',
-        'participation',
-        'partners',
-        'contacts',
-        'register',
-      ] -%}
-
-      {% set second_level_nav = {
-        'conference': ['about', 'organizers'],
-        'program': ['headliners', 'content', 'schedule', 'call-for-papers'],
-        'participation': ['price', 'venue', 'hotels'],
-        'partners': ['list', 'join'],
-      } -%}
-
-      {% set active_page = PAGE_NAME -%} 
-
       <nav class="main">
         <ul class="first-level">
-          {% for page in first_level_nav %}
-            {% set is_active = active_page.startswith(page) -%} 
-            {% set subpages = second_level_nav.get(page) -%} 
-            <li class="{% if loop.first%}first{% endif %} {% if subpages %}expandable{% endif %} {% if is_active %}active{% endif %}">
-              <a class="{% if page == 'register' %}emphasized{% endif %}
-                        {% if loop.last %}last{% endif %}
-                        {% if is_active %}active{% endif %} "
-                        href="{{ url_for(page) }}" target="_self">
-                {{ LABELS[page] }}
+          {% for page in ROOT.children %}
+
+            {% set is_active = (PAGE == page) or (PAGE in page.children) -%}
+            <li class="{% if page.children %}expandable{% endif %}
+                       {% if is_active %}active{% endif %}">
+              <a href="{{ page.url() }}" target="_self"
+                 class="{% if page.name == 'register' %}emphasized{% endif %}
+                        {% if is_active %}active{% endif %}">
+                {{ LABELS[page.name] }}
               </a>
 
-              {% if subpages %}
+              {% if page.children %}
                 <ul class="second-level">
-                  {% for subpage in subpages %}
+                  {% for subpage in page.children %}
                     <li>
-                      <a href="{{ url_for(page + '/' + subpage) }}" target="_self">
-                        {{ LABELS[page + '/' + subpage] }}
+                      <a href="{{ subpage.url() }}" target="_self">
+                        {{ LABELS[subpage.name] }}
                       </a>
                     </li>
                   {% endfor %}
                 </ul>
               {% endif %}
-            <li>
+            </li>
           {% endfor %}
         </ul>
       </nav>
+
+      {% set PAGE_IDS = {
+        'conference/about': 'about',
+        'conference/organizers': 'organizers',
+      } %}
 
       <article id="{{ PAGE_IDS.get(PAGE_NAME, PAGE_NAME) }}">
         {{ labels }}
@@ -159,9 +141,12 @@
       
     <footer>
       <nav>
-        {% for name in first_level_nav %}
-          <a class="{% if name == 'register' %}emphasized{% endif %} {% if name == active_page %}active{% endif %} {% if loop.last %}last{% endif %}" href="{{ url_for(name) }}" target="_self">
-            {{ _(LABELS[name]) }}
+        {% for page in ROOT.children %}
+          <a class="{% if page.name == 'register' %}emphasized{% endif %}
+                    {% if is_active %}active{% endif %}
+                    {% if loop.last %}last{% endif %}"
+             href="{{ page.url() }}" target="_self">
+            {{ _(LABELS[page.name]) }}
           </a>
         {% endfor %}
       </nav>

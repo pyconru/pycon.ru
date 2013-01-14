@@ -1,0 +1,3 @@
+ordering:
+    - about
+    - organizers
