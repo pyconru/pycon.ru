@@ -49,7 +49,7 @@
 
     <div class="container">
       <header>
-        <a href="{{ url_for('about') }}" target="_self">
+        <a href="{{ url_for('conference/about') }}" target="_self">
           <h2>
             <span class="month">{{ _('February') }}</span> <span class="days">24&ndash;25</span>
           </h2>
@@ -66,7 +66,7 @@
              class="en{% if LANGUAGE == 'en' %} active{% endif %}">Eng</a>
         </section>
 
-        <a href="{{ url_for('about') }}" target="_self">
+        <a href="{{ url_for('conference/about') }}" target="_self">
           <img src="/img/logo.png" class="logo">
         </a>
       </header>
@@ -97,6 +97,7 @@
 
       {% set PAGE_IDS = {
         'conference/about': 'about',
+        'conference/organizers': 'organizers',
       } %}
 
       {% set first_level_nav = [
@@ -120,9 +121,9 @@
       <nav class="main">
         <ul class="first-level">
           {% for page in first_level_nav %}
-            {% set is_active = page == active_page -%} 
+            {% set is_active = active_page.startswith(page) -%} 
             {% set subpages = second_level_nav.get(page) -%} 
-            <li class="{% if subpages %}expandable{% endif %}">
+            <li class="{% if loop.first%}first{% endif %} {% if subpages %}expandable{% endif %} {% if is_active %}active{% endif %}">
               {% if is_active -%}
                 <span class="{% if page == 'register' %}emphasized{% endif %} 
                              {% if loop.last %}last{% endif %} 
@@ -141,7 +142,7 @@
                 <ul class="second-level">
                   {% for subpage in subpages %}
                     <li>
-                      <a href="{{ url_for(page + '/' + subpage) }}">
+                      <a href="{{ url_for(page + '/' + subpage) }}" target="_self">
                         {{ LABELS[page + '/' + subpage] }}
                       </a>
                     </li>

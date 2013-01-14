@@ -238,6 +238,7 @@ nav.main {
   .clearfix();
   position: relative;
   background: @gray;
+  font-size: 15px;
 
   @media @default {
     &:before {
@@ -266,6 +267,30 @@ nav.main {
 
       ul.second-level {
         display: none;
+      }
+
+      &.active {
+        &.first {
+          ul.second-level {
+          border-left: none;
+          left: 0px;
+        }
+        }
+
+        ul.second-level {
+          border: #aaa solid 1px;
+          border-top: none;
+          background: white;
+          left: -1px;
+
+          a, span {
+            color: black;
+            
+            &:hover {
+              background: darken(white, 10%);
+            } 
+          }
+        }
       }
 
       @media @default {
@@ -305,7 +330,14 @@ nav.main {
           &>a {
             pointer-events: none;
             &:after {
-              content: url('/img/menu-arrow.png');
+              content: url('/img/menu-arrow-white.png');
+              display: inline;
+            }
+          }
+
+          &>span {
+            &:after {
+              content: url('/img/menu-arrow-black.png');
               display: inline;
             }
           }
@@ -335,6 +367,7 @@ nav.main {
     }
   }
 
+  
   a, span {
     display: block;
     width: 100%;
@@ -352,7 +385,6 @@ nav.main {
     &.active {
       color: black;
       background: white;
-      cursor: auto;
     }
   }
 
