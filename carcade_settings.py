@@ -1,3 +1,5 @@
+from collections import defaultdict
+
 from webassets import Bundle
 
 
@@ -6,11 +8,10 @@ LANGUAGES = ('en', 'ru')
 DEFAULT_PAGE = 'about'
 DEFAULT_LANGUAGE = 'ru'
 
-DEFAULT_LAYOUT = 'page.html'
-LAYOUTS = {
+LAYOUTS = defaultdict(lambda: 'page.html', {
     'about': 'index.html',
     'register': 'register.html',
-}
+})
 
 BUNDLES = {
     'css': Bundle('./css/reset.css', './css/normalize.css', 
