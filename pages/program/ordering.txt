@@ -1,0 +1,5 @@
+ordering:
+    - headliners
+    - content
+    - schedule
+    - call-for-papers
