@@ -1,0 +1,7 @@
+ordering:
+    - conference
+    - program
+    - participation
+    - partners
+    - contacts
+    - register 

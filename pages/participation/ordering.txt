@@ -1,0 +1,4 @@
+ordering:
+    - price
+    - venue
+    - hotels
