@@ -1,4 +1,4 @@
-Программный комитет:
+####Программный комитет:####
 
 ![patrushev](http://dropbucket.ru/pyconru/аpatrushev) [Антон Патрушев](http://www.linkedin.com/in/apatrushev), глава депратамента в Naumen, программный директор
 
@@ -21,7 +21,7 @@
 ![chernin](http://dropbucket.ru/pyconru/chernin) [Александр Чернин](http://www.linkedin.com/pub/alex-chernin/0/b30/949), разработчик в Naumen
 
 
-Организационный комитет:
+####Организационный комитет:####
 
 ![gerasimovich](http://dropbucket.ru/pycon/gerasimovich) [Юлия Герасимович](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266), директор компании [IT-People.ru](http://it-people.ru/)
 
