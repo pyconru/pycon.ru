@@ -1,4 +1,3 @@
-Программный комитет:
 
 ![svetlov](http://dropbucket.ru/pyconru/svetlov)   <b>  Андрей Светлов, Python Core Developer, соорганизатор UA PyCon.</b>
 
