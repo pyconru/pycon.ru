@@ -70,7 +70,7 @@ msgstr "Call for papers"
 
 #: index.html:31
 msgid "hours"
-msgstr "hours"
+msgstr "часы"
 
 #: _base.html:77
 msgid "Organizers"
@@ -79,7 +79,7 @@ msgstr "Организаторы"
 #: index.html:21
 #: &#8209; -- non-breaking hyphen
 msgid "PyCon Russia 2013, Feb&nbsp;24&#8209;25"
-msgstr "PyCon Россия 2013, 24&#8209;25&nbsp;февраля"
+msgstr "PyCon Russia 2013, 24&#8209;25&nbsp;февраля"
 
 #: index.html:26
 msgid "days"
