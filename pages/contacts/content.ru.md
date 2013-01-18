@@ -1,7 +1,7 @@
 ####Организатор конференции:####
 [![IT-People](http://dropbucket.ru/pycon/it-people)](http://www.it-people.ru/)
 
-###Наши контакты:###
+####Наши контакты:####
 
 - Email: pycon@it-people.ru
 - Телефоны: +7 (343) 202-12-32, 202-12-52, +7 (912) 23-21-222
