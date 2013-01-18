@@ -30,12 +30,9 @@
 
 {% block content %}
 <div id="eventreg52802">
-   <link rel="stylesheet" type="text/css" href="http://it-people.timepad.ru/templates_subdomain/css/19.eventreg.css?v=343-1" />
-   <script type="text/javascript">onPromoCodeLinkClick = function () {promoCodeLink = document.getElementById("promo-code-link-52802");promoCodeBlock = document.getElementById("promo-code-block-52802");promoCodeLink.style.display = "none";promoCodeBlock.style.display = "block";return false;}</script>
    <div class="tp-reg-widget " id="id-tp-reg-widget">
       <div class="msection">
-         <div class="tp-reg-title">Регистрация</div>
-         <div class="tp-reg-description">Чтобы зарегистрироваться на это событие, заполните анкету. Информация о Вас будет доступна только организаторам этого события, и больше никому. Поля, отмеченные звездочкой, являются обязательными.</div>
+         <div class="tp-reg-description">{{ content }}</div>
       </div>
       <form enctype="multipart/form-data" action="http://it-people.timepad.ru/event/52802/" class="commonform" method="POST" id="theregform">
          <input type="hidden" name="httpreferer" value="" /><input type="hidden" name="reforg" value="" /><input type="hidden" name="tpref" value="" /><input type="hidden" name="ref" value="" /><input type="hidden" name="mailid" value="" /><input type="hidden" name="source" value="" /><input type="hidden" name="promocode" value="" />
