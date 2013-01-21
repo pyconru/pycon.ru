@@ -59,7 +59,7 @@ just-in-time компилятора, анализа и улучшения про
 
 
 
-![shtan](http://dropbucket.ru/pycon/shtan)  <b>  Данила Штань, руководитель разработки портала 66.ru</b>
+![shtan](http://dropbucket.ru/pycon/shtan)  <b>  Данила Штань, руководитель разработки холдинга 66.ru</b>
 
 
 <b>Uwsgi как швейцарский нож python-разработчика</b>
