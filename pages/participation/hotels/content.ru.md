@@ -10,7 +10,7 @@
 <b>Номера "Стандарт":</b> двухместный, однокомнатный, телевизор, минибар.
  <b>Стоимость:</b>
 
- ![ivolga standart](http://dropbucket.ru/pyconru/Ivolga/standart)
+ ![ivolga standart](http://dropbucket.ru/pyconru/Ivolga/standard)
  ![ivolga standart2](http://dropbucket.ru/pyconru/Ivolga/standart2)
  
  
