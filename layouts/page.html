@@ -1,10 +1,10 @@
 {% extends "_base.html" %}
 
 {% block content %}
-  {% if SUBPAGES %}
+  {% if CHILDREN %}
     <ul>
-    {% for subpage in SUBPAGES %}
-      <li><a href="{{ url_for(subpage.PAGE_NAME) }}">{{ LABELS[subpage.PAGE_NAME] }}</a></li>
+    {% for subpage in CHILDREN %}
+      <li><a href="{{ url_for(subpage.PATH) }}">{{ LABELS[subpage.PATH] }}</a></li>
     {% endfor %}
     </ul>
   {% else %}

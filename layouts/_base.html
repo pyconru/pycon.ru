@@ -60,9 +60,9 @@
         </a>
         
         <section class="language-selector">
-          <a href="{{ url_for(PAGE_NAME, language='ru') }}" target="_self"
+          <a href="{{ url_for(PATH, language='ru') }}" target="_self"
              class="ru{% if LANGUAGE == 'ru' %} active{% endif %}">Рус</a>
-          <a href="{{ url_for(PAGE_NAME, language='en') }}" target="_self"
+          <a href="{{ url_for(PATH, language='en') }}" target="_self"
              class="en{% if LANGUAGE == 'en' %} active{% endif %}">Eng</a>
         </section>
 
@@ -98,23 +98,23 @@
 
       <nav class="main">
         <ul class="first-level">
-          {% for page in ROOT.children %}
+          {% for page in ROOT.CHILDREN %}
 
-            {% set is_active = (PAGE == page) or (PAGE in page.children) -%}
-            <li class="{% if page.children %}expandable{% endif %}
+            {% set is_active = page.NAME in (NAME, PARENT.NAME) -%}
+            <li class="{% if page.CHILDREN %}expandable{% endif %}
                        {% if is_active %}active{% endif %}">
-              <a href="{{ page.url() }}" target="_self"
-                 class="{% if page.name == 'register' %}emphasized{% endif %}
+              <a href="{{ url_for(page.PATH) }}" target="_self"
+                 class="{% if page.PATH == 'register' %}emphasized{% endif %}
                         {% if is_active %}active{% endif %}">
-                {{ LABELS[page.name] }}
+                {{ LABELS[page.PATH] }}
               </a>
 
-              {% if page.children %}
+              {% if page.CHILDREN %}
                 <ul class="second-level">
-                  {% for subpage in page.children %}
+                  {% for subpage in page.CHILDREN %}
                     <li>
-                      <a href="{{ subpage.url() }}" target="_self">
-                        {{ LABELS[subpage.name] }}
+                      <a href="{{ url_for(subpage.PATH) }}" target="_self">
+                        {{ LABELS[subpage.PATH] }}
                       </a>
                     </li>
                   {% endfor %}
@@ -130,7 +130,7 @@
         'conference/organizers': 'organizers',
       } %}
 
-      <article id="{{ PAGE_IDS.get(PAGE_NAME, PAGE_NAME) }}">
+      <article id="{{ PAGE_IDS.get(PATH, '') }}">
         {{ labels }}
         {% block content %}
         {% endblock %}
@@ -141,12 +141,12 @@
       
     <footer>
       <nav>
-        {% for page in ROOT.children %}
-          <a class="{% if page.name == 'register' %}emphasized{% endif %}
+        {% for page in ROOT.CHILDREN %}
+          <a class="{% if page.PATH == 'register' %}emphasized{% endif %}
                     {% if is_active %}active{% endif %}
                     {% if loop.last %}last{% endif %}"
-             href="{{ page.url() }}" target="_self">
-            {{ _(LABELS[page.name]) }}
+             href="{{ url_for(page.PATH) }}" target="_self">
+            {{ _(LABELS[page.PATH]) }}
           </a>
         {% endfor %}
       </nav>

@@ -18,3 +18,11 @@ BUNDLES = {
                   Bundle('./less/styles.less', filters='less'),
                   output='./gen/styles.css'),
 }
+
+ORDERING = {
+    '*': ['conference', 'program', 'participation', 'partners', 'contacts', 'register'],
+    'conference': ['about', 'organizers'],
+    'participation': ['price', 'venue', 'hotels'],
+    'partners': ['list', 'join'],
+    'program': ['headliners', 'content', 'schedule', 'call-for-papers'],
+}
