@@ -1,4 +1,4 @@
-Action team:
+##Action team:
 
 ![patrushev](http://dropbucket.ru/pyconru/аpatrushev) -  Anton Patrushev, The initiator of the project, Head of Department at Naumen, Programm Director
 
@@ -21,7 +21,7 @@ Action team:
 ![chernin](http://dropbucket.ru/pyconru/chernin) -   Alex Chernin, Head of Education Systems Department в Naumen
 
 
-Organization team
+##Organization team
 
 ![gerasimovich](http://dropbucket.ru/pycon/gerasimovich) -   [ Yulia Gerasimovich](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266), - [IT-People.ru](http://it-people.ru/), company head. The organizer of a large number of conferences and educational activities in the sphere of IT.
 
