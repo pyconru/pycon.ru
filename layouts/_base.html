@@ -128,10 +128,10 @@
       {% set PAGE_IDS = {
         'conference/about': 'about',
         'conference/organizers': 'organizers',
+        'program/headliners': 'headliners',
       } %}
 
       <article id="{{ PAGE_IDS.get(PATH, '') }}">
-        {{ labels }}
         {% block content %}
         {% endblock %}
       </article>
