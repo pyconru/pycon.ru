@@ -2,7 +2,7 @@
 Рассел выступит с докладом про построение девелоперских коммьюнити через призму своего опыта в DSF, а также расскажет о некоторых технических аспектах устройства Django (ORM).
 
 ![armin-ronacher](http://dropbucket.ru/pyconru/speakers/armin-ronacher)[Armin Ronacher](http://lucumr.pocoo.org), один из основателей [Pocoo Team](http://www.pocoo.org/).  
-Широко известен как автор Flask и Jijna2. Армин выступит с докладом на тему «Advanced Flask patterns», полностью обновленным со времени EuroPython 2012.
+Широко известен как автор Flask и Jinja2. Армин выступит с докладом на тему «Advanced Flask patterns», полностью обновленным со времени EuroPython 2012.
 
 ![holger-krekel](http://dropbucket.ru/pyconru/speakers/holger-krekel)[Holger Krekel](http://holgerkrekel.net/), основатель [PyPy Project](http://pypy.org/), автор популярных инстументов [py.test](http://pytest.org/latest/) и [tox](http://codespeak.net/tox/).  
 Тема доклада Холгера — «Re-inventing Python packaging and testing»: Python still does not have a built-in installer that can install
