@@ -38,6 +38,7 @@
  ![ivolga lux](http://dropbucket.ru/pyconru/Ivolga/lux)
  ![ivolga lux2](http://dropbucket.ru/pyconru/Ivolga/lux3)
  
+<iframe src="https://docs.google.com/a/ied.edu/spreadsheet/embeddedform?formkey=dFpjRGsxSm1YZ21NdG1PeldmcFFmelE6MQ" width="760" height="883" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
  
  
 ####2. Гостиница
