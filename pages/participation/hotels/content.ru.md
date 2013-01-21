@@ -8,7 +8,7 @@
 Боулинг-центр, бани, футбольное поле, площадку для пейнтбола,бильярдную. 
 
 <b>Номера "Стандарт":</b> двухместный, однокомнатный, телевизор, минибар.
- <b>Стоимость:</b>
+ <b>Стоимость:</b> 2 650 р./ сутки
 
  ![ivolga standart](http://dropbucket.ru/pyconru/Ivolga/standard)
  ![ivolga standart2](http://dropbucket.ru/pyconru/Ivolga/standart2)
@@ -18,7 +18,7 @@
 
 
 <b>Номера "Стандарт+":</b> однокомнатный, телевизор, минибар.
- <b>Стоимость:</b> 
+ <b>Стоимость:</b> 2 700 р./ сутки
 
  ![ivolga standartplus](http://dropbucket.ru/pyconru/Ivolga/standartplus)
  ![ivolga standartplus2](http://dropbucket.ru/pyconru/Ivolga/standartplus2)
@@ -26,14 +26,14 @@
   
  
  <b>Номера "Полулюкс":</b> двухкомнатный, телевизор, минибар, мягкая мебель.
-  <b>Стоимость:</b> 
+  <b>Стоимость:</b> 3 710 р. / сутки
  
  ![ivolga polulux](http://dropbucket.ru/pyconru/Ivolga/polulux)
  ![ivolga polulux2](http://dropbucket.ru/pyconru/Ivolga/polulux2)
  
  
  <b>Номера "Люкс":</b> двухкомнатный, телевизор, DVD, минибар, мягкая мебель.
-  <b>Стоимость:</b> 
+  <b>Стоимость:</b> 4 770 р. / сутки
  
  ![ivolga lux](http://dropbucket.ru/pyconru/Ivolga/lux)
  ![ivolga lux2](http://dropbucket.ru/pyconru/Ivolga/lux3)
