@@ -1,7 +1,7 @@
 ##Программный комитет
 
 ![patrushev](http://dropbucket.ru/pyconru/аpatrushev) [Антон Патрушев](http://www.linkedin.com/in/apatrushev)  
-глава депратамента в Naumen, программный директор
+глава департамента в Naumen, программный директор
 
 
 ![korobov](http://dropbucket.ru/pyconru/korobov) [Михаил Коробов](http://kmike.ru/)  
