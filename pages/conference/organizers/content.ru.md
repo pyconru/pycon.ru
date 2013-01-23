@@ -47,3 +47,5 @@ Python-разработчик в Insollo Entertainment, организатор P
 
 
 ![blincheva](http://dropbucket.ru/pycon/blincheva) Нюта Блиничева
+
+![potapova](http://dropbucket.ru/pyconru/potapova) Александра Потапова
