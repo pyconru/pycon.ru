@@ -15,6 +15,10 @@
 ![hotsyk](http://dropbucket.ru/pyconru/hotsyk) - Volodymyr Hotsyk, Svitla Systems, Inc., Pycamp/Pycon Ukraine organization committee
 
 
+![shtan](http://dropbucket.ru/pycon/shtan) - Danil Shtan, Software Development  Manager at 66.ru group
+
+
+
 ![svetlov](http://dropbucket.ru/pyconru/svetlov) - Andrew Svetlov, Python, Insollo Entertainment, Pycamp/Pycon Ukraine organization committee
 
 
@@ -36,3 +40,7 @@
 
 
 ![blincheva](http://dropbucket.ru/pycon/blincheva) - Nuta Blincheva 
+
+
+![potapova](http://dropbucket.ru/pyconru/potapova) - Alexandra Potapova
+
