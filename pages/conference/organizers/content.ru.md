@@ -24,9 +24,12 @@ Python-разработчик в Svitla Systems, Inc., организатор Py
 Python-разработчик в Insollo Entertainment, организатор Pycamp/Pycon Ukraine
 
 
+![shtan](http://dropbucket.ru/pycon/shtan) [Данила Штань](http://ru.linkedin.com/pub/danila-shtan/38/57/842)  
+руководитель разработки холдинга 66.ru
+
+
 ![chernin](http://dropbucket.ru/pyconru/chernin) [Александр Чернин](http://www.linkedin.com/pub/alex-chernin/0/b30/949)  
 разработчик в Naumen
-
 
 ##Организационный комитет
 
