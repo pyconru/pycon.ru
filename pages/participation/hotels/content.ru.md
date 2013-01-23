@@ -17,7 +17,7 @@
  ![ivolga standart2](http://dropbucket.ru/pyconru/Ivolga/standart2)
 
 <b>Номера "Стандарт+":</b> однокомнатный, телевизор, минибар.
- <b>Стоимость:</b> 2 2915 р./ сутки
+ <b>Стоимость:</b> 2 920 р./ сутки
 
  ![ivolga standartplus](http://dropbucket.ru/pyconru/Ivolga/standartplus)
  ![ivolga standartplus2](http://dropbucket.ru/pyconru/Ivolga/standartplus2)
@@ -36,7 +36,7 @@
  
  При бронировании номера оплата производится через IT-people до 10 февраля.
 <iframe src="https://docs.google.com/a/ied.edu/spreadsheet/embeddedform?formkey=dFpjRGsxSm1YZ21NdG1PeldmcFFmelE6MQ" width="100%" height="883" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
- 
+  !Обратите внимание при оформлении командировочных: "Иволга" находится в с. Кадниково (не Екатеринбург)
 ####2. Гостиница
 Проживание в <b>отелях города Екатеринбурга</b>. Возможность посетить в свободное время достопримечательности города.
 В данном случае бронирование производится самостоятельно. Трансфер Цирк- база Иволга- Цирк обеспечивается организаторами утром и вечером.
