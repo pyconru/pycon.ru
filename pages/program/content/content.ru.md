@@ -1,6 +1,8 @@
 **Доклады**
 
 
+
+
 ![svetlov](http://dropbucket.ru/pyconru/svetlov)
 
 <div markdown="1">
@@ -115,6 +117,9 @@ SaltStack — это инструмент для параллельного вы
 
 
 **Мастер-классы**
+
+
+
 
 
 ![lopuhin](http://dropbucket.ru/pycon/kostialopuhin)
