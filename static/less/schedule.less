@@ -1,0 +1,72 @@
+#schedule {
+  padding: 40px;
+  
+  .block {
+    list-style-type: none;
+    padding: 3px 10px;
+    margin: 0 0 10px 0;
+
+    li {
+      padding: 5px;
+      padding-left: 50px;
+      background: none;
+    }
+
+    .break {
+      span {
+        color: #666;
+        font-size: 14px;
+        font-style: italic;
+      }
+    }
+
+    time {
+      display: inline-block;
+      font-size: 14px;
+      width: 50px;
+      margin-left: -50px;
+    }
+
+    author {
+      font-size: 14px;
+      display: block;
+    }
+  }
+
+  .day1 {
+    .b {
+      &1 {
+        background: #E6F2F9;
+        clear: both;
+      }
+      &3a, &3b, &5a, &5b {
+        background: #FFE9CD;
+        width: 380px;
+        display: inline-block;
+        float: left;
+      }
+      &3a, &5a {
+        margin-right: 20px;
+      }
+      &4, &6, &7, &9 {
+        clear: both;
+      }
+      &7 {
+        background: #FBFFC7;
+      }
+      &9b {
+        background: #FADCFF;
+      }
+      &9c {
+        background: #D3FFC7;
+      }
+      &9a, &9b, &9c {
+        float: left;
+        width: 240px;
+      }
+      &9a, &9b {
+        margin-right: 20px;
+      }
+    }
+  }
+}

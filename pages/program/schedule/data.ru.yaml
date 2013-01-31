@@ -1,0 +1,81 @@
+day1:
+  b1: 
+    - time: "9:00"
+      title: "Регистрация"
+
+    - speaker: "Dr. Russell Keith-Magee, Django Software Foundation"
+      talk: "Why I like Python?"
+      time: "10:00"
+
+    - break: "Перерыв"
+      time: "11:00"
+
+    - speaker: "Armin Ronacher, Pocoo Team"
+      talk: "Advanced Flask patterns"
+      time: "11:10"
+
+  b2:
+    - break: Обед
+      time: "13:20"
+  
+  b3a:
+    - speaker: "Андрей Светлов, Python Core Developer"
+      talk: "PEP 3156 — стандарт на асинхронные операции в Питоне"
+      time: "14:00"
+
+    - speaker: "Андрей Власовских, JetBrains"
+      talk: "Статический анализ языка Python"
+      time: "14:45" 
+
+  b3b:
+    - speaker: "Михаил Коробов, Python-разработчик"
+      talk: "Как перейти на Python 3?"
+      time: "14:00"
+    - speaker: "Роман Иманкулов, Doist Inc."
+      talk: "Celery для внутреннего API в инфраструктуре"
+      time: "14:30"
+    - speaker: "Александр Кошелев, Яндекс"
+      talk: "Препарирование работы асинхронного кода"
+      time: "15:00"
+  
+  b4:
+    - break: "Кофе-брейк"
+      time: "11:00"
+  
+  b5a:
+    - speaker: "Михаил Коробов, Python-разработчик"
+      talk: "Как перейти на Python 3?"
+      time: "16:00"
+  
+  b5b:
+    - speaker: "Михаил Коробов, Python-разработчик"
+      talk: "Как перейти на Python 3?"
+      time: "16:00"
+  
+  b6:
+    - break: "Перерыв, запись на Lightning Talks"
+      time: "17:30"
+  
+  b7:
+    - break: "Lightning Talks"
+      time: "18:00"
+  
+  b8:
+    - break: "Ужин, свободное время"
+      time: "19:00"
+    
+  b9a:
+    - break: "Афтепати, баня, боулинг, бильярд"
+      time: "21:00"
+
+  b9b:
+    - talk: "Круглый стол: Разрабатывать или зарабатывать?"
+      time: "21:00"
+  
+  b9c:
+    - talk: "Мастер-класс: Как приучить внутреннего моржа к порядку"
+      time: "21:00"
+
+  b10:
+    - break: "Конец первого дня :)"
+      time: "24:00"
