@@ -6,10 +6,11 @@
 
 
 ####Информационные партнеры:####
+[![Python.su](http://dropbucket.ru/pycon/python_su)](http://python.su/forum/)
 [![it-eburg](http://dropbucket.ru/pycon/iteburg)](http://it-eburg.com/)
 [![MoscowDjangoMeetup](http://dropbucket.ru/pycon/mdm)](http://moscowdjango.ru/)
 [![Регистратор R01](http://dropbucket.ru/pycon/r01)](http://www.r01.ru/)
-[![Python.su](http://dropbucket.ru/pycon/python_su)](http://python.su/forum/)
+
 
 
 ####Технологический партнер:####
