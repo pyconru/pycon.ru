@@ -141,7 +141,7 @@ SaltStack — это инструмент для параллельного вы
 </div>
 
 
-![n](http://dropbucket.ru/pycon/n)
+![generalov_shalapin](http://dropbucket.ru/pycon/generalov_shalapin)
 
 <div markdown="1">
 **Илья Шаляпин, Евгений Генералов** , JetStyle
