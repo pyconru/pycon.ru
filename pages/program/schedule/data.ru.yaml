@@ -86,3 +86,81 @@ day1:
   b10:
     - break: "Конец первого дня :)"
       time: "24:00"
+
+
+day2:
+  b1a: 
+    - speaker: "Андрей Светлов, Python Core Developer"
+      talk: "PEP 3156 — стандарт на асинхронные операции в Питоне"
+      time: "14:00"
+
+    - speaker: "Андрей Власовских, JetBrains"
+      talk: "Статический анализ языка Python"
+      time: "14:45" 
+
+    - break: "Перерыв"
+      time: "11:00"
+
+    - speaker: "Андрей Светлов, Python Core Developer"
+      talk: "PEP 3156 — стандарт на асинхронные операции в Питоне"
+      time: "14:00"
+
+    - speaker: "Андрей Власовских, JetBrains"
+      talk: "Статический анализ языка Python"
+      time: "14:45" 
+
+
+  b2b:
+    - speaker: "Константин Лопухин"
+      talk: "Пишем свой интерпретатор"
+      time: "14:00"
+
+  b3c:
+    - speaker: "Андрей Светлов, Python-разработчик"
+      talk: "Пишем асинхронное приложение"
+      time: "14:00"
+
+
+  b4:
+    - break: Обед
+      time: "13:30"
+  
+  b5:
+    - speaker: "Holger Kregel, основатель PyPy Project"
+      talk: "Re-inventing Python packaging and testing"
+      time: "14:10"
+
+    - break: "Перерыв"
+      time: "15:00"
+
+    - speaker: "Jeff Lindsay, основатель крупнейшего в США коммьюнити-центра для хакеров Hacker Dojo"
+      talk: "Distributed Service Architectures with Python"
+      time: "15:10"
+      
+    - break: "Перерыв"
+      time: "16:00"
+
+    - speaker: "Amir Salihefendic, основатель Doist Inc"
+      talk: "Redis, the hacker's database"
+      time: "16:10"
+  
+  b6:
+    - break: "Перерыв"
+      time: "17:00"
+
+  b7:
+    - speaker: "Russell Keith-Magee"
+      talk: "Building a development community: Lessons and challenges"
+      time: "17:10"
+      
+    - speaker: "Круглый стол"
+      talk: "Построении Python-community в России"
+  
+  b8:
+    - speaker: "Lightning Talks"
+      time: "18:20"  
+  
+  b9:
+    - break: "Конец"
+      time: "19:00"
+    
