@@ -3,16 +3,23 @@ day1:
     - time: "9:00"
       title: "Регистрация"
 
-    - speaker: "Dr. Russell Keith-Magee, Django Software Foundation"
-      talk: "Why I like Python?"
+    - speaker: "Armin Ronacher, автор Flask и Jinja2"
+      talk: "Advanced Flask patterns"
       time: "10:00"
 
     - break: "Перерыв"
       time: "11:00"
 
-    - speaker: "Armin Ronacher, Pocoo Team"
-      talk: "Advanced Flask patterns"
+    - speaker: "David Cramer, специалист по высоким нагрузкам из DISQUS"
+      talk: "Building Scalable Web Apps"
       time: "11:10"
+      
+    - break: "Перерыв"
+      time: "12:10"
+
+    - speaker: "Dr. Russell Keith-Magee, президент Django Software Foundation"
+      talk: "Django Roadmap"
+      time: "12:20"
 
   b2:
     - break: Обед
