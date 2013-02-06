@@ -39,75 +39,116 @@
   @pink: #FADCFF;
   @green: #D3FFC7;
   
-  .day1 {
-    .b {
-      &1 {
-        background: @blue;
-        clear: both;
-      }
-      &3a, &3b, &5a, &5b {
-        background: @peach;
-        width: 380px;
-        display: inline-block;
-        float: left;
-      }
-      &3a, &5a {
+  @media @default {
+    h4 {
+      font-size: 12px;
+      padding: 0;
+      margin: 0;
+      margin-bottom: 5px;
+      text-align: center;
+      display: inline-block;
+    }
+
+    .day1 {
+      h4 {
+        width: 400px;
         margin-right: 20px;
+        &.last {
+          margin-right: 0;
+        }
       }
-      &4, &6, &7, &9 {
-        clear: both;
-      }
-      &7 {
-        background: @yellow;
-      }
-      &9b {
-        background: @pink;
-      }
-      &9c {
-        background: @green;
-      }
-      &9a, &9b, &9c {
-        float: left;
-        width: 240px;
-      }
-      &9a, &9b {
-        margin-right: 20px;
+
+      .b {
+        &1 {
+          background: @blue;
+          clear: both;
+        }
+        &3a, &3b, &5a, &5b {
+          background: @peach;
+          width: 380px;
+          display: inline-block;
+          float: left;
+        }
+        &3a, &5a {
+          margin-right: 20px;
+        }
+        &4, &6, &7, &9 {
+          clear: both;
+        }
+        &7 {
+          background: @yellow;
+        }
+        &9b {
+          background: @pink;
+        }
+        &9c {
+          background: @green;
+        }
+        &9a, &9b, &9c {
+          float: left;
+          width: 240px;
+        }
+        &9a, &9b {
+          margin-right: 20px;
+        }
       }
     }
-  }
 
-  .day2 {
-    .b {
-      &1a, &2, &3, &1b, &1c {
-        width: 240px;
-        float: left;
-      }
-      &1b, &1c {
-        background: @green;
-      }
-      &2, &3 {
-        clear: left;
-      }
-      &1a, &3 {
-        background: @peach;
-      }
-      &1a, &1b {
+    .day2 {
+      h4 {
+        width: 260px;
         margin-right: 20px;
+        &.last {
+          margin-right: 0;
+        }
       }
-      &2 {
-        width: 240px;
+
+      .columns-wrapper {
+        .clearfix();
+        position: relative;
       }
-      &4 {
-        clear: both;
-      }
-      &5 {
-        background: @blue;
-      }
-      &7 {
-        background: @pink;
-      }
-      &8 {
-        background: @yellow;
+
+      .b {
+        &1a, &2, &3, &1b, &1c {
+          width: 240px;
+          float: left;
+        }
+        &1b, &1c {
+          background: @green;
+          position: absolute;
+          top: 0;
+          bottom: 0;
+        }
+        &1b {
+          left: 280px;
+        }
+        &1c {
+          left: 280px * 2;
+        }
+        &1, &2, &3 {
+          clear: left;
+        }
+        &1a, &3 {
+          background: @peach;
+        }
+        &1a, &1b {
+          margin-right: 20px;
+        }
+        &2 {
+          width: 240px;
+        }
+        &4 {
+          clear: both;
+        }
+        &5 {
+          background: @blue;
+        }
+        &7 {
+          background: @pink;
+        }
+        &8 {
+          background: @yellow;
+        }
       }
     }
   }
