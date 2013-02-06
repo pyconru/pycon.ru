@@ -15,7 +15,7 @@
 
 {% macro render_block(day, block) -%}
   <ul class="block {{ block }}">
-    {% for event in day1[block] %}
+    {% for event in day[block] %}
       {% if event.talk %}
         {{ talk(event.time, event.speaker, event.talk) }}
       {% endif %}
@@ -41,6 +41,9 @@
   {% if day2 %}
     <h2>День 2</h1>
     <section class="day2">
+      {% for block in ['b1a',  'b1b', 'b1c', 'b2', 'b3', 'b4', 'b5', 'b6', 'b7', 'b8', 'b9'] %}
+        {{ render_block(day2, block) }}
+      {% endfor %}
     </section>
   {% endif %}
 {% endblock %}

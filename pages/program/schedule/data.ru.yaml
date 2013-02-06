@@ -1,7 +1,7 @@
 day1:
   b1: 
     - time: "9:00"
-      title: "Регистрация"
+      talk: "Регистрация"
 
     - speaker: "Armin Ronacher, автор Flask и Jinja2"
       talk: "Advanced Flask patterns"
@@ -95,9 +95,12 @@ day2:
       time: "14:00"
     - speaker: "Андрей Власовских, JetBrains"
       talk: "Статический анализ языка Python"
-      time: "14:45" 
+      time: "14:45"
+  b2:
     - break: "Перерыв"
       time: "11:00"
+
+  b3:
     - speaker: "Андрей Светлов, Python Core Developer"
       talk: "PEP 3156 — стандарт на асинхронные операции в Питоне"
       time: "14:00"
@@ -115,11 +118,11 @@ day2:
       talk: "Пишем асинхронное приложение"
       time: "14:00"
 
-  b2:
-    - break: Обед
+  b4:
+    - break: "Обед"
       time: "13:30"
   
-  b3:
+  b5:
     - speaker: "Holger Kregel, основатель PyPy Project"
       talk: "Re-inventing Python packaging and testing"
       time: "14:10"
@@ -133,19 +136,20 @@ day2:
     - speaker: "Amir Salihefendic, основатель Doist Inc"
       talk: "Redis, the hacker's database"
       time: "16:10"
-  b4:
-    - break: "Перерыв"
+  b6:
+    - break: "Перерыв, запись на Lightning Talks"
       time: "17:00"
-  b5:
+  b7:
     - speaker: "Russell Keith-Magee"
       talk: "Building a development community: Lessons and challenges"
       time: "17:10"
     - speaker: "Круглый стол"
       talk: "Построении Python-community в России"
-  b6:
-    - speaker: "Lightning Talks"
+  b8:
+    - talk: "Lightning Talks"
       time: "18:20"  
-  b7:
-    - break: "Конец"
+  b9:
+    - break: "Ужин, свободное время"
       time: "19:00"
-    
+    - break: "Афтепати, баня, боулинг, бильярд"
+      time: "21:00"

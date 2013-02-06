@@ -33,14 +33,20 @@
     }
   }
 
+  @blue:#E6F2F9;
+  @peach: #FFE9CD;
+  @yellow: #FBFFC7;
+  @pink: #FADCFF;
+  @green: #D3FFC7;
+  
   .day1 {
     .b {
       &1 {
-        background: #E6F2F9;
+        background: @blue;
         clear: both;
       }
       &3a, &3b, &5a, &5b {
-        background: #FFE9CD;
+        background: @peach;
         width: 380px;
         display: inline-block;
         float: left;
@@ -52,13 +58,13 @@
         clear: both;
       }
       &7 {
-        background: #FBFFC7;
+        background: @yellow;
       }
       &9b {
-        background: #FADCFF;
+        background: @pink;
       }
       &9c {
-        background: #D3FFC7;
+        background: @green;
       }
       &9a, &9b, &9c {
         float: left;
@@ -66,6 +72,42 @@
       }
       &9a, &9b {
         margin-right: 20px;
+      }
+    }
+  }
+
+  .day2 {
+    .b {
+      &1a, &2, &3, &1b, &1c {
+        width: 240px;
+        float: left;
+      }
+      &1b, &1c {
+        background: @green;
+      }
+      &2, &3 {
+        clear: left;
+      }
+      &1a, &3 {
+        background: @peach;
+      }
+      &1a, &1b {
+        margin-right: 20px;
+      }
+      &2 {
+        width: 240px;
+      }
+      &4 {
+        clear: both;
+      }
+      &5 {
+        background: @blue;
+      }
+      &7 {
+        background: @pink;
+      }
+      &8 {
+        background: @yellow;
       }
     }
   }
