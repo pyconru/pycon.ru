@@ -33,7 +33,7 @@
  ![ivolga lux](http://dropbucket.ru/pyconru/Ivolga/lux)
  ![ivolga lux2](http://dropbucket.ru/pyconru/Ivolga/lux3)
  
- При бронировании номера оплата производится через IT-people до 10 февраля.
+ При бронировании номера оплата производится через IT-people (pycon@it-people.ru, +7 (343) 202-12-32)
 <iframe src="https://docs.google.com/a/ied.edu/spreadsheet/embeddedform?formkey=dFpjRGsxSm1YZ21NdG1PeldmcFFmelE6MQ" width="100%" height="883" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
   !Обратите внимание при оформлении командировочных: "Иволга" находится в с. Кадниково (не Екатеринбург). Печать будет выглядеть [так](http://dropbucket.ru/pyconru/pechat) 
 ####2. Гостиница
