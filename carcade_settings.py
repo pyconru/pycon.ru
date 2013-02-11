@@ -10,6 +10,7 @@ DEFAULT_LANGUAGE = 'ru'
 
 LAYOUTS = defaultdict(lambda: 'page.html', {
     'conference/about': 'index.html',
+    'program/schedule': 'schedule.html',
     'register': 'register.html',
 })
 
