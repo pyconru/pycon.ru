@@ -1,0 +1,43 @@
+sectios:
+    - name: "Золотой спонсор"
+      sponsors:
+        - logo: http://dropbucket.ru/pycon/naumen
+          link: http://www.naumen.ru/
+
+    - name: "Серебряный спонсор"
+      sponsors:
+        - logo: http://dropbucket.ru/pycon/jetbrains
+          link: http://www.jetbrains.ru/
+
+    - name: "Алюминиевые спонсоры"
+      sponsors:
+        - logo: http://dropbucket.ru/pycon/netangels
+          link: http://www.netangels.ru/
+        - logo: http://dropbucket.ru/pycon/ideco
+          link: http://www.ideco.ru/
+
+    - name: "Информационные партнёры"
+      sponsors:
+        - logo: http://dropbucket.ru/pycon/python_su 
+          link: http://python.su/forum/
+        - logo: http://dropbucket.ru/pycon/iteburg 
+          link: http://it-eburg.com/
+        - logo: http://dropbucket.ru/pycon/mdm
+          link: http://moscowdjango.ru/
+        - logo: http://dropbucket.ru/pycon/r01
+          link: http://www.r01.ru/
+
+    - name: "Технологический партнёр"
+      sponsors:
+        - logo: http://dropbucket.ru/pycon/66
+          link: http://66.ru/
+
+    - name: "Мозг-партнёр"
+      sponsors:
+        - logo: http://dropbucket.ru/pycon/it-mozg
+          link: http://itmozg.ru/
+
+    - name: "Дизайн логотипа"
+      sponsors:
+        - logo: http://dropbucket.ru/pycon/jet
+          link: http://www.jetstyle.ru/
