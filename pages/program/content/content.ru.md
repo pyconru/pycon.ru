@@ -7,9 +7,13 @@
 
 **Django Roadmap**
 
+The description will come up soon...
+
 **Длительность:** 1 час
 
 **Building a development community: Lessons and challenges**
+
+The description will come up soon...
 
 **Длительность:** 40 минут
 </div>
@@ -21,10 +25,10 @@
 
 **Advanced Flask patterns**
 
+This talk shows some interesting patterns for large scale Flask applications and how Flask extension should be structured. It also dives into some of the more unknown helpers in the Werkzeug and Jinja2 base libraries. The goal of this talk is to share some of the things that the documentation can’t explain well by itself. Required prerequisites: basic knowledge of how Flask operates.
+
 **Длительность:** 1 час
 </div>
-
-
 
 ![holger-krekel](http://dropbucket.ru/pyconru/speakers/holger-krekel-small)
 
@@ -62,10 +66,10 @@ I'll talk about what I see as a successful scaling strategy for growing companie
 
 **Distributed Service Architectures with Python**
 
+The description will come up soon...
+
 **Длительность:** 50 минут
 </div>
-
-
 
 ![svetlov](http://dropbucket.ru/pyconru/svetlov)
 
