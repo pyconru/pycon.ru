@@ -24,7 +24,7 @@ Github [dcramer](https://github.com/dcramer)
 
 ![jeff-lindsay](http://dropbucket.ru/pyconru/speakers/jeff-lindsay) [Jeff Lindsay](http://progrium.com), хакер-философ, разработчик, архитектор.  
 Основатель крупнейшего в США коммьюнити-центра для хакеров [Hacker Dojo](http://www.hackerdojo.com), организатор всемирно известных хакатонов [SuperHappyDevHouse](http://superhappydevhouse.org). 
-Участвовал в проектах CommerceNet, NASA Ames, Twilio и других. В свободное время рассказывает про Evented Web и обучает программированию. На PyCon Russia 2013 Джефф об архитектуре распределенных сервисов на Питоне на примере своих проектов.  
+Участвовал в проектах CommerceNet, NASA Ames, Twilio и других. В свободное время рассказывает про Evented Web и обучает программированию. На PyCon Russia 2013 Джефф выступит с докладом об архитектуре распределенных сервисов на Питоне на примере своих проектов.  
 [Personal blog](http://progrium.com) 
 Twitter [@progrium](https://twitter.com/progrium) 
 Github [progrium](https://github.com/progrium)
