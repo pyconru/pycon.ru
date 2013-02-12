@@ -1,6 +1,67 @@
 ##Доклады##
 
+![russell-keith-magee](http://dropbucket.ru/pyconru/speakers/russell-keith-magee-small)
 
+<div markdown="1">
+**[Dr. Russell Keith-Magee](http://cecinestpasun.com)**, президент [Django Software Foundation](https://www.djangoproject.com/foundation/), член Django core team, CTO компании [TradesCloud](http://tradescloud.com/).
+
+**Django Roadmap**
+
+**Длительность:** 1 час
+
+**Building a development community: Lessons and challenges**
+
+**Длительность:** 40 минут
+</div>
+
+![armin-ronacher](http://dropbucket.ru/pyconru/speakers/armin-ronacher-small)
+
+<div markdown="1">
+**[Armin Ronacher](http://lucumr.pocoo.org)**, один из основателей [Pocoo Team](http://www.pocoo.org/). Широко известен как автор [Flask](http://flask.pocoo.org/) и [Jinja2](http://www.pocoo.org/projects/jinja2/#jinja2).
+
+**Advanced Flask patterns**
+
+**Длительность:** 1 час
+</div>
+
+![holger-krekel](http://dropbucket.ru/pyconru/speakers/holger-krekel-small)
+
+<div markdown="1">
+**[Holger Krekel](http://holgerkrekel.net/)**, основатель [PyPy Project](http://pypy.org/), автор популярных инстументов [py.test](http://pytest.org/latest/) и [tox](http://codespeak.net/tox/).
+
+**Re-inventing Python packaging and testing**
+
+Python still does not have a built-in installer that can install dependencies.  You have to first install setuptools/distribute and then use easy_install/pip.  Installation of packages is slow and depends on reachability of  pypi.python.org and other servers.  There is no quality control where you could e. g. see on which platforms the package successfully installs, let alone has its automated tests passing.  There is not really a standard way to run tests.  This talk outlines my plans for improving the situation, including a demo of a new (in-development) PyPI server that speeds up installation by an order of magnitude for many packages.
+
+**Длительность:** 50 минут
+</div>
+
+![david-cramer](http://dropbucket.ru/pyconru/speakers/david-cramer-small)
+
+<div markdown="1">
+**[David Cramer](http://justcramer.com/)**, специалист по высоким нагрузкам из [DISQUS](http://disqus.com/), автор [Sentry](https://www.getsentry.com).
+
+**Scaling for Success: How to build proper scalable web apps**
+
+I'll talk about what I see as a successful scaling strategy for growing companies. Specifically it will focus on things you should avoid early on, and where you can get easy wins. Additionally I'll cover various high level components of an early scaling strategy such as database sharding, CDN caching, and overall architecture to simplify the growing pains.  
+- How to approach sharding (architecture) 
+- Horizontal vs vertical, which solution is right and when  
+- How we sharded the Django ORM 
+- Materialized views using Redis  
+- Buffered counters using Redis
+
+**Длительность:** 1 час
+</div>
+
+![jeff-lindsay](http://dropbucket.ru/pyconru/speakers/jeff-lindsay-small)
+
+<div markdown="1">
+**[Jeff Lindsay](http://progrium.com)**, хакер-философ, разработчик, архитектор, основатель крупнейшего в США коммьюнити-центра для хакеров [Hacker Dojo](http://www.hackerdojo.com).
+
+**Distributed Service Architectures with Python**
+
+**Длительность:** 50 минут
+</div>
 
 ![svetlov](http://dropbucket.ru/pyconru/svetlov)
 
