@@ -104,8 +104,8 @@ Python already has a lot of libraries for network programming. The most famous a
 
 **Statistical analysis of the Python**
 
-Статический анализ позволяет получать информацию из исходного кода программы без её выполнения. Мы рассмотрим доступные средства статического анализа кода на языке Python (PyLint, PyFlakes, Pep8, инспекции в IDE) и поговорим о том, какие проблемы они могут автоматически находить в коде. Я расскажу о подходах, на которых основан статический анализ в этих инструментах, более подробно остановлюсь на специфике анализа Python как динамического языка.
-Доклад познакомит с инструментами статического анализа, благодаря использованию которых в повседневной практике можно снизить количество проблем в коде на Python (ошибок, исключений, стилистических расхождений).А еще позволит узнать о теории, стоящей за инструментами статического анализа и познакомиться с особенностями применения статического анализа динамических языков типа Python.
+Statistical analysis provides the information of the source code without executing it. We'll consider available means of statistical analysis code by Python (PyLint, PyFlakes, Pep8, inspection IDE) and talk about problems we can find in code automatically by this. We'll consider available means of statistical analysis code by Python (PyLint, PyFlakes, Pep8, inspection IDE) and will talk about problems that they can find automatically in code. I'll talk about the approaches that are based statistical analysis in these tools and about the specifics of the analysis of Python as dynamic language.
+Report introduces you whith tools of statistical analysis, using that in daily practice you can reduce quantity of problems in the Python code (errors, exceptions, and stylistic differences).
 </div>
 
 
