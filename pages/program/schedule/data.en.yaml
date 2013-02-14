@@ -17,7 +17,7 @@ day1:
     - break: "Break"
       time: "12:10"
 
-    - speaker: "Dr. Russell Keith-Magee, Django Software Foundation, president"
+    - speaker: "Dr. Russell Keith-Magee, president of the Django Software Foundation"
       talk: "Django Roadmap"
       time: "12:20"
 
@@ -53,10 +53,10 @@ day1:
     - speaker: "Михаил Коробов, Python-developer"
       talk: "Как перейти на Python 3?"
       time: "16:00"
-    - speaker: "Александр Кошелев, Яндекс"
+    - speaker: "Александр Кошелев, Yandex"
       talk: "Препарирование работы асинхронного кода"
       time: "16:30"
-    - speaker: "Константин Лопухин, ЧТД"
+    - speaker: "Константин Лопухин, ChTD"
       talk: "Подход к версионированию данных в реляционной БД"
       time: "17:00"
   
@@ -67,13 +67,13 @@ day1:
     - speaker: "Роман Иманкулов, Doist Inc"
       talk: "Celery для внутреннего API в инфраструктуре"
       time: "16:30"
-    - speaker: "Михаил Юматов, Трилан, Senior programmer"
+    - speaker: "Михаил Юматов, Trilan, Senior programmer"
       talk: "SaltStack"
       time: "17:00"
       
   
   b6:
-    - break: "Break, запись на Lightning Talks"
+    - break: "Break. Registration on Lightning Talks"
       time: "17:30"
   
   b7:
@@ -85,7 +85,7 @@ day1:
       time: "19:00"
     
   b9a:
-    - break: "Афтепати, баня, боулинг, бильярд, игротека от Ideco"
+    - break: "Afterparty, Russian baths, bowling, billiards, game-party от Ideco"
       time: "20:30"
 
   b9b:
@@ -93,7 +93,7 @@ day1:
       time: "20:30"
   
   b9c:
-    - speaker: "Михаил Коробов, Python-разработчик"
+    - speaker: "Михаил Коробов, Python-developer"
       talk: "Воркшоп: Портируем библиотеку на третий python"
       time: "21:00"
 
@@ -104,10 +104,10 @@ day1:
 
 day2:
   b1a: 
-    - speaker: "Денис Колодин, программист-аналитик, ИК Форум"
+    - speaker: "Денис Колодин, IK Forum, programmer-analyst"
       talk: "Low-latency и soft-realtime на Python"
       time: "10:00"
-    - speaker: "Дмитрий Прокофьев разработчик, Яндекс"
+    - speaker: "Дмитрий Прокофьев, Yandex, developer"
       talk: "Эволюция системы синхронизации данных между сервисами"
       time: "10:45"
   b2:
@@ -152,13 +152,13 @@ day2:
       talk: "Redis, the hacker's database"
       time: "16:10"
   b6:
-    - break: "Перерыв, запись на Lightning Talks"
+    - break: "Break. Registration on Lightning Talks"
       time: "17:00"
   b7:
     - speaker: "Russell Keith-Magee"
       talk: "Building a development community: Lessons and challenges"
       time: "17:10"
-    - speaker: "Круглый стол"
+    - speaker: "Round table"
       talk: "Построении Python-community в России"
   b8:
     - talk: "Lightning Talks"
