@@ -3,21 +3,21 @@ day1:
     - time: "9:00"
       talk: "Registrations"
 
-    - speaker: "Armin Ronacher, автор Flask и Jinja2"
+    - speaker: "Armin Ronacher, author of Flask and Jinja2"
       talk: "Advanced Flask patterns"
       time: "10:00"
 
     - break: "Break"
       time: "11:00"
 
-    - speaker: "David Cramer, специалист по высоким нагрузкам из DISQUS"
+    - speaker: "David Cramer, DISQU, highload specialist"
       talk: "Building Scalable Web Apps"
       time: "11:10"
       
     - break: "Break"
       time: "12:10"
 
-    - speaker: "Dr. Russell Keith-Magee, президент Django Software Foundation"
+    - speaker: "Dr. Russell Keith-Magee, Django Software Foundation, president"
       talk: "Django Roadmap"
       time: "12:20"
 
@@ -35,13 +35,13 @@ day1:
       time: "14:45" 
 
   b3b:
-    - speaker: "Гриша Костюк , python-разработчик, Ostrovok.ru"
+    - speaker: "Гриша Костюк, Ostrovok.ru, python-developer"
       talk: "Оптимизация тестов на примере django и postgres"
       time: "14:00"
     - speaker: "Илья Шаляпин, Евгений Генералов , JetStyle"
       talk: "Разработка через тестирование в Python и Djnago на практике"
       time: "14:30"
-    - speaker: "Сергей Матвеенко ,Старший программист, Positive Technologies"
+    - speaker: "Сергей Матвеенко, Positive Technologies, Senior programmer"
       talk: "MongoEngine: NoORM for NoSQL"
       time: "15:00"
   
@@ -50,7 +50,7 @@ day1:
       time: "15:30"
   
   b5a:
-    - speaker: "Михаил Коробов, Python-разработчик"
+    - speaker: "Михаил Коробов, Python-developer"
       talk: "Как перейти на Python 3?"
       time: "16:00"
     - speaker: "Александр Кошелев, Яндекс"
@@ -61,19 +61,19 @@ day1:
       time: "17:00"
   
   b5b:
-    - speaker: "Илья Биин , архитектор, Ostrovok.ru"
+    - speaker: "Илья Биин, Ostrovok.ru, Software architect"
       talk: "Построение распределенной системы кеширования и обмена сообщениями"
       time: "16:00"
-    - speaker: "Роман Иманкулов, Doist Inc."
+    - speaker: "Роман Иманкулов, Doist Inc"
       talk: "Celery для внутреннего API в инфраструктуре"
       time: "16:30"
-    - speaker: "Михаил Юматов , старший разработчик, Трилан"
+    - speaker: "Михаил Юматов, Трилан, Senior programmer"
       talk: "SaltStack"
       time: "17:00"
       
   
   b6:
-    - break: "Перерыв, запись на Lightning Talks"
+    - break: "Break, запись на Lightning Talks"
       time: "17:30"
   
   b7:
