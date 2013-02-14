@@ -73,6 +73,21 @@ The description will come up soon...
 **Длительность:** 50 минут
 </div>
 
+![Amir Salihefendic](http://dropbucket.ru/pyconru/speakers/amir-salihefendic-small)
+
+<div markdown="1">
+**[Amir Salihefendic](http://amix.dk/)**, основатель компании [Doist Ltd](http://Doist.io/).  В прошлом - ведущий разработчик и со-основатель [Plurk.com](http://plurk.com), одного из самых крупных в мире сайтов на Питоне.
+
+**Redis, the hacker's database**
+- simple_queue: feature set, comparison with Celery and Rq
+- redis_graph: available options, integration with other tools, and the big-O performance
+- bitmapist, idea, archtecture, reports based on cohorts
+- optionally: tagged-logger / ormist (lightweight Object-to-Redis mapper)
+- optionally: scripting possibility of Lua, Lua-jit (almost as fast as C)
+
+**Длительность:** 50 минут
+</div>
+
 ![svetlov](http://dropbucket.ru/pyconru/svetlov)
 
 <div markdown="1">
@@ -107,7 +122,7 @@ The description will come up soon...
 ![imankulov](http://dropbucket.ru/pyconru/imankulov)
 
 <div markdown="1">
-**Роман Иманкулов**, разработчик Doist Inc.  
+**Роман Иманкулов**, разработчик [Doist Ltd](http://Doist.io/).  
 **Celery для внутреннего API в инфраструктуре SaaS**
 
 Основная задача Celery состоит в том, чтобы исполнять фоновые задачи. Как правило, процессы celery используют ту же кодовую базу, что и основное приложение.
