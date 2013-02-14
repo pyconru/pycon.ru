@@ -9,14 +9,12 @@
 
 With the impending release of Django 1.5, now is a good time to reflect on the roadmap for Django 1.6 and beyond. In this talk, Django Core Developer Russell Keith-Magee will gaze into his crystal ball and speculate about what the future may hold for Django -- both in the short term, and possibilities for the long term.   
 Audience: Existing Django users interested in what the future holds for their web framework of choice.
-
 **Time:** 1 hour
 
 **Building a development community: Lessons and challenges**
 
 Over the last 7 years, Django has grown from an in-house project in an obscure Kansas newsroom, to a project with global reach, in use on all 7 continents, with contributors and users all over the planet. How has the Django project managed this process of growth? What lessons can other projects learn from Django's successes and failures? And how can Django protect it's long term survival? In this talk, Django Core Developer Russell Keith-Magee will reflect on the history of the Django project, and look at how Django -- and other open source projects -- can build, grow and sustain their communities.   
 Audience: Anyone involved in open source.
-
 **Time:** 40 min
 </div>
 
@@ -28,7 +26,6 @@ Audience: Anyone involved in open source.
 **Advanced Flask patterns**
 
 This talk shows some interesting patterns for large scale Flask applications and how Flask extension should be structured. It also dives into some of the more unknown helpers in the Werkzeug and Jinja2 base libraries. The goal of this talk is to share some of the things that the documentation can’t explain well by itself. Required prerequisites: basic knowledge of how Flask operates.
-
 **Time:** 1 hour
 </div>
 
@@ -40,7 +37,6 @@ This talk shows some interesting patterns for large scale Flask applications and
 **Re-inventing Python packaging and testing**
 
 Python still does not have a built-in installer that can install dependencies.  You have to first install setuptools/distribute and then use easy_install/pip.  Installation of packages is slow and depends on reachability of  pypi.python.org and other servers.  There is no quality control where you could e. g. see on which platforms the package successfully installs, let alone has its automated tests passing.  There is not really a standard way to run tests.  This talk outlines my plans for improving the situation, including a demo of a new (in-development) PyPI server that speeds up installation by an order of magnitude for many packages.
-
 **Time:** 50 min
 </div>
 
@@ -57,7 +53,6 @@ I'll talk about what I see as a successful scaling strategy for growing companie
 - How we sharded the Django ORM   
 - Materialized views using Redis    
 - Buffered counters using Redis 
-
 **Time:** 1 hour
 </div>
 
@@ -69,7 +64,6 @@ I'll talk about what I see as a successful scaling strategy for growing companie
 **Distributed Service Architectures with Python**
 
 The description will come up soon...
-
 **Time:** 50 min
 </div>
 
@@ -84,7 +78,6 @@ The description will come up soon...
 - bitmapist, idea, archtecture, reports based on cohorts    
 - optionally: tagged-logger / ormist (lightweight Object-to-Redis mapper)   
 - optionally: scripting possibility of Lua, Lua-jit (almost as fast as C)
-
 **Time:** 50 min
 </div>
 
@@ -101,7 +94,6 @@ Python already has a lot of libraries for network programming. The most famous a
 
 <div markdown="1">
 **Andrew Vlasovskih**,IDE PyCharm developer in JetBrains, author of libraries funcparserlib and iterpipes.
-
 **Statistical analysis of the Python**
 
 Statistical analysis provides the information of the source code without executing it. We'll consider available means of statistical analysis code by Python (PyLint, PyFlakes, Pep8, inspection IDE) and talk about problems we can find in code automatically by this. We'll consider available means of statistical analysis code by Python (PyLint, PyFlakes, Pep8, inspection IDE) and will talk about problems that they can find automatically in code. I'll talk about the approaches that are based statistical analysis in these tools and about the specifics of the analysis of Python as dynamic language.
