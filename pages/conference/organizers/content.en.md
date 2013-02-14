@@ -39,7 +39,7 @@
 ![kiskachiii](http://dropbucket.ru/pycon/kiskachiii) - Maria Kiskachi
 
 
-![blincheva](http://dropbucket.ru/pycon/blincheva) - Nuta Blincheva 
+![blincheva](http://dropbucket.ru/pycon/blincheva) - Nuta Blinicheva 
 
 
 ![potapova](http://dropbucket.ru/pyconru/potapova) - Alexandra Potapova
