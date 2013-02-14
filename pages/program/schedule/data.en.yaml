@@ -22,7 +22,7 @@ day1:
       time: "12:20"
 
   b2:
-    - break: Обед
+    - break: "Lunch Break"
       time: "13:20"
   
   b3a:
@@ -46,7 +46,7 @@ day1:
       time: "15:00"
   
   b4:
-    - break: "Кофе-брейк"
+    - break: "Coffee break"
       time: "15:30"
   
   b5a:
@@ -81,7 +81,7 @@ day1:
       time: "18:00"
   
   b8:
-    - break: "Ужин, свободное время"
+    - break: "Dinner & Free time"
       time: "19:00"
     
   b9a:
@@ -111,7 +111,7 @@ day2:
       talk: "Эволюция системы синхронизации данных между сервисами"
       time: "10:45"
   b2:
-    - break: "Перерыв"
+    - break: "Break"
       time: "11:30"
 
   b3:
@@ -134,19 +134,19 @@ day2:
       time: "10:00"
 
   b4:
-    - break: "Обед"
+    - break: "Lunch Break"
       time: "13:30"
   
   b5:
     - speaker: "Holger Kregel, основатель PyPy Project"
       talk: "Re-inventing Python packaging and testing"
       time: "14:10"
-    - break: "Перерыв"
+    - break: "Break"
       time: "15:00"
     - speaker: "Jeff Lindsay, основатель крупнейшего в США коммьюнити-центра для хакеров Hacker Dojo"
       talk: "Distributed Service Architectures with Python"
       time: "15:10"
-    - break: "Перерыв"
+    - break: "Break"
       time: "16:00"
     - speaker: "Amir Salihefendic, основатель Doist Inc"
       talk: "Redis, the hacker's database"
