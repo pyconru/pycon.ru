@@ -26,22 +26,22 @@ day1:
       time: "13:20"
   
   b3a:
-    - speaker: "Андрей Светлов, Python Core Developer"
+    - speaker: "Andrey Svetlov, Python Core Developer"
       talk: "PEP 3156 — стандарт на асинхронные операции в Питоне"
       time: "14:00"
 
-    - speaker: "Андрей Власовских, JetBrains"
+    - speaker: "Andrey Vlasovskikh, JetBrains"
       talk: "Статический анализ языка Python"
       time: "14:45" 
 
   b3b:
-    - speaker: "Гриша Костюк, Ostrovok.ru, python-developer"
+    - speaker: "Grisha Kostyuk, Ostrovok.ru, python-developer"
       talk: "Оптимизация тестов на примере django и postgres"
       time: "14:00"
-    - speaker: "Илья Шаляпин, Евгений Генералов , JetStyle"
+    - speaker: "Ilya Shalyapin, Yevgeniy Generalov, JetStyle"
       talk: "Разработка через тестирование в Python и Djnago на практике"
       time: "14:30"
-    - speaker: "Сергей Матвеенко, Positive Technologies, Senior programmer"
+    - speaker: "Sergey Matveyenko, Positive Technologies, Senior programmer"
       talk: "MongoEngine: NoORM for NoSQL"
       time: "15:00"
   
@@ -50,24 +50,24 @@ day1:
       time: "15:30"
   
   b5a:
-    - speaker: "Михаил Коробов, Python-developer"
+    - speaker: "Mikhail Korobov, Python-developer"
       talk: "Как перейти на Python 3?"
       time: "16:00"
-    - speaker: "Александр Кошелев, Yandex"
+    - speaker: "Aleksandr Koshelev, Yandex"
       talk: "Препарирование работы асинхронного кода"
       time: "16:30"
-    - speaker: "Константин Лопухин, ChTD"
+    - speaker: "Konstantin Lopukhin, ChTD"
       talk: "Подход к версионированию данных в реляционной БД"
       time: "17:00"
   
   b5b:
-    - speaker: "Илья Биин, Ostrovok.ru, Software architect"
+    - speaker: "Ilya Biin, Ostrovok.ru, Software architect"
       talk: "Построение распределенной системы кеширования и обмена сообщениями"
       time: "16:00"
-    - speaker: "Роман Иманкулов, Doist Inc"
+    - speaker: "Roman Imankulov, Doist Inc"
       talk: "Celery для внутреннего API в инфраструктуре"
       time: "16:30"
-    - speaker: "Михаил Юматов, Trilan, Senior programmer"
+    - speaker: "Mikhail Yumatov, Trilan, Senior programmer"
       talk: "SaltStack"
       time: "17:00"
       
@@ -93,7 +93,7 @@ day1:
       time: "20:30"
   
   b9c:
-    - speaker: "Михаил Коробов, Python-developer"
+    - speaker: "Mikhail Korobov, Python-developer"
       talk: "Воркшоп: Портируем библиотеку на третий python"
       time: "21:00"
 
@@ -104,10 +104,10 @@ day1:
 
 day2:
   b1a: 
-    - speaker: "Денис Колодин, IK Forum, programmer-analyst"
+    - speaker: "Denis Kolodin, IK Forum, programmer-analyst"
       talk: "Low-latency и soft-realtime на Python"
       time: "10:00"
-    - speaker: "Дмитрий Прокофьев, Yandex, developer"
+    - speaker: "Dmitriy Prokofyev, Yandex, developer"
       talk: "Эволюция системы синхронизации данных между сервисами"
       time: "10:45"
   b2:
@@ -115,21 +115,21 @@ day2:
       time: "11:30"
 
   b3:
-    - speaker: "Данила Штань, руководитель разработки холдинга 66.ru"
+    - speaker: "Danila Shtan, руководитель разработки холдинга 66.ru"
       talk: "uWSGI как швейцарский нож python-web-разработчика"
       time: "12:00" 
-    - speaker: "Александр Будкарь , Руководитель службы разработки инфраструктуры веб поиска, Яндекс"
+    - speaker: "Aleksandr Budkar, Yandex, Руководитель службы разработки инфраструктуры веб поиска"
       talk: "Распределенное исполнение python кода на 10000+ серверах"
       time: "12:45" 
    
 
   b1b:
-    - speaker: "Андрей Светлов"
+    - speaker: "Andrey Svetlov"
       talk: "Мастер класс по созданию сетевых приложений с нуля"
       time: "10:00"
 
   b1c:
-    - speaker: "Константин Лопухин"
+    - speaker: "Konstantin Lopuhin"
       talk: "Пишем свой интерпретатор с использованием RPython"
       time: "10:00"
 
