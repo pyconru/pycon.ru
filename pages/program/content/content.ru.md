@@ -5,15 +5,17 @@
 <div markdown="1">
 **[Dr. Russell Keith-Magee](http://cecinestpasun.com)**, президент [Django Software Foundation](https://www.djangoproject.com/foundation/), член Django core team, CTO компании [TradesCloud](http://tradescloud.com/).
 
-**Django Roadmap**
+**Django 1.6 and beyond: The Django Roadmap**
 
-The description will come up soon...
+With the impending release of Django 1.5, now is a good time to reflect on the roadmap for Django 1.6 and beyond. In this talk, Django Core Developer Russell Keith-Magee will gaze into his crystal ball and speculate about what the future may hold for Django -- both in the short term, and possibilities for the long term.   
+Audience: Existing Django users interested in what the future holds for their web framework of choice.
 
 **Длительность:** 1 час
 
 **Building a development community: Lessons and challenges**
 
-The description will come up soon...
+Over the last 7 years, Django has grown from an in-house project in an obscure Kansas newsroom, to a project with global reach, in use on all 7 continents, with contributors and users all over the planet. How has the Django project managed this process of growth? What lessons can other projects learn from Django's successes and failures? And how can Django protect it's long term survival? In this talk, Django Core Developer Russell Keith-Magee will reflect on the history of the Django project, and look at how Django -- and other open source projects -- can build, grow and sustain their communities.   
+Audience: Anyone involved in open source.
 
 **Длительность:** 40 минут
 </div>
