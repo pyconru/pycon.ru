@@ -1,53 +1,53 @@
-##Доклады##
+##Reports##
 
 ![russell-keith-magee](http://dropbucket.ru/pyconru/speakers/russell-keith-magee-small)
 
 <div markdown="1">
-**[Dr. Russell Keith-Magee](http://cecinestpasun.com)**, президент [Django Software Foundation](https://www.djangoproject.com/foundation/), член Django core team, CTO компании [TradesCloud](http://tradescloud.com/).
+**[Dr. Russell Keith-Magee](http://cecinestpasun.com)**, president of the [Django Software Foundation](https://www.djangoproject.com/foundation/), member of the Django core team and co-founder of the [TradesCloud](http://tradescloud.com/).
 
 **Django 1.6 and beyond: The Django Roadmap**
 
 With the impending release of Django 1.5, now is a good time to reflect on the roadmap for Django 1.6 and beyond. In this talk, Django Core Developer Russell Keith-Magee will gaze into his crystal ball and speculate about what the future may hold for Django -- both in the short term, and possibilities for the long term.   
 Audience: Existing Django users interested in what the future holds for their web framework of choice.
 
-**Длительность:** 1 час
+**Time:** 1 hour
 
 **Building a development community: Lessons and challenges**
 
 Over the last 7 years, Django has grown from an in-house project in an obscure Kansas newsroom, to a project with global reach, in use on all 7 continents, with contributors and users all over the planet. How has the Django project managed this process of growth? What lessons can other projects learn from Django's successes and failures? And how can Django protect it's long term survival? In this talk, Django Core Developer Russell Keith-Magee will reflect on the history of the Django project, and look at how Django -- and other open source projects -- can build, grow and sustain their communities.   
 Audience: Anyone involved in open source.
 
-**Длительность:** 40 минут
+**Time:** 40 min
 </div>
 
 ![armin-ronacher](http://dropbucket.ru/pyconru/speakers/armin-ronacher-small)
 
 <div markdown="1">
-**[Armin Ronacher](http://lucumr.pocoo.org)**, один из основателей [Pocoo Team](http://www.pocoo.org/). Широко известен как автор [Flask](http://flask.pocoo.org/) и [Jinja2](http://www.pocoo.org/projects/jinja2/#jinja2).
+**[Armin Ronacher](http://lucumr.pocoo.org)**, one of the founding members of the[Pocoo Team](http://www.pocoo.org/). Widely known like author [Flask](http://flask.pocoo.org/) and [Jinja2](http://www.pocoo.org/projects/jinja2/#jinja2).
 
 **Advanced Flask patterns**
 
 This talk shows some interesting patterns for large scale Flask applications and how Flask extension should be structured. It also dives into some of the more unknown helpers in the Werkzeug and Jinja2 base libraries. The goal of this talk is to share some of the things that the documentation can’t explain well by itself. Required prerequisites: basic knowledge of how Flask operates.
 
-**Длительность:** 1 час
+**Time:** 1 hour
 </div>
 
 ![holger-krekel](http://dropbucket.ru/pyconru/speakers/holger-krekel-small)
 
 <div markdown="1">
-**[Holger Krekel](http://holgerkrekel.net/)**, основатель [PyPy Project](http://pypy.org/), автор популярных инстументов [py.test](http://pytest.org/latest/) и [tox](http://codespeak.net/tox/).
+**[Holger Krekel](http://holgerkrekel.net/)**, founder of the [PyPy Project](http://pypy.org/), author of the [py.test](http://pytest.org/latest/) and [tox](http://codespeak.net/tox/) testing tools.
 
 **Re-inventing Python packaging and testing**
 
 Python still does not have a built-in installer that can install dependencies.  You have to first install setuptools/distribute and then use easy_install/pip.  Installation of packages is slow and depends on reachability of  pypi.python.org and other servers.  There is no quality control where you could e. g. see on which platforms the package successfully installs, let alone has its automated tests passing.  There is not really a standard way to run tests.  This talk outlines my plans for improving the situation, including a demo of a new (in-development) PyPI server that speeds up installation by an order of magnitude for many packages.
 
-**Длительность:** 50 минут
+**Time:** 50 min
 </div>
 
 ![david-cramer](http://dropbucket.ru/pyconru/speakers/david-cramer-small)
 
 <div markdown="1">
-**[David Cramer](http://justcramer.com/)**, специалист по высоким нагрузкам из [DISQUS](http://disqus.com/), автор [Sentry](https://www.getsentry.com).
+**[David Cramer](http://justcramer.com/)**, highload specialist from [DISQUS](http://disqus.com/), author of [Sentry](https://www.getsentry.com).
 
 **Scaling for Success: How to build proper scalable web apps**
 
@@ -58,25 +58,25 @@ I'll talk about what I see as a successful scaling strategy for growing companie
 - Materialized views using Redis    
 - Buffered counters using Redis 
 
-**Длительность:** 1 час
+**Time:** 1 hour
 </div>
 
 ![jeff-lindsay](http://dropbucket.ru/pyconru/speakers/jeff-lindsay-small)
 
 <div markdown="1">
-**[Jeff Lindsay](http://progrium.com)**, хакер-философ, разработчик, архитектор, основатель крупнейшего в США коммьюнити-центра для хакеров [Hacker Dojo](http://www.hackerdojo.com).
+**[Jeff Lindsay](http://progrium.com)**, hacker-philosopher, developer, web architect, founder of the largest community center for hackers [Hacker Dojo](http://www.hackerdojo.com).
 
 **Distributed Service Architectures with Python**
 
 The description will come up soon...
 
-**Длительность:** 50 минут
+**Time:** 50 min
 </div>
 
 ![Amir Salihefendic](http://dropbucket.ru/pyconru/speakers/amir-salihefendic-small)
 
 <div markdown="1">
-**[Amir Salihefendic](http://amix.dk/)**, основатель компании [Doist Ltd](http://Doist.io/).  В прошлом - ведущий разработчик и со-основатель [Plurk.com](http://plurk.com), одного из самых крупных в мире сайтов на Питоне.
+**[Amir Salihefendic](http://amix.dk/)**, founder of the [Doist Ltd](http://Doist.io/). Lead developer and co-founder one of the largest in the world sites by Python [Plurk.com](http://plurk.com) in the past.
 
 **Redis, the hacker's database**    
 - simple_queue: feature set, comparison with Celery and Rq    
@@ -85,24 +85,24 @@ The description will come up soon...
 - optionally: tagged-logger / ormist (lightweight Object-to-Redis mapper)   
 - optionally: scripting possibility of Lua, Lua-jit (almost as fast as C)
 
-**Длительность:** 50 минут
+**Time:** 50 min
 </div>
 
 ![svetlov](http://dropbucket.ru/pyconru/svetlov)
 
 <div markdown="1">
-**Андрей Светлов**, Python Core Developer, соорганизатор UA PyCon.  
-**PEP 3156 — стандарт на асинхронные операции в Питоне.**
+**Andrew Svetlov**, Python Core Developer, Co-organizer UA PyCon.  
+**PEP 3156 — Standard of asynchronous IO Support Rebooted in Python.**
   
-Питон уже имеет немало библиотек для сетевого программирования. Самые известные — twisted, tornado, gevent, medusa/asyncore. Эти системы не совместимы между собой, что не дает возможности писать кроссплатформенные библиотеки работающие в любом event loop. PEP 3156 предлагает новый общий стандарт, который смогут поддерживать все разработчики.
+Python already has a lot of libraries for network programming. The most famous are twisted, tornado, gevent, medusa/asyncore. These systems are not compatible with each other, that does not give a possibility to write cross-platform libraries working in any event loop. PEP 3156 proposes new general standart, that will be able to support all developers.
 </div>
 
 ![vlasovskii](http://dropbucket.ru/pycon/vlasovskii)
 
 <div markdown="1">
-**Андрей Власовских**, разработчик IDE PyCharm в JetBrains, автор библиотек funcparserlib и iterpipes.
+**Andrew Vlasovskih**,IDE PyCharm developer in JetBrains, author of libraries funcparserlib and iterpipes.
 
-**Статический анализ языка Python**
+**Statistical analysis of the Python**
 
 Статический анализ позволяет получать информацию из исходного кода программы без её выполнения. Мы рассмотрим доступные средства статического анализа кода на языке Python (PyLint, PyFlakes, Pep8, инспекции в IDE) и поговорим о том, какие проблемы они могут автоматически находить в коде. Я расскажу о подходах, на которых основан статический анализ в этих инструментах, более подробно остановлюсь на специфике анализа Python как динамического языка.
 Доклад познакомит с инструментами статического анализа, благодаря использованию которых в повседневной практике можно снизить количество проблем в коде на Python (ошибок, исключений, стилистических расхождений).А еще позволит узнать о теории, стоящей за инструментами статического анализа и познакомиться с особенностями применения статического анализа динамических языков типа Python.
