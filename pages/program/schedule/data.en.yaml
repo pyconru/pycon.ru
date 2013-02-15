@@ -65,7 +65,7 @@ day1:
       talk: "Построение распределенной системы кеширования и обмена сообщениями"
       time: "16:00"
     - speaker: "Roman Imankulov, Doist Inc"
-      talk: "Celery для внутреннего API в инфраструктуре"
+      talk: "Celery for internal API in Saas infrastructure"
       time: "16:30"
     - speaker: "Mikhail Yumatov, Trilan, Senior programmer"
       talk: "SaltStack"
