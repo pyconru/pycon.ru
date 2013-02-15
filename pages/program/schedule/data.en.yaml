@@ -27,11 +27,11 @@ day1:
   
   b3a:
     - speaker: "Andrey Svetlov, Python Core Developer"
-      talk: "PEP 3156 — стандарт на асинхронные операции в Питоне"
+      talk: "PEP 3156 — Standard of asynchronous IO Support Rebooted in Python"
       time: "14:00"
 
     - speaker: "Andrey Vlasovskikh, JetBrains"
-      talk: "Статический анализ языка Python"
+      talk: "Statistical analysis of the Python"
       time: "14:45" 
 
   b3b:
@@ -94,7 +94,7 @@ day1:
   
   b9c:
     - speaker: "Mikhail Korobov, Python-developer"
-      talk: "Воркшоп: Портируем библиотеку на третий python"
+      talk: "Workshop: Porting library to Python 3"
       time: "21:00"
 
   b10:
