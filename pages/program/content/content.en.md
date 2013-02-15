@@ -3,52 +3,45 @@
 ![russell-keith-magee](http://dropbucket.ru/pyconru/speakers/russell-keith-magee-small)
 
 <div markdown="1">
-**[Dr. Russell Keith-Magee](http://cecinestpasun.com)**, president of the [Django Software Foundation](https://www.djangoproject.com/foundation/), member of the Django core team and co-founder of the [TradesCloud](http://tradescloud.com/).
-
+**[Dr. Russell Keith-Magee](http://cecinestpasun.com)**, president of the [Django Software Foundation](https://www.djangoproject.com/foundation/), member of the Django core team and co-founder of the [TradesCloud](http://tradescloud.com/).   
 **Django 1.6 and beyond: The Django Roadmap**
 
 With the impending release of Django 1.5, now is a good time to reflect on the roadmap for Django 1.6 and beyond. In this talk, Django Core Developer Russell Keith-Magee will gaze into his crystal ball and speculate about what the future may hold for Django -- both in the short term, and possibilities for the long term.   
-Audience: Existing Django users interested in what the future holds for their web framework of choice.
-
+Audience: Existing Django users interested in what the future holds for their web framework of choice.    
 **Time:** 1 hour
+
 
 **Building a development community: Lessons and challenges**
 
 Over the last 7 years, Django has grown from an in-house project in an obscure Kansas newsroom, to a project with global reach, in use on all 7 continents, with contributors and users all over the planet. How has the Django project managed this process of growth? What lessons can other projects learn from Django's successes and failures? And how can Django protect it's long term survival? In this talk, Django Core Developer Russell Keith-Magee will reflect on the history of the Django project, and look at how Django -- and other open source projects -- can build, grow and sustain their communities.   
-Audience: Anyone involved in open source.
-
+Audience: Anyone involved in open source.   
 **Time:** 40 min
 </div>
 
 ![armin-ronacher](http://dropbucket.ru/pyconru/speakers/armin-ronacher-small)
 
 <div markdown="1">
-**[Armin Ronacher](http://lucumr.pocoo.org)**, one of the founding members of the[Pocoo Team](http://www.pocoo.org/). Widely known like author [Flask](http://flask.pocoo.org/) and [Jinja2](http://www.pocoo.org/projects/jinja2/#jinja2).
-
+**[Armin Ronacher](http://lucumr.pocoo.org)**, one of the founding members of the[Pocoo Team](http://www.pocoo.org/). Widely known like author [Flask](http://flask.pocoo.org/) and [Jinja2](http://www.pocoo.org/projects/jinja2/#jinja2).   
 **Advanced Flask patterns**
 
-This talk shows some interesting patterns for large scale Flask applications and how Flask extension should be structured. It also dives into some of the more unknown helpers in the Werkzeug and Jinja2 base libraries. The goal of this talk is to share some of the things that the documentation can’t explain well by itself. Required prerequisites: basic knowledge of how Flask operates.
-
+This talk shows some interesting patterns for large scale Flask applications and how Flask extension should be structured. It also dives into some of the more unknown helpers in the Werkzeug and Jinja2 base libraries. The goal of this talk is to share some of the things that the documentation can’t explain well by itself. Required prerequisites: basic knowledge of how Flask operates.    
 **Time:** 1 hour
 </div>
 
 ![holger-krekel](http://dropbucket.ru/pyconru/speakers/holger-krekel-small)
 
 <div markdown="1">
-**[Holger Krekel](http://holgerkrekel.net/)**, founder of the [PyPy Project](http://pypy.org/), author of the [py.test](http://pytest.org/latest/) and [tox](http://codespeak.net/tox/) testing tools.
-
+**[Holger Krekel](http://holgerkrekel.net/)**, founder of the [PyPy Project](http://pypy.org/), author of the [py.test](http://pytest.org/latest/) and [tox](http://codespeak.net/tox/) testing tools.    
 **Re-inventing Python packaging and testing**
 
-Python still does not have a built-in installer that can install dependencies.  You have to first install setuptools/distribute and then use easy_install/pip.  Installation of packages is slow and depends on reachability of  pypi.python.org and other servers.  There is no quality control where you could e. g. see on which platforms the package successfully installs, let alone has its automated tests passing.  There is not really a standard way to run tests.  This talk outlines my plans for improving the situation, including a demo of a new (in-development) PyPI server that speeds up installation by an order of magnitude for many packages.
-
+Python still does not have a built-in installer that can install dependencies.  You have to first install setuptools/distribute and then use easy_install/pip.  Installation of packages is slow and depends on reachability of  pypi.python.org and other servers.  There is no quality control where you could e. g. see on which platforms the package successfully installs, let alone has its automated tests passing.  There is not really a standard way to run tests.  This talk outlines my plans for improving the situation, including a demo of a new (in-development) PyPI server that speeds up installation by an order of magnitude for many packages.    
 **Time:** 50 min
 </div>
 
 ![david-cramer](http://dropbucket.ru/pyconru/speakers/david-cramer-small)
 
 <div markdown="1">
-**[David Cramer](http://justcramer.com/)**, highload specialist from [DISQUS](http://disqus.com/), author of [Sentry](https://www.getsentry.com).
-
+**[David Cramer](http://justcramer.com/)**, highload specialist from [DISQUS](http://disqus.com/), author of [Sentry](https://www.getsentry.com).   
 **Scaling for Success: How to build proper scalable web apps**
 
 I'll talk about what I see as a successful scaling strategy for growing companies. Specifically it will focus on things you should avoid early on, and where you can get easy wins. Additionally I'll cover various high level components of an early scaling strategy such as database sharding, CDN caching, and overall architecture to simplify the growing pains.  
@@ -56,43 +49,38 @@ I'll talk about what I see as a successful scaling strategy for growing companie
 - Horizontal vs vertical, which solution is right and when    
 - How we sharded the Django ORM   
 - Materialized views using Redis    
-- Buffered counters using Redis 
-
+- Buffered counters using Redis   
 **Time:** 1 hour
 </div>
 
 ![jeff-lindsay](http://dropbucket.ru/pyconru/speakers/jeff-lindsay-small)
 
 <div markdown="1">
-**[Jeff Lindsay](http://progrium.com)**, hacker-philosopher, developer, web architect, founder of the largest community center for hackers [Hacker Dojo](http://www.hackerdojo.com).
-
+**[Jeff Lindsay](http://progrium.com)**, hacker-philosopher, developer, web architect, founder of the largest community center for hackers [Hacker Dojo](http://www.hackerdojo.com).    
 **Distributed Service Architectures with Python**
 
-The description will come up soon...
-
+The description will come up soon...    
 **Time:** 50 min
 </div>
 
 ![Amir Salihefendic](http://dropbucket.ru/pyconru/speakers/amir-salihefendic-small)
 
 <div markdown="1">
-**[Amir Salihefendic](http://amix.dk/)**, founder of the [Doist Ltd](http://Doist.io/). Lead developer and co-founder one of the largest in the world sites by Python [Plurk.com](http://plurk.com) in the past.
+**[Amir Salihefendic](http://amix.dk/)**, founder of the [Doist Ltd](http://Doist.io/). Lead developer and co-founder one of the largest in the world sites by Python [Plurk.com](http://plurk.com) in the past.  
+**Redis, the hacker's database**
 
-**Redis, the hacker's database**    
 - simple_queue: feature set, comparison with Celery and Rq    
 - redis_graph: available options, integration with other tools, and the big-O performance   
 - bitmapist, idea, archtecture, reports based on cohorts    
 - optionally: tagged-logger / ormist (lightweight Object-to-Redis mapper)   
-- optionally: scripting possibility of Lua, Lua-jit (almost as fast as C)
-
+- optionally: scripting possibility of Lua, Lua-jit (almost as fast as C)   
 **Time:** 50 min
 </div>
 
 ![svetlov](http://dropbucket.ru/pyconru/svetlov)
 
 <div markdown="1">
-**Andrew Svetlov**, Python Core Developer, Co-organizer UA PyCon.  
-
+**Andrew Svetlov**, Python Core Developer, Co-organizer UA PyCon.   
 **PEP 3156 — Standard of asynchronous IO Support Rebooted in Python.**
   
 Python already has a lot of libraries for network programming. The most famous are twisted, tornado, gevent, medusa/asyncore. These systems are not compatible with each other, that does not give a possibility to write cross-platform libraries working in any event loop. PEP 3156 proposes new general standart, that will be able to support all developers.
@@ -101,8 +89,7 @@ Python already has a lot of libraries for network programming. The most famous a
 ![vlasovskii](http://dropbucket.ru/pycon/vlasovskii)
 
 <div markdown="1">
-**Andrew Vlasovskih**,IDE PyCharm developer in JetBrains, author of libraries funcparserlib and iterpipes.
-
+**Andrew Vlasovskih**,IDE PyCharm developer in JetBrains, author of libraries funcparserlib and iterpipes.  
 **Statistical analysis of the Python**
 
 Statistical analysis provides the information of the source code without executing it. We'll consider available means of statistical analysis code by Python (PyLint, PyFlakes, Pep8, inspection IDE) and talk about problems we can find in code automatically by this. We'll consider available means of statistical analysis code by Python (PyLint, PyFlakes, Pep8, inspection IDE) and will talk about problems that they can find automatically in code. I'll talk about the approaches that are based statistical analysis in these tools and about the specifics of the analysis of Python as dynamic language.
