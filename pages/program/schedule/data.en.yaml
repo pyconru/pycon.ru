@@ -115,10 +115,10 @@ day2:
       time: "11:30"
 
   b3:
-    - speaker: "Danila Shtan, руководитель разработки холдинга 66.ru"
+    - speaker: "Danila Shtan, leader of development in the holding group 66.ru"
       talk: "uWSGI как швейцарский нож python-web-разработчика"
       time: "12:00" 
-    - speaker: "Aleksandr Budkar, Yandex, Руководитель службы разработки инфраструктуры веб поиска"
+    - speaker: "Aleksandr Budkar, Yandex, leader of development infrastructure web search"
       talk: "Распределенное исполнение python кода на 10000+ серверах"
       time: "12:45" 
    
