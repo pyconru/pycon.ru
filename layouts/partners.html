@@ -1,0 +1,16 @@
+{% extends "_base.html" %}
+
+{% block content %}
+
+  {% for section in sectios %}
+    <h4>{{ _(section.name) }}</h4>
+    <ul>
+      {% for sponsor in section.sponsors %}
+        <li>
+          <a href="{{ sponsor.link }}"><img src="{{ sponsor.logo }}"></a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+
+{% endblock %}
