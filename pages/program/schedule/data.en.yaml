@@ -51,7 +51,7 @@ day1:
   
   b5a:
     - speaker: "Mikhail Korobov, Python-developer"
-      talk: "Как перейти на Python 3?"
+      talk: "How to transition to Python 3?"
       time: "16:00"
     - speaker: "Aleksandr Koshelev, Yandex"
       talk: "Препарирование работы асинхронного кода"
