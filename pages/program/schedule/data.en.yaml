@@ -89,7 +89,7 @@ day1:
       time: "20:30"
 
   b9b:
-    - talk: "Круглый стол: Нужно ли переходить с python 2 на python 3"
+    - talk: "Round table: Нужно ли переходить с python 2 на python 3"
       time: "20:30"
   
   b9c:
@@ -98,7 +98,7 @@ day1:
       time: "21:00"
 
   b10:
-    - break: "Конец первого дня :)"
+    - break: "End of first day :)"
       time: "24:00"
 
 
@@ -138,7 +138,7 @@ day2:
       time: "13:30"
   
   b5:
-    - speaker: "Holger Kregel, основатель PyPy Project"
+    - speaker: "Holger Kregel, founder of the PyPy Project"
       talk: "Re-inventing Python packaging and testing"
       time: "14:10"
     - break: "Break"
@@ -148,7 +148,7 @@ day2:
       time: "15:10"
     - break: "Break"
       time: "16:00"
-    - speaker: "Amir Salihefendic, основатель Doist Inc"
+    - speaker: "Amir Salihefendic, founder of the Doist Inc"
       talk: "Redis, the hacker's database"
       time: "16:10"
   b6:
