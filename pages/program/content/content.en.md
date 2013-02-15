@@ -90,28 +90,27 @@ Python already has a lot of libraries for network programming. The most famous a
 
 <div markdown="1">
 **Andrew Vlasovskih**,IDE PyCharm developer in JetBrains, author of libraries funcparserlib and iterpipes.  
-**Statistical analysis of the Python**
+**Statistical analysis of Python**
 
-Statistical analysis provides the information of the source code without executing it. We'll consider available means of statistical analysis code by Python (PyLint, PyFlakes, Pep8, inspection IDE) and talk about problems we can find in code automatically by this. We'll consider available means of statistical analysis code by Python (PyLint, PyFlakes, Pep8, inspection IDE) and will talk about problems that they can find automatically in code. I'll talk about the approaches that are based statistical analysis in these tools and about the specifics of the analysis of Python as dynamic language.
-Report introduces you whith tools of statistical analysis, using that in daily practice you can reduce quantity of problems in the Python code (errors, exceptions, and stylistic differences).
+Statistical analysis provides the information of the source code without executing it. We'll consider available means of statistical analysis code by Python (PyLint, PyFlakes, Pep8, inspection IDE) and will talk about problems that they can find automatically in code. I'll talk about the approaches that are based statistical analysis in these tools and about the specifics of the analysis of Python as dynamic language.
+Report introduces you whith tools of statistical analysis, using that in daily practice you can reduce quantity of problems in Python code (errors, exceptions, and stylistic differences).
 </div>
 
 
 ![korobov](http://dropbucket.ru/pyconru/korobov)
 
 <div markdown="1">
-**Михаил Коробов**, Python-разработчик, спикер различных Python-конференций.  
-**Как перейти на Python 3?**
+**Mike Korobov**, Python-developer, speaker of different Python-conferences.    
+**How to transition to Python 3?**
 
-Расскажу, как обстоят дела с переходом на 3й питон, зачем на него переходить и как (по моему мнению) на него переходить. Знания можно будет в тот же день применить на практике, совместно портировав библиотеку-другую в рамках вечернего воркшопа/спринта.
-Надеюсь, что после доклада и воркшопа у каждого человека появится (или систематизируется) навык портирования кода на Python 3. Этот навык в скором времени станет необходим, например, для того, чтобы читать код большинства популярных проектов (даже если пишете на 2.x). Ну и пользу для мировой цивилизации никто не отменял. 
+I'll tell how do matters stand with transition to Python 3, why should it transition and how (on my mind) transition to it. Knowledge can be applied on practice at the same day. We'll be porting several libraries on evening workshop/sprint. I hope that after the report and the workshop everyone's skill of porting code on Python 3 is systematized. This skill will become necessary soon for reading majority popular project's code for example and for benefit of the World Civilization, why not?:-)   
 </div>
 
 ![imankulov](http://dropbucket.ru/pyconru/imankulov)
 
 <div markdown="1">
-**Роман Иманкулов**, разработчик [Doist Ltd](http://Doist.io/).  
-**Celery для внутреннего API в инфраструктуре SaaS**
+**Roman Imankulov**, developer of the [Doist Ltd](http://Doist.io/).  
+**Celery for internal API in Saas infrastructure**
 
 Основная задача Celery состоит в том, чтобы исполнять фоновые задачи. Как правило, процессы celery используют ту же кодовую базу, что и основное приложение.
 Я предлагаю взглянуть на Celery с другой стороны и попробовать использовать его в роли транспорта для связи компонентов распределенного приложения.
