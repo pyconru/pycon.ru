@@ -96,3 +96,7 @@ msgstr "минуты"
 #: _base.html:89
 msgid "Hotels"
 msgstr "Где жить"
+
+#: schedule.html:32
+msgid "Day 1"
+msgstr "День 1"
