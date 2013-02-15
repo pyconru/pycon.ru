@@ -89,7 +89,7 @@ day1:
       time: "20:30"
 
   b9b:
-    - talk: "Round table: Нужно ли переходить с python 2 на python 3"
+    - talk: "Round table: Do you need to switch from python2 to python3?"
       time: "20:30"
   
   b9c:
