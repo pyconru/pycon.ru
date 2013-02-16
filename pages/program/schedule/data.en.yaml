@@ -31,7 +31,7 @@ day1:
       time: "14:00"
 
     - speaker: "Andrey Vlasovskikh, JetBrains"
-      talk: "Statistical analysis of the Python"
+      talk: "Static analysis of the Python"
       time: "14:45" 
 
   b3b:
