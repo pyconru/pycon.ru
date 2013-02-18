@@ -162,9 +162,9 @@ day2:
       time: "18:00"
 
   b7:
-    - talk: "Lightning Talks"
+    - break: "Lightning Talks"
       time: "18:10" 
 
   b8:
-    - break: "Конец второго дня :)"
+    - break: "Конец второго дня"
       time: "19:00"
