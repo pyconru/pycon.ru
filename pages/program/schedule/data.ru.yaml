@@ -18,7 +18,7 @@ day1:
       time: "12:10"
 
     - speaker: "Dr. Russell Keith-Magee, президент Django Software Foundation"
-      talk: "Django Roadmap"
+      talk: "Building a development community: Lessons and challenges"
       time: "12:20"
 
   b2:
@@ -92,12 +92,12 @@ day1:
     - talk: "Круглый стол: Нужно ли переходить с python 2 на python 3"
       time: "20:30"
   
-  b9c:
+  b10:
     - speaker: "Михаил Коробов, Python-разработчик"
       talk: "Воркшоп: Портируем библиотеку на третий python"
       time: "21:00"
 
-  b10:
+  b11:
     - break: "Конец первого дня :)"
       time: "24:00"
 
@@ -151,15 +151,20 @@ day2:
     - speaker: "Amir Salihefendic, основатель Doist Inc"
       talk: "Redis, the hacker's database"
       time: "16:10"
+    - break: "Перерыв"
+      time: "17:00"
+    - speaker: "Russell Keith-Magee"
+      talk: "Django 1.6 and beyond: The Django Roadmap"
+      time: "17:10"
+
   b6:
     - break: "Перерыв, запись на Lightning Talks"
-      time: "17:00"
+      time: "18:00"
+
   b7:
-    - speaker: "Russell Keith-Magee"
-      talk: "Building a development community: Lessons and challenges"
-      time: "17:10"
-    - speaker: "Круглый стол"
-      talk: "Построении Python-community в России"
-  b8:
     - talk: "Lightning Talks"
-      time: "18:20" 
+      time: "18:10" 
+
+  b8:
+    - break: "Конец второго дня :)"
+      time: "19:00"
