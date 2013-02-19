@@ -15,7 +15,7 @@
  ![ivolga standart](http://dropbucket.ru/pyconru/Ivolga/standard)
  ![ivolga standart2](http://dropbucket.ru/pyconru/Ivolga/standart2)
 
-<b>Номера "Стандарт+":</b> однокомнатный, телевизор, минибар.
+**!SOLD OUT** <b>Номера "Стандарт+":</b> однокомнатный, телевизор, минибар.
  <b>Стоимость:</b> 3 100 р./ сутки
 
  ![ivolga standartplus](http://dropbucket.ru/pyconru/Ivolga/standartplus)
