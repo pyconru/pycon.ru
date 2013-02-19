@@ -2,7 +2,7 @@
 
 * Конференция для опытных python-разработчиков
 * Выездной формат
-* Хэдлайнеры конференции  Russell Keith-Magee, Armin Ronacher, Holger Krekel, Jeff Lindsay и David Cramer
-* 20 докладов от ведущих российских специалистов
-* 5 воркшопов и мастер-классов
-* 2 круглых стола по самым дискуссионным вопросам
+* Хэдлайнеры конференции  Russell Keith-Magee, Armin Ronacher, Holger Krekel, Jeff Lindsay, David Cramer, Amir Salihefendic
+* 15 докладов от ведущих российских специалистов
+* 3 воркшопа
+* Круглых стол
