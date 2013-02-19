@@ -1,4 +1,4 @@
-##Reports##
+##Talks##
 
 ![russell-keith-magee](http://dropbucket.ru/pyconru/speakers/russell-keith-magee-small)
 
@@ -236,7 +236,7 @@ Test execution speed is important not only in TDD but also for Continuous Integr
 </div>
 
 
-##Мастер-классы##
+##Workshops##
 
 
 
