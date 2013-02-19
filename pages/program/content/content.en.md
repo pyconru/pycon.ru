@@ -121,11 +121,11 @@ I'll tell how do matters stand with transition to Python 3, why should it transi
 ![koshelev](http://dropbucket.ru/pyconru/koshelev)
 
 <div markdown="1">
-**Александр Кошелев**, руководитель группы разработки, Яндекс.  
-**Препарирование работы асинхронного кода**
+**Alexander Koshelev**, team-lead, Yandex 
+**What happens inside of asynchronous code?**
 
-Что происходит внутри асинхронного кода? Как быть, когда логика становится cpu-bound? Можно ли сделать гибридную синхронно-асинхронную архитектуру?
-Я попробую ответить на эти вопросы на примере приложения на Tornado. Сделаю визуализацию работы приложения и предложу пути решения некоторых проблем.
+What happens inside asynchronous code? What to do if logic becomes cpu-bound? Is it possible to create the hybrid synchronous- asynchronous architecture? I will try to answer these questions in terms of Tornado application. I will make the visualization of application and suggest the  ways to solve some problems.
+
 </div>
 
 ![lopuhin](http://dropbucket.ru/pycon/kostialopuhin)
@@ -138,14 +138,6 @@ I'll tell how do matters stand with transition to Python 3, why should it transi
 
 </div>
 
-![shtan](http://dropbucket.ru/pycon/shtan)
-
-<div markdown="1">
-**Данила Штань**, руководитель разработки холдинга 66.ru  
-**uWSGI как швейцарский нож python-web-разработчика**
-
-uWSGI, который начинался как быстрый контейнер приложений на питоне постепенно эволюционировал в инфраструктурное решение не только для запуска, но и для разработки приложений в целом (причем не только на языке python). К сожалению, недостаток документации зачастую отталкивает разработчиков и сисадминов от использования uWSGI.   Мой доклад нацелен на людей (как разработчиков, так и сисадминов), которые имеют практический опыт разворачивания web-приложений на питоне в production-среде, которые готовы рассматривать альтернативы выбранным решениям. Помимо знакомства с собственно сервером приложений мы посмотрим на дополнительные фичи (например кэширование или выполнение фоновых задач), которые зачастую позволяют (особенно в небольших проектах) уменьшить количество используемых сторонних технологий вроде memcached или celery.
-</div>
 
 
 ![kolodin](http://dropbucket.ru/pycon/kolodin)
@@ -162,16 +154,11 @@ uWSGI, который начинался как быстрый контейне�
 ![prokofev](http://dropbucket.ru/pycon/prokofev)
 
 <div markdown="1">
-**Дмитрий Прокофьев** разработчик, Яндекс
+**Dmitry Prokofjev** , developer, Yandex
 
-**Эволюция системы синхронизации данных между сервисами**
+**System of data synchronization between services evolution**
 
-В докладе будет рассказано о том, зачем Яндексу понадобилась синхронизация данных и с чем пришлось столкнуться в процессе:
-Почему синхронизируем на уровне приложения.
-Update log против Insert log.
-Проблемы связанные с DB. Типы данных, отсутствие транзакций.
-Проблемы связанные с Django.
-Проблемы связанные c изменениями ниже уровня приложения. Например массовый update.
+The report will explain why Yandex needed the data synchronization and what we had to meet with in the process: why we synchronize in the application level. Update log vs Insert log. Problems related with DB. Types of data, transactions absence. Problems related with Django. Problems related with the changings below the application level. For instance, mass update.
 
 </div>
 
@@ -179,11 +166,11 @@ Update log против Insert log.
 ![yumatov](http://dropbucket.ru/pycon/yumatov)
 
 <div markdown="1">
-**Михаил Юматов** , старший разработчик, Трилан
+**Mihail Yumatov **, senior developer, Trilan
 
 **SaltStack**
 
-SaltStack — это инструмент для параллельного выполнения команд на серверах, где команды — функции на Python. В докладе я попробую объяснить, почему стоит обратить внимание на SaltStack, даже если вы уже используете Chef или Puppet, чем он может быть полезен. Расскажу, как мы используем SaltStack для автоматизации развертывания проектов и уделю внимание дополнительным приятным возможностям, таким как система уведомлений между серверами, система прав пользователей и некоторым другим.
+SaltStack – is an instrument for parallel commands execution on servers where commands are functions on Python. In my report I will try to explain why you should pay attention to SaltStack even if you are actually using Chef or Puppet, why – how it can be helpful. I will speak about the usage of how we use SaltStack for the projects deployment automation and take into consideration the additional good possibilities like notification system between services, system of users’ rights and some other things.
 
 </div>
 
@@ -191,12 +178,10 @@ SaltStack — это инструмент для параллельного вы
 ![kostuk](http://dropbucket.ru/pycon/kostuk)
 
 <div markdown="1">
-**Гриша Костюк** , python-разработчик, Ostrovok.ru
+**Grisha Kostjuk** , python-developer, Ostrovok.ru
 
-**Оптимизация тестов на примере django и postgres**
-
-Скорость выполнения тестов не только важна при TDD, но также важна для непрерывной интеграции, тем более если сборки идут часто, а при большой команде - это неизбежно. Расскажу как мы организовали тестовую среду в ostrovok.ru: как изолируем базу и кеши, как решили вопрос запуска в несколько потоков, про плюсы своего раннера... В общем поделюсь опытом как мы это делаем и почему
-Доклад будет особенно полезен тем проектам, в которых используется реальная база в тестах, т.к. sqlite в памяти не подходит. И тем кто задумывается как ускорить такие тесты.
+**Test optimization in terms of django and postgres**
+Test execution speed is important not only in TDD but also for Continuous Integration. I will tell you how we organized test environment in Ostrovok.ru: how we isolate the base and cash, how solved the problem with of  launching in to several streams, about the advantages of our runner pluses…In general, I will share the experience how we do it and why the report will especially be helpful for projects which have the real base in tests used, because sqlite in the memory doesn’t fit. And for those who think  about tests’ acceleration.
 
 </div>
 
