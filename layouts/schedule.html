@@ -32,8 +32,17 @@
     <h2>День 1</h1>
     <section class="day1">
       <h4>Большой конференц-зал</h4><h4 class="last">Малый конференц-зал</h4>
-      {% for block in ['b1', 'b2', 'b3a', 'b3b', 'b4', 'b5a', 'b5b', 'b6', 'b7',
-                       'b8', 'b9a', 'b9b', 'b9c', 'b10'] %}
+      {% for block in ['b0', 'b1', 'b2'] %}
+        {{ render_block(day1, block) }}
+      {% endfor %}
+
+      <div class="columns-wrapper">
+        {% for block in ['b3a', 'b3b'] %}
+          {{ render_block(day1, block) }}
+        {% endfor %}
+      </div>
+
+      {% for block in ['b4', 'b5a', 'b5b', 'b6', 'b7', 'b8', 'b9a', 'b9b', 'b9c', 'b10'] %}
         {{ render_block(day1, block) }}
       {% endfor %}
     </section>

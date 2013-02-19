@@ -1,8 +1,8 @@
 day1:
-  b1: 
+  b0: 
     - time: "9:00"
       talk: "Регистрация"
-
+  b1: 
     - speaker: "Armin Ronacher, автор Flask и Jinja2"
       talk: "Advanced Flask patterns"
       time: "10:00"
@@ -92,12 +92,12 @@ day1:
     - talk: "Круглый стол: Нужно ли переходить с python 2 на python 3"
       time: "20:30"
   
-  b10:
+  b9c:
     - speaker: "Михаил Коробов, Python-разработчик"
       talk: "Воркшоп: Портируем библиотеку на третий python"
       time: "21:00"
 
-  b11:
+  b10:
     - break: "Конец первого дня :)"
       time: "24:00"
 

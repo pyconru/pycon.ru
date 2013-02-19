@@ -50,12 +50,20 @@
     }
 
     .day1 {
+      .clearfix();
+      padding-bottom: 20px;
+
       h4 {
         width: 400px;
         margin-right: 20px;
         &.last {
           margin-right: 0;
         }
+      }
+
+      .columns-wrapper {
+        .clearfix();
+        position: relative;
       }
 
       .b {
@@ -68,6 +76,14 @@
           width: 380px;
           display: inline-block;
           float: left;
+        }
+        &3b {
+          float: right;
+        }
+        &3a {
+          position: absolute;
+          top: 0;
+          bottom: 0;
         }
         &3a, &5a {
           margin-right: 20px;
@@ -84,12 +100,17 @@
         &9c {
           background: @green;
         }
-        &9a, &9b, &9c {
+        &9a {
           float: left;
-          width: 240px;
+          width: 380px;
         }
-        &9a, &9b {
-          margin-right: 20px;
+        &9b, &9c {
+          float: right;
+          clear: right;
+          width: 380px;
+        }
+        &10 {
+          clear: both;
         }
       }
     }
@@ -144,9 +165,6 @@
           background: @blue;
         }
         &7 {
-          background: @pink;
-        }
-        &8 {
           background: @yellow;
         }
       }
