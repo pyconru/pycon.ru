@@ -35,12 +35,13 @@ day1:
       time: "14:45" 
 
   b3b:
-    - speaker: "Гриша Костюк, Python-разработчик, Ostrovok.ru"
-      talk: "Оптимизация тестов на примере Django и postgres"
-      time: "14:00"
     - speaker: "Илья Шаляпин, Евгений Генералов, JetStyle"
       talk: "Разработка через тестирование в Python и Djnago на практике"
+      time: "14:00"
+    - speaker: "Гриша Костюк, Python-разработчик, Ostrovok.ru"
+      talk: "Оптимизация тестов на примере Django и postgres"
       time: "14:30"
+
     - speaker: "Сергей Матвеенко, Старший программист, Positive Technologies"
       talk: "MongoEngine: NoORM for NoSQL"
       time: "15:00"
