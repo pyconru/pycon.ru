@@ -255,7 +255,7 @@ SaltStack — это инструмент для параллельного вы
 </div>
 
 
-![n](http://dropbucket.ru/pycon/n)
+![ideco](http://dropbucket.ru/pycon/ideco_foto)
 
 <div markdown="1">
 **Валентин Синицын, Максим Сухарев**, Айдеко
