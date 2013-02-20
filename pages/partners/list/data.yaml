@@ -4,17 +4,16 @@ sectios:
         - logo: http://dropbucket.ru/pycon/naumen
           link: http://www.naumen.ru/
 
-    #- name: "Серебряный спонсор"
-      #sponsors:
-        #- logo: http://dropbucket.ru/pycon/jetbrains
-          #link: http://www.jetbrains.ru/
+    - name: "Серебряный спонсор"
+      sponsors:
+        - logo: http://dropbucket.ru/pycon/jetbrains
+          link: http://www.jetbrains.ru/
 
-    #- name: "Алюминиевые спонсоры"
-      #sponsors:
-        #- logo: http://dropbucket.ru/pycon/netangels
-          #link: http://www.netangels.ru/
-        #- logo: http://dropbucket.ru/pycon/ideco
-          #link: http://www.ideco.ru/
+
+    - name: "Алюминиевые спонсоры"
+      sponsors:
+        - logo: http://dropbucket.ru/pycon/netangels
+          link: http://www.netangels.ru/
 
 
     - name: "Компания-друг"
