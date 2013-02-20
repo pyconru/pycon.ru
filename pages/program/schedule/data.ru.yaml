@@ -139,7 +139,7 @@ day2:
       time: "13:30"
   
   b5:
-    - speaker: "Holger Kregel, основатель PyPy Project, автор py.test и tox"
+    - speaker: "Holger Krekel, основатель PyPy Project, автор py.test и tox"
       talk: "Re-inventing Python packaging and testing"
       time: "14:10"
     - speaker: "Jeff Lindsay, основатель крупнейшего в США коммьюнити-центра для хакеров Hacker Dojo"
