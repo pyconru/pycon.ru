@@ -142,7 +142,7 @@ day2:
       talk: "Re-inventing Python packaging and testing"
       time: "14:10"
     - speaker: "Jeff Lindsay, основатель крупнейшего в США коммьюнити-центра для хакеров Hacker Dojo"
-      talk: "Distributed Service Architectures with Python"
+      talk: "Building Public Infrastructure with Autosustainble Services"
       time: "15:00"
     - break: "Перерыв"
       time: "15:50"
