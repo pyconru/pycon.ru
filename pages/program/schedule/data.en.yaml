@@ -64,8 +64,8 @@ day1:
     - speaker: "Ilya Biin, Ostrovok.ru, Software architect"
       talk: "Построение распределенной системы кеширования и обмена сообщениями"
       time: "16:00"
-    - speaker: "Roman Imankulov, Doist Inc"
-      talk: "Celery for internal API in Saas infrastructure"
+    - speaker: "Denis Kolodin, IK Forum, programmer-analyst"
+      talk: "Low-latency и soft-realtime на Python"
       time: "16:30"
     - speaker: "Mikhail Yumatov, Trilan, Senior programmer"
       talk: "SaltStack"
@@ -104,19 +104,20 @@ day1:
 
 day2:
   b1a: 
-    - speaker: "Denis Kolodin, IK Forum, programmer-analyst"
-      talk: "Low-latency и soft-realtime на Python"
-      time: "10:00"
     - speaker: "Dmitriy Prokofyev, Yandex, developer"
       talk: "Эволюция системы синхронизации данных между сервисами"
+      time: "10:00"
+    - speaker: "Roman Imankulov, Doist Inc"
+      talk: "Celery for internal API in Saas infrastructure"
       time: "10:45"
+
   b2:
     - break: "Break"
       time: "11:30"
 
   b3:
-    - speaker: "Danila Shtan, leader of development in the holding group 66.ru"
-      talk: "uWSGI как швейцарский нож python-web-разработчика"
+    - speaker: "Valentin Sinitsyn, Max Sukharev, Ideco"
+      talk: "Tornado - not only websites"
       time: "12:00" 
     - speaker: "Aleksandr Budkar, Yandex, leader of development infrastructure web search"
       talk: "Распределенное исполнение python кода на 10000+ серверах"
@@ -141,25 +142,20 @@ day2:
     - speaker: "Holger Kregel, founder of the PyPy Project"
       talk: "Re-inventing Python packaging and testing"
       time: "14:10"
-    - break: "Break"
-      time: "15:00"
     - speaker: "Jeff Lindsay, founder of the Hacker Dojo - largest hackers community center in USA"
       talk: "Distributed Service Architectures with Python"
-      time: "15:10"
+      time: "15:00"
     - break: "Break"
-      time: "16:00"
+      time: "15:50"
     - speaker: "Amir Salihefendic, founder of the Doist Inc"
       talk: "Redis, the hacker's database"
-      time: "16:10"
-  b6:
-    - break: "Break. Registration on Lightning Talks"
-      time: "17:00"
-  b7:
+      time: "16:20"
     - speaker: "Russell Keith-Magee"
       talk: "Building a development community: Lessons and challenges"
       time: "17:10"
-    - speaker: "Round table"
-      talk: "Building the Python Community in Russia"
+  b6:
+    - break: "Break. Registration on Lightning Talks"
+      time: "18:00"
   b8:
     - talk: "Lightning Talks"
-      time: "18:20" 
+      time: "18:10" 
