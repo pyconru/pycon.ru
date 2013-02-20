@@ -3,7 +3,7 @@ day1:
     - time: "9:00"
       talk: "Регистрация"
   b1: 
-    - speaker: "Armin Ronacher, автор Flask и Jinja2"
+    - speaker: "Armin Ronacher, основатель Pocoo Team"
       talk: "Advanced Flask patterns"
       time: "10:00"
 
@@ -11,7 +11,7 @@ day1:
       time: "11:00"
 
     - speaker: "David Cramer, специалист по высоким нагрузкам из DISQUS"
-      talk: "Building Scalable Web Apps"
+      talk: "Scaling for Success: How to build proper scalable web apps"
       time: "11:10"
       
     - break: "Перерыв"
@@ -107,7 +107,7 @@ day2:
     - speaker: "Дмитрий Прокофьев разработчик, Яндекс"
       talk: "Эволюция системы синхронизации данных между сервисами"
       time: "10:00"
-    - speaker: "Роман Иманкулов, Doist Inc."
+    - speaker: "Роман Иманкулов, Doist Ltd."
       talk: "Celery для внутреннего API в инфраструктуре SOA"
       time: "10:45"
   b2:
@@ -138,7 +138,7 @@ day2:
       time: "13:30"
   
   b5:
-    - speaker: "Holger Kregel, основатель PyPy Project"
+    - speaker: "Holger Kregel, основатель PyPy Project, автор py.test и tox"
       talk: "Re-inventing Python packaging and testing"
       time: "14:10"
     - speaker: "Jeff Lindsay, основатель крупнейшего в США коммьюнити-центра для хакеров Hacker Dojo"
@@ -146,10 +146,10 @@ day2:
       time: "15:00"
     - break: "Перерыв"
       time: "15:50"
-    - speaker: "Amir Salihefendic, основатель Doist Inc"
+    - speaker: "Amir Salihefendic, основатель Doist Ltd."
       talk: "Redis, the hacker's database"
       time: "16:20"
-    - speaker: "Russell Keith-Magee"
+    - speaker: "Dr. Russell Keith-Magee, президент Django Software Foundation"
       talk: "Django 1.6 and beyond: The Django Roadmap"
       time: "17:10"
 
