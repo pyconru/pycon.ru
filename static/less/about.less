@@ -4,6 +4,14 @@
     font-family: Helvetica;
     text-align: center;
 
+    .now-live {
+      font-size: 60px;
+      line-height: 60px;
+      text-align: center;
+      text-transform: uppercase;
+      display: none;
+    }
+
     .days, .hours, .minutes, .seconds {
       display: inline-block;
       position: relative;
@@ -37,11 +45,21 @@
         }
       }
     }
+
+    &.finished {
+      .now-live {
+        display: inline-block;
+      }
+      .days, .hours, .minutes, .seconds {
+        display: none;
+      }
+    }
   }
 
   .location, .conference-objectives, .technical-details {
     padding: 20px;
   }
+
   .conference-objectives, .technical-details {
     float: left;
     clear: left;

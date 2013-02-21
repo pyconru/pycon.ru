@@ -100,3 +100,6 @@ msgstr "Где жить"
 #: schedule.html:32
 msgid "Day 1"
 msgstr "День 1"
+
+msgid "Now live!"
+msgstr "Уже идёт!"

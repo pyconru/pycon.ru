@@ -4,12 +4,24 @@
   <script src="/js/countdown.min.js" type="text/javascript"></script>
   <script>
     function updateCounter() {
+        var now = new Date();
         var start = new Date(2013, 1, 24, 9, 0, 0, 0);
-        var c = countdown(start, null, countdown.DAYS | countdown.HOURS | countdown.MINUTES | countdown.SECONDS);
-        document.getElementById('days-value').innerHTML = c.days;
-        document.getElementById('hours-value').innerHTML = c.hours;
-        document.getElementById('minutes-value').innerHTML = c.minutes;
-        document.getElementById('seconds-value').innerHTML = c.seconds;
+        var finish = new Date(2013, 1, 25, 23, 59, 59, 0);
+
+        if (now < start) {
+            var c = countdown(start, null, countdown.DAYS | countdown.HOURS | countdown.MINUTES | countdown.SECONDS);
+            document.getElementById('days-value').innerHTML = c.days;
+            document.getElementById('hours-value').innerHTML = c.hours;
+            document.getElementById('minutes-value').innerHTML = c.minutes;
+            document.getElementById('seconds-value').innerHTML = c.seconds;
+        } else if (now > start && now < finish) {
+            var counter = document.getElementById('counter');
+            counter.setAttribute('class', 'counter finished');
+            counter.setAttribute('className', 'counter finished');
+        } else if (now > finish) {
+            var counter = document.getElementById('counter');
+            counter.style.display = 'none';
+        }
     }
     window.onload = function() {
         setInterval(updateCounter, 1000);
@@ -20,7 +32,9 @@
 {% block content %}
   <h2>{% trans %}PyCon Russia 2013, Feb&nbsp;24&#8209;25{% endtrans %}</h2>
 
-  <section class="counter">
+  <section class="counter" id="counter">
+    <span class="now-live">{{ _('Now live!') }}</span>
+
     <div class="days">
       <div class="value" id="days-value">75</div>
       <div class="label">{{ _('days') }}</div>
