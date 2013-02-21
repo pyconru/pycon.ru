@@ -1,4 +1,4 @@
-### Conference objectives
+### FIRST PYCON in Russia
 
 * Analyze development trends
 * Share experience
