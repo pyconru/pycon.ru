@@ -5,4 +5,4 @@
 * Хэдлайнеры конференции  Russell Keith-Magee, Armin Ronacher, Holger Krekel, Jeff Lindsay, David Cramer, Amir Salihefendic
 * 15 докладов от ведущих российских специалистов
 * 3 воркшопа
-* Круглых стол
+* Круглый стол
