@@ -28,3 +28,8 @@ Github [dcramer](https://github.com/dcramer)
 [Personal blog](http://progrium.com)  
 Twitter [@progrium](https://twitter.com/progrium)   
 Github [progrium](https://github.com/progrium)
+
+![amir-salihefendic](http://dropbucket.ru/pyconru/speakers/amir-salihefendic) [Amir Salihefendic](http://amix.dk), основатель компании [Doist Ltd](http://Doist.io/). В прошлом - ведущий разработчик и со-основатель [Plurk.com](http://www.plurk.com/), одного из самых крупных в мире сайтов на Питоне.    
+На PyCon Russia 2013 Амир представит доклад про БД Redis.
+[Personal blog](http://amix.dk)  
+Github [amix](https://github.com/amix)
