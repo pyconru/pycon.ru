@@ -40,7 +40,9 @@ sectios:
       sponsors:
         - logo: http://dropbucket.ru/pycon/66
           link: http://66.ru/
-
+        - logo: http://dropbucket.ru/pycon/railsc
+          link: http://railsc.ru/
+          
     - name: "Мозг-партнёр"
       sponsors:
         - logo: http://dropbucket.ru/pycon/it-mozg
