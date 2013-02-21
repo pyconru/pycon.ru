@@ -215,12 +215,12 @@ Test execution speed is important not only in TDD but also for Continuous Integr
 ![biin](http://dropbucket.ru/pycon/biin)
 
 <div markdown="1">
-**Илья Биин** , архитектор, Ostrovok.ru
+**Ilya Biin** , developer, Ostrovok.ru    
 
-**Построение распределенной системы кеширования и обмена сообщениями**
+**Construction distributed caching system and messaging**    
 
-Одним из способов оптимизации скорости и качества работы вашего сайта является кеширование. В рамках презентации я хочу поделиться практическим опытом по созданию, настройке и тюнингу распределенной системы кеширования. Особое внимание будет уделено особенностям работы такой системы в условиях изменчивости сетевой среды и нестабильности железа. Так же речь пойдет об обмене сообщениями через такую систему. Ее преимуществах и недостатках.
-Презентация ориентирована на архитекторов и разработчиков систем, работающих с "тяжелыми" данными.
+One of the methods optimization speed and quality of work your website is caching. Within the framework of presentation I want share practical experience in the creation, setting and tuning of distributed caching system. Emphasis will be paid features of work such system in conditions changeability network environment and instability of hardware. As well it will be about the exchange of messages through such system, its advantages and disadvantages. Presentation aimed on architects and developers of systems, who works with "heavy" data.    
+
 </div>
 
 
