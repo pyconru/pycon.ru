@@ -2,8 +2,8 @@
 
 * before 31 December: 7000 rub.
 * from 1 to 31 January: 8000 rub.
-* <b>from 1 to 16 February: 9000 rub.</b>
-* from 17 to 25 February: 10000 rub.
+* from 1 to 16 February: 9000 rub.
+* <b>from 17 to 25 February: 10000 rub.</b>
 
 <b>Included with your ticket:</b>
 
