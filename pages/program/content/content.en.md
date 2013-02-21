@@ -228,12 +228,12 @@ Test execution speed is important not only in TDD but also for Continuous Integr
 ![matveenko](http://dropbucket.ru/pycon/matveenko)
 
 <div markdown="1">
-**Сергей Матвеенко** ,Старший программист, Positive Technologies
+**Sergey Matveyenko** ,Senior programmer, Positive Technologies 
 
-**MongoEngine: NoORM for NoSQL**
+**MongoEngine: NoORM for NoSQL**  
 
-Сейчас все большую популярность набирают нереляционные базы данных, в частности, MongoDB. Однако, часто даже опытным разработчикам, хорошо знакомым с реляционными СУБД, их опыт не тольлько не помогает, но даже, иногда, мешает. Я расскажу об использовании MongoEngine, который позволяет приблизить методы разработки приложений на Python с использованием MongoDB к более традиционным подходам.
-Будет полезен всем Python разработчикам, кто интересуется MongoDB, нереляционными БД.
+Nowdays non relational databases become more popular than relational, in particular, MongoDB. However, even experienced developers, who are familiar with relational databases, their experience don't help them and sometimes it interfere. I'll tell about using MongoEngine, which allows you to bring methods of application development by Python with using MongoDB to more traditional approaches. This will be useful all Python developers who have an interest in MongoDB and non relational databases.    
+
 </div>
 
 
