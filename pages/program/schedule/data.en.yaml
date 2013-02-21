@@ -54,7 +54,7 @@ day1:
       talk: "How to transition to Python 3?"
       time: "16:00"
     - speaker: "Aleksandr Koshelev, Yandex"
-      talk: "Препарирование работы асинхронного кода"
+      talk: "What happens inside of asynchronous code?"
       time: "16:30"
     - speaker: "Konstantin Lopukhin, ChTD"
       talk: "Подход к версионированию данных в реляционной БД"
@@ -105,7 +105,7 @@ day1:
 day2:
   b1a: 
     - speaker: "Dmitriy Prokofyev, Yandex, developer"
-      talk: "Эволюция системы синхронизации данных между сервисами"
+      talk: "What happens inside of asynchronous code?"
       time: "10:00"
     - speaker: "Roman Imankulov, Doist Inc"
       talk: "Celery for internal API in Saas infrastructure"
