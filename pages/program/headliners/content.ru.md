@@ -17,7 +17,7 @@ Twitter [@hpk42](https://twitter.com/hpk42)
 Github [hpk42](https://github.com/hpk42)
 
 ![david-cramer](http://dropbucket.ru/pyconru/speakers/david-cramer) [David Cramer](http://justcramer.com/), специалист по высоким нагрузкам из [DISQUS](http://disqus.com/), автор [Sentry](https://www.getsentry.com). 
-DISQUS — один из крупнейших веб-проектов, написаных на Питоне; он выдерживает более 1 млрд уникальных пользователей в месяц. Дэвид расскажет про масштабирование проектов на Питоне: правильные практики и грабли, на которые наступают проекты в ходе свеого роста.  
+DISQUS — один из крупнейших веб-проектов, написаных на Питоне; он выдерживает более 1 млрд уникальных пользователей в месяц. Дэвид расскажет про масштабирование проектов на Питоне: правильные практики и грабли, на которые наступают проекты в ходе своего роста.  
 [Personal blog](http://justcramer.com/)   
 Twitter [@zeeg](https://twitter.com/zeeg)   
 Github [dcramer](https://github.com/dcramer)
