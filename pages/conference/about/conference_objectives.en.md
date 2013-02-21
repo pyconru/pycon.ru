@@ -4,4 +4,4 @@
 * Conference headliners are Russell Keith-Magee, Armin Ronacher, Holger Krekel, Jeff Lindsay, David Cramer, Amir Salihefendic
 * 15 reports of leading Russian specialists
 * 3 workshops
-* round-table (discussion) 
+* panel discussion 
