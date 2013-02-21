@@ -190,12 +190,11 @@ Test execution speed is important not only in TDD but also for Continuous Integr
 ![budkar](http://dropbucket.ru/pycon/budkar)
 
 <div markdown="1">
-**Александр Будкарь** , Руководитель службы разработки инфраструктуры веб поиска, Яндекс
+**Alexandr Budkar** , Head of infrastructure development Web search, Yandex.    
 
-**Распределенное исполнение python кода на 10000+ серверах**
+**Distributed execution Python code on 1000+ servers.**    
 
-Расскажу о созданной в Яндексе инфраструктуре, для управления большим количеством серверов, о проблемах возникающих при работе с большим количеством машин, о используемых технологиях.
-Доклад будет интересен тем, кто разрабатывает распределенные системы, высоко нагруженные сервисы, сталкивается с обработкой большого количества данных, в реальном времени. А также администраторам, эксплуатирующим 10+ серверов.
+I'll talk about created in Yandex infrastructure for administration a lot of servers, about problems which arise in work with many computers and about the used technologies. Report will be interest those, who develop distributed systems, high loaded services, encounter with processing a lot of data in real time. Also system administrators, who exploit 10+ servers.    
 
 </div>
 
@@ -203,11 +202,11 @@ Test execution speed is important not only in TDD but also for Continuous Integr
 ![generalov_shalapin](http://dropbucket.ru/pycon/generalov_shalapin)
 
 <div markdown="1">
-**Илья Шаляпин, Евгений Генералов** , JetStyle
+**Ilya Shalyapin, Evgeny V. Generalov** , JetStyle    
 
-**Разработка через тестирование в Python и Djnago на практике**
+**Test Driven Development in Python and Django.**    
 
-Большинство примеров тестов в книгах, семинарах и презентациях упрощены настолько, что их невозможно применить в реальных проектах. Из-за такого упрощения, сначала получаешь заряд мотивации, но столкнувшись с суровой действительностью быстро бросаешь написание тестов. Мы решили исправить этот пробел, показав тестирование на реальных примерах из нашей практики. Мы расскажем о тестировании баз данных, сетевых взаимодействий и веб-форм. Также расскажем об инструментах, которые мы используем для тестирования.
+In books, articles and videos most test examples are simplified to much. So it's very hard to apply these examples to real work. Real projects are not so simple. In real project we depend on internet connection, databases and filesystems. It's not obvious how to test such things. We will show test examples and tools that we use every day in our practice.    
 
 </div>
 
