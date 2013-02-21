@@ -1,6 +1,7 @@
 ### FIRST PYCON in Russia
 
-*  A Conference for experienced python-developers
-* Share experience
-* Create a plot for socialization of Python users
-* Improve Russian brand in the Python world
+* A Conference for experienced python-developers
+* Conference headliners are Russell Keith-Magee, Armin Ronacher, Holger Krekel, Jeff Lindsay, David Cramer, Amir Salihefendic
+* 15 reports of leading Russian specialists
+* 3 workshops
+* round-table (discussion) 
