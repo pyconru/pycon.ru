@@ -244,11 +244,15 @@ Test execution speed is important not only in TDD but also for Continuous Integr
 ![lopuhin](http://dropbucket.ru/pycon/kostialopuhin)
 
 <div markdown="1">
-**Konstantin Lopuhin**, ChTD  
-**Мастер-класс: пишем свой интерпретатор с использованием RPython**
+**Konstantin Lopuhin**, ChTD    
+**Workshop: We will write your interpreter with using RPython**    
 
-На этом мастер-классе мы увидим, как устроены байткод интерпретаторы (почти все интерпретаторы для современных динамических языков именно такие), какие преимущества дает использование RPython при реализации (используется в PyPy), и как работает JIT (just-in-time compiler). Практическая часть будет состоять из реализации нескольких небольших частей - реализация нового байт-кода, добавление just-in-time компилятора, анализа и улучшения производительности.
-Участники узнают, из каких частей состоит интерпретатор и как они работает, как работает JIT, почему хорош TDD, а после смогут написать быстрый интерпретатор небольшого динамического языка за выходные.
+On this workshop we will see:    
+  - the structure of the bytecode interpreter(almost all of modern interpreters for dynamic languages are such)
+  - what benefits give us using RPython in implementation(using in PyPy)
+  - and how JIT(just-in-time compiler) works  
+The practical part will consist of implementing a few small parts - implementation of a new bytecode, adding just-in-time compiler, analyze and improve performance.Participants will learn what parts consist of interpreter and how it works, how the JIT works, why TDD is good, and then be able to write a quick little dynamic language interpreter for the weekend.    
+
 </div>
 
 
