@@ -2,9 +2,14 @@
   padding: 40px;
   
   .block {
-    list-style-type: none;
     padding: 3px 10px;
     margin: 0 0 10px 0;
+
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
 
     li {
       padding: 5px;
@@ -17,6 +22,22 @@
         color: #666;
         font-size: 14px;
         font-style: italic;
+      }
+    }
+
+    &.w-hall-specified {
+      background: #f5f5f5;
+    }
+
+    .hall {
+      display: none;
+      text-align: center;
+      font-size: 12px;
+      font-family: Helvetica;
+      text-transform: uppercase;
+
+      @media @mobile {
+        display: block;
       }
     }
 
@@ -39,6 +60,12 @@
   @pink: #FADCFF;
   @green: #D3FFC7;
   
+  @media @mobile {
+    h4 {
+      display: none;
+    }
+  }
+
   @media @default {
     h4 {
       font-size: 12px;

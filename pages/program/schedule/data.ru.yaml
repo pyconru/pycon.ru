@@ -37,7 +37,7 @@ day1:
 
   b3b:
     - speaker: "Илья Шаляпин, Евгений Генералов, JetStyle"
-      talk: "Разработка через тестирование в Python и Djnago на практике"
+      talk: "Разработка через тестирование в Python и Django на практике"
       time: "14:00"
     - speaker: "Гриша Костюк, Python-разработчик, Ostrovok.ru"
       talk: "Оптимизация тестов на примере Django и postgres"
@@ -72,7 +72,6 @@ day1:
       talk: "SaltStack"
       time: "17:00"
       
-  
   b6:
     - break: "Перерыв, запись на Lightning Talks"
       time: "17:30"
