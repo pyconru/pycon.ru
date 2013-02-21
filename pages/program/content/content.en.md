@@ -268,9 +268,8 @@ Test execution speed is important not only in TDD but also for Continuous Integr
 ![korobov](http://dropbucket.ru/pyconru/korobov)
 
 <div markdown="1">
-**Михаил Коробов**, Python-разработчик, спикер различных Python-конференций.  
-**Портирование библиотеки с python 2 на python 3**
+**Mike Korobov**, Python-developer, speaker of different Python-conferences.  
+**Porting library from Python 2 to Python 3**    
 
-Информацию, полученную из доклада можно будет в тот же день применить на практике, совместно портировав библиотеку-другую в рамках вечернего воркшопа/спринта.
-Надеюсь, что после  у каждого человека появится (или систематизируется) навык портирования кода на Python 3. Этот навык в скором времени станет необходим, например, для того, чтобы читать код большинства популярных проектов (даже если пишете на 2.x). Ну и пользу для мировой цивилизации никто не отменял. 
+Knowledge can be applied on practice at the same day. We'll be porting several libraries on evening workshop/sprint. I hope that after the report and the workshop everyone's skill of porting code on Python 3 is systematized. This skill will become necessary soon for reading majority popular project's code for example and for benefit of the World Civilization, why not?:-)    
 </div>
