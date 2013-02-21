@@ -1,7 +1,7 @@
 sectios:
     - name: "Золотой спонсор"
       sponsors:
-        - logo: http://dropbucket.ru/pycon/naumen
+        - logo: http://dropbucket.ru/pycon/naumen-big
           link: http://www.naumen.ru/
 
     - name: "Серебряные спонсоры"
