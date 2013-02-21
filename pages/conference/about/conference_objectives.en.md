@@ -1,6 +1,6 @@
 ### FIRST PYCON in Russia
 
-* Analyze development trends
+*  A Conference for experienced python-developers
 * Share experience
 * Create a plot for socialization of Python users
 * Improve Russian brand in the Python world
