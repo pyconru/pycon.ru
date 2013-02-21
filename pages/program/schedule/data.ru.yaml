@@ -2,6 +2,7 @@ day1:
   b0: 
     - time: "9:00"
       talk: "Регистрация"
+
   b1: 
     - speaker: "Armin Ronacher, основатель Pocoo Team"
       talk: "Advanced Flask patterns"
@@ -41,7 +42,6 @@ day1:
     - speaker: "Гриша Костюк, Python-разработчик, Ostrovok.ru"
       talk: "Оптимизация тестов на примере Django и postgres"
       time: "14:30"
-
     - speaker: "Сергей Матвеенко, Старший программист, Positive Technologies"
       talk: "MongoEngine: NoORM for NoSQL"
       time: "15:00"
@@ -111,6 +111,7 @@ day2:
     - speaker: "Роман Иманкулов, Doist Ltd."
       talk: "Celery для внутреннего API в инфраструктуре SOA"
       time: "10:45"
+
   b2:
     - break: "Кофе-брейк"
       time: "11:30"
@@ -119,7 +120,7 @@ day2:
     - speaker: "Валентин Синицын, Максим Сухарев, Айдеко"
       talk: "Tornado - это не только web-сайты"
       time: "12:00" 
-    - speaker: "Александр Будкарь , Руководитель службы разработки инфраструктуры веб поиска, Яндекс"
+    - speaker: "Александр Будкарь, Руководитель службы разработки инфраструктуры веб поиска, Яндекс"
       talk: "Распределенное исполнение Python кода на 10000+ серверах"
       time: "12:45" 
    

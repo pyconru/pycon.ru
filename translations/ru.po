@@ -97,9 +97,17 @@ msgstr "минуты"
 msgid "Hotels"
 msgstr "Где жить"
 
-#: schedule.html:32
-msgid "Day 1"
-msgstr "День 1"
+msgid "Day"
+msgstr "День"
 
 msgid "Now live!"
 msgstr "Уже идёт!"
+
+msgid "Large conference hall"
+msgstr "Большой конференц-зал"
+
+msgid "Small conference hall"
+msgstr "Малый конференц-зал"
+
+msgid "Conference hall in 3rd building"
+msgstr "Конференц-зал в 3-м корпусе"

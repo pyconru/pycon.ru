@@ -28,40 +28,36 @@
 {%- endmacro %}
 
 {% block content %}
-  {% if day1 %}
-    <h2>День 1</h1>
-    <section class="day1">
-      <h4>Большой конференц-зал</h4><h4 class="last">Малый конференц-зал</h4>
-      {% for block in ['b0', 'b1', 'b2'] %}
+  <h2>{{ _('Day') }} 1</h1>
+  <section class="day1">
+    <h4>{{ _('Large conference hall') }}</h4><h4 class="last">{{ _('Small conference hall') }}</h4>
+    {% for block in ['b0', 'b1', 'b2'] %}
+      {{ render_block(day1, block) }}
+    {% endfor %}
+
+    <div class="columns-wrapper">
+      {% for block in ['b3a', 'b3b'] %}
         {{ render_block(day1, block) }}
       {% endfor %}
+    </div>
 
-      <div class="columns-wrapper">
-        {% for block in ['b3a', 'b3b'] %}
-          {{ render_block(day1, block) }}
-        {% endfor %}
-      </div>
+    {% for block in ['b4', 'b5a', 'b5b', 'b6', 'b7', 'b8', 'b9a', 'b9b', 'b9c', 'b10'] %}
+      {{ render_block(day1, block) }}
+    {% endfor %}
+  </section>
 
-      {% for block in ['b4', 'b5a', 'b5b', 'b6', 'b7', 'b8', 'b9a', 'b9b', 'b9c', 'b10'] %}
-        {{ render_block(day1, block) }}
-      {% endfor %}
-    </section>
-  {% endif %}
+  <h2>{{ _('Day') }} 2</h1>
+  <section class="day2">
+    <h4>{{ _('Large conference hall') }}</h4><h4>{{ _('Small conference hall') }}</h4><h4 class="last">{{ _('Conference hall in 3rd building') }}</h4>
 
-  {% if day2 %}
-    <h2>День 2</h1>
-    <section class="day2">
-      <h4>Большой конференц-зал</h4><h4>Малый конференц-зал</h4><h4 class="last">Конференц-зал в 3-м корпусе</h4>
-
-      <div class="columns-wrapper">
-        {% for block in ['b1a', 'b1b', 'b1c', 'b2', 'b3'] %}
-          {{ render_block(day2, block) }}
-        {% endfor %}
-      </div>
-      
-      {% for block in ['b4', 'b5', 'b6', 'b7', 'b8', 'b9'] %}
+    <div class="columns-wrapper">
+      {% for block in ['b1a', 'b1b', 'b1c', 'b2', 'b3'] %}
         {{ render_block(day2, block) }}
       {% endfor %}
-    </section>
-  {% endif %}
+    </div>
+    
+    {% for block in ['b4', 'b5', 'b6', 'b7', 'b8', 'b9'] %}
+      {{ render_block(day2, block) }}
+    {% endfor %}
+  </section>
 {% endblock %}

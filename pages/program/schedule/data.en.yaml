@@ -1,8 +1,9 @@
 day1:
-  b1: 
+  b0: 
     - time: "9:00"
       talk: "Registrations"
 
+  b1: 
     - speaker: "Armin Ronacher, author of Flask and Jinja2"
       talk: "Advanced Flask patterns"
       time: "10:00"
@@ -89,7 +90,7 @@ day1:
       time: "20:30"
 
   b9b:
-    - talk: "Round table: Do you need to switch from python2 to python3?"
+    - talk: "Round table: Do you need to switch from Python 2 to Python 3?"
       time: "20:30"
   
   b9c:
@@ -153,9 +154,15 @@ day2:
     - speaker: "Russell Keith-Magee"
       talk: "Building a development community: Lessons and challenges"
       time: "17:10"
+
   b6:
     - break: "Break. Registration on Lightning Talks"
       time: "18:00"
-  b8:
+
+  b7:
     - talk: "Lightning Talks"
       time: "18:10" 
+
+  b8:
+    - break: "The end! :)"
+      time: "24:00"
