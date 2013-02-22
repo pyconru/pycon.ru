@@ -37,10 +37,10 @@ day1:
 
   b3b:
     - speaker: "Ilya Shalyapin, Yevgeniy Generalov, JetStyle"
-      talk: "Разработка через тестирование в Python и Djnago на практике"
+      talk: "Test Driven Development in Python and Django"
       time: "14:00"
     - speaker: "Grisha Kostyuk, Ostrovok.ru, python-developer"
-      talk: "Оптимизация тестов на примере django и postgres"
+      talk: "Test optimization in terms of django and postgres"
       time: "14:30"
     - speaker: "Sergey Matveyenko, Positive Technologies, Senior programmer"
       talk: "MongoEngine: NoORM for NoSQL"
@@ -58,15 +58,15 @@ day1:
       talk: "What happens inside of asynchronous code?"
       time: "16:30"
     - speaker: "Konstantin Lopukhin, ChTD"
-      talk: "Подход к версионированию данных в реляционной БД"
+      talk: "An approach to versioning in relational database"
       time: "17:00"
   
   b5b:
     - speaker: "Ilya Biin, Ostrovok.ru, Software architect"
-      talk: "Построение распределенной системы кеширования и обмена сообщениями"
+      talk: "Construction distributed caching system and messaging"
       time: "16:00"
     - speaker: "Denis Kolodin, IK Forum, programmer-analyst"
-      talk: "Low-latency и soft-realtime на Python"
+      talk: "Low-latency and soft-realtime на Python"
       time: "16:30"
     - speaker: "Mikhail Yumatov, Trilan, Senior programmer"
       talk: "SaltStack"
@@ -109,7 +109,7 @@ day2:
       talk: "What happens inside of asynchronous code?"
       time: "10:00"
     - speaker: "Roman Imankulov, Doist Inc"
-      talk: "Celery for internal API in Saas infrastructure"
+      talk: "Celery for internal API in SOA infrastructure"
       time: "10:45"
 
   b2:
@@ -121,18 +121,18 @@ day2:
       talk: "Tornado - not only websites"
       time: "12:00" 
     - speaker: "Aleksandr Budkar, Yandex, leader of development infrastructure web search"
-      talk: "Распределенное исполнение python кода на 10000+ серверах"
+      talk: "Distributed execution Python code on 1000+ servers"
       time: "12:45" 
    
 
   b1b:
     - speaker: "Andrey Svetlov"
-      talk: "Мастер класс по созданию сетевых приложений с нуля"
+      talk: "Workshop on creation network applications from scratch"
       time: "10:00"
 
   b1c:
     - speaker: "Konstantin Lopuhin"
-      talk: "Пишем свой интерпретатор с использованием RPython"
+      talk: "Workshop: We will write your interpreter with using RPython"
       time: "10:00"
 
   b4:
