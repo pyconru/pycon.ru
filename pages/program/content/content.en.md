@@ -132,10 +132,10 @@ What happens inside asynchronous code? What to do if logic becomes cpu-bound? Is
 ![lopuhin](http://dropbucket.ru/pycon/kostialopuhin)
 
 <div markdown="1">
-**Константин Лопухин**, ЧТД  
-**Подход к версионированию данных в реляционной БД**
+**Konstantin Lopukhin**, CHTD  
+**An approach to versioning in relational database**
 
-Я хочу рассказать о проблеме версионирования данных в реляционной БД - откуда возникает такая проблема, возможные варианты постановки и решения. Подробнее расскажу о подходе, основанном на интервалах,который позволяет работать в системе в любой момент времени в прошлом, производить откат всей системы или отдельных ее частей. Подход реализован в небольшой библиотеке documents для Django, но сам принцип легко переносим. Рассмотрю применение этого подхода как для традиционных приложений, так и для построения версионированой EAV базы данных, представляющей данные в виде графа.
+I want to tell about data versioning  in relational database – where this problem comes from, possible ways of statement and solution. Particularly I will tell about interval based approach which allows working with the system at any moment in the past, do the whole system back-off or back-off of its separate parts. This approach realized in a small library “documents” for Django, but the concept is easy movable. I will take the usage of this approach for traditional applications and for versioned EAV database building, showing data like a graph.
 
 </div>
 
