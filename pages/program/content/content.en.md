@@ -144,10 +144,10 @@ I want to tell about data versioning  in relational database – where this prob
 ![kolodin](http://dropbucket.ru/pycon/kolodin)
 
 <div markdown="1">
-**Денис Колодин**,  программист-аналитик, ИК "Форум"  
-**Low-latency и soft-realtime на Python**
+**Denis Kolodin**, programmer-analyst, IK “Forum”  
+**Low-latency and soft-realtime на Python**
 
-В докладе будет рассказано о разработках программного обеспечения, работающего на высоких скоростях и имеющего предсказуемое время реакции. Также будут представлены способы интеграции Python с помощью ctypes и cython с высокоскоростными сервисами операционной системы. Затронуты вопросы управления памятью, процессами, потоками, волокнами и GIL. Слушатели поймут, как строить системы с ожидаемым временем реакции. Знания могут быть применены для разработки серверов, обслуживающих множество клиентов одновременно или выполняющих скоростную обработку данных.
+The report will tell about software developing working on high speeds and having the predictable reaction time. Also there will be presented the Python integration ways with ctypes and cython with the high-speed services of the operation system. It will touch upon the questions  of  memory, processes, streams, fibers and GIL managing\control. The audience will learn how to build systems with the expected reaction time. The knowledge can be used for servers’ development servicing a lot of clients simultaneously or executing high-speed data processing
 
 </div>
 
