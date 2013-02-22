@@ -237,12 +237,12 @@ Nowdays non relational databases become more popular than relational, in particu
 ![ideco](http://dropbucket.ru/pycon/ideco_foto)
 
 <div markdown="1">
-**Валентин Синицын, Максим Сухарев**, Айдеко
+**Valentin Sinisyn, Maxim Sukharev**, Ideco
 
-**Tornado - это не только web-сайты**
+**Tornado – not only web-sites**
 
-Мы в "Айдеко" не занимаемся веб-разработкой - мы создаем решения для сетевой инфраструктуры, которые делают сложные вещи проще. В глубине этих решений лежит Linux и различные системные инструменты, а на поверхности - удобный веб-интерфейс. Примерно посередине находится Tornado, который обеспечивает связь между "верхами" и "низами". Как именно это происходит, и почему веб-фремйворк оказывается удачным решением в системном программировании? Об этом вы узнаете из доклада.
-Доклад будет полезен Python-программистам, желающим познакомиться с возможностями Tornado, а также разработчикам распределенных систем, решающим проблемы организации взаимодействия между компонентами.
+In «Ideco» we don’t do web-developing, we create solutions for web infrastructure which make complicated things easier. There is Linux and other system instruments laid in the depths of these solutions and there’s a good web-interface shown on the surface. Tornado takes the middle  and provides the connection between “top” and “bottom”. Why does it go this way and is why web-framework a successful decision for system programming? You will learn all of these issues from the report. Report will be helpful for Python-programmers, who want to learn the possibilities of Tornado, and also for developers of dispersed systems solving the problems of connection organization between components.
+
 </div>
 
 
