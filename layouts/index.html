@@ -14,11 +14,7 @@
             document.getElementById('hours-value').innerHTML = c.hours;
             document.getElementById('minutes-value').innerHTML = c.minutes;
             document.getElementById('seconds-value').innerHTML = c.seconds;
-        } else if (now > start && now < finish) {
-            var counter = document.getElementById('counter');
-            counter.setAttribute('class', 'counter finished');
-            counter.setAttribute('className', 'counter finished');
-        } else if (now > finish) {
+        } else if (now > start) {
             var counter = document.getElementById('counter');
             counter.style.display = 'none';
         }
