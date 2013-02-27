@@ -39,13 +39,13 @@ DEFAULT_LAYOUT = 'page.html'
 LAYOUTS = defaultdict(lambda: 'page.html', {
     'conference/about': 'index.html',
     'program/schedule': 'schedule.html',
-    'program/content': 'content.html',
+    'results': 'content.html',
     'partners/list': 'partners.html',
     'register': 'register.html',
 })
 
 for speech in speeches:
-    LAYOUTS['program/content/%s' % speech] = 'speech.html'
+    LAYOUTS['results/%s' % speech] = 'speech.html'
 
 BUNDLES = {
     'css': Bundle('./css/reset.css', './css/normalize.css', 
@@ -54,10 +54,10 @@ BUNDLES = {
 }
 
 ORDERING = {
-    '*': ['conference', 'program', 'participation', 'partners', 'contacts', 'register'],
+    '*': ['conference', 'results', 'program', 'participation', 'partners', 'contacts'],
     'conference/*': ['about', 'organizers'],
     'participation/*': ['price', 'venue', 'hotels'],
     'partners/*': ['list', 'join'],
     'program/*': ['headliners', 'content', 'schedule'],
-    'program/content/*': speeches,
+    'results/*': speeches,
 }
