@@ -105,7 +105,8 @@
                        {% if is_active %}active{% endif %}">
               <a href="{{ url_for(page.PATH) }}" target="_self"
                  class="{# if page.PATH == 'results' %}emphasized{% endif #}
-                        {% if is_active %}active{% endif %}">
+                        {% if is_active %}active{% endif %}
+                        {% if page.PATH == 'results' %}results{% endif %}">
                 {{ LABELS[page.PATH] }}
               </a>
 
