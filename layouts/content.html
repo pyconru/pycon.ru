@@ -1,0 +1,12 @@
+{% extends "_base.html" %}
+
+{% block content %}
+  {% for page in CHILDREN %}
+    <img src="{{ page.photo }}">
+    <div>
+      {{ page.content }}
+
+      <a href="{{ url_for(page.PATH) }}" class="more">{{ _('Video and presentation') }} &rarr;</a>
+    </div>
+  {% endfor %}
+{% endblock %}

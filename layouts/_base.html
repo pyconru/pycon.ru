@@ -134,7 +134,7 @@
         'partners/list': 'partners',
       } %}
 
-      <article id="{{ PAGE_IDS.get(PATH, '') }}">
+      <article id="{% block content_id %}{{ PAGE_IDS.get(PATH, '') }}{% endblock %}">
         {% block content %}
         {% endblock %}
       </article>

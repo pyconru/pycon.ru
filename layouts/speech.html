@@ -1,0 +1,11 @@
+{% extends "_base.html" %}
+
+{% block content_id %}speech{% endblock %}
+
+{% block content %}
+  <img src="{{ photo }}" class="photo">
+  <div class="description">
+    {{ content }}
+  </div>
+  {{ media }}
+{% endblock %}
