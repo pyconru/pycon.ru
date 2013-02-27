@@ -78,7 +78,7 @@
         
         'program': _('Program'),
         'program/headliners': _('Headliners'),
-        'program/content': _('Results'),
+        'program/content': _('Content'),
         'program/schedule': _('Schedule'),
 
         'participation': _('Participation'),
@@ -93,18 +93,19 @@
         'contacts': _('Contacts'),
 
         'register': _('Contacts'),
-        'results': _('Results'),
+        'summary': _('Summary'),
       } %}
 
       <nav class="main">
         <ul class="first-level">
           {% for page in ROOT.CHILDREN %}
 
-            {% set is_active = page.NAME in (NAME, PARENT.NAME) -%}
+            {# set is_active = page.NAME in (NAME, PARENT.NAME, PARENT.PARENT.NAME) -#}
+            {% set is_active = PATH.startswith(page.PATH) -%}
             <li class="{% if page.CHILDREN and page.NAME != 'results' %}expandable{% endif %}
                        {% if is_active %}active{% endif %}">
               <a href="{{ url_for(page.PATH) }}" target="_self"
-                 class="{# if page.PATH == 'results' %}emphasized{% endif #}
+                 class="{% if page.PATH == 'summary' %}emphasized{% endif %}
                         {% if is_active %}active{% endif %}
                         {% if page.PATH == 'results' %}results{% endif %}">
                 {{ LABELS[page.PATH] }}
@@ -131,7 +132,7 @@
         'conference/organizers': 'organizers',
         'program/schedule': 'schedule',
         'program/headliners': 'headliners',
-        'results': 'content',
+        'program/content': 'content',
         'partners/list': 'partners',
       } %}
 
@@ -146,7 +147,7 @@
     <footer>
       <nav>
         {% for page in ROOT.CHILDREN %}
-          <a class="{% if page.PATH == 'results' %}emphasized{% endif %}
+          <a class="{% if page.PATH == 'summary' %}emphasized{% endif %}
                     {% if is_active %}active{% endif %}
                     {% if loop.last %}last{% endif %}"
              href="{{ url_for(page.PATH) }}" target="_self">

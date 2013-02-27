@@ -115,5 +115,5 @@ msgstr "Конференц-зал в 3-м корпусе"
 msgid "Video & Slides"
 msgstr "Видео и презентация"
 
-msgid "Results"
+msgid "Summary"
 msgstr "Итоги"
