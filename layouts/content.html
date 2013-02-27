@@ -5,8 +5,9 @@
     <img src="{{ page.photo }}">
     <div>
       {{ page.content }}
-
-      <a href="{{ url_for(page.PATH) }}" class="more">{{ _('Video and presentation') }} &rarr;</a>
+      {% if page.media %}
+        <a href="{{ url_for(page.PATH) }}" class="more">{{ _('Video & Slides') }} &rarr;</a>
+      {% endif %}
     </div>
   {% endfor %}
 {% endblock %}

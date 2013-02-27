@@ -111,3 +111,6 @@ msgstr "Малый конференц-зал"
 
 msgid "Conference hall in 3rd building"
 msgstr "Конференц-зал в 3-м корпусе"
+
+msgid "Video & Slides"
+msgstr "Видео и презентация"
