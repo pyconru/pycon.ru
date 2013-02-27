@@ -54,7 +54,7 @@ BUNDLES = {
 }
 
 ORDERING = {
-    '*': ['conference', 'summary', 'program', 'participation', 'partners', 'contacts'],
+    '*': ['conference', 'program', 'participation', 'partners', 'contacts', 'summary'],
     'conference/*': ['about', 'organizers'],
     'participation/*': ['price', 'venue', 'hotels'],
     'partners/*': ['list', 'join'],
