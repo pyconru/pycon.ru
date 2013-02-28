@@ -120,7 +120,7 @@ day1:
 day2:
   b1a: 
     - speaker: "Dmitriy Prokofyev, Yandex, developer"
-      talk: "What happens inside of asynchronous code?"
+      talk: "Evolution of data synchronization system"
       slug: "synchronization-between-services"
       time: "10:00"
     - speaker: "Roman Imankulov, Doist Inc"
