@@ -6,7 +6,7 @@
     <div>
       {{ page.content }}
       {% if page.media %}
-        <a href="{{ url_for(page.PATH) }}" class="more">{{ _('Video & Slides') }} &rarr;</a>
+        <a href="{{ url_for(page.PATH) }}" target="_self" class="more">{{ _('Video & Slides') }} &rarr;</a>
       {% endif %}
     </div>
   {% endfor %}
