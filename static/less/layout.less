@@ -333,6 +333,9 @@ nav.main {
 
           &>a {
             pointer-events: none;
+            &.results {
+              pointer-events: auto;
+            }
             &:after {
               content: url('/img/menu-arrow-white.png');
               display: inline;
@@ -397,7 +400,11 @@ nav.main {
     &.active {
       color: black;
       background: white;
+
       pointer-events: none;
+      &.results {
+        pointer-events: auto;
+      }
 
       &:hover {
         background: white;
