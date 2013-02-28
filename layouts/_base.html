@@ -80,7 +80,6 @@
         'program/headliners': _('Headliners'),
         'program/content': _('Content'),
         'program/schedule': _('Schedule'),
-        'program/call-for-papers': _('Call for papers'),
 
         'participation': _('Participation'),
         'participation/price': _('Price'),
@@ -93,23 +92,26 @@
         
         'contacts': _('Contacts'),
 
-        'register': _('Register'),
+        'register': _('Contacts'),
+        'summary': _('Summary'),
       } %}
 
       <nav class="main">
         <ul class="first-level">
           {% for page in ROOT.CHILDREN %}
 
-            {% set is_active = page.NAME in (NAME, PARENT.NAME) -%}
-            <li class="{% if page.CHILDREN %}expandable{% endif %}
+            {# set is_active = page.NAME in (NAME, PARENT.NAME, PARENT.PARENT.NAME) -#}
+            {% set is_active = PATH.startswith(page.PATH) -%}
+            <li class="{% if page.CHILDREN and page.NAME != 'results' %}expandable{% endif %}
                        {% if is_active %}active{% endif %}">
               <a href="{{ url_for(page.PATH) }}" target="_self"
-                 class="{% if page.PATH == 'register' %}emphasized{% endif %}
-                        {% if is_active %}active{% endif %}">
+                 class="{% if page.PATH == 'summary' %}emphasized{% endif %}
+                        {% if is_active %}active{% endif %}
+                        {% if page.PATH == 'results' %}results{% endif %}">
                 {{ LABELS[page.PATH] }}
               </a>
 
-              {% if page.CHILDREN %}
+              {% if page.CHILDREN and page.NAME != 'results' %}
                 <ul class="second-level">
                   {% for subpage in page.CHILDREN %}
                     <li>
@@ -134,7 +136,7 @@
         'partners/list': 'partners',
       } %}
 
-      <article id="{{ PAGE_IDS.get(PATH, '') }}">
+      <article id="{% block content_id %}{{ PAGE_IDS.get(PATH, '') }}{% endblock %}">
         {% block content %}
         {% endblock %}
       </article>
@@ -145,7 +147,7 @@
     <footer>
       <nav>
         {% for page in ROOT.CHILDREN %}
-          <a class="{% if page.PATH == 'register' %}emphasized{% endif %}
+          <a class="{% if page.PATH == 'summary' %}emphasized{% endif %}
                     {% if is_active %}active{% endif %}
                     {% if loop.last %}last{% endif %}"
              href="{{ url_for(page.PATH) }}" target="_self">
