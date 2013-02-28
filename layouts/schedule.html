@@ -1,8 +1,9 @@
 {% extends "_base.html" %}
 
-{% macro talk(time, speaker, title) -%}
+{% macro talk(time, speaker, slug, title) -%}
   <li class="talk">
-    <time>{{ time }}</time><span>{{ title }}</span>
+  <time>{{ time }}</time>{% if slug %}<a target="_self"
+      href="{{ url_for('program/content/%s' % slug) }}">{{ title }}</a>{% else %}<span>{{ title }}</span>{% endif %}
     <author>{{ speaker }}</author> 
   </li>
 {%- endmacro %}
@@ -21,7 +22,7 @@
     <ul>
     {% for event in day[block] %}
       {% if event.talk %}
-        {{ talk(event.time, event.speaker, event.talk) }}
+        {{ talk(event.time, event.speaker, event.slug, event.talk) }}
       {% endif %}
         
       {% if event.break %}

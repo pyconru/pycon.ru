@@ -6,6 +6,7 @@ day1:
   b1: 
     - speaker: "Armin Ronacher, основатель Pocoo Team"
       talk: "Advanced Flask patterns"
+      slug: "advanced-flask-patterns"
       time: "10:00"
 
     - break: "Перерыв"
@@ -13,6 +14,7 @@ day1:
 
     - speaker: "David Cramer, специалист по высоким нагрузкам из DISQUS"
       talk: "Scaling for Success: How to build proper scalable web apps"
+      slug: "scaling-for-success"
       time: "11:10"
       
     - break: "Перерыв"
@@ -20,6 +22,7 @@ day1:
 
     - speaker: "Dr. Russell Keith-Magee, президент Django Software Foundation"
       talk: "Building a development community: Lessons and challenges"
+      slug: "building-a-community"
       time: "12:20"
 
   b2:
@@ -29,21 +32,26 @@ day1:
   b3a:
     - speaker: "Андрей Светлов, Python Core Developer"
       talk: "PEP 3156 — стандарт на асинхронные операции в Питоне"
+      slug: "pep-3156"
       time: "14:00"
 
     - speaker: "Андрей Власовских, JetBrains"
       talk: "Статический анализ языка Python"
+      slug: "static-analysis"
       time: "14:45" 
 
   b3b:
     - speaker: "Илья Шаляпин, Евгений Генералов, JetStyle"
       talk: "Разработка через тестирование в Python и Django на практике"
+      slug: "test-driven-development"
       time: "14:00"
     - speaker: "Гриша Костюк, Python-разработчик, Ostrovok.ru"
       talk: "Оптимизация тестов на примере Django и postgres"
+      slug: "test-optimization"
       time: "14:30"
     - speaker: "Сергей Матвеенко, Старший программист, Positive Technologies"
       talk: "MongoEngine: NoORM for NoSQL"
+      slug: "mongoengine-noorm-for-nosql"
       time: "15:00"
   
   b4:
@@ -53,23 +61,29 @@ day1:
   b5a:
     - speaker: "Михаил Коробов, Python-разработчик"
       talk: "Как перейти на Python 3?"
+      slug: "transition-to-python-3"
       time: "16:00"
     - speaker: "Александр Кошелев, Яндекс"
       talk: "Препарирование работы асинхронного кода"
+      slug: "inside-of-asynchronous-code"
       time: "16:30"
     - speaker: "Константин Лопухин, ЧТД"
       talk: "Подход к версионированию данных в реляционной БД"
+      slug: "versioning-in-relational-database"
       time: "17:00"
   
   b5b:
     - speaker: "Илья Биин, архитектор, Ostrovok.ru"
       talk: "Построение распределенной системы кеширования и обмена сообщениями"
+      slug: "distributed-caching-system"
       time: "16:00"
     - speaker: "Денис Колодин, программист-аналитик, ИК Форум"
       talk: "Low-latency и soft-realtime на Python"
+      slug: "low-latency-and-soft-realtime"
       time: "16:30"
     - speaker: "Михаил Юматов, старший разработчик, Трилан"
       talk: "SaltStack"
+      slug: "saltstack"
       time: "17:00"
       
   b6:
@@ -95,6 +109,7 @@ day1:
   b9c:
     - speaker: "Михаил Коробов, Python-разработчик"
       talk: "Воркшоп: Портируем библиотеку на третий Python"
+      slug: "workshop-porting-from-2-to-3"
       time: "21:00"
 
   b10:
@@ -106,9 +121,11 @@ day2:
   b1a: 
     - speaker: "Дмитрий Прокофьев разработчик, Яндекс"
       talk: "Эволюция системы синхронизации данных между сервисами"
+      slug: "synchronization-between-services"
       time: "10:00"
     - speaker: "Роман Иманкулов, Doist Ltd."
       talk: "Celery для внутреннего API в инфраструктуре SOA"
+      slug: "celery-for-internal-api"
       time: "10:45"
 
   b2:
@@ -118,20 +135,24 @@ day2:
   b3:
     - speaker: "Валентин Синицын, Максим Сухарев, Айдеко"
       talk: "Tornado - это не только web-сайты"
+      slug: "tornado-not-only-web-sites"
       time: "12:00" 
     - speaker: "Александр Будкарь, Руководитель службы разработки инфраструктуры веб поиска, Яндекс"
       talk: "Распределенное исполнение Python кода на 10000+ серверах"
+      slug: "distributed-execution"
       time: "12:45" 
    
 
   b1b:
     - speaker: "Андрей Светлов"
       talk: "Мастер класс по созданию сетевых приложений с нуля"
+      slug: "workshop-network-applications"
       time: "10:00"
 
   b1c:
     - speaker: "Константин Лопухин"
       talk: "Пишем свой интерпретатор с использованием RPython"
+      slug: "workshop-rpython"
       time: "10:00"
 
   b4:
@@ -141,17 +162,21 @@ day2:
   b5:
     - speaker: "Holger Krekel, основатель PyPy Project, автор py.test и tox"
       talk: "Re-inventing Python packaging and testing"
+      slug: "packaging-and-testing"
       time: "14:10"
     - speaker: "Jeff Lindsay, основатель крупнейшего в США коммьюнити-центра для хакеров Hacker Dojo"
       talk: "Building Public Infrastructure with Autosustainble Services"
+      slug: "autosustainable-services"
       time: "15:00"
     - break: "Перерыв"
       time: "15:50"
     - speaker: "Amir Salihefendic, основатель Doist Ltd."
       talk: "Redis, the hacker's database"
+      slug: "redis-the-hackers-database"
       time: "16:20"
     - speaker: "Dr. Russell Keith-Magee, президент Django Software Foundation"
       talk: "Django 1.6 and beyond: The Django Roadmap"
+      slug: "django-roadmap"
       time: "17:10"
 
   b6:
