@@ -4,9 +4,13 @@
 
 {% block content %}
   <img src="{{ photo }}" class="photo">
+
   <div class="description">
-    {{ content }}
+      {{ speaker|markdown }}
+      <p><b>{{ title }}</b></p>
+      <p>{{ description|markdown }}</p>
   </div>
+
   <div class="media">
     {{ media }}
   </div>
