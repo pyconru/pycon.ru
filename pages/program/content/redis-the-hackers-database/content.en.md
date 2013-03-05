@@ -1,4 +1,5 @@
 **[Amir Salihefendic](http://amix.dk/)**, founder of the [Doist Ltd](http://Doist.io/). Lead developer and co-founder one of the largest in the world sites by Python [Plurk.com](http://plurk.com) in the past.  
+
 **Redis, the hacker's database**
 
 - simple_queue: feature set, comparison with Celery and Rq    

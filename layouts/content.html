@@ -3,11 +3,22 @@
 {% block content %}
   {% for page in CHILDREN %}
     <img src="{{ page.photo }}">
-    <div>
+    <div data-link="{{ url_for(page.PATH) }}" class="talk">
       {{ page.content }}
       {% if page.media %}
         <a href="{{ url_for(page.PATH) }}" target="_self" class="more">{{ _('Video & Slides') }} &rarr;</a>
       {% endif %}
     </div>
   {% endfor %}
+
+  <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+  <script>
+    $('.talk').find('p:eq(1)').each(function(_, el) {
+
+        $(el).wrapInner($('<a></a>', {
+           'href': $(el).parent('div').data('link'),
+           'target': '_self'
+        }));
+    });
+  </script>
 {% endblock %}
