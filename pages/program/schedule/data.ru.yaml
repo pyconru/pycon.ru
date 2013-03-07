@@ -92,6 +92,7 @@ day1:
   
   b7:
     - break: "Lightning Talks"
+      slug: "lightning-talks-1"
       time: "18:00"
   
   b8:
@@ -185,6 +186,7 @@ day2:
 
   b7:
     - break: "Lightning Talks"
+      slug: "lightning-talks-2"
       time: "18:10" 
 
   b8:
