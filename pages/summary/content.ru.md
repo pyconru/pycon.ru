@@ -7,7 +7,10 @@
                           
 
 Видеозписи докладов и слайды презентаций - по клику на название доклада в [расписании](http://pycon.ru/program/schedule/)
-
+Бонусы:
+* [Lightning Talks 24 февраля](http://youtu.be/DTm4bHPZ7Vc)
+* [Lightning Talks 25 февраля](http://youtu.be/b_rGwaryDmI)
+* [Круглый стол по переходу с Python 2 на Python 3](http://youtu.be/hERb4be-h0w)
 
 Отчет организаторов: [в блоге IT-People.ru](http://it-people.livejournal.com/4790.html)
 
