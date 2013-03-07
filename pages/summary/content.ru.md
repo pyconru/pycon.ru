@@ -7,6 +7,7 @@
                           
 
 Видеозписи докладов и слайды презентаций - по клику на название доклада в [расписании](http://pycon.ru/program/schedule/)
+
 Бонусы:
 * [Lightning Talks 24 февраля](http://youtu.be/DTm4bHPZ7Vc)
 * [Lightning Talks 25 февраля](http://youtu.be/b_rGwaryDmI)
