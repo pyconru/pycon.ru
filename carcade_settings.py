@@ -33,6 +33,9 @@ speeches = [
     'workshop-rpython',
     'workshop-network-applications',
     'workshop-porting-from-2-to-3',
+    'lightning-talks-1',
+    'lightning-talks-2',
+    
 ]
 
 DEFAULT_LAYOUT = 'page.html'
