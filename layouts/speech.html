@@ -6,9 +6,9 @@
   <img src="{{ photo }}" class="photo">
 
   <div class="description">
-      {{ speaker|markdown }}
+      {{ speaker|default('')|markdown }}
       <p><b>{{ title }}</b></p>
-      <p>{{ description|markdown }}</p>
+      <p>{{ description|default('')|markdown }}</p>
   </div>
 
   <div class="media">

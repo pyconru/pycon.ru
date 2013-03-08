@@ -5,9 +5,9 @@
     <img src="{{ page.photo }}">
 
     <div class="talk">
-      {{ page.speaker|markdown }}
+      {{ page.speaker|default('')|markdown }}
       <p><a href="{{ url_for(page.PATH) }}" target="_self"><b>{{ page.title }}</b></a></p>
-      <p>{{ page.description|markdown }}</p>
+      <p>{{ page.description|default('')|markdown }}</p>
       {% if page.media %}
         <a href="{{ url_for(page.PATH) }}" target="_self" class="more">{{ _('Video & Slides') }} &rarr;</a>
       {% endif %}
