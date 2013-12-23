@@ -8,6 +8,7 @@ from carcade.utils import patterns
 LANGUAGES = ('en', 'ru')
 
 BASE_URL = '/2014/'
+STATIC_URL = BASE_URL
 
 DEFAULT_PAGE = 'conference/about'
 DEFAULT_LANGUAGE = 'ru'

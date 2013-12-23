@@ -1,7 +1,7 @@
 {% extends "_base.html" %}
 
 {% block head_extra %}
-  <script src="/js/countdown.min.js" type="text/javascript"></script>
+  <script src="{{ STATIC_URL }}js/countdown.min.js" type="text/javascript"></script>
   <script>
     function updateCounter() {
         var now = new Date();

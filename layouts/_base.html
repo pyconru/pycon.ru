@@ -8,8 +8,8 @@
     <meta name="viewport" content="width=device-width">
     <base target="_blank">
     <!--[if lt IE 9]>
-      <script src="/js/html5shiv.js"></script>
-      <script src="/js/css3-mediaqueries.js"></script>
+      <script src="{{ STATIC_URL }}js/html5shiv.js"></script>
+      <script src="{{ STATIC_URL }}js/css3-mediaqueries.js"></script>
     <![endif]-->
     {% assets 'css' %}
       <link rel="stylesheet" href="{{ ASSET_URL }}">
@@ -67,7 +67,7 @@
         </section>
 
         <a href="{{ url_for('conference/about') }}" target="_self">
-          <img src="/img/logo.png" class="logo">
+          <img src="{{ STATIC_URL }}img/logo.png" class="logo">
         </a>
       </header>
 
