@@ -5,7 +5,7 @@
 
 - Email: pycon@it-people.ru
 - Phone: +7 (343) 202-12-32, 202-12-52, +7 (912) 23-21-222
-- Address: Ekaterinburg, Belinskogo street, 86 
+- Address: Ekaterinburg, Business Center Suvorov, Radischeva 6a, office 1210
 
 
 ####Follow us:####
