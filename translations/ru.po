@@ -78,8 +78,8 @@ msgstr "Организаторы"
 
 #: index.html:21
 #: &#8209; -- non-breaking hyphen
-msgid "PyCon Russia 2013, Feb&nbsp;24&#8209;25"
-msgstr "PyCon Russia 2013, 24&#8209;25&nbsp;февраля"
+msgid "PyCon Russia 2014, June&nbsp;2&#8209;3"
+msgstr "PyCon Russia 2014, 2&#8209;3&nbsp;июня"
 
 #: index.html:26
 msgid "days"
