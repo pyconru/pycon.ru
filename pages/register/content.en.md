@@ -1,1 +1,1 @@
-Registration
+Registration will be opening soon!
