@@ -49,8 +49,8 @@ msgid "See Venue for more information about conference location."
 msgstr "Узнать более подробно о месте проведения"
 
 #: _base.html:54
-msgid "February"
-msgstr "Февраль"
+msgid "June"
+msgstr "Июнь"
 
 #: index.html:41
 msgid "seconds"

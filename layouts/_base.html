@@ -51,7 +51,8 @@
       <header>
         <a href="{{ url_for('conference/about') }}" target="_self">
           <h2>
-            <span class="month">{{ _('June') }}</span> <span class="days">2&ndash;3</span>
+            <span class="month">{{ _('June') }}</span>
+            <span class="days">2&ndash;3</span>
           </h2>
 
           <h1>
@@ -100,12 +101,11 @@
         <ul class="first-level">
           {% for page in ROOT.CHILDREN %}
 
-            {# set is_active = page.NAME in (NAME, PARENT.NAME, PARENT.PARENT.NAME) -#}
             {% set is_active = PATH.startswith(page.PATH) -%}
             <li class="{% if page.CHILDREN and page.NAME != 'results' %}expandable{% endif %}
                        {% if is_active %}active{% endif %}">
               <a href="{{ url_for(page.PATH) }}" target="_self"
-                 class="{% if page.PATH == 'summary' %}emphasized{% endif %}
+                 class="{% if page.PATH == 'register' %}emphasized{% endif %}
                         {% if is_active %}active{% endif %}
                         {% if page.PATH == 'results' %}results{% endif %}">
                 {{ LABELS[page.PATH] }}
