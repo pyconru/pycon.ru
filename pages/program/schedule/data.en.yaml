@@ -1,1 +1,192 @@
- 
+day1:
+  b0: 
+    - time: "9:00"
+      talk: "Registrations"
+
+  b1: 
+    - speaker: "Armin Ronacher, author of Flask and Jinja2"
+      talk: "Advanced Flask patterns"
+      slug: "advanced-flask-patterns"
+      time: "10:00"
+
+    - break: "Break"
+      time: "11:00"
+
+    - speaker: "David Cramer, DISQU, highload specialist"
+      talk: "Building Scalable Web Apps"
+      slug: "scaling-for-success"
+      time: "11:10"
+      
+    - break: "Break"
+      time: "12:10"
+
+    - speaker: "Dr. Russell Keith-Magee, president of the Django Software Foundation"
+      talk: "Django Roadmap"
+      slug: "django-roadmap"
+      time: "12:20"
+
+  b2:
+    - break: "Lunch Break"
+      time: "13:20"
+  
+  b3a:
+    - speaker: "Andrey Svetlov, Python Core Developer"
+      talk: "PEP 3156 — Standard of asynchronous IO Support Rebooted in Python"
+      slug: "pep-3156"
+      time: "14:00"
+
+    - speaker: "Andrey Vlasovskikh, JetBrains"
+      talk: "Static analysis of the Python"
+      slug: "static-analysis"
+      time: "14:45" 
+
+  b3b:
+    - speaker: "Ilya Shalyapin, Yevgeniy Generalov, JetStyle"
+      talk: "Test Driven Development in Python and Django"
+      slug: "test-driven-development"
+      time: "14:00"
+    - speaker: "Grisha Kostyuk, Ostrovok.ru, python-developer"
+      talk: "Test optimization in terms of django and postgres"
+      slug: "test-optimization"
+      time: "14:30"
+    - speaker: "Sergey Matveyenko, Positive Technologies, Senior programmer"
+      talk: "MongoEngine: NoORM for NoSQL"
+      slug: "mongoengine-noorm-for-nosql"
+      time: "15:00"
+  
+  b4:
+    - break: "Coffee break"
+      time: "15:30"
+  
+  b5a:
+    - speaker: "Mikhail Korobov, Python-developer"
+      talk: "How to transition to Python 3?"
+      slug: "transition-to-python-3"
+      time: "16:00"
+    - speaker: "Aleksandr Koshelev, Yandex"
+      talk: "What happens inside of asynchronous code?"
+      slug: "inside-of-asynchronous-code"
+      time: "16:30"
+    - speaker: "Konstantin Lopukhin, ChTD"
+      talk: "An approach to versioning in relational database"
+      slug: "versioning-in-relational-database"
+      time: "17:00"
+  
+  b5b:
+    - speaker: "Ilya Biin, Ostrovok.ru, Software architect"
+      talk: "Construction distributed caching system and messaging"
+      slug: "distributed-caching-system"
+      time: "16:00"
+    - speaker: "Denis Kolodin, IK Forum, programmer-analyst"
+      talk: "Low-latency and soft-realtime на Python"
+      slug: "low-latency-and-soft-realtime"
+      time: "16:30"
+    - speaker: "Mikhail Yumatov, Trilan, Senior programmer"
+      talk: "SaltStack"
+      slug: "saltstack"
+      time: "17:00"
+  
+  b6:
+    - break: "Break. Registration on Lightning Talks"
+      time: "17:30"
+  
+  b7:
+    - break: "Lightning Talks"
+      time: "18:00"
+  
+  b8:
+    - break: "Dinner & Free time"
+      time: "19:00"
+    
+  b9a:
+    - break: "Afterparty, Russian baths, bowling, billiards, game-party от Ideco"
+      time: "20:30"
+
+  b9b:
+    - talk: "Round table: Do you need to switch from Python 2 to Python 3?"
+      time: "20:30"
+  
+  b9c:
+    - speaker: "Mikhail Korobov, Python-developer"
+      talk: "Workshop: Porting library to Python 3"
+      slug: "workshop-porting-from-2-to-3"
+      time: "21:00"
+
+  b10:
+    - break: "End of first day :)"
+      time: "24:00"
+
+
+day2:
+  b1a: 
+    - speaker: "Dmitriy Prokofyev, Yandex, developer"
+      talk: "Evolution of data synchronization system"
+      slug: "synchronization-between-services"
+      time: "10:00"
+    - speaker: "Roman Imankulov, Doist Inc"
+      talk: "Celery for internal API in SOA infrastructure"
+      slug: "celery-for-internal-api"
+      time: "10:45"
+
+  b2:
+    - break: "Break"
+      time: "11:30"
+
+  b3:
+    - speaker: "Valentin Sinitsyn, Max Sukharev, Ideco"
+      talk: "Tornado - not only websites"
+      slug: "tornado-not-only-web-sites"
+      time: "12:00" 
+    - speaker: "Aleksandr Budkar, Yandex, leader of development infrastructure web search"
+      talk: "Distributed execution Python code on 1000+ servers"
+      slug: "distributed-execution"
+      time: "12:45" 
+   
+
+  b1b:
+    - speaker: "Andrey Svetlov"
+      talk: "Workshop on creation network applications from scratch"
+      slug: "workshop-network-applications"
+      time: "10:00"
+
+  b1c:
+    - speaker: "Konstantin Lopuhin"
+      talk: "Workshop: We will write your interpreter with using RPython"
+      slug: "workshop-rpython"
+      time: "10:00"
+
+  b4:
+    - break: "Lunch Break"
+      time: "13:30"
+  
+  b5:
+    - speaker: "Holger Krekel, founder of the PyPy Project"
+      talk: "Re-inventing Python packaging and testing"
+      slug: "packaging-and-testing"
+      time: "14:10"
+    - speaker: "Jeff Lindsay, founder of the Hacker Dojo - largest hackers community center in USA"
+      talk: "Building Public Infrastructure with Autosustainble Services"
+      slug: "autosustainable-services"
+      time: "15:00"
+    - break: "Break"
+      time: "15:50"
+    - speaker: "Amir Salihefendic, founder of the Doist Inc"
+      talk: "Redis, the hacker's database"
+      slug: "redis-the-hackers-database"
+      time: "16:20"
+    - speaker: "Russell Keith-Magee"
+      talk: "Building a development community: Lessons and challenges"
+      slug: "building-a-community"
+      time: "17:10"
+
+  b6:
+    - break: "Break. Registration on Lightning Talks"
+      time: "18:00"
+
+  b7:
+    - talk: "Lightning Talks"
+      time: "18:10" 
+
+  b8:
+    - break: "The end! :)"
+      time: "24:00"
