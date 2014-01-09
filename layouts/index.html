@@ -5,8 +5,8 @@
   <script>
     function updateCounter() {
         var now = new Date();
-        var start = new Date(2013, 1, 24, 9, 0, 0, 0);
-        var finish = new Date(2013, 1, 25, 23, 59, 59, 0);
+        var start = new Date(2014, 5, 2, 9, 0, 0, 0);
+        var finish = new Date(2014, 5, 3, 23, 59, 59, 0);
 
         if (now < start) {
             var c = countdown(start, null, countdown.DAYS | countdown.HOURS | countdown.MINUTES | countdown.SECONDS);
@@ -26,7 +26,7 @@
 {% endblock %}
 
 {% block content %}
-  <h2>{% trans %}PyCon Russia 2013, Feb&nbsp;24&#8209;25{% endtrans %}</h2>
+  <h2>{% trans %}PyCon Russia 2014, June&nbsp;2&#8209;3{% endtrans %}</h2>
 
   <section class="counter" id="counter">
     <span class="now-live">{{ _('Now live!') }}</span>
@@ -79,8 +79,5 @@
   </section>
 
   <section class="participants-geo">
-    <h3>География участников</h3>
-    <iframe width="860" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=215111957795026811413.0004d4f9f07d41cf04f96&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;ll=23.563987,3.164063&amp;spn=110.040698,298.476563&amp;z=2&amp;output=embed"></iframe>
-    <small>Просмотреть <a href="https://maps.google.com/maps/ms?msid=215111957795026811413.0004d4f9f07d41cf04f96&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;ll=23.563987,3.164063&amp;spn=110.040698,298.476563&amp;z=2&amp;source=embed" style="color:#0000FF;text-align:left">PyCon Russia 2013</a> на карте большего размера</small>
   </section>
 {% endblock %}
