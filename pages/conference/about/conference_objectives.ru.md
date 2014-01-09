@@ -1,8 +1,5 @@
-### Первый PyCon в России
-
 * Конференция для опытных python-разработчиков
+* Два дня
 * Выездной формат
-* Хэдлайнеры конференции  Russell Keith-Magee, Armin Ronacher, Holger Krekel, Jeff Lindsay, David Cramer, Amir Salihefendic
-* 15 докладов от ведущих российских специалистов
-* 3 воркшопа
-* Круглый стол
+* Доклады, воркшопы, круглые столы, lightning talks
+* Afterparty!
