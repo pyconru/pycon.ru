@@ -10,7 +10,12 @@
 
         if (now < start) {
             var c = countdown(start, null, countdown.DAYS | countdown.HOURS | countdown.MINUTES | countdown.SECONDS);
-            document.getElementById('days-value').innerHTML = c.days;
+            var daysEl = document.getElementById('days-value');
+            daysEl.className = 'value';
+            if (c.days > 99) {
+                daysEl.className += ' wide';
+            }
+            daysEl.innerHTML = c.days;
             document.getElementById('hours-value').innerHTML = c.hours;
             document.getElementById('minutes-value').innerHTML = c.minutes;
             document.getElementById('seconds-value').innerHTML = c.seconds;

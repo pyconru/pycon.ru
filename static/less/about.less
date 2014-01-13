@@ -15,7 +15,6 @@
     .days, .hours, .minutes, .seconds {
       display: inline-block;
       position: relative;
-      width: 82px;
       margin: 5px;
       text-align: center;
 
@@ -26,9 +25,36 @@
       }
 
       .value {
+        min-width: 78px;
         height: 78px;
+
+        &.wide {
+          padding: 0 5px;
+        }
+
+        border: 1px solid #efb718;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+
+        -webkit-box-shadow: 0px 1px 1px 0px rgba(50, 50, 50, 0.4);
+        -moz-box-shadow: 0px 1px 1px 0px rgba(50, 50, 50, 0.4);
+        box-shadow: 0px 1px 1px 0px rgba(50, 50, 50, 0.4);
+
+        background-image: -webkit-gradient(
+          linear,
+          left top,
+          left bottom,
+          color-stop(0.5, #FFD826),
+          color-stop(1, #FDB40B)
+        );
+        background-image: -o-linear-gradient(bottom, #FFD826 50%, #FDB40B 100%);
+        background-image: -moz-linear-gradient(bottom, #FFD826 50%, #FDB40B 100%);
+        background-image: -webkit-linear-gradient(bottom, #FFD826 50%, #FDB40B 100%);
+        background-image: -ms-linear-gradient(bottom, #FFD826 50%, #FDB40B 100%);
+        background-image: linear-gradient(to bottom, #FFD826 50%, #FDB40B 100%);
+
         color: #363636;
-        background-image: url('../img/counter-bg.png');
         font-size: 58px;
         font-weight: bold;
         line-height: 78px;
@@ -36,11 +62,13 @@
 
         &:after {
           display: block;
-          top: 40px;
+          top: 39px;
+          left: 0;
           width: 100%;
-          height: 1px;
+          height: 0px;
           position: absolute;
-          background-image: url('../img/separator.png');
+          border-top: 1px solid rgba(233, 144, 41, 0.75);
+          border-bottom: 1px solid rgba(255, 255, 255, 0.75);
           content: "";
         }
       }
