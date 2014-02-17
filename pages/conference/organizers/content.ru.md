@@ -33,8 +33,6 @@ Python-разработчик в Svitla Systems, Inc., организатор Py
 
 ![voronina](http://dropbucket.ru/pycon/voronina) Елена Воронина
 
-![potapova](http://dropbucket.ru/pyconru/potapova) Александра Потапова
+![shulyndina](http://dropbucket.ru/pycon/shulyndina) Екатерина Шулындина
 
-![blincheva](http://dropbucket.ru/pycon/blincheva) Нюта Блиничева
 
-![kiskachiii](http://dropbucket.ru/pycon/kiskachiii) Мария Кискачи
