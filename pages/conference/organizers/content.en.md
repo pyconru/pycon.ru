@@ -36,11 +36,5 @@
 ![voronina](http://dropbucket.ru/pycon/voronina) - Elena Voronina
 
 
-![kiskachiii](http://dropbucket.ru/pycon/kiskachiii) - Maria Kiskachi
-
-
-![blincheva](http://dropbucket.ru/pycon/blincheva) - Nuta Blinicheva 
-
-
-![potapova](http://dropbucket.ru/pyconru/potapova) - Alexandra Potapova
+![shulyndina](http://dropbucket.ru/pycon/shulyndina1) - Ekaterina Shulyndina
 
