@@ -1,6 +1,6 @@
 We invite you to speak at PyСon Russia 2014! 
 
-If you want to present your own report,  you should send a request (pycon@it-people.ru) until April 1. 
+If you want to present your own report,  you should send a request (pycon@it-people.ru) until April 15. 
 
 The request should include: 
 
