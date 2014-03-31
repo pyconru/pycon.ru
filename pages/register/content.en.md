@@ -1,6 +1,6 @@
 To participate in the conference, you must register and pay the ticket. 
 
-####Ticket price#### 
+####Ticket price
 
 Until April 30 - 8000 rubles 
 From May 1 to May 15 - 9000 rubles 
