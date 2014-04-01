@@ -38,3 +38,5 @@
 
 ![shulyndina3](http://dropbucket.ru/pycon/shulyndina3) - Ekaterina Shulyndina
 
+![galkina](http://dropbucket.ru/pycon/galkina) - Tatyana Galkina
+
