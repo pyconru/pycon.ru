@@ -33,6 +33,6 @@ Python-разработчик в Svitla Systems, Inc., организатор Py
 
 ![voronina](http://dropbucket.ru/pycon/voronina) Елена Воронина
 
-![shulyndina2](http://dropbucket.ru/pycon/shulyndina2) Екатерина Шулындина
+![shulyndina](http://dropbucket.ru/pycon/shulyndina) Екатерина Шулындина
 
 
