@@ -34,7 +34,7 @@
  ![ivolga lux](http://dropbucket.ru/pyconru/Ivolga/lux)
  ![ivolga lux2](http://dropbucket.ru/pyconru/Ivolga/lux3)
  
- <b>[Забронировать номер.](https://docs.google.com/spreadsheet/viewform?usp=drive_web&formkey=dFpjRGsxSm1YZ21NdG1PeldmcFFmelE6MQ#gid=0)</b> 
+ <b>[Забронировать номер!](https://docs.google.com/spreadsheet/viewform?usp=drive_web&formkey=dFpjRGsxSm1YZ21NdG1PeldmcFFmelE6MQ#gid=0)</b> 
  
  При бронировании номера оплата производится через IT-people [event@it-people.ru](event@it-people.ru), +7 (343) 202-12-32) 
 
