@@ -36,5 +36,5 @@
 ![voronina](http://dropbucket.ru/pycon/voronina) - Elena Voronina
 
 
-![shulyndina](http://dropbucket.ru/pycon/shulyndina1) - Ekaterina Shulyndina
+![shulyndina3](http://dropbucket.ru/pycon/shulyndina3) - Ekaterina Shulyndina
 
