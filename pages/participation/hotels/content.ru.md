@@ -50,7 +50,7 @@
 Одноместный от 3900 за сутки
 Двухместный от 5100 за сутки
 
-<b>Сайт</b> [http://avenuehotel.ru](http://avenuehotel.ru)
+<b>Сайт:</b> [http://avenuehotel.ru](http://avenuehotel.ru)
   
 <b>Отель "Вознесенский"  4* </b>
 
