@@ -10,4 +10,6 @@ From May 15 to June 1 - 10 000 rubles
 
 On the day of the conference - 10 000 rubles
 
+<script type="text/javascript" src="https://pycon.ticketforevent.com/en/widget/?h=0&s=0"></script>
+
 
