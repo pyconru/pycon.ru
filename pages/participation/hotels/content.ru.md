@@ -11,25 +11,25 @@
 У Вас есть возможность оплатить номер и проживать одному, либо поселиться в номере вместе с соседом (знакомым или случайным). Форма брони номера доступна ниже на странице.
  
 **!SOLD OUT** <b>Номера "Стандарт":</b> двухместный, однокомнатный, телевизор, минибар.
- <b>Стоимость:</b> 3 000 р./ сутки
+ <b>Стоимость:</b> 2 100 р./ сутки
 
  ![ivolga standart](http://dropbucket.ru/pyconru/Ivolga/standard)
  ![ivolga standart2](http://dropbucket.ru/pyconru/Ivolga/standart2)
 
 **!SOLD OUT** <b>Номера "Стандарт+":</b> однокомнатный, телевизор, минибар.
- <b>Стоимость:</b> 3 100 р./ сутки
+ <b>Стоимость:</b> 2 200 р./ сутки
 
  ![ivolga standartplus](http://dropbucket.ru/pyconru/Ivolga/standartplus)
  ![ivolga standartplus2](http://dropbucket.ru/pyconru/Ivolga/standartplus2)
  
  <b>Номера "Полулюкс":</b> двухкомнатный, телевизор, минибар, мягкая мебель.
-  <b>Стоимость:</b> 4 050 р. / сутки
+  <b>Стоимость:</b> 3 000 р. / сутки
  
  ![ivolga polulux](http://dropbucket.ru/pyconru/Ivolga/polulux)
  ![ivolga polulux2](http://dropbucket.ru/pyconru/Ivolga/polulux2)
  
  <b>Номера "Люкс":</b> двухкомнатный, телевизор, DVD, минибар, мягкая мебель.
-  <b>Стоимость:</b> 5 100 р. / сутки
+  <b>Стоимость:</b> 4 000 р. / сутки
  
  ![ivolga lux](http://dropbucket.ru/pyconru/Ivolga/lux)
  ![ivolga lux2](http://dropbucket.ru/pyconru/Ivolga/lux3)
