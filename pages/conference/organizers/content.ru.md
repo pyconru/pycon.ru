@@ -35,4 +35,6 @@ Python-разработчик в Svitla Systems, Inc., организатор Py
 
 ![shulyndina3](http://dropbucket.ru/pycon/shulyndina3) Екатерина Шулындина
 
+![galkina](http://dropbucket.ru/pycon/galkina) Татьяна Галкина
+
 
