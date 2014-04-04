@@ -1,17 +1,17 @@
- sectios:
-    - name: "Информационные партнеры"
-      sponsors:
-        - logo: http://dropbucket.ru/mdm
-          link: http://moscowdjango.ru
+sectios:
+- name: "Информационные партнеры"
+  sponsors:
+  - logo: http://dropbucket.ru/mdm
+    link: http://moscowdjango.ru
           
-        - logo: http://dropbucket.ru/pythonsu
-          link: http://python.su
+  - logo: http://dropbucket.ru/pythonsu
+    link: http://python.su
           
-        - logo: http://dropbucket.ru/it-eburg
-          link: http://it-eburg.com
+  - logo: http://dropbucket.ru/it-eburg
+    link: http://it-eburg.com
  
- sectios:
-    - name: "Конференция-партнер"
-      sponsors:
-        - logo: http://dropbucket.ru/pycon/pyterpy2
-          link: http://www.it-sobytie.ru/events/2040
+sectios:
+- name: "Конференция-партнер"
+  sponsors:
+  - logo: http://dropbucket.ru/pycon/pyterpy2
+    link: http://www.it-sobytie.ru/events/2040
