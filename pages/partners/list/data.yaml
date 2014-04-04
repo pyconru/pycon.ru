@@ -9,8 +9,7 @@ sectios:
           
   - logo: http://dropbucket.ru/it-eburg
     link: http://it-eburg.com
- 
-sectios:
+
 - name: "Конференция-партнер"
   sponsors:
   - logo: http://dropbucket.ru/pycon/pyterpy2
