@@ -15,7 +15,10 @@ sectios:
     
  - logo:  http://dropbucket.ru/python
     link: https://vk.com/vk_python
-    
+  
+  - logo: http://dropbucket.ru/python 3
+    link: https://vk.com/python_3
+  
 - name: "Событийный партнер"
   sponsors:
   - logo: http://dropbucket.ru/itsob
