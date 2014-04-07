@@ -24,8 +24,8 @@ LAYOUTS = patterns(
     (r'^partners/list$', 'partners.html'),
     (r'^register$', 'register.html'),
     #(r'^program/schedule$', 'page.html'),
-    (r'^program/content$', 'content.html'),
-    (r'^program/content/.*$', 'speech.html'),
+    #(r'^program/content$', 'content.html'),
+    #(r'^program/content/.*$', 'speech.html'),
     (r'^.*$', 'page.html'),
 )
 

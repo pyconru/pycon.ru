@@ -1,9 +1,0 @@
-speaker: |
-    **[Dr. Russell Keith-Magee](http://cecinestpasun.com)**, президент [Django Software Foundation](https://www.djangoproject.com/foundation/), член Django core team, CTO компании [TradesCloud](http://tradescloud.com/).
-
-title: "Building a development community: Lessons and challenges"
-
-description: |
-    Over the last 7 years, Django has grown from an in-house project in an obscure Kansas newsroom, to a project with global reach, in use on all 7 continents, with contributors and users all over the planet. How has the Django project managed this process of growth? What lessons can other projects learn from Django's successes and failures? And how can Django protect it's long term survival? In this talk, Django Core Developer Russell Keith-Magee will reflect on the history of the Django project, and look at how Django -- and other open source projects -- can build, grow and sustain their communities. Audience: Anyone involved in open source.
-
-duration: 40 минут
