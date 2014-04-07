@@ -18,6 +18,9 @@ sectios:
   
   - logo: http://dropbucket.ru/python 3
     link: https://vk.com/python_3
+    
+  - logo: http://dropbucket.ru/pythondevelopers
+    link: https://vk.com/python_developers
   
 - name: "Событийный партнер"
   sponsors:
