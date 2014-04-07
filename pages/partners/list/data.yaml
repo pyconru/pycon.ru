@@ -10,6 +10,12 @@ sectios:
   - logo: http://dropbucket.ru/it-eburg
     link: http://it-eburg.com
 
+- name: "Событийный партнер"
+  sponsors:
+  - logo: http://dropbucket.ru/itsob
+    link: http://www.it-sobytie.ru
+
+
 - name: "Конференция-партнер"
   sponsors:
   - logo: http://dropbucket.ru/pycon/pyterpy2
