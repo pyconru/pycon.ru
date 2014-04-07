@@ -12,7 +12,10 @@ sectios:
   
   - logo: http://dropbucket.ru/devsearch
     link: http://devsearch.ru
-
+    
+ - logo:  http://dropbucket.ru/python
+    link: https://vk.com/vk_python
+    
 - name: "Событийный партнер"
   sponsors:
   - logo: http://dropbucket.ru/itsob
