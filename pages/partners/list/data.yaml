@@ -9,11 +9,14 @@ sectios:
           
   - logo: http://dropbucket.ru/it-eburg
     link: http://it-eburg.com
-  
+    
+  - logo: http://dropbucket.ru/cnews
+    link: http://www.cnews.ru
+    
   - logo: http://dropbucket.ru/devsearch
     link: http://devsearch.ru
     
- - logo:  http://dropbucket.ru/python
+  - logo:  http://dropbucket.ru/python
     link: https://vk.com/vk_python
   
   - logo: http://dropbucket.ru/python 3
