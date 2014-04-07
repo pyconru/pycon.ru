@@ -16,6 +16,10 @@ msgstr "Партнёры"
 msgid "Contacts"
 msgstr "Контакты"
 
+#: _base.html:78
+msgid "Archive"
+msgstr "Архив"
+
 #: _base.html:76
 msgid "About"
 msgstr "О конференции"

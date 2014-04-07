@@ -76,6 +76,7 @@
         'conference': _('Conference'),
         'conference/about': _('About'),
         'conference/organizers': _('Organizers'),
+        'conference/contacts': _('Contacts'),
         
         'program': _('Program'),
         'program/headliners': _('Headliners'),
@@ -91,7 +92,7 @@
         'partners/list': _('Partners'),
         'partners/join': _('Join'),
         
-        'contacts': _('Contacts'),
+        'archive': _('Archive'),
 
         'register': _('Register'),
         'summary': _('Summary'),
@@ -100,29 +101,43 @@
       <nav class="main">
         <ul class="first-level">
           {% for page in ROOT.CHILDREN %}
-
             {% set is_active = PATH.startswith(page.PATH) -%}
-            <li class="{% if page.CHILDREN and page.NAME != 'results' %}expandable{% endif %}
-                       {% if is_active %}active{% endif %}">
-              <a href="{{ url_for(page.PATH) }}" target="_self"
-                 class="{% if page.PATH == 'register' %}emphasized{% endif %}
-                        {% if is_active %}active{% endif %}
-                        {% if page.PATH == 'results' %}results{% endif %}">
-                {{ LABELS[page.PATH] }}
-              </a>
-
-              {% if page.CHILDREN and page.NAME != 'results' %}
+            {% if page.NAME == 'archive' %}
+              <li class="expandable {% if is_active %}active{% endif %}">
+                <a href="{{ url_for(page.PATH) }}" target="_self" class="{% if is_active %}active{% endif %}">
+                  {{ LABELS[page.PATH] }}
+                </a>
                 <ul class="second-level">
-                  {% for subpage in page.CHILDREN %}
-                    <li>
-                      <a href="{{ url_for(subpage.PATH) }}" target="_self">
-                        {{ LABELS[subpage.PATH] }}
-                      </a>
-                    </li>
-                  {% endfor %}
+                  <li>
+                    <a href="/2013/" target="_self">
+                      PyCon Russia 2013
+                    </a>
+                  </li>
                 </ul>
-              {% endif %}
-            </li>
+              </li>
+            {% else %}
+              <li class="{% if page.CHILDREN and page.NAME != 'results' %}expandable{% endif %}
+                         {% if is_active %}active{% endif %}">
+                <a href="{{ url_for(page.PATH) }}" target="_self"
+                   class="{% if page.PATH == 'register' %}emphasized{% endif %}
+                          {% if is_active %}active{% endif %}
+                          {% if page.PATH == 'results' %}results{% endif %}">
+                  {{ LABELS[page.PATH] }}
+                </a>
+
+                {% if page.CHILDREN and page.NAME != 'results' %}
+                  <ul class="second-level">
+                    {% for subpage in page.CHILDREN %}
+                      <li>
+                        <a href="{{ url_for(subpage.PATH) }}" target="_self">
+                          {{ LABELS[subpage.PATH] }}
+                        </a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </li>
+            {% endif %}
           {% endfor %}
         </ul>
       </nav>
