@@ -24,6 +24,10 @@ msgstr "Архив"
 msgid "About"
 msgstr "О конференции"
 
+#: _base.html:78
+msgid "Code of Conduct"
+msgstr "Кодекс поведения"
+
 #: _base.html:82
 msgid "Content"
 msgstr "Содержание"

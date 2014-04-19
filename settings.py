@@ -31,7 +31,7 @@ LAYOUTS = patterns(
 
 ORDERING = {
     '*': ['conference', 'program', 'participation', 'partners', 'archive', 'summary'],
-    'conference': ['about', 'organizers', 'contacts'],
+    'conference': ['about', 'coc', 'organizers', 'contacts'],
     'participation': ['price', 'venue', 'hotels'],
     'partners': ['list', 'join'],
     'program': ['headliners', 'content', 'schedule'],
