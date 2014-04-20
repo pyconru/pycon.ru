@@ -18,11 +18,6 @@ Python-разработчик, спикер различных Python-конфе
 ![svetlov](http://dropbucket.ru/pyconru/svetlov) [Андрей Светлов](http://www.linkedin.com/pub/andrew-svetlov/59/b1/586)  
 Python-разработчик в Insollo Entertainment, организатор Pycamp/Pycon Ukraine
 
-![hotsyk](http://dropbucket.ru/pyconru/hotsyk) [Владимир Гоцык](http://www.linkedin.com/in/hotsyk)  
-Python-разработчик в Svitla Systems, Inc., организатор Pycamp/Pycon Ukraine
-
-![chernin](http://dropbucket.ru/pyconru/chernin) [Александр Чернин](http://www.linkedin.com/pub/alex-chernin/0/b30/949)  
-разработчик в Naumen
 
 ##Организационный комитет
 
