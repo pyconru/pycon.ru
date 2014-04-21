@@ -33,7 +33,7 @@ Twitter [@honzakral](https://twitter.com/honzakral)
 Github [HonzaKral](https://github.com/HonzaKral)
 
 
-![armin-ronacher](http://dropbucket.ru/pyconru/speakers/armin-ronacher)[Armin Ronacher](http://lucumr.pocoo.org), один из основателей [Pocoo Team](http://www.pocoo.org/). Широко известен как автор [Flask](http://flask.pocoo.org/) и [Jinja2](http://www.pocoo.org/projects/jinja2/#jinja2).  
+![armin-ronacher](http://dropbucket.ru/pyconru/mitsuhiko)[Armin Ronacher](http://lucumr.pocoo.org), один из основателей [Pocoo Team](http://www.pocoo.org/). Широко известен как автор [Flask](http://flask.pocoo.org/) и [Jinja2](http://www.pocoo.org/projects/jinja2/#jinja2).  
 Тема уточняется  
 [Personal blog](http://lucumr.pocoo.org)    
 Twitter [@mitsuhiko](https://twitter.com/mitsuhiko)   
