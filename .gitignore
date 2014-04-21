@@ -3,3 +3,4 @@
 translations/*.mo
 .build-*
 www
+static/img/Thumbs.db
