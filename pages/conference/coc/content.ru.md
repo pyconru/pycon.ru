@@ -1,40 +1,42 @@
-###PyCon Russia Code of Conduct###
+###Кодекс поведения на конференции PyCon Russia###
 
-####1. Purpose####
-PyCon Russia believes our community should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, or religion.
+####1. Цель####
+Команда PyCon Russia считает, что наше коммьюнити должно быть открыто для каждого. Поэтому мы хотим обеспечить безопасную и дружелюбную среду для всех, независимо от пола, сексуальной ориентации, расы, вероисповедания и дееспособности.
 
-This code of conduct outlines our expectations for participant behavior as well as the consequences for unacceptable behavior.
+Данный кодекс поведения описывает наши ожидания относительно поведения участников конференции, а также возможные последствия неприемлемого поведения.
 
-We invite all sponsors, volunteers, speakers, attendees, media, exhibitors and other participants to help us realize a safe and positive conference experience for everyone.
+Мы просим слушателей, спикеров, спонсоров и волонтеров поддержать нас в стремлении реализовать безопасную и позитивную атмосферу для каждого участника конференции.
 
-####2. Expected Behavior####
-- Be considerate, respectful, and collaborative.
-- Refrain from demeaning, discriminatory or harassing behavior and speech.
-- Be mindful of your surroundings and of your fellow participants. Alert conference organizers if you notice a dangerous situation or someone in distress.
+####2. Ожидаемое поведение####
+- Будьте уважительны по отношению к другим участникам конференции.
+- Воздерживайтесь от унижающего/дискриминирующего поведения и слов.
+- Будьте внимательны к окружающим; в случае, если вы заметили опасную ситуацию или человека, нуждающегося в помощи, информируйте об этом организаторов конференции. 
 
-####3. Unacceptable Behavior####
-Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by any attendees of PyCon Russia and related events. Many PyCon Russia venues are shared with members of the public; please be respectful to all patrons of these locations.
+####3. Неприемлемое поведение####
+К неприемлемым формам поведения мы относим: запугивание, домогательство, оскорбления, дискриминацию и любое уничижительное поведение по отношению к участникам конференции PyCon Russia, а также людям, работающим в месте проведения конференции.
 
-Harassment includes: offensive verbal comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
+Домогательством являются: оскорбительные комментарии относительно пола, сексуальной ориентации, расы, вероисповедания и дееспособности человека; неуместное использование изображений сексуального характера (включая слайды презентаций); преднамеренное преследование; навязчивое фотографирование или видеозапись; настойчивый срыв докладов, практикумов и других мероприятий; неуместные прикосновения и нежелательное сексуальное внимание.
 
-####4. Consequences of Unacceptable Behavior####
-Unacceptable behavior will not be tolerated whether by other attendees, media, speakers, volunteers, organizers, venue staff, sponsors, or exhibitors.
+####4. Последствия неприемлемого поведения####
+Неприемлемое поведение не допустимо ни для кого из обозначенных участников конференции: слушателей, спикеров, спонсоров и волонтеров. 
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+Любой участник, которого попросили прекратить неприемлемое поведение, должен немедленно выполнить просьбу.
 
-If a participant engages in unacceptable behavior, the conference organizers may take any action they deem appropriate, up to and including expulsion from the conference without warning or refund.
+Организаторы конференции оставляют за собой право применить к неадекватно ведущему себя участнику соответствующие меры вплоть до принудительного удаления с конференции без возмещения стоимости билета.
 
-####5. What to Do If You Witness or Are Subject to Unacceptable Behavior####
-If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify a conference organizer. All reports will remain completely confidential. 
+####5. Что делать, если вы стали жертвой или свидетелем неприемлемого поведения####
+Если вы стали жертвой неприемлемого поведения со стороны другого участника конференции или заметили, что кто-то другой попал в эту ситуацию, пожалуйста, обратитесь к организаторам. Организаторы PyCon Russia помогут разрешить сложившуюся проблему, либо - в крайнем случае - связаться со службой безопасности по месту проведения конференции.
 
-The PyCon Russia team will be available to help participants contact venue security or local law enforcement, to provide escorts, or to otherwise assist those experiencing unacceptable behavior to feel safe for the duration of the conference. You can report unacceptable behavior to any member of staff. Staff can be found at the registration desk or you may email/call one of the contacts below.
+Организаторов можно найти у стойки регистрации, либо по указанным ниже контактным данным.
 
-####6. Scope####
-We expect all conference participants (sponsors, volunteers, speakers, attendees, and other guests) to abide by this code of conduct at all conference venues and conference-related social events.
+Все обращения конфиденциальны. 
 
-####7. Contact Information####
-- Email: pycon@it-people.ru
-- Phone: +7 (343) 202-12-32, 202-12-52, +7 (912) 23-21-222
+####6. Область применения####
+Описанные правила распространяются на всех участников конференции (слушателей, спикеров, спонсоров, волонтеров) и все мероприятия, проводимые в рамках конференции.
 
-####8. License and Attribution####
-The original is available at http://opensourcebridge.org/about/code-of-conduct/ and is released under a Creative Commons Attribution-ShareAlike license.
+####7. Контакты####
+- Емейл: pycon@it-people.ru
+- Телефон: +7 (343) 202-12-32, 202-12-52, +7 (912) 23-21-222
+
+####8. Лицензия####
+Оригинал кодекса поведения регулируется лицензией Creative Commons Attribution-ShareAlike license и доступен по адресу: http://opensourcebridge.org/about/code-of-conduct/
