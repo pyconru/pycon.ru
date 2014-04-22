@@ -12,7 +12,7 @@
 >
 > Twitter: [@hynek](https://twitter.com/hynek)  
 > Github: [hynek](https://github.com/hynek)  
-> Website: [hynek.me](http://hynek.me/)
+> Blog: [hynek.me](http://hynek.me/)
 
 ![honza-kral](http://dropbucket.ru/pyconru/speakers/honza-kral) Honza Král
 
