@@ -37,4 +37,4 @@ We expect all conference participants (sponsors, volunteers, speakers, attendees
 - Phone: +7 (343) 202-12-32, 202-12-52, +7 (912) 23-21-222
 
 ####8. License and Attribution####
-The original is available at http://opensourcebridge.org/about/code-of-conduct/ and is released under a Creative Commons Attribution-ShareAlike license.
+The original is available at [http://opensourcebridge.org/about/code-of-conduct/](http://opensourcebridge.org/about/code-of-conduct/) and is released under a Creative Commons Attribution-ShareAlike license.
