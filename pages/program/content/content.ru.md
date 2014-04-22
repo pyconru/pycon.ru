@@ -1,1 +1,0 @@
-../headliners/content.ru.md

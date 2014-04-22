@@ -1,1 +1,0 @@
-../headliners/content.en.md

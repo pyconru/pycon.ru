@@ -1,0 +1,7 @@
+speaker: |
+    **[Armin Ronacher](http://lucumr.pocoo.org)**, [Flask](http://flask.pocoo.org/) and [Jinja2](http://jinja.pocoo.org/) creator, [Pocoo Team](http://www.pocoo.org/) founder, [PSF](https://www.python.org/psf) member, developer at [Splash Damage](http://www.splashdamage.com/).
+
+title: Writing Secure APIs
+
+description: |
+    An introduction into writing secure APIs with Python.  This covers both integral API design for internal APIs as well as remotely exposed APIs; both high level basics such as use of protocols (SSL and OAuth) as well as how to structure internal security contexts.  On top of that it shows how to take advantage of Python features to make writing secure code easier.

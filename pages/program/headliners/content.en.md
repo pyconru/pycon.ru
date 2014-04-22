@@ -1,13 +1,14 @@
-We invite you to speak at PyСon Russia 2014! 
+![armin-ronacher](http://dropbucket.ru/pyconru/speakers/armin-ronacher)[Armin Ronacher](http://lucumr.pocoo.org)
+[Flask](http://flask.pocoo.org/) and [Jinja2](http://jinja.pocoo.org/) creator. [Pocoo Team](http://www.pocoo.org/) founder. [PSF](https://www.python.org/psf) member. Developer at [Splash Damage](http://www.splashdamage.com/).
+Twitter [@mitsuhiko](https://twitter.com/mitsuhiko)   
+Github [mitsuhiko](https://github.com/mitsuhiko)
 
-If you want to present your own report,  you should send a request (pycon@it-people.ru) until April 15. 
+![hynek-schlawack](http://dropbucket.ru/pyconru/speakers/hynek-schlawack)[Hynek Schlawack](http://hynek.me/)
+[CPython](https://www.python.org/) & [Twisted](https://twistedmatrix.com/) core dev. [PSF](https://www.python.org/psf) member. [FOSS](http://en.wikipedia.org/wiki/Free_and_open-source_software) mercenary. Head of infrastructure and board representative at [Variomedia](http://www.variomedia.de/).
+Twitter [@hynek](https://twitter.com/hynek)   
+Github [hynek](https://github.com/hynek)
 
-The request should include: 
-
-* the name and description of the report; 
-
-* small summary of the report (which projects are involved); 
-
-* the estimated time of the report; 
-
-* a few words about the audience, which may be interested in the report (the required level of training) and the benefits which the audience may receive after your speech.
+![honza-kral](http://dropbucket.ru/pyconru/speakers/honza-kral) Honza Král
+[Django](https://www.djangoproject.com/) developer and enthusiast.  Python developer at [Elasticsearch](http://www.elasticsearch.org/).
+Twitter [@honzakral](https://twitter.com/honzakral)   
+Github [HonzaKral](https://github.com/HonzaKral)
