@@ -39,4 +39,4 @@
 - Телефон: +7 (343) 202-12-32, 202-12-52, +7 (912) 23-21-222
 
 ####8. Лицензия####
-Оригинал кодекса поведения регулируется лицензией Creative Commons Attribution-ShareAlike license и доступен по адресу: http://opensourcebridge.org/about/code-of-conduct/
+Оригинал кодекса поведения регулируется лицензией Creative Commons Attribution-ShareAlike license и доступен по адресу: [http://opensourcebridge.org/about/code-of-conduct/](http://opensourcebridge.org/about/code-of-conduct/)
