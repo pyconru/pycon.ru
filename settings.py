@@ -41,9 +41,13 @@ ORDERING = {
         'explore-your-data',
         'autoscaling-on-the-cloud',
         'python_in_yandex',
+        'magic',
         'pony_orm',
         'open_source_advices',
         'python_pytest',
         'soa',
+        'bdd_in_python',
+        'jetbrains',
+        'scrapinghub',
     ],
 }
