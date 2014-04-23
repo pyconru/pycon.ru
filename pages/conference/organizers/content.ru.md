@@ -30,6 +30,6 @@ Python-разработчик в Insollo Entertainment, организатор P
 
 ![shulyndina3](http://dropbucket.ru/pycon/shulyndina3) Екатерина Шулындина
 
-![galkina](http://dropbucket.ru/pycon/galkina) Татьяна Галкина
+![galkina](http://dropbucket.ru/pyconru/galkinat) Татьяна Галкина
 
 
