@@ -53,8 +53,8 @@ msgid "Price"
 msgstr "Стоимость билета"
 
 #: _base.html:81
-msgid "Headliners"
-msgstr "Хэдлайнеры"
+msgid "Speakers"
+msgstr "Докладчики"
 
 #: index.html:57
 msgid "See Venue for more information about conference location." 
