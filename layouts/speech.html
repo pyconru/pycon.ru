@@ -3,7 +3,9 @@
 {% block content_id %}speech{% endblock %}
 
 {% block content %}
-  <img src="{{ photo }}" class="photo">
+  {% for photo in photos %}
+    <img src="{{ photo }}" class="photo">
+  {% endfor %}
 
   <div class="description">
       {{ speaker|default('')|markdown }}

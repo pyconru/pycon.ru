@@ -2,7 +2,9 @@
 
 {% block content %}
   {% for page in CHILDREN %}
-    <img src="{{ page.photo }}">
+    {% for photo in page.photos %}
+      <img src="{{ photo }}">
+    {% endfor %}
 
     <div class="talk">
       {{ page.speaker|default('')|markdown }}
