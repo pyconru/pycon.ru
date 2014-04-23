@@ -39,5 +39,10 @@ ORDERING = {
         'writing-secure-apis',
         'the-sorry-state-of-ssl',
         'explore-your-data',
+        'python_in_yandex',
+        'pony_orm',
+        'open_source_advices',
+        'python_pytest',
+        'soa',
     ],
 }
