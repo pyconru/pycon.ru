@@ -13,8 +13,7 @@
 
 > [CPython](https://www.python.org/) & [Twisted](https://twistedmatrix.com/) core dev. [PSF](https://www.python.org/psf) member. [FOSS](http://en.wikipedia.org/wiki/Free_and_open-source_software) mercenary. Head of infrastructure and board representative at [Variomedia](http://www.variomedia.de/).
 >
->Hynek's main areas of interest are security, networks, and solid deployment practices.  
->His tools of trade are C, Python, and JavaScript, although he’s already done serious projects in nearly every major language out there. Hynek's favorite frameworks are Twisted and Pyramid – depending on the problem to be solved.  
+>Hynek's main areas of interest are security, networks, and solid deployment practices. His tools of trade are C, Python, and JavaScript, although he’s already done serious projects in nearly every major language out there. Hynek's favorite frameworks are Twisted and Pyramid – depending on the problem to be solved.  
 >When it comes to design of any kind, Hynek strongly believes that minimalism always wins.
 >
 > Twitter: [@hynek](https://twitter.com/hynek)  
@@ -30,3 +29,13 @@
 >
 > Twitter: [@honzakral](https://twitter.com/honzakral)  
 > Github: [HonzaKral](https://github.com/HonzaKral)
+
+![simone-soldateschi](http://dropbucket.ru/pyconru/speakers/simone-soldateschi) Simone Soldateschi
+
+> Developer support engineer at [Rackspace](http://www.rackspace.com/).
+>
+>Simone is a Racker who enjoys getting his hands dirty to automate tasks with configuration management systems, ci/cd and software development.  
+>He designed and implemented Garçon to do event-based scaling on the Cloud, which will be open-sourced in Q2.
+>
+> Twitter: [@soldasimo](https://twitter.com/soldasimo)  
+> Github: [siso](https://github.com/siso)  
