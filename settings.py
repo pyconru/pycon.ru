@@ -39,6 +39,7 @@ ORDERING = {
         'writing-secure-apis',
         'the-sorry-state-of-ssl',
         'explore-your-data',
+        'autoscaling-on-the-cloud',
         'python_in_yandex',
         'pony_orm',
         'open_source_advices',

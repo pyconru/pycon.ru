@@ -1,0 +1,15 @@
+speaker: |
+    **Simone Soldateschi**, developer support engineer at [Rackspace](http://www.rackspace.com/)
+
+title: Auto scaling on the Cloud the right way
+
+description: |
+    Horizontal scaling on the Cloud is the way to adapt resources to load of systems. The Cloud allows users to scale virtually indefinitely, or enough for their needs.  
+    This way the number of servers follows trend of requests, and TCO (Total Cost of Owneship) of IT infrastructure can be minimised. Nonetheless companies can avoid dealing with capacity planning and pre-provisioning issues.  
+    This talk will show how to use Python and Rackspace/OpenStack API and SDK to implement an event-based scaling solution (software released under the open-source Apache License).  
+    The outline of this talk will be:  
+    - Auto scale (Why, What, When, How);  
+    - Leveraging Cloud Monitoring to trigger Auto Scale policies;  
+    - Configuration management system (Ansible and playbooks) to deploy applications;  
+    - "Go Live!", "Update" and "Rollback" patterns.  
+    Outcome: Knowledge of scaling techniques, Cloud patterns and issues.
