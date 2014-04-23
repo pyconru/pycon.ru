@@ -1,7 +1,10 @@
 speaker: |
-    **Honza Král**, [Django](https://www.djangoproject.com/) developer and enthusiast, python developer at [Elasticsearch](http://www.elasticsearch.org/).
+    **Honza Král**, [Django](https://www.djangoproject.com/) developer and enthusiast, python developer at [Elasticsearch](http://www.elasticsearch.org/)
 
 title: Explore your data
 
 description: |
-    We will walk through ElasticSearch features targeted towards data exploration and analysis and show how you can use them to gain insight into your data and your users' behavior and how Elasticsearch allows you to build powerful real-time dashboards for your users. We will use real-life, publicly available data sets and open source tools. Every attendee should walk away with a clear understanding on what Elasticsearch can do with their data, what tools are available out of the box and how to extend them or creating custom ones.
+    In this talk I would like to show you a few use-cases where Elasticsearch can help your applications. We will start with the most basic use case of searching for documents and move on to more advanced topics such as faceted navigation and structured search.
+    I would like to demonstrate that the very same tool and dataset can be used for real-time analytics (topic distribution, publishing frequency, most popular or commented on content) and data mining in a distributed environment capable of handling terabyte-sized datasets.
+    Finally we will demonstrate how Elasticsearch can provide the infrastructure for features beyond search, such as automatic content categorization, user-defined categories or even real-time alerts.
+    Attendees should walk away with a good understanding of what Elasticsearch can bring them and where it is a good fit.
