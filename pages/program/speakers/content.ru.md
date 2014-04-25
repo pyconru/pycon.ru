@@ -39,3 +39,10 @@
 >
 > Twitter: [@soldasimo](https://twitter.com/soldasimo)  
 > Github: [siso](https://github.com/siso)  
+
+![andrew-svetlov](http://dropbucket.ru/pyconru/svetlov) Андрей Светлов
+
+> Python Core Developer или просто committer в [hg.python.org](http://hg.python.org/). В текущее время архитектор в [LevelUp](http://levelupers.com/)
+>
+> Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov)  
+> Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.ru/)
