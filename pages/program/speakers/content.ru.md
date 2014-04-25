@@ -55,3 +55,10 @@
 >
 > Twitter: [@daevaorn](https://twitter.com/daevaorn)  
 > Blog: [webnewage.org](http://webnewage.org/)
+
+![yury_selivanov](http://dropbucket.ru/pyconru/selivanov) Юрий Селиванов
+
+> Founder of [Sprymix.com](http://sprymix.com). CPython core developer.
+>
+> Twitter: [1st1](https://twitter.com/1st1)  
+> GitHub: [1st1](https://github.com/1st1)
