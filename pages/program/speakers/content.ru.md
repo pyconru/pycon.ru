@@ -46,3 +46,12 @@
 >
 > Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov)  
 > Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.ru/)
+
+
+
+![alexander-koshelev](http://dropbucket.ru/pyconru/koshelev) Александр Кошелев
+
+> Тимлид в Яндексе, модератор форума [python.su](http://python.su/forum/)
+>
+> Twitter: [@daevaorn](https://twitter.com/daevaorn)  
+> Blog: [webnewage.org](http://webnewage.org/)
