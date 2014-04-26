@@ -86,5 +86,10 @@
 > Блог [Glibin.ru](http://glibin.ru)
 
 
+![mihail_korobov](http://dropbucket.ru/pyconru/korobov) Михаил Коробов
+
+> Работает в [ScrapingHub](http://scrapinghub.com/), входит в [NLTK Team](http://www.nltk.org/index.html), коммитер в Scrapy, автор pymorphy2 и других open-source проектов.
+
+> Блог [kmike.ru](http://kmike.ru/)
 
 
