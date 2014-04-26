@@ -97,5 +97,12 @@
 
 > Разработчик в БАРС Груп. Пройдя путь от junior developer'a до software architect занимался оптимизацией, доработкой существующих продуктов под "высокие нагрузки", внедрением автоматизированного тестирования и раздачей полезных советов.
 
+![malashkevish](http://dropbucket.ru/pyconru/malashkevich) Алексей Малашкевич
+
+> Разработчик с 15-летним опытом, автор объектно-реляционного маппера [Pony ORM](http://ponyorm.com/)
+
+![koslovsky](http://dropbucket.ru/pyconru/kozlovsky) Александр Козловский
+
+> Автор объектно-реляционного маппера [Pony ORM](http://ponyorm.com/)
 
 
