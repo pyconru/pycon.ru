@@ -62,3 +62,12 @@
 >
 > Twitter: [1st1](https://twitter.com/1st1)  
 > GitHub: [1st1](https://github.com/1st1)
+
+![andrew_vlasovskix](http://dropbucket.ru/pycon/vlasovskii) Андрей Власвоских
+
+> Fразработчик IDE PyCharm в JetBrains, автор библиотек funcparserlib и iterpipes.
+>
+> Блогr: [pirx.ru](http://pirx.ru/)  
+> GitHub: [vlasovskikh](https://github.com/vlasovskikh)
+
+
