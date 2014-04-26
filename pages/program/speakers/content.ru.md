@@ -78,4 +78,13 @@
 Участвует в организации и проведении [Школы тестирования баннерной системы](http://tech.yandex.ru/education/school-test/2014/)
 
 
+![vitaly_glibin](http://dropbucket.ru/pyconru/glibin) Виталий Глибин
+
+> Ведущий frontend разработчик в компании [HeadHunter](http://hh.ru) и преподаватель в [Школе программистов HeadHunter](http://school.hh.ru).
+На данный момент занимается активной разработкой микрофреймворка на базе Tornado - [Tortik](http://hhru.github.io/tortik/)
+
+> Блог [Glibin.ru](http://glibin.ru)
+
+
+
 
