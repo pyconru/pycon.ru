@@ -1,10 +1,10 @@
 ####Registration Prices
 
-Until April 30 - 8000 rubles
+Until May 9 - 8000 rubles
 
-From May 1 to May 15 - 9000 rubles
+From May 10 to May 20 - 9000 rubles
 
-From May 15 to June 1 - 10 000 rubles
+From May 21 to June 1 - 10 000 rubles
 
 On the day of the conference - 10 000 rubles
 
