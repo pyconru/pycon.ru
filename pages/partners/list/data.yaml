@@ -1,4 +1,12 @@
 sectios:
+
+- name: "Золотые спонсоры"
+  sponsors:
+  - logo: http://dropbucket.ru/pycon/naumen-big
+    link: http://www.naumen.ru/
+  - logo: http://dropbucket.ru/pyconru14/selectel
+    link: http://www.naumen.ru/
+          
 - name: "Информационные партнеры"
   sponsors:
   - logo: http://dropbucket.ru/mdm
