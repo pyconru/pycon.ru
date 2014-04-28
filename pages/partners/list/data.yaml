@@ -2,10 +2,10 @@ sectios:
 
 - name: "Золотые спонсоры"
   sponsors:
-  - logo: http://dropbucket.ru/pycon/naumen-big
+  - logo: http://dropbucket.ru/pycon/naumen
     link: http://www.naumen.ru/
     
-  - logo: http://dropbucket.ru/pyconru14/selectel
+  - logo: http://dropbucket.ru/pyconru/selectel
     link: http://www.selectel.ru/
           
 - name: "Информационные партнеры"
