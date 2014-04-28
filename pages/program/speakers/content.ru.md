@@ -105,4 +105,10 @@
 
 > Автор объектно-реляционного маппера [Pony ORM](http://ponyorm.com/)
 
+![alexey_lavrenuk](http://dropbucket.ru/pyconru/lavrenuk) Алексей Лавренюк
+
+> В Яндексе с 2011 года. Занимается нагрузочным тестированием в отделе рекламных технологий. Один из участников open source проекта Яндекс.Танк.
+
+> Видео с лекциями Алексея на [Tech.yandex.ru](http://tech.yandex.ru/people/302066/)
+
 
