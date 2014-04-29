@@ -40,6 +40,7 @@ ORDERING = {
         'the-sorry-state-of-ssl',
         'explore-your-data',
         'autoscaling-on-the-cloud',
+        'asincio',
         'python_in_yandex',
         'magic',
         'pony_orm',
