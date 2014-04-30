@@ -2,8 +2,8 @@
 
 {% macro talk(time, speaker, slug, title) -%}
   <li class="talk">
-  <time>{{ time }}</time>{% if slug %}<a target="_self"
-      href="{{ url_for('program/content/%s' % slug) }}">{{ title }}</a>{% else %}<span>{{ title }}</span>{% endif %}
+  <time>{{ time }}</time>{#{% if slug %}<a target="_self"
+      href="{{ url_for('program/content/%s' % slug) }}">{{ title }}</a>{% else %}<span>{{ title }}</span>{% endif %}#}
     <author>{{ speaker }}</author> 
   </li>
 {%- endmacro %}
@@ -34,6 +34,9 @@
 {%- endmacro %}
 
 {% block content %}
+  <p>
+    {{ content }}
+  </p>
   {% set lch = _('Large conference hall') %}
   {% set sch = _('Small conference hall') %}
   {% set trdch = _('Conference hall in 3rd building') %}
@@ -60,7 +63,7 @@
       {% endfor %}
     </div>
 
-    {% for block in ['b4', 'b5a', 'b5b', 'b6', 'b7', 'b8', 'b9a', 'b9b', 'b9c', 'b10'] %}
+    {% for block in ['b4', 'b5a', 'b5b', 'b6', 'b7', 'b8', 'b9a', 'b10'] %}  {#  'b9b', 'b9c', #}
       {{ render_block(day1, block, halls_day_1) }}
     {% endfor %}
   </section>
