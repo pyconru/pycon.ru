@@ -46,7 +46,7 @@ ORDERING = {
         'jetbrains',
         'memory',
         'pony_orm',
-        'asincio',
+        'asyncio',
         'python_pytest',
         'soa',
         'bdd_in_python',
