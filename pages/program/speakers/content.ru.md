@@ -112,3 +112,8 @@
 > Видео с лекциями Алексея на [Tech.yandex.ru](http://tech.yandex.ru/people/302066/)
 
 
+![kostya-lopuhin](http://dropbucket.ru/pycon/kostialopuhin) Константин Лопухин
+
+> Разработчик в р [CHTD](http://chtd.ru/)
+
+
