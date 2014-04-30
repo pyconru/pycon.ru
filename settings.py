@@ -44,6 +44,7 @@ ORDERING = {
         'magic',
         'open_source_advices',
         'jetbrains',
+        'memory',
         'pony_orm',
         'asincio',
         'python_pytest',
