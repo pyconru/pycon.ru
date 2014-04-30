@@ -1,1 +1,173 @@
+day1:
+  b0: 
+    - time: "9:00"
+      talk: "Регистрация"
 
+  b1: 
+    - speaker: "Доклады на английском"
+      time: "10:00"
+
+    - break: "Перерыв"
+      time: "11:00"
+
+    - speaker: "Доклады на английском"
+      time: "11:10"
+      
+    - break: "Перерыв"
+      time: "12:10"
+
+    - speaker: "Доклады на английском"
+      time: "12:20"
+
+  b2:
+    - break: Обед
+      time: "13:20"
+  
+  b3a:
+    - speaker: "Доклады на русском"
+      time: "14:00"
+
+
+  b3b:
+    - speaker: "Доклады на русском"
+      time: "14:00"
+
+  
+  b4:
+    - break: "Кофе-брейк"
+      time: "15:30"
+  
+  b5a:
+    - speaker: "Михаил Коробов, Python-разработчик"
+      talk: "Как перейти на Python 3?"
+      slug: "transition-to-python-3"
+      time: "16:00"
+    - speaker: "Александр Кошелев, Яндекс"
+      talk: "Препарирование работы асинхронного кода"
+      slug: "inside-of-asynchronous-code"
+      time: "16:30"
+    - speaker: "Константин Лопухин, ЧТД"
+      talk: "Подход к версионированию данных в реляционной БД"
+      slug: "versioning-in-relational-database"
+      time: "17:00"
+  
+  b5b:
+    - speaker: "Илья Биин, архитектор, Ostrovok.ru"
+      talk: "Построение распределенной системы кеширования и обмена сообщениями"
+      slug: "distributed-caching-system"
+      time: "16:00"
+    - speaker: "Денис Колодин, программист-аналитик, ИК Форум"
+      talk: "Low-latency и soft-realtime на Python"
+      slug: "low-latency-and-soft-realtime"
+      time: "16:30"
+    - speaker: "Михаил Юматов, старший разработчик, Трилан"
+      talk: "SaltStack"
+      slug: "saltstack"
+      time: "17:00"
+      
+  b6:
+    - break: "Перерыв, запись на Lightning Talks"
+      time: "17:30"
+  
+  b7:
+    - break: "Lightning Talks"
+      slug: "lightning-talks-1"
+      time: "18:00"
+  
+  b8:
+    - break: "Ужин, свободное время"
+      time: "19:00"
+    
+  b9a:
+    - break: "Афтепати, баня, боулинг, бильярд, игротека от Айдеко"
+      time: "20:30"
+
+  b9b:
+    - talk: "Круглый стол: Нужно ли переходить с Python 2 на Python 3"
+      time: "20:30"
+  
+  b9c:
+    - speaker: "Михаил Коробов, Python-разработчик"
+      talk: "Воркшоп: Портируем библиотеку на третий Python"
+      slug: "workshop-porting-from-2-to-3"
+      time: "21:00"
+
+  b10:
+    - break: "Конец первого дня :)"
+      time: "24:00"
+
+
+day2:
+  b1a: 
+    - speaker: "Дмитрий Прокофьев разработчик, Яндекс"
+      talk: "Эволюция системы синхронизации данных между сервисами"
+      slug: "synchronization-between-services"
+      time: "10:00"
+    - speaker: "Роман Иманкулов, Doist Ltd."
+      talk: "Celery для внутреннего API в инфраструктуре SOA"
+      slug: "celery-for-internal-api"
+      time: "10:45"
+
+  b2:
+    - break: "Кофе-брейк"
+      time: "11:30"
+
+  b3:
+    - speaker: "Валентин Синицын, Максим Сухарев, Айдеко"
+      talk: "Tornado - это не только web-сайты"
+      slug: "tornado-not-only-web-sites"
+      time: "12:00" 
+    - speaker: "Александр Будкарь, Руководитель службы разработки инфраструктуры веб поиска, Яндекс"
+      talk: "Распределенное исполнение Python кода на 10000+ серверах"
+      slug: "distributed-execution"
+      time: "12:45" 
+   
+
+  b1b:
+    - speaker: "Андрей Светлов"
+      talk: "Мастер класс по созданию сетевых приложений с нуля"
+      slug: "workshop-network-applications"
+      time: "10:00"
+
+  b1c:
+    - speaker: "Константин Лопухин"
+      talk: "Пишем свой интерпретатор с использованием RPython"
+      slug: "workshop-rpython"
+      time: "10:00"
+
+  b4:
+    - break: "Обед"
+      time: "13:30"
+  
+  b5:
+    - speaker: "Holger Krekel, основатель PyPy Project, автор py.test и tox"
+      talk: "Re-inventing Python packaging and testing"
+      slug: "packaging-and-testing"
+      time: "14:10"
+    - speaker: "Jeff Lindsay, основатель крупнейшего в США коммьюнити-центра для хакеров Hacker Dojo"
+      talk: "Building Public Infrastructure with Autosustainble Services"
+      slug: "autosustainable-services"
+      time: "15:00"
+    - break: "Перерыв"
+      time: "15:50"
+    - speaker: "Amir Salihefendic, основатель Doist Ltd."
+      talk: "Redis, the hacker's database"
+      slug: "redis-the-hackers-database"
+      time: "16:20"
+    - speaker: "Dr. Russell Keith-Magee, президент Django Software Foundation"
+      talk: "Django 1.6 and beyond: The Django Roadmap"
+      slug: "django-roadmap"
+      time: "17:10"
+
+  b6:
+    - break: "Перерыв, запись на Lightning Talks"
+      time: "18:00"
+
+  b7:
+    - break: "Lightning Talks"
+      slug: "lightning-talks-2"
+      time: "18:10" 
+
+  b8:
+    - break: "Конец второго дня"
+      time: "19:00"
