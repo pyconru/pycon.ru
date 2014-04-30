@@ -114,6 +114,7 @@
 
 ![kostya-lopuhin](http://dropbucket.ru/pycon/kostialopuhin) Константин Лопухин
 
-> Разработчик в р [CHTD](http://chtd.ru/)
+> Технический директор в [ЧТД](http://chtd.ru/) - разрабатываем сервис для анализа данных [QuBeQu](https://qubequ.com).
+Интересуюсь разработкой PyPy, помог возникновению psycopg2cffi [CHTD]
 
 
