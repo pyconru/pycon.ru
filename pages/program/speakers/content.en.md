@@ -1,3 +1,15 @@
+![brian-curtin](http://dropbucket.ru/pyconru/speakers/brian-curtin) Brian Curtin
+
+> Director of the [PSF](https://www.python.org/psf). Software engineer at [Rackspace](http://www.rackspace.com/).
+>
+>Brian is a director of the Python Software Foundation, PSF Communications Officer, leader of the PSF Sprints Committee and active in whatever other PSF related projects he can get his hands on.  
+>Brian has been a core developer of CPython since 2010.  
+>Software engineer at Canonical in the past, today he's working for Rackspace and organizes PyCon US as well.
+>
+> Twitter: [@brian_curtin](https://twitter.com/brian_curtin)  
+> Github: [briancurtin](https://github.com/briancurtin)  
+> Blog: [blog.briancurtin.com](http://blog.briancurtin.com/)
+
 ![armin-ronacher](http://dropbucket.ru/pyconru/speakers/armin-ronacher) Armin Ronacher
 
 > [Flask](http://flask.pocoo.org/) and [Jinja2](http://jinja.pocoo.org/) creator. [Pocoo Team](http://www.pocoo.org/) founder. [PSF](https://www.python.org/psf) member. Developer at [Splash Damage](http://www.splashdamage.com/).

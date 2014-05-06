@@ -36,6 +36,7 @@ ORDERING = {
     'partners': ['list', 'join'],
     'program': ['cfp', 'speakers', 'content', 'schedule'],
     'program/content': [
+        'python3',
         'writing-secure-apis',
         'the-sorry-state-of-ssl',
         'explore-your-data',
