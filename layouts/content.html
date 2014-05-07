@@ -1,6 +1,7 @@
 {% extends "_base.html" %}
 
 {% block content %}
+  <div class="talks">
   {% for page in CHILDREN %}
     {% for photo in page.photos %}
       <img src="{{ photo }}">
@@ -15,13 +16,16 @@
       {% endif %}
     </div>
   {% endfor %}
+  </div>
   
-  <script type="text/javascript" src="https://pycon.ticketforevent.com/ru/widget/?h=0&s=0"></script>
-  <script>
-    var span = document.getElementsByClassName('epts-goToFormButton');
-    var submitButton = span[0].children[0];
-    submitButton.onclick = function(e) {
+  <div class="register-form">
+    <script type="text/javascript" src="https://pycon.ticketforevent.com/ru/widget/?h=0&s=0"></script>
+    <script>
+      var span = document.getElementsByClassName('epts-goToFormButton');
+      var submitButton = span[0].children[0];
+      submitButton.onclick = function(e) {
         _gaq.push(['_trackEvent', 'register', 'click']);
-    };
-  </script>
+      };
+    </script>
+  </div>
 {% endblock %}
