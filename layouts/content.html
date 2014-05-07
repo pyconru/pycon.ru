@@ -15,4 +15,13 @@
       {% endif %}
     </div>
   {% endfor %}
+  
+  <script type="text/javascript" src="https://pycon.ticketforevent.com/ru/widget/?h=0&s=0"></script>
+  <script>
+    var span = document.getElementsByClassName('epts-goToFormButton');
+    var submitButton = span[0].children[0];
+    submitButton.onclick = function(e) {
+        _gaq.push(['_trackEvent', 'register', 'click']);
+    };
+  </script>
 {% endblock %}
