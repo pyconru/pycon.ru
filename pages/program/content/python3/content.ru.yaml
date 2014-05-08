@@ -1,13 +1,10 @@
 speaker: |
     **Brian Curtin**, director of the [PSF](https://www.python.org/psf), software engineer at [Rackspace](http://www.rackspace.com/)
 
-title: Python 2 / Python 3 **The proper title will follow up soon!**
+title: Python 3 and the Road Ahead
 
 description: |
-    Brian will answer the following questions:  
-    - What's going on with Python 3 currently?  
-    - What are the existing problems of Python 3 and why does it face difficulties in the community?  
-    - Why did PSF make a decision to support 2.7 till 2020?  
-    - What's the future of Py 2 and Py 3?  
-    - etc.  
-    **The proper description will follow up soon!**
+    Learn where we're at with Python 3, where we're going, and how we'll get there.  
+    The talk will include a recap of Python 3 discussions from the Python Language Summit as well as some of the ideas that came out of it.
+    There's a lot of talk around the community about what to do, and there are some plans to move forward. Find out what the future holds for Python 2.7 and the rest of the Python 3 series.  
+    You'll also find out about some great resources to help your own projects along the way.
