@@ -7,6 +7,11 @@ sectios:
     
   - logo: http://dropbucket.ru/pyconru/selectel
     link: http://www.selectel.ru/
+    
+- name: "Спонсор афтепати"
+  sponsors:
+    - logo: http://dropbucket.ru/pycon/ideco
+      link: http://ideco.ru/
           
 - name: "Информационные партнеры"
   sponsors:
