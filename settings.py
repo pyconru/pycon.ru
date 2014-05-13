@@ -34,7 +34,7 @@ ORDERING = {
     'conference': ['about', 'coc', 'organizers', 'contacts'],
     'participation': ['price', 'venue', 'hotels'],
     'partners': ['list', 'join'],
-    'program': ['cfp', 'speakers', 'content', 'schedule'],
+    'program': ['speakers', 'content', 'schedule'],
     'program/content': [
         'python3',
         'writing-secure-apis',
