@@ -2,8 +2,8 @@
 
 {% macro talk(time, speaker, slug, title) -%}
   <li class="talk">
-  <time>{{ time }}</time>{#{% if slug %}<a target="_self"
-      href="{{ url_for('program/content/%s' % slug) }}">{{ title }}</a>{% else %}<span>{{ title }}</span>{% endif %}#}
+  <time>{{ time }}</time>{% if slug %}<a target="_self"
+      href="{{ url_for('program/content/%s' % slug) }}">{{ title }}</a>{% else %}<span>{{ title }}</span>{% endif %}
     <author>{{ speaker }}</author> 
   </li>
 {%- endmacro %}

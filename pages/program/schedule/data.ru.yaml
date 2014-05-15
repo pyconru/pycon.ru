@@ -1,8 +1,7 @@
 day1:
   b0: 
     - time: "9:00"
-      speaker: "Регистрация"
-      talk: "--"
+      break: "Регистрация"
 
   b1: 
     - speaker: "Hynek Schlawack"
@@ -27,7 +26,7 @@ day1:
       time: "12:20"
 
   b2:
-    - break: Обед
+    - break: "Обед"
       time: "13:20"
   
   b3a:
@@ -58,8 +57,7 @@ day1:
       time: "15:30"
   
   b5a:
-      
-     - speaker: "Роман Иманкулов, Todoist"
+    - speaker: "Роман Иманкулов, Todoist"
       talk: "Python для анализа данных"
       slug: "data_analysis"
       time: "16:00"
