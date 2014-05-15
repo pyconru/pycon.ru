@@ -31,17 +31,28 @@ day1:
       time: "13:20"
   
   b3a:
-    - speaker: "Доклады на русском"
-      talk: "--"
-      slug: "--"
+    - speaker: "Андрей Власовских, JetBrains"
+      talk: "Многозадачность в Python и других языках"
+      slug: "jetbrains"
       time: "14:00"
+      
+    - speaker: "Константин Лопухин, ЧТД"
+      talk: "На что уходит память?"
+      slug: "memory"
+      time: "14:45"
 
   b3b:
-    - speaker: "Доклады на русском"
-      talk: "--"
-      slug: "--"
+    - speaker: "Денис Чернилевский, Яндекс"
+      talk: "Понятные и расширяемые отчеты для Python+PyTest из коробки"
+      slug: "python_pytest"
       time: "14:00"
-  
+      
+    - speaker: "Алексей Лавренюк, Яндекс"
+      talk: "Нагрузочное тестирование с помощью Яндекс.Танка"
+      slug: "ya_tank"
+      time: "14:45"
+      
+      
   b4:
     - break: "Кофе-брейк"
       time: "15:30"
