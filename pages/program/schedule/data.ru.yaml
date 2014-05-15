@@ -58,16 +58,28 @@ day1:
       time: "15:30"
   
   b5a:
-    - speaker: "Доклады на русском"
-      talk: "--"
-      slug: "--"
+      
+     - speaker: "Роман Иманкулов, Todoist"
+      talk: "Python для анализа данных"
+      slug: "data_analysis"
       time: "16:00"
-  
+      
+    - speaker: "Михаил Коробов"
+      talk: "Извлечение информации из веб-страниц"
+      slug: "scrapinghub"
+      time: "16:45" 
+      
   b5b:
-    - speaker: "Доклады на английском"
-      talk: "--"
-      slug: "--"
+    - speaker: "Алексей Малашкевич, Александр Козловский"
+      talk: "Pony ORM - маппер нового поколения"
+      slug: "pony_orm"
       time: "16:00"
+      
+    - speaker: "Александр Щепановский"
+      talk: "Почему Python нужен (был) свой underscore"
+      slug: "underscore"
+      time: "16:45"
+      
       
   b6:
     - break: "Перерыв, запись на Lightning Talks"
@@ -93,20 +105,35 @@ day1:
 
 day2:
   b1a: 
-    - speaker: "Доклады на английском"
-      talk: "--"
-      slug: "--"
+    - speaker: "Кирилл Борисов, БАРС Груп"
+      talk: "Behavior Driven Development in Python"
+      slug: "bdd_in_python"
       time: "10:00"
+      
+    - speaker: "Виталий Глибин, HeadHunter.ru"
+      talk: "Использование сервис-ориентированной архитектуры (SOA) для построения сложных веб проектов"
+      slug: "soa"
+      time: "10:30"
+      
+    - speaker: "Андрей Светлов, LevelUp"
+      talk: "Как не надо делать, чтобы ваш Open Source продукт стал пользоваться успехом"
+      slug: "open_source_advices"
+      time: "11:00"
 
   b2:
     - break: "Кофе-брейк"
       time: "11:30"
 
   b3:
-    - speaker: "Доклады на английском"
-      talk: "--"
-      slug: "--"
-      time: "12:00" 
+    - speaker: "Александр Кошелев, Яндекс"
+      talk: "Python-разработка в части Яндекс-вселенной"
+      slug: "python_in_yandex"
+      time: "12:00"
+      
+    - speaker: "Андрей Светлов, LevelUp"
+      talk: "Как писать для asyncio. Советы от разработчика библиотеки."
+      slug: "asyncio"
+      time: "12:45" 
    
   b1b:
     - speaker: "Мастер-класс"
