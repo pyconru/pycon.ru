@@ -5,25 +5,25 @@ day1:
       talk: "--"
 
   b1: 
-    - speaker: "Доклад на английском"
-      talk: "--"
-      slug: "--"
+    - speaker: "Hynek Schlawack"
+      talk: "The Sorry State of SSL"
+      slug: "the-sorry-state-of-ssl"
       time: "10:00"
 
     - break: "Перерыв"
       time: "11:00"
 
-    - speaker: "Доклад на английском"
-      talk: "--"
-      slug: "--"
+    - speaker: "Armin Ronacher"
+      talk: "Writing Secure APIs"
+      slug: "writing-secure-apis"
       time: "11:10"
       
     - break: "Перерыв"
       time: "12:10"
 
-    - speaker: "Доклад на английском"
-      talk: "--"
-      slug: "--"
+    - speaker: "Simone Soldateschi"
+      talk: "Auto scaling on the Cloud the right way"
+      slug: "autoscaling-on-the-cloud"
       time: "12:20"
 
   b2:
@@ -114,15 +114,15 @@ day2:
       time: "13:30"
   
   b5:
-    - speaker: "Доклад на английском"
-      talk: "--"
-      slug: "--"
+    - speaker: "Honza Král"
+      talk: "Explore your data"
+      slug: "explore-your-data"
       time: "14:10"
     - break: "Перерыв"
       time: "15:10"
-    - speaker: "Доклад на английском"
-      talk: "--"
-      slug: "--"
+    - speaker: "Brian Curtin"
+      talk: "Python 3 and the Road Ahead"
+      slug: "python3"
       time: "15:20"
 
   b6:
