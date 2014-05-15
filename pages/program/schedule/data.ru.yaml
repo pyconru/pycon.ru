@@ -136,16 +136,11 @@ day2:
       time: "12:45" 
    
   b1b:
-    - speaker: "Мастер-класс"
-      talk: "--"
-      slug: "--"
+    - speaker: "Роман Иманкулов, Михаил Коробов, Антон Патрушев"
+      talk: "Мастер-класс Python против вандалов. Анализ данных на практике"
+      slug: "workshop"
       time: "10:00"
 
-  b1c:
-    - speaker: "Мастер-класс"
-      talk: "--"
-      slug: "--"
-      time: "10:00"
 
   b4:
     - break: "Обед"
@@ -157,11 +152,11 @@ day2:
       slug: "explore-your-data"
       time: "14:10"
     - break: "Перерыв"
-      time: "15:10"
+      time: "15:00"
     - speaker: "Brian Curtin"
       talk: "Python 3 and the Road Ahead"
       slug: "python3"
-      time: "15:20"
+      time: "15:10"
 
   b6:
     - break: "Перерыв, запись на Lightning Talks"
