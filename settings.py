@@ -48,6 +48,7 @@ ORDERING = {
         'pony_orm',
         'asyncio',
         'python_pytest',
+        'ya_tank',
         'underscore',
         'soa',
         'bdd_in_python',
@@ -55,7 +56,7 @@ ORDERING = {
         'scrapinghub',
         'kivy',
         'hamly',
-        'workshop',
         'workshop2',
+        'workshop',
     ],
 }
