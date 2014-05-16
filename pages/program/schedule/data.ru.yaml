@@ -76,7 +76,12 @@ day1:
     - speaker: "Александр Щепановский"
       talk: "Почему Python нужен (был) свой underscore"
       slug: "underscore"
-      time: "16:45"
+      time: "16:30"
+      
+    - speaker: "Дмитрий Овчинников, Wargaming.net"
+      talk: "Разработка мобильных приложений на Python"
+      slug: "kivy"
+      time: "17:00"      
       
       
   b6:
