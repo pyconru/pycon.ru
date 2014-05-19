@@ -8,7 +8,13 @@
     {% endfor %}
 
     <div class="talk">
-      {{ page.speaker|default('')|markdown }}
+      {% if not page.speaker_desc %}
+        {{ page.speaker|default('')|markdown }}
+      {% else %}
+        <a href="{{ url_for('program/speakers') }}#{{ page.speaker_slug }}"><b>{{ page.speaker }}</b></a>,
+        {{ page.speaker_desc|markdown }}
+      {% endif %}
+
       <p><a href="{{ url_for(page.PATH) }}" target="_self"><b>{{ page.title }}</b></a></p>
       <p>{{ page.description|default('')|markdown }}</p>
       {% if page.media %}

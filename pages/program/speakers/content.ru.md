@@ -1,4 +1,4 @@
-![brian-curtin](http://dropbucket.ru/pyconru/speakers/brian-curtin) Brian Curtin
+<a name="brian-curtin"></a>![brian-curtin](http://dropbucket.ru/pyconru/speakers/brian-curtin) Brian Curtin
 
 > Director of the [PSF](https://www.python.org/psf). Software engineer at [Rackspace](http://www.rackspace.com/).
 >
@@ -10,7 +10,7 @@
 > Github: [briancurtin](https://github.com/briancurtin)  
 > Blog: [blog.briancurtin.com](http://blog.briancurtin.com/)
 
-![armin-ronacher](http://dropbucket.ru/pyconru/speakers/armin-ronacher) Armin Ronacher
+<a name="armin-ronacher"></a>![armin-ronacher](http://dropbucket.ru/pyconru/speakers/armin-ronacher) Armin Ronacher
 
 > [Flask](http://flask.pocoo.org/) and [Jinja2](http://jinja.pocoo.org/) creator. [Pocoo Team](http://www.pocoo.org/) founder. [PSF](https://www.python.org/psf) member. Developer at [Splash Damage](http://www.splashdamage.com/).
 >
@@ -21,7 +21,7 @@
 > Github: [mitsuhiko](https://github.com/mitsuhiko)  
 > Blog: [lucumr.pocoo.org](http://lucumr.pocoo.org/)
 
-![hynek-schlawack](http://dropbucket.ru/pyconru/speakers/hynek-schlawack) Hynek Schlawack
+<a name="hynek-schlawack"></a>![hynek-schlawack](http://dropbucket.ru/pyconru/speakers/hynek-schlawack) Hynek Schlawack
 
 > [CPython](https://www.python.org/) & [Twisted](https://twistedmatrix.com/) core dev. [PSF](https://www.python.org/psf) member. [FOSS](http://en.wikipedia.org/wiki/Free_and_open-source_software) mercenary. Head of infrastructure and board representative at [Variomedia](http://www.variomedia.de/).
 >
@@ -32,7 +32,7 @@
 > Github: [hynek](https://github.com/hynek)  
 > Blog: [hynek.me](http://hynek.me/)
 
-![honza-kral](http://dropbucket.ru/pyconru/speakers/honza-kral) Honza Král
+<a name="honza-kral"></a>![honza-kral](http://dropbucket.ru/pyconru/speakers/honza-kral) Honza Král
 
 > [Django](https://www.djangoproject.com/) developer and enthusiast.  Python developer at [Elasticsearch](http://www.elasticsearch.org/).
 >
@@ -42,7 +42,7 @@
 > Twitter: [@honzakral](https://twitter.com/honzakral)  
 > Github: [HonzaKral](https://github.com/HonzaKral)
 
-![simone-soldateschi](http://dropbucket.ru/pyconru/speakers/simone-soldateschi) Simone Soldateschi
+<a name="simone-soldateschi"></a>![simone-soldateschi](http://dropbucket.ru/pyconru/speakers/simone-soldateschi) Simone Soldateschi
 
 > Developer support engineer at [Rackspace](http://www.rackspace.com/).
 >
@@ -52,7 +52,7 @@
 > Twitter: [@soldasimo](https://twitter.com/soldasimo)  
 > Github: [siso](https://github.com/siso)  
 
-![andrew-svetlov](http://dropbucket.ru/pyconru/svetlov) Андрей Светлов
+<a name="andrew-svetlov"></a>![andrew-svetlov](http://dropbucket.ru/pyconru/svetlov) Андрей Светлов
 
 > Python Core Developer или просто committer в [hg.python.org](http://hg.python.org/). В текущее время архитектор в [LevelUp](http://levelupers.com/)
 >
@@ -61,21 +61,21 @@
 
 
 
-![alexander-koshelev](http://dropbucket.ru/pyconru/koshelev) Александр Кошелев
+<a name="alexander-koshelev"></a>![alexander-koshelev](http://dropbucket.ru/pyconru/koshelev) Александр Кошелев
 
 > Тимлид в Яндексе, модератор форума [python.su](http://python.su/forum/)
 >
 > Twitter: [@daevaorn](https://twitter.com/daevaorn)  
 > Blog: [webnewage.org](http://webnewage.org/)
 
-![yury_selivanov](http://dropbucket.ru/pyconru/selivanov) Юрий Селиванов
+<a name="yury_selivanov"></a>![yury_selivanov](http://dropbucket.ru/pyconru/selivanov) Юрий Селиванов
 
 > Founder of [Sprymix.com](http://sprymix.com). CPython core developer.
 >
 > Twitter: [1st1](https://twitter.com/1st1)  
 > GitHub: [1st1](https://github.com/1st1)
 
-![andrew_vlasovskix](http://dropbucket.ru/pycon/vlasovskii) Андрей Власовских
+<a name="andrew_vlasovskix"></a>![andrew_vlasovskix](http://dropbucket.ru/pycon/vlasovskii) Андрей Власовских
 
 > Разработчик IDE PyCharm в JetBrains, автор библиотек funcparserlib и iterpipes.
 >
@@ -83,14 +83,14 @@
 > GitHub: [vlasovskikh](https://github.com/vlasovskikh)
 
 
-![denis_chernilevsky](http://dropbucket.ru/pyconru/chernilevski) Денис Чернилевский
+<a name="denis_chernilevsky"></a>![denis_chernilevsky](http://dropbucket.ru/pyconru/chernilevski) Денис Чернилевский
 
 > Руководитель группы тестирования рекламных технологий, Яндекс.
 > Организовал группу и с нуля наладил процессы, инфраструктуру и подходы тестирования многокомпонентного высоконагруженного сервиса медийной рекламы Яндекса.  
 Участвует в организации и проведении [Школы тестирования баннерной системы](http://tech.yandex.ru/education/school-test/2014/)
 
 
-![vitaly_glibin](http://dropbucket.ru/pyconru/glibin) Виталий Глибин
+<a name="vitaly_glibin"></a>![vitaly_glibin](http://dropbucket.ru/pyconru/glibin) Виталий Глибин
 
 > Ведущий frontend разработчик в компании [HeadHunter](http://hh.ru) и преподаватель в [Школе программистов HeadHunter](http://school.hh.ru).
 На данный момент занимается активной разработкой микрофреймворка на базе Tornado - [Tortik](http://hhru.github.io/tortik/)
@@ -98,33 +98,33 @@
 > Блог [Glibin.ru](http://glibin.ru)
 
 
-![mihail_korobov](http://dropbucket.ru/pyconru/korobov) Михаил Коробов
+<a name="mihail_korobov"></a>![mihail_korobov](http://dropbucket.ru/pyconru/korobov) Михаил Коробов
 
 > Работает в [ScrapingHub](http://scrapinghub.com/), входит в [NLTK Team](http://www.nltk.org/index.html), коммитер в Scrapy, автор pymorphy2 и других open-source проектов.
 
 > Блог [kmike.ru](http://kmike.ru/)
 
 
-![kirill_borisov](http://dropbucket.ru/pyconru/borisov) Кирилл Борисов
+<a name="kirill_borisov"></a>![kirill_borisov](http://dropbucket.ru/pyconru/borisov) Кирилл Борисов
 
 > Разработчик в БАРС Груп. Пройдя путь от junior developer'a до software architect занимался оптимизацией, доработкой существующих продуктов под "высокие нагрузки", внедрением автоматизированного тестирования и раздачей полезных советов.
 
-![malashkevish](http://dropbucket.ru/pyconru/malashkevich) Алексей Малашкевич
+<a name="malashkevish"></a>![malashkevish](http://dropbucket.ru/pyconru/malashkevich) Алексей Малашкевич
 
 > Разработчик с 15-летним опытом, автор объектно-реляционного маппера [Pony ORM](http://ponyorm.com/)
 
-![koslovsky](http://dropbucket.ru/pyconru/kozlovsky) Александр Козловский
+<a name="koslovsky"></a>![koslovsky](http://dropbucket.ru/pyconru/kozlovsky) Александр Козловский
 
 > Автор объектно-реляционного маппера [Pony ORM](http://ponyorm.com/)
 
-![alexey_lavrenuk](http://dropbucket.ru/pyconru/lavrenuk) Алексей Лавренюк
+<a name="alexey_lavrenuk"></a>![alexey_lavrenuk](http://dropbucket.ru/pyconru/lavrenuk) Алексей Лавренюк
 
 > В Яндексе с 2011 года. Занимается нагрузочным тестированием в отделе рекламных технологий. Один из участников open source проекта Яндекс.Танк.
 
 > Видео с лекциями Алексея на [Tech.yandex.ru](http://tech.yandex.ru/people/302066/)
 
 
-![kostya-lopuhin](http://dropbucket.ru/pycon/kostialopuhin) Константин Лопухин
+<a name="kostya-lopuhin"></a>![kostya-lopuhin](http://dropbucket.ru/pycon/kostialopuhin) Константин Лопухин
 
 > Технический директор в [ЧТД](http://chtd.ru/) - разрабатываем сервис для анализа данных [QuBeQu](https://qubequ.com).
 Интересуюсь разработкой PyPy, помог возникновению psycopg2cffi [CHTD]
