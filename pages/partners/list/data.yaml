@@ -1,4 +1,4 @@
-sectios:
+sections:
 
 - name: "Золотые спонсоры"
   sponsors:
@@ -51,6 +51,7 @@ sectios:
     link: http://www.it-sobytie.ru
     
 - name: "HR-партнеры"
+  padding_left: 60
   sponsors:
   - logo: http://dropbucket.ru/superjob
     link: http://www.superjob.ru

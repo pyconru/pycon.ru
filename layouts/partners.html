@@ -2,9 +2,9 @@
 
 {% block content %}
 
-  {% for section in sectios %}
+  {% for section in sections %}
     <h4>{{ _(section.name) }}</h4>
-    <ul>
+    <ul{% if section.padding_left %} style="padding-left: {{ section.padding_left }}px;"{% endif %}>
       {% for sponsor in section.sponsors %}
         <li>
           <a href="{{ sponsor.link }}"><img src="{{ sponsor.logo }}"></a>
