@@ -41,6 +41,9 @@ sectios:
     
   - logo: http://dropbucket.ru/ufakod
     link: http://ufacode.ru
+    
+  - logo: http://dropbucket.ru/pycon/realtime
+    link: http://www.realtime.ru
   
 - name: "Событийный партнер"
   sponsors:
