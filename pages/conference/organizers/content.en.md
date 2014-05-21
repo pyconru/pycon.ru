@@ -15,7 +15,7 @@
 ![hotsyk](http://dropbucket.ru/pyconru/hotsyk) - Volodymyr Hotsyk, Svitla Systems, Inc., Pycamp/Pycon Ukraine organization committee
 
 
-![shtan](http://dropbucket.ru/pycon/shtan) - Danil Shtan, Software Development  Manager at 66.ru group
+![shtan](http://dropbucket.ru/pycon/shtan) - Danila Shtan, CTO at E96.ru
 
 
 
