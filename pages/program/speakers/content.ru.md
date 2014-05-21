@@ -97,6 +97,13 @@
 
 > Блог [kmike.ru](http://kmike.ru/)
 
+<a name="ovchinnikov"></a>![ovchinnikov](http://dropbucket.ru/pyconru/ovchinnikov) Дмитрий Овчинников
+
+> Wargaming.net
+
+<a name="kotseruba"></a>![kotseruba](http://dropbucket.ru/pyconru/kotseruba) Виктор Коцеруба
+
+> Имхонет
 
 <a name="kirill_borisov"></a>![kirill_borisov](http://dropbucket.ru/pyconru/borisov) Кирилл Борисов
 
