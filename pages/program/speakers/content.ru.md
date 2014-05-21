@@ -68,13 +68,6 @@
 > Twitter: [@daevaorn](https://twitter.com/daevaorn)  
 > Blog: [webnewage.org](http://webnewage.org/)
 
-<a name="yury_selivanov"></a>![yury_selivanov](http://dropbucket.ru/pyconru/selivanov) Юрий Селиванов
-
-> Founder of [Sprymix.com](http://sprymix.com). CPython core developer.
->
-> Twitter: [1st1](https://twitter.com/1st1)  
-> GitHub: [1st1](https://github.com/1st1)
-
 <a name="andrew_vlasovskix"></a>![andrew_vlasovskix](http://dropbucket.ru/pycon/vlasovskii) Андрей Власовских
 
 > Разработчик IDE PyCharm в JetBrains, автор библиотек funcparserlib и iterpipes.
@@ -109,6 +102,10 @@
 
 > Разработчик в БАРС Груп. Пройдя путь от junior developer'a до software architect занимался оптимизацией, доработкой существующих продуктов под "высокие нагрузки", внедрением автоматизированного тестирования и раздачей полезных советов.
 
+<a name="imankulov"></a>![imankulov](http://dropbucket.ru/pyconru/imankulov) Роман Иманкулов
+
+> Разработчик [Doist Inc](http://doist.io/).
+
 <a name="malashkevish"></a>![malashkevish](http://dropbucket.ru/pyconru/malashkevich) Алексей Малашкевич
 
 > Разработчик с 15-летним опытом, автор объектно-реляционного маппера [Pony ORM](http://ponyorm.com/)
@@ -123,6 +120,9 @@
 
 > Видео с лекциями Алексея на [Tech.yandex.ru](http://tech.yandex.ru/people/302066/)
 
+<a name="shepanovsky"></a>![shepanovsky](http://dropbucket.ru/pyconru/shepanovsky) Александр Щепановский
+
+> Автор [funcy](https://github.com/Suor/funcy), [cacheops](https://github.com/Suor/django-cacheops) и ещё нескольких библиотек.
 
 <a name="kostya-lopuhin"></a>![kostya-lopuhin](http://dropbucket.ru/pycon/kostialopuhin) Константин Лопухин
 
