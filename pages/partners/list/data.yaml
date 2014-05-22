@@ -62,5 +62,7 @@ sections:
   - logo: http://dropbucket.ru/pycon/rabotaru
     link: http://eburg.rabota.ru
     
-    
-   
+- name: "Партнер по перевозке"
+  sponsors: 
+  - logo: http://dropbucket.ru/avtobus
+    link: http://avtobus66.ru
