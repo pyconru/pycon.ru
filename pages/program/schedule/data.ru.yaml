@@ -148,18 +148,12 @@ day2:
       talk: "Мастер-класс Python против вандалов. Анализ данных на практике"
       slug: "workshop"
       time: "10:00"
-      
-  b1c:
-    - speaker: "Алексей Малашкевич, Александр Козловский"
-      talk: "Мастер-класс: пишем интерактивное приложение для обмена фотографиями, используя Pony ORM."
-      slug: "workshop2"
-      time: "10:00"
 
   b4:
     - break: "Обед"
       time: "13:30"
   
-  b5:
+  b5a:
     - speaker: "Honza Král"
       talk: "Explore your data"
       slug: "explore-your-data"
@@ -170,6 +164,12 @@ day2:
       talk: "Python 3 and the Road Ahead"
       slug: "python3"
       time: "15:10"
+      
+  b5b:
+    - speaker: "Алексей Малашкевич, Александр Козловский"
+      talk: "Мастер-класс: пишем интерактивное приложение для обмена фотографиями, используя Pony ORM."
+      slug: "workshop2"
+      time: "13:30"
 
   b6:
     - break: "Перерыв, запись на Lightning Talks"
