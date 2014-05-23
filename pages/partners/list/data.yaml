@@ -8,6 +8,10 @@ sections:
   - logo: http://dropbucket.ru/pyconru/selectel
     link: http://www.selectel.ru/
     
+  - logo: http://dropbucket.ru/jb
+    link: http://www.jetbrains.ru/pycharm
+    
+    
 - name: "Спонсор афтепати"
   sponsors:
     - logo: http://dropbucket.ru/pycon/ideco
