@@ -11,6 +11,10 @@ sections:
   - logo: http://dropbucket.ru/jb
     link: http://www.jetbrains.ru/pycharm
     
+- name: "Хостинг-партнер"
+  sponsors:
+    - logo: http://dropbucket.ru/na
+      link: http://www.netangels.ru
     
 - name: "Спонсор афтепати"
   sponsors:
