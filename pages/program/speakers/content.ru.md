@@ -137,3 +137,9 @@
 Интересуюсь разработкой PyPy, помог возникновению psycopg2cffi [CHTD]
 
 
+<a name="dmitri_ovchinnikov"></a>![dmitri_ovchinniko](http://dropbucket.ru/pyconru/ovchinnikov) Дмитрий Овчинников
+
+> Python developer в компании [Wargaming.net](http://wargaming.com/ru/). Занимается разработкой глобальных сервисов в экосистеме игр. Активный участник Python community в Беларуси. 
+   
+
+
