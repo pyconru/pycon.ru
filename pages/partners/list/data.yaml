@@ -11,6 +11,11 @@ sections:
   - logo: http://dropbucket.ru/jb
     link: http://www.jetbrains.ru/pycharm
     
+- name: "Серебряный партнер"
+  sponsors:
+    - logo: http://dropbucket.ru/wargaming
+      link: http://wargaming.com
+      
 - name: "Хостинг-партнер"
   sponsors:
     - logo: http://dropbucket.ru/na
