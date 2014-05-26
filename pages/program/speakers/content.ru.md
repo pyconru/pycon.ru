@@ -72,7 +72,7 @@
 
 > Разработчик IDE PyCharm в JetBrains, автор библиотек funcparserlib и iterpipes.
 >
-> Блогr: [pirx.ru](http://pirx.ru/)  
+> Блог: [pirx.ru](http://pirx.ru/)  
 > GitHub: [vlasovskikh](https://github.com/vlasovskikh)
 
 
