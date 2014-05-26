@@ -113,6 +113,8 @@
 
 > Разработчик [Doist Inc](http://doist.io/).
 
+> Блог [imankulov.name](http://www.imankulov.name)
+
 <a name="malashkevish"></a>![malashkevish](http://dropbucket.ru/pyconru/malashkevich) Алексей Малашкевич
 
 > Разработчик с 15-летним опытом, автор объектно-реляционного маппера [Pony ORM](http://ponyorm.com/)
