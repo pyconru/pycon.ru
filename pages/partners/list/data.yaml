@@ -63,6 +63,9 @@ sections:
   - logo: http://dropbucket.ru/pycon/realtime
     link: http://www.realtime.ru
   
+  - logo: http://dropbucket.ru/itmonster
+    link: http://www.it-monster.ru
+
 - name: "Событийный партнер"
   sponsors:
   - logo: http://dropbucket.ru/itsob
