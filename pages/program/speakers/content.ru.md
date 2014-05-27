@@ -138,7 +138,9 @@
 > Автор [funcy](https://github.com/Suor/funcy), [cacheops](https://github.com/Suor/django-cacheops) и ещё нескольких библиотек.
 >
 > Twitter: [@hackflow](https://twitter.com/hackflow)
+
 > Github: [suor](https://github.com/suor)
+
 > Блог: [hackflow](http://hackflow.com)
 
 <a name="kostya-lopuhin"></a>![kostya-lopuhin](http://dropbucket.ru/pycon/kostialopuhin) Константин Лопухин
