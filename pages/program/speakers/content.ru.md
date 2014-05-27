@@ -136,7 +136,7 @@
 <a name="shepanovsky"></a>![shepanovsky](http://dropbucket.ru/pyconru/shepanovsky) Александр Щепановский
 
 > Автор [funcy](https://github.com/Suor/funcy), [cacheops](https://github.com/Suor/django-cacheops) и ещё нескольких библиотек.
-
+>
 > Twitter: [@hackflow](https://twitter.com/hackflow)
 > Github: [suor](https://github.com/suor)
 > Блог: [hackflow](http://hackflow.com)
