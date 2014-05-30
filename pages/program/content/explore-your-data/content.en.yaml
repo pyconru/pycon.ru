@@ -1,11 +1,14 @@
-speaker: |
-    **Honza Král**, [Django](https://www.djangoproject.com/) developer and enthusiast, python developer at [Elasticsearch](http://www.elasticsearch.org/)
-
-title: Explore your data
-
+speaker: Honza Král
+speaker_desc: "[Django](https://www.djangoproject.com/) developer and enthusiast, python developer at [Elasticsearch](http://www.elasticsearch.org/)"
+speaker_slug: honza-kral
+title: From __icontains to search
 description: |
-    In this talk I would like to show you a few use-cases where Elasticsearch can help your applications.  
-    We will start with the most basic use case of searching for documents and move on to more advanced topics such as faceted navigation and structured search.  
-    I would like to demonstrate that the very same tool and dataset can be used for real-time analytics (topic distribution, publishing frequency, most popular or commented on content) and data mining in a distributed environment capable of handling terabyte-sized datasets.  
-    Finally we will demonstrate how Elasticsearch can provide the infrastructure for features beyond search, such as automatic content categorization, user-defined categories or even real-time alerts.  
-    Attendees should walk away with a good understanding of what Elasticsearch can bring them and where it is a good fit.
+    Good search experience is about more than just finding matching substring, 
+    and in this talk I would like to present how it actually works. We will build 
+    out a model of a search engine and analyze the result - what sort of functionality 
+    and characteristics will the resulting engine have? What features can we implement 
+    on top of it?  
+
+    Most of the talk will be generic but there will be some concrete examples from 
+    Elasticsearch. At the end of the talk there will be time for questions regarding 
+    anything search related.

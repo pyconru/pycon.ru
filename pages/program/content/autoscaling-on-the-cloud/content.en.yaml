@@ -1,8 +1,7 @@
-speaker: |
-    **Simone Soldateschi**, developer support engineer at [Rackspace](http://www.rackspace.com/)
-
+speaker: Simone Soldateschi
+speaker_desc: developer support engineer at [Rackspace](http://www.rackspace.com/)
+speaker_slug: simone-soldateschi
 title: Auto scaling on the Cloud the right way
-
 description: |
     Horizontal scaling on the Cloud is the way to adapt resources to load of systems. The Cloud allows users to scale virtually indefinitely, or enough for their needs.  
     This way the number of servers follows trend of requests, and TCO (Total Cost of Owneship) of IT infrastructure can be minimised. Nonetheless companies can avoid dealing with capacity planning and pre-provisioning issues.  

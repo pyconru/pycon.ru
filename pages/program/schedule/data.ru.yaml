@@ -103,7 +103,7 @@ day1:
       time: "19:00"
     
   b9a:
-    - break: "Афтепати, игротека, outdoor-активности, баня, боулинг, бильярд, "
+    - break: "Афтепати, игротека, outdoor-активности, баня, боулинг, бильярд"
       time: "20:30"
 
   b10:
@@ -155,7 +155,7 @@ day2:
   
   b5a:
     - speaker: "Honza Král"
-      talk: "Explore your data"
+      talk: "From __icontains to search"
       slug: "explore-your-data"
       time: "14:10"
     - break: "Перерыв"
