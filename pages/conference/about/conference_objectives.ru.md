@@ -6,4 +6,4 @@
 
 
 ### Конференция-партнёр
-[http://dropbucket.ru/id/1216] (http://it-sobytie.ru/events/3275)
+![piterpy](http://dropbucket.ru/id/1216) (http://it-sobytie.ru/events/3275)
