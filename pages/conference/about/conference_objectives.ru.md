@@ -5,7 +5,9 @@
 * Afterparty!
 
 
+### Конференция-партнёр
+sections:
+
 - name: "Конференция-партнёр"
-  sponsors:
   - logo: http://dropbucket.ru/id/1216
     link: http://it-sobytie.ru/events/3275
