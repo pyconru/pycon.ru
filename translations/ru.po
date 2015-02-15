@@ -60,7 +60,7 @@ msgstr "Докладчики"
 msgid "See Venue for more information about conference location." 
 msgstr "Узнать более подробно о месте проведения"
 
-#: _base.html:54
+#: _base.html:55
 msgid "June"
 msgstr "Июнь"
 

@@ -1,10 +1,5 @@
 sections:
 
-- name: "Конференция-партнёр"
-  sponsors:
-  - logo: http://dropbucket.ru/id/1220
-    link: http://it-sobytie.ru/events/3275
-
 - name: "Золотые спонсоры"
   sponsors:
   - logo: http://dropbucket.ru/pycon/naumen
@@ -35,6 +30,11 @@ sections:
   sponsors: 
     - logo: http://dropbucket.ru/avtobus
       link: http://avtobus66.ru
+
+- name: "Конференция-партнёр"
+  sponsors:
+  - logo: http://dropbucket.ru/id/1220
+    link: http://it-sobytie.ru/events/3275
           
 - name: "Информационные партнеры"
   sponsors:

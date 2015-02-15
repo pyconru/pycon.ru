@@ -52,12 +52,12 @@
       <header>
         <a href="{{ url_for('conference/about') }}" target="_self">
           <h2>
-            <span class="month">{{ _('Сентябрь') }}</span>
-            <span class="days">18&ndash;19</span>
+            <span class="month">{{ _('June') }}</span>
+            <span class="days">2&ndash;3</span>
           </h2>
 
           <h1>
-            PyCon Russia <span class="year">2015</span>
+            PyCon Russia <span class="year">2014</span>
           </h1>
         </a>
         
@@ -109,7 +109,7 @@
             <li class="{% if page.CHILDREN and page.NAME != 'results' %}expandable{% endif %}
                        {% if is_active %}active{% endif %}">
               <a href="{{ url_for(page.PATH) }}" target="_self"
-                 class="{% if page.PATH == 'register' %}emphasized{% endif %}
+                 class="{% if page.PATH == 'summary' %}emphasized{% endif %}
                         {% if is_active %}active{% endif %}
                         {% if page.PATH == 'results' %}results{% endif %}">
                 {{ LABELS[page.PATH] }}
