@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>{{ title|default('PyCon Russia 2014') }}</title>
+    <title>{{ title|default('PyCon Russia 2015') }}</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
@@ -52,12 +52,12 @@
       <header>
         <a href="{{ url_for('conference/about') }}" target="_self">
           <h2>
-            <span class="month">{{ _('June') }}</span>
-            <span class="days">2&ndash;3</span>
+            <span class="month">{{ _('September') }}</span>
+            <span class="days">18&ndash;19</span>
           </h2>
 
           <h1>
-            PyCon Russia <span class="year">2014</span>
+            PyCon Russia <span class="year">2015</span>
           </h1>
         </a>
         
@@ -97,6 +97,7 @@
         
         'archive': _('Archive'),
         'archive/2013': _('PyCon Russia 2013'),
+        'archive/2014': _('PyCon Russia 2014'),
 
         'register': _('Register'),
         'summary': _('Summary'),
@@ -109,7 +110,7 @@
             <li class="{% if page.CHILDREN and page.NAME != 'results' %}expandable{% endif %}
                        {% if is_active %}active{% endif %}">
               <a href="{{ url_for(page.PATH) }}" target="_self"
-                 class="{% if page.PATH == 'summary' %}emphasized{% endif %}
+                 class="{% if page.PATH == 'register' %}emphasized{% endif %}
                         {% if is_active %}active{% endif %}
                         {% if page.PATH == 'results' %}results{% endif %}">
                 {{ LABELS[page.PATH] }}

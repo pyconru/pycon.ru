@@ -61,8 +61,8 @@ msgid "See Venue for more information about conference location."
 msgstr "Узнать более подробно о месте проведения"
 
 #: _base.html:55
-msgid "June"
-msgstr "Июнь"
+msgid "September"
+msgstr "Сентябрь"
 
 #: index.html:41
 msgid "seconds"
@@ -90,8 +90,8 @@ msgstr "Организаторы"
 
 #: index.html:21
 #: &#8209; -- non-breaking hyphen
-msgid "PyCon Russia 2014, June&nbsp;2&#8209;3"
-msgstr "PyCon Russia 2014, 2&#8209;3&nbsp;июня"
+msgid "PyCon Russia 2015, September&nbsp;18&#8209;19"
+msgstr "PyCon Russia 2015, 18&#8209;19&nbsp;сентября"
 
 #: index.html:26
 msgid "days"

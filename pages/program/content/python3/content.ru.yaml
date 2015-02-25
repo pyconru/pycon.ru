@@ -1,9 +1,0 @@
-speaker: Brian Curtin
-speaker_desc: director of the [PSF](https://www.python.org/psf), software engineer at [Rackspace](http://www.rackspace.com/)
-speaker_slug: brian-curtin
-title: Python 3 and the Road Ahead
-description: |
-    Learn where we're at with Python 3, where we're going, and how we'll get there.  
-    The talk will include a recap of Python 3 discussions from the Python Language Summit as well as some of the ideas that came out of it.
-    There's a lot of talk around the community about what to do, and there are some plans to move forward. Find out what the future holds for Python 2.7 and the rest of the Python 3 series.  
-    You'll also find out about some great resources to help your own projects along the way.
