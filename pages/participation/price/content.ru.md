@@ -31,3 +31,5 @@
 * Наличными - в офисе компании IT-People или на месте в день конференции.
 
 Если вы <b>юридическое лицо</b>, то укажите свои реквизиты в регистрационной анкете, и мы вышлем вам счет на оплату. Либо напишите на [om@it-people.ru](om@it-people.ru), и мы выставим вам счет.
+
+<a href="https://it-people.timepad.ru/event/208087/" data-twf-placeholder="yes">Перейти к заказу билетов</a><script type="text/javascript" defer="defer" charset="UTF-8" data-timepad-customized="4870" data-twf2s-event--id="208087" data-timepad-widget-v2="event_register" src="https://timepad.ru/js/tpwf/loader/min/loader.js"></script>
