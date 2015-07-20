@@ -12,7 +12,7 @@ Python-разработчик, спикер различных Python-конфе
 ![svetlov](http://dropbucket.ru/pyconru/svetlov) [Андрей Светлов](http://www.linkedin.com/pub/andrew-svetlov/59/b1/586)  
 Python-разработчик в Insollo Entertainment, организатор Pycamp/Pycon Ukraine
 
-![ovchinnikov](http://dropbucket.ru/ovchinnikov) [Дмитрий Овчинников]
+![ovchinnikov](http://dropbucket.ru/ovchinnikov)Дмитрий Овчинников
 Senior Software Engineer в Wargaming.net 
 
 ![vlasovskii](http://dropbucket.ru/vlasovskii) [Андрей Власовских] (http://pirx.ru)
