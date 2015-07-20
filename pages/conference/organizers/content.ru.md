@@ -15,7 +15,7 @@ Python-разработчик в Insollo Entertainment, организатор P
 ![ovchinnikov](http://dropbucket.ru/ovchinnikov) [Дмитрий Овчинников]
 Senior Software Engineer в Wargaming.net 
 
-![vlasovskii](http://dropbucket.ru/vlasovskii) [Андрей Власовских]
+![vlasovskii](http://dropbucket.ru/vlasovskii) [Андрей Власовских] (http://pirx.ru)
 Разработчик IDE PyCharm в JetBrains
 
 
