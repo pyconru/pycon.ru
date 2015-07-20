@@ -13,6 +13,7 @@ Python-разработчик, спикер различных Python-конфе
 Python-разработчик в Insollo Entertainment, организатор Pycamp/Pycon Ukraine
 
 ![ovchinnikov](http://dropbucket.ru/ovchinnikov)Дмитрий Овчинников 
+
 Senior Software Engineer в Wargaming.net 
 
 ![vlasovskii](http://dropbucket.ru/vlasovskii) [Андрей Власовских](http://pirx.ru)
