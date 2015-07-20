@@ -17,6 +17,7 @@ Python-разработчик в Insollo Entertainment, организатор P
 Senior Software Engineer в Wargaming.net 
 
 ![vlasovskii](http://dropbucket.ru/vlasovskii) [Андрей Власовских](http://pirx.ru)
+
 Разработчик IDE PyCharm в JetBrains
 
 
