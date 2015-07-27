@@ -28,6 +28,8 @@ Senior Software Engineer в Wargaming.net
 
 ![shulyndina3](http://dropbucket.ru/pycon/shulyndina3) Екатерина Шулындина
 
-![galkina](http://dropbucket.ru/pyconru/galkinat) Татьяна Галкина
+![kudinova](http://dropbucket.ru/kudinova) Ксения Кудинова
 
+![suleymanova](http://dropbucket.ru/suleymanova) Евгения Сулейманова
 
+![yuzhakova](http://dropbucket.ru/yuzhakova) Дарья Южакова
