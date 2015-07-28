@@ -21,7 +21,7 @@
 
 <a name="iliya-beda"></a>![iliya-beda](http://dropbucket.ru/beda) Илья Беда
 
-> Разработчик web приложений с 7 летним стажем. Тимлидер [bro.agency](http://bro.agency).
+> Разработчик web приложений с 7-летним стажем. Тимлидер [bro.agency](http://bro.agency).
 >
 > Twitter: [@ir4y_ix](https://twitter.com/ir4y_ix)  
 > Blog: [+ ИльяБеда](https://plus.google.com/+ИльяБеда/posts)
