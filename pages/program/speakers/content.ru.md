@@ -4,7 +4,6 @@
 >
 > Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov)  
 > Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.ru/)
-
 <a name="grigory-petrov"></a>![grigory-petrov](http://dropbucket.ru/petrov) Григорий Петров
 
 > Технический евангелист в [VoxImplant](http://voximplant.com). 
