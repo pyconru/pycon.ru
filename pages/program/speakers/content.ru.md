@@ -12,8 +12,6 @@
 <a name="grigory-petrov"></a>![grigory-petrov](http://dropbucket.ru/petrov) Григорий Петров
 
 > Технический евангелист в [VoxImplant](http://voximplant.com). 
->
-> Facebook: [grigoryvp](https://www.facebook.com/grigoryvp)  
 
 <a name="alexander-sibiryakov"></a>![alexander-sibiryakov](http://dropbucket.ru/sibiryakov) Александр Сибиряков
 
@@ -25,8 +23,8 @@
 
 > Разработчик web приложений с 7 летним стажем. Тимлидер [bro.agency](http://bro.agency).
 >
-> Twitter: [ir4y_ix](https://twitter.com/ir4y_ix)  
-> Blog: [+ИльяБеда/posts](https://plus.google.com/+ИльяБеда/posts)
+> Twitter: [@ir4y_ix](https://twitter.com/ir4y_ix)  
+> Blog: [+ ИльяБеда](https://plus.google.com/+ИльяБеда/posts)
 
 <a name="malashkevish"></a>![malashkevish](http://dropbucket.ru/pyconru/malashkevich) Алексей Малашкевич
 
