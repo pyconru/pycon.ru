@@ -88,7 +88,7 @@
 * распространение рекламных материалов на конференции
 * участие в розыгрыше
 
-![afterparty1] (http://dropbucket.ru/afterparty1)
+![afterparty2] (http://dropbucket.ru/afterparty2)
 
 ####Кофейный спонсор 
 <b>Спонсорский взнос:</b> 60,000 руб.	
