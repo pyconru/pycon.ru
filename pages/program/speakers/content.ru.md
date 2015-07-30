@@ -15,7 +15,7 @@
 
 <a name="alexander-sibiryakov"></a>![alexander-sibiryakov](http://dropbucket.ru/sibiryakov) Александр Сибиряков
 
-> [Avast](https://www.avast.ru/index) antivirus.
+> Python-разработчик в Scrapinghub.
 >
 > Blog: [sibiryakov.eu](http://sibiryakov.eu)
 
