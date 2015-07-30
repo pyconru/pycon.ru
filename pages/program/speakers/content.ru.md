@@ -15,7 +15,7 @@
 
 <a name="alexander-sibiryakov"></a>![alexander-sibiryakov](http://dropbucket.ru/sibiryakov) Александр Сибиряков
 
-> Python-разработчик в Scrapinghub.
+> Python-разработчик в [Scrapinghub](http://scrapinghub.com).
 >
 > Blog: [sibiryakov.eu](http://sibiryakov.eu)
 
