@@ -1,13 +1,16 @@
-<a name="andrew-svetlov"></a>![andrew-svetlov](http://dropbucket.ru/pyconru/svetlov) Андрей Светлов
+<a name="andrew-svetlov"></a>![andrew-svetlov](http://dropbucket.ru/pyconru/svetlov) Андрей Светлов, Киев
 
 > Python Core Developer или просто committer в [hg.python.org](http://hg.python.org/). В текущее время архитектор в [LevelUp](http://levelupers.com/).
 >
 > Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov)  
 > Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.ru/)
 
-<a name="ovchinnikov"></a>![ovchinnikov](http://dropbucket.ru/pyconru/ovchinnikov) Дмитрий Овчинников
+<a name="andrew_vlasovskix"></a>![andrew_vlasovskix](http://dropbucket.ru/pycon/vlasovskii) Андрей Власовских
 
-> Python developer в компании [Wargaming.net](http://wargaming.com/ru/). Занимается разработкой глобальных сервисов в экосистеме игр. Активный участник Python community в Беларуси. 
+> Разработчик IDE PyCharm в JetBrains, автор библиотек funcparserlib и iterpipes.
+>
+> Блог: [pirx.ru](http://pirx.ru/)  
+> GitHub: [vlasovskikh](https://github.com/vlasovskikh)
 
 <a name="grigory-petrov"></a>![grigory-petrov](http://dropbucket.ru/petrov) Григорий Петров
 
