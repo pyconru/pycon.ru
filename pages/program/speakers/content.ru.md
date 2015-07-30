@@ -5,37 +5,37 @@
 > Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov)  
 > Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.ru/)
 
-<a name="andrew_vlasovskix"></a>![andrew_vlasovskix](http://dropbucket.ru/pycon/vlasovskii) Андрей Власовских
+<a name="andrew_vlasovskix"></a>![andrew_vlasovskix](http://dropbucket.ru/pycon/vlasovskii) Андрей Власовских, Санкт-Петербург
 
 > Разработчик IDE PyCharm в JetBrains, автор библиотек funcparserlib и iterpipes.
 >
 > Блог: [pirx.ru](http://pirx.ru/)  
 > GitHub: [vlasovskikh](https://github.com/vlasovskikh)
 
-<a name="grigory-petrov"></a>![grigory-petrov](http://dropbucket.ru/petrov) Григорий Петров
+<a name="grigory-petrov"></a>![grigory-petrov](http://dropbucket.ru/petrov) Григорий Петров, Москва
 
 > Технический евангелист в [VoxImplant](http://voximplant.com). 
 
-<a name="alexander-sibiryakov"></a>![alexander-sibiryakov](http://dropbucket.ru/sibiryakov) Александр Сибиряков
+<a name="alexander-sibiryakov"></a>![alexander-sibiryakov](http://dropbucket.ru/sibiryakov) Александр Сибиряков, Прага
 
 > Python-разработчик в [Scrapinghub](http://scrapinghub.com).
 >
 > Blog: [sibiryakov.eu](http://sibiryakov.eu)
 
-<a name="iliya-beda"></a>![iliya-beda](http://dropbucket.ru/beda) Илья Беда
+<a name="iliya-beda"></a>![iliya-beda](http://dropbucket.ru/beda) Илья Беда, Красноярск
 
 > Разработчик web приложений с 7-летним стажем. Тимлидер [bro.agency](http://bro.agency).
 >
 > Twitter: [@ir4y_ix](https://twitter.com/ir4y_ix)  
 > Blog: [+ ИльяБеда](https://plus.google.com/+ИльяБеда/posts)
 
-<a name="malashkevish"></a>![malashkevish](http://dropbucket.ru/pyconru/malashkevich) Алексей Малашкевич
+<a name="malashkevish"></a>![malashkevish](http://dropbucket.ru/pyconru/malashkevich) Алексей Малашкевич, Санкт-Петербург
 
 > Разработчик с 15-летним опытом, автор объектно-реляционного маппера [Pony ORM](http://ponyorm.com/) - проекта, вошедшего в список "The Best of Python in 2013". Активный участник и спикер на Python-конференциях и митапах. До основания собственного стартапа руководил разработкой высокопроизводительных систем в финансовой трейдинговой компании в Нью-Йорке.
 
 > Twitter: [@amalashkevich](https://twitter.com/amalashkevich) 
 
-<a name="koslovsky"></a>![koslovsky](http://dropbucket.ru/pyconru/kozlovsky) Александр Козловский
+<a name="koslovsky"></a>![koslovsky](http://dropbucket.ru/pyconru/kozlovsky) Александр Козловский, Санкт-Петербург
 
 > Автор объектно-реляционного маппера [Pony ORM](http://ponyorm.com/). Мастер метапрограммирования на языке Python. Разработчик высоконагруженных приложений на Python и Django. Имеет десятилетний опыт преподавания курса "Базы данных" в Санкт-Петербургском государственном университете аэрокосмического приборостроения.
 
