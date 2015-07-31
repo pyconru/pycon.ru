@@ -1,6 +1,6 @@
 <a name="andrew-svetlov"></a>![andrew-svetlov](http://dropbucket.ru/pyconru/svetlov) Андрей Светлов, Киев
 
-> Python Core Developer или просто committer в [hg.python.org](http://hg.python.org/). В текущее время архитектор в [LevelUp](http://levelupers.com/).
+> Python Core Developer, инженер в [DataRobot](http://www.datarobot.com).
 >
 > Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov)  
 > Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.ru/)
