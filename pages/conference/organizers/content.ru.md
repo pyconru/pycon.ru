@@ -6,7 +6,7 @@
 
 ![korobov](http://dropbucket.ru/pyconru/korobov) [Михаил Коробов](http://kmike.ru/)<br>Python-разработчик, спикер различных Python-конференций
 
-![svetlov](http://dropbucket.ru/pyconru/svetlov) [Андрей Светлов](http://www.linkedin.com/pub/andrew-svetlov/59/b1/586)<br>Python-разработчик в Insollo Entertainment, организатор Pycamp/Pycon Ukraine
+![svetlov](http://dropbucket.ru/pyconru/svetlov) [Андрей Светлов](http://www.linkedin.com/pub/andrew-svetlov/59/b1/586)<br>Python Core Developer, инженер в DataRobot, организатор Pycamp/Pycon Ukraine
 
 ![ovchinnikov](http://dropbucket.ru/ovchinnikov) Дмитрий Овчинников<br>Senior Software Engineer в Wargaming.net
 
