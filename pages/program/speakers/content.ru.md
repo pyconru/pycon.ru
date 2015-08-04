@@ -13,7 +13,14 @@ including pip, PyPI, virtualenv, and wheels.
 I'd say the talk is for an intermediate to advanced audience. Ideally,
 attendees will leave with a clearer idea of how Python packaging works
 as well as an sense of optimism. :)
-  
+
+<a name="alexander-sibiryakov"></a>![alexander-sibiryakov](http://dropbucket.ru/sibiryakov) Александр Сибиряков, Прага
+
+> Python-разработчик в [Scrapinghub](http://scrapinghub.com).
+>
+> Blog: [sibiryakov.eu](http://sibiryakov.eu)
+
+<b>Frontera: open source large-scale web crawling framework</b> 
 
 <a name="andrew-svetlov"></a>![andrew-svetlov](http://dropbucket.ru/pyconru/svetlov) Андрей Светлов, Киев
 
@@ -32,12 +39,6 @@ as well as an sense of optimism. :)
 <a name="grigory-petrov"></a>![grigory-petrov](http://dropbucket.ru/petrov) Григорий Петров, Москва
 
 > Технический евангелист в [VoxImplant](http://voximplant.com). 
-
-<a name="alexander-sibiryakov"></a>![alexander-sibiryakov](http://dropbucket.ru/sibiryakov) Александр Сибиряков, Прага
-
-> Python-разработчик в [Scrapinghub](http://scrapinghub.com).
->
-> Blog: [sibiryakov.eu](http://sibiryakov.eu)
 
 <a name="iliya-beda"></a>![iliya-beda](http://dropbucket.ru/beda) Илья Беда, Красноярск
 
