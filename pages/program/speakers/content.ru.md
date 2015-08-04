@@ -3,6 +3,10 @@
 > Developer of CPython. He also wrote the six Python 2/3 compatibility library and has contributed to numerous
 projects in the Python ecosystem including PyPy and py.tes.
 
+<a name="gael"></a>![gael](http://dropbucket.ru/gael) Gael Varoquaux, Paris
+
+> Gael is an INRIA faculty researcher working on data science for brain imaging in the Neurospin brain research institute (Paris, France). He is a core developer of scikit-learn, joblib, Mayavi and nilearn, a nominated member of the PSF, and often teaches scientific computing with Python using the scipy lecture notes.
+
 <a name="alexander-sibiryakov"></a>![alexander-sibiryakov](http://dropbucket.ru/sibiryakov) Александр Сибиряков, Прага
 
 > Python-разработчик в [Scrapinghub](http://scrapinghub.com).
