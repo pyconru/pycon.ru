@@ -3,9 +3,9 @@
 > Developer of CPython. He also wrote the six Python 2/3 compatibility library and has contributed to numerous
 projects in the Python ecosystem including PyPy and py.tes.
 
-title: В Python 3Python Packaging Progress 
+<b>Python Packaging Progress</b> 
 
-description: Python packaging is infamous for being brittle and hard to use.
+Python packaging is infamous for being brittle and hard to use.
 Thankfully, a lot of progress has been made in recent years. This talk
 will explain some of the components and tools in modern Python packaging
 including pip, PyPI, virtualenv, and wheels.
