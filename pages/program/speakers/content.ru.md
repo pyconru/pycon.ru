@@ -34,6 +34,10 @@ projects in the Python ecosystem including PyPy and py.tes.
 > Twitter: [@ir4y_ix](https://twitter.com/ir4y_ix)  
 > Blog: [+ ИльяБеда](https://plus.google.com/+ИльяБеда/posts)
 
+<a name="shvets"></a>![shvets](http://dropbucket.ru/shvets) Александр Швец, Москва
+
+> Компания Marilyn, директор по продукту.
+
 <a name="malashkevish"></a>![malashkevish](http://dropbucket.ru/pyconru/malashkevich) Алексей Малашкевич, Санкт-Петербург
 
 > Разработчик с 15-летним опытом, автор объектно-реляционного маппера [Pony ORM](http://ponyorm.com/) - проекта, вошедшего в список "The Best of Python in 2013". Активный участник и спикер на Python-конференциях и митапах. До основания собственного стартапа руководил разработкой высокопроизводительных систем в финансовой трейдинговой компании в Нью-Йорке.
