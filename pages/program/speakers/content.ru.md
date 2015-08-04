@@ -1,3 +1,20 @@
+<a name="benjamin-peterson"></a>![peterson](http://dropbucket.ru/peterson) Benjamin Peterson, San Francisco
+
+> Developer of CPython. He also wrote the six Python 2/3 compatibility library and has contributed to numerous
+projects in the Python ecosystem including PyPy and py.tes.
+
+title: В Python 3Python Packaging Progress 
+
+description: Python packaging is infamous for being brittle and hard to use.
+Thankfully, a lot of progress has been made in recent years. This talk
+will explain some of the components and tools in modern Python packaging
+including pip, PyPI, virtualenv, and wheels.
+
+I'd say the talk is for an intermediate to advanced audience. Ideally,
+attendees will leave with a clearer idea of how Python packaging works
+as well as an sense of optimism. :)
+  
+
 <a name="andrew-svetlov"></a>![andrew-svetlov](http://dropbucket.ru/pyconru/svetlov) Андрей Светлов, Киев
 
 > Python Core Developer, инженер в [DataRobot](http://www.datarobot.com).
