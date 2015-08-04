@@ -1,0 +1,22 @@
+speaker: |
+    **Gael Varoquaux**, core developer of scikit-learn, joblib, Mayavi and nilearn, a nominated member of the PSF
+    
+title: "Building a cutting-edge data processing environment on a budget"
+
+description: |
+   As a penniless academic I wanted to do "big data" for science. Open
+source, Python, and simple patterns were the way forward. Staying on top
+of todays growing datasets is an arm race. Data analytics machinery
+—clusters, NOSQL, visualization, Hadoop, machine learning, ...— can
+spread a team's resources thin. Focusing on simple patterns, lightweight
+technologies, and a good understanding of the applications gets us most
+of the way for a fraction of the cost. These patterns appear underline
+the design of Mayavi, for interactive 3D visualization, scikit-learn, for
+easy machine learning, and joblib for out-of-core and parallel computing.
+
+I will present a personal perspective on ten years of scientific data
+processing with Python. What are the emerging patterns in data
+processing? How can modern data-mining ideas be used without a big
+engineering team? What constraints and design trade-offs govern software
+projects like scikit-learn, Mayavi, or joblib? How can we make the most
+out of distributed hardware with simple framework-less code?
