@@ -23,5 +23,4 @@
 
 ![suleymanova](http://dropbucket.ru/suleymanova) Евгения Сулейманова
 
-![yuzhakova](http://dropbucket.ru/yuzhakova) Дарья Южакова
 
