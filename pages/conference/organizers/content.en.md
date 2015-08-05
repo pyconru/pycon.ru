@@ -20,13 +20,14 @@ Developer IDE PyCharm, JetBrains
 
 ##Organization team
 
-![gerasimovich](http://dropbucket.ru/pycon/gerasimovich) -   [ Yulia Gerasimovich](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266), - [IT-People.ru](http://it-people.ru/), company head. The organizer of a large number of conferences and educational activities in the sphere of IT.
+![gerasimovich](http://dropbucket.ru/pycon/gerasimovich)  [ Yulia Gerasimovich](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266), - [IT-People.ru](http://it-people.ru/), company head. The organizer of a large number of conferences and educational activities in the sphere of IT.
 
 
-![voronina](http://dropbucket.ru/pycon/voronina) - Elena Voronina
+![voronina](http://dropbucket.ru/pycon/voronina) Elena Voronina
 
+![shulyndina](http://dropbucket.ru/shulyndina) Ekaterina Shulyndina
 
-![shulyndina3](http://dropbucket.ru/pycon/shulyndina3) - Ekaterina Shulyndina
+![kudinova](http://dropbucket.ru/kudinova) Ksenya Kudinova
 
-![galkina](http://dropbucket.ru/pyconru/galkinat) - Tatyana Galkina
+![suleymanova](http://dropbucket.ru/suleymanova) Evgenia Suleymanova 
 
