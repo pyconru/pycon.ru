@@ -3,6 +3,8 @@
 > Developer of CPython. He also wrote the six Python 2/3 compatibility library and has contributed to numerous
 projects in the Python ecosystem including PyPy and py.tes.
 
+> Twitter: [@gutworth](https://twitter.com/gutworth)  
+
 <a name="gael"></a>![gael](http://dropbucket.ru/gael) Gael Varoquaux, Paris
 
 > Gael is an INRIA faculty researcher working on data science for brain imaging in the Neurospin brain research institute (Paris, France). He is a core developer of scikit-learn, joblib, Mayavi and nilearn, a nominated member of the PSF, and often teaches scientific computing with Python using the scipy lecture notes.
