@@ -24,7 +24,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 <a name="andrew_vlasovskix"></a>![andrew_vlasovskix](http://dropbucket.ru/pycon/vlasovskii) Андрей Власовских, Санкт-Петербург
 
-> Разработчик IDE PyCharm в JetBrains, автор библиотек funcparserlib и iterpipes.
+> Разработчик PyCharm и эмулятора Vim для сред программирования в JetBrains. Автор библиотеки funcparserlib для написания парсеров на Python в функциональном стиле. Организатор встреч по функциональному программированию. Участвует в разработке PEP 484: Type Hints.
 >
 > Блог: [pirx.ru](http://pirx.ru/)  
 > GitHub: [vlasovskikh](https://github.com/vlasovskikh)
