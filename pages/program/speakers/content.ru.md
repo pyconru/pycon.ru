@@ -44,6 +44,13 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Компания Marilyn, директор по продукту.
 
+<a name="soldatenko"></a>![soldatenko](http://dropbucket.ru/soldatenko) Андрей Солдатенко, Киев
+
+> Python Backend Developer в Toptal и QA Automation Lead в Wargaming.NET. Докладчик множества Python-конференций. 
+>
+> Twitter: [@a_soldatenko](https://twitter.com/_soldatenko)  
+> Blog: [asoldatenko.com](http://asoldatenko.com)
+
 <a name="malashkevish"></a>![malashkevish](http://dropbucket.ru/pyconru/malashkevich) Алексей Малашкевич, Санкт-Петербург
 
 > Разработчик с 15-летним опытом, автор объектно-реляционного маппера [Pony ORM](http://ponyorm.com/) - проекта, вошедшего в список "The Best of Python in 2013". Активный участник и спикер на Python-конференциях и митапах. До основания собственного стартапа руководил разработкой высокопроизводительных систем в финансовой трейдинговой компании в Нью-Йорке.
