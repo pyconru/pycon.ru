@@ -48,7 +48,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Python Backend Developer в [Toptal](http://www.toptal.com/#connect-fantastic-computer-engineers) и QA Automation Lead в [Wargaming.NET](http://ru.wargaming.net). Докладчик множества Python-конференций. 
 >
-> Twitter: [@a_soldatenko](https://twitter.com/_soldatenko)  
+> Twitter: [@a_soldatenko](https://twitter.com/a_soldatenko)  
 > Blog: [asoldatenko.com](http://asoldatenko.com)
 
 <a name="malashkevish"></a>![malashkevish](http://dropbucket.ru/pyconru/malashkevich) Алексей Малашкевич, Санкт-Петербург
