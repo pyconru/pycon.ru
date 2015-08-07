@@ -57,7 +57,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Twitter: [@amalashkevich](https://twitter.com/amalashkevich) 
 
-<a name="koslovsky"></a>![koslovsky](http://dropbucket.ru/pyconru/kozlovsky) Александр Козловский, Санкт-Петербург
+<a name="kozlovski"></a>![kozlovski](http://dropbucket.ru/kozlovski) Александр Козловский, Санкт-Петербург
 
 > Автор объектно-реляционного маппера [Pony ORM](http://ponyorm.com/). Мастер метапрограммирования на языке Python. Разработчик высоконагруженных приложений на Python и Django. Имеет десятилетний опыт преподавания курса "Базы данных" в Санкт-Петербургском государственном университете аэрокосмического приборостроения.
 
