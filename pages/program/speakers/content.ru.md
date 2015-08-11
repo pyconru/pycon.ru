@@ -66,11 +66,9 @@ projects in the Python ecosystem including PyPy and py.tes.
 <a name="shepanovsky"></a>![shepanovsky](http://dropbucket.ru/pyconru/shepanovsky) Александр Щепановский, Красноярск
 
 > Автор нескольких популярных (funcy, cacheops) и чуть большего количества непопулярных  библиотек, как и просто интересных open source экспериментов. Любитель копать глубже в поисках интересного, запутанного и иногда полезного.
-
+>
 > Twitter: [@hackflow](https://twitter.com/hackflow) 
-
 > Blog: [hackflow.com](http://hackflow.com/)
-
 > Github: [Suor](https://github.com/Suor)
 
 <iframe src="https://docs.google.com/forms/d/1OfDY1kYP0sMWVn_Tux7EMJJK2mmTNQo8o7kvbr3VLA0/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
