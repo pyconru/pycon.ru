@@ -63,7 +63,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Twitter: [@metaprogrammer](https://twitter.com/metaprogrammer) 
 
-<a name="kozlovski"></a>![kozlovski](http://dropbucket.ru/kozlovski) Александр Щепановский, Красноярск
+<a name="shepanovsky"></a>![shepanovsky](http://dropbucket.ru/pyconru/shepanovsky) Александр Щепановский, Красноярск
 
 > Автор нескольких популярных (funcy, cacheops) и чуть большего количества непопулярных  библиотек, как и просто интересных open source экспериментов. Любитель копать глубже в поисках интересного, запутанного и иногда полезного.
 
