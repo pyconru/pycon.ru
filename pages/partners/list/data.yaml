@@ -11,8 +11,8 @@ sections:
   - logo: http://dropbucket.ru/piterpy
     link: http://it-sobytie.ru/events_groups/15  
     
-  - logo: http://dropbucket.ru/itsob2
-    link: http://it-sobytie.ru
+  - logo: http://dropbucket.ru/pvideo
+    link: http://pyvideo.ru
     
   - logo: http://dropbucket.ru/pythonsu
     link: http://python.su
@@ -20,6 +20,6 @@ sections:
   - logo: http://dropbucket.ru/developers
     link: https://vk.com/python_developers
     
-  - logo: http://dropbucket.ru/pvideo
-    link: http://pyvideo.ru
+  - logo: http://dropbucket.ru/itsob2
+    link: http://it-sobytie.ru
   
