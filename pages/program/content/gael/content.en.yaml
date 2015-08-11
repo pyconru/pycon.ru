@@ -1,6 +1,6 @@
-speaker: Gael Varoquaux, Paris
-speaker_desc: core developer of scikit-learn, joblib, Mayavi and nilearn, a nominated member of the PSF
-speaker_slug: gael-varoquaux
+speaker: 
+    Gael Varoquaux, Paris, core developer of scikit-learn, joblib, Mayavi and nilearn, a nominated member of the PSF
+    
 title: Building a cutting-edge data processing environment on a budget
 description: |
    As a penniless academic I wanted to do "big data" for science. Open
