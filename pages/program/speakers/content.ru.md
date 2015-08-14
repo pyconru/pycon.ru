@@ -77,4 +77,8 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Разработчик сервиса Яндекс.Такси и большой любитель разбираться, как устроены привычные инструменты «под капотом». Ведущий рубрики «Ключевая технология» (Core Technology) в журнале [«Linux Voice»](http://www.linuxvoice.com). Преподает в Уральском Федеральном Университете.
 
+<a name="matveenko"></a>![matveenko](http://dropbucket.ru/matveenko) Сергей Матвеенко, Санкт-Петербург
+
+> Senior Python Developer компании [DataArt](http://dataart.ru). Опыт в IТ-индустрии 16 лет. В качестве CTO и Team Lead выпустил более десятка продуктов. Разработчик, апологет свободного ПО. Организатор петербургского Python-сообщества.
+
 <iframe src="https://docs.google.com/forms/d/1OfDY1kYP0sMWVn_Tux7EMJJK2mmTNQo8o7kvbr3VLA0/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
