@@ -81,4 +81,10 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Senior Python Developer компании [DataArt](http://dataart.ru). Опыт в IТ-индустрии 16 лет. В качестве CTO и Team Lead выпустил более десятка продуктов. Разработчик, апологет свободного ПО. Организатор петербургского Python-сообщества.
 
+<a name="tuzova"></a>![tuzova](http://dropbucket.ru/tuzova) Екатерина Тузова, Санкт-Петербург
+
+> Разработчик PyCharm, лектор и куратор студенческих проектов в [CompSciCenter](https://compscicenter.ru) и в [Академическом Университете](http://mit.spbau.ru/).
+
+Twitter/Github: @ktisha
+
 <iframe src="https://docs.google.com/forms/d/1OfDY1kYP0sMWVn_Tux7EMJJK2mmTNQo8o7kvbr3VLA0/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
