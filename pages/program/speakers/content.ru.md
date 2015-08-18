@@ -22,6 +22,12 @@ projects in the Python ecosystem including PyPy and py.tes.
 > Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov)  
 > Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.ru/)
 
+<a name="аpatrushev"></a>![аpatrushev](http://dropbucket.ru/pyconru/аpatrushev) Антон Патрушев, Бонн
+
+> Associate Information Systems Officer в [UNFCCC](http://newsroom.unfccc.int).
+>
+> Linkedin: [apatrushev](https://www.linkedin.com/in/apatrushev) 
+
 <a name="andrew_vlasovskix"></a>![andrew_vlasovskix](http://dropbucket.ru/pycon/vlasovskii) Андрей Власовских, Санкт-Петербург
 
 > Разработчик PyCharm и эмулятора Vim для сред программирования в JetBrains. Автор библиотеки funcparserlib для написания парсеров на Python в функциональном стиле. Организатор встреч по функциональному программированию. Участвует в разработке PEP 484: Type Hints.
