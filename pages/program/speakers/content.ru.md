@@ -95,4 +95,8 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Github: [@ktisha](https://github.com/ktisha)
 
+<a name="1603"></a>![1603](http://dropbucket.ru/id/1603) Павел Петлинский, Москва
+
+> Ведущий инженер-разработчик Python в Рамблер.
+
 <iframe src="https://docs.google.com/forms/d/1OfDY1kYP0sMWVn_Tux7EMJJK2mmTNQo8o7kvbr3VLA0/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
