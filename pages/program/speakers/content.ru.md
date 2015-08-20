@@ -37,7 +37,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 <a name="grigory-petrov"></a>![grigory-petrov](http://dropbucket.ru/petrov) Григорий Петров, Москва
 
-> Технический евангелист в [VoxImplant](http://voximplant.com). 
+> Технический евангелист в [VoxImplant](http://voximplant.com). Карьеру специалиста по созданию программ начал в конце 90-х: сначала как разработчик, затем как руководитель отдела разработки. Участвовал в создании таких программных продуктов как Radmin и Advanced IP Scanner, занимался продвижением интерактивного телевидения NPTV.
 
 <a name="iliya-beda"></a>![iliya-beda](http://dropbucket.ru/beda) Илья Беда, Красноярск
 
