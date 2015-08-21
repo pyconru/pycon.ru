@@ -2,17 +2,12 @@ sections:
 
 - name: "Информационные партнеры"
   sponsors:
-  - logo: http://dropbucket.ru/mjm
-    link: http://moscowdjango.ru
     
   - logo: http://dropbucket.ru/minsk
     link: https://www.facebook.com/MinskPythonMeetup?fref=ts
     
   - logo: http://dropbucket.ru/piterpy
     link: http://it-sobytie.ru/events_groups/15  
-    
-  - logo: http://dropbucket.ru/pvideo
-    link: http://pyvideo.ru
     
   - logo: http://dropbucket.ru/pythonsu
     link: http://python.su
@@ -25,4 +20,10 @@ sections:
     
   - logo: http://dropbucket.ru/dataart
     link: http://dataart.ru
+    
+  - logo: http://dropbucket.ru/mjm
+    link: http://moscowdjango.ru
+   
+  - logo: http://dropbucket.ru/pvideo
+    link: http://pyvideo.ru
   
