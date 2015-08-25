@@ -39,6 +39,12 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Технический евангелист в [VoxImplant](http://voximplant.com). Карьеру специалиста по созданию программ начал в конце 90-х: сначала как разработчик, затем как руководитель отдела разработки. Участвовал в создании таких программных продуктов как Radmin и Advanced IP Scanner, занимался продвижением интерактивного телевидения NPTV.
 
+<a name="koshelev"></a>![koshelev](http://dropbucket.ru/pyconru/koshelev) Александр Кошелев, Москва
+
+> Тимлид в Яндексе. Разрабатывал Яндекс.Афишу. Активный участник python-конференций.
+>
+> Linkedin: [daevaorn](http://www.linkedin.com/in/daevaorn) 
+
 <a name="iliya-beda"></a>![iliya-beda](http://dropbucket.ru/beda) Илья Беда, Красноярск
 
 > Разработчик web приложений с 7-летним стажем. Тимлидер [bro.agency](http://bro.agency).
