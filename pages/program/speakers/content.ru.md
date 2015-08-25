@@ -39,11 +39,38 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Технический евангелист в [VoxImplant](http://voximplant.com). Карьеру специалиста по созданию программ начал в конце 90-х: сначала как разработчик, затем как руководитель отдела разработки. Участвовал в создании таких программных продуктов как Radmin и Advanced IP Scanner, занимался продвижением интерактивного телевидения NPTV.
 
-<a name="koshelev"></a>![koshelev](http://dropbucket.ru/pyconru/koshelev) Александр Кошелев, Москва
+<a name="koshelev"></a>![koshelev](http://dropbucket.ru/koshelev) Александр Кошелев, Москва
 
 > Тимлид в Яндексе. Разрабатывал Яндекс.Афишу. Активный участник python-конференций.
 >
 > Linkedin: [daevaorn](http://www.linkedin.com/in/daevaorn) 
+
+<a name="soldatenko"></a>![soldatenko](http://dropbucket.ru/soldatenko) Андрей Солдатенко, Киев
+
+> Python Backend Developer в [Toptal](http://www.toptal.com/#connect-fantastic-computer-engineers) и QA Automation Lead в [Wargaming.NET](http://ru.wargaming.net). Докладчик множества Python-конференций. 
+>
+> Twitter: [@a_soldatenko](https://twitter.com/a_soldatenko)  
+> Blog: [asoldatenko.com](http://asoldatenko.com)
+
+<a name="sinitcin"></a>![sinitcin](http://dropbucket.ru/sinitcin) Валентин Синицын, Екатеринбург
+
+> Разработчик сервиса Яндекс.Такси и большой любитель разбираться, как устроены привычные инструменты «под капотом». Ведущий рубрики «Ключевая технология» (Core Technology) в журнале [«Linux Voice»](http://www.linuxvoice.com). Преподает в Уральском Федеральном Университете.
+
+<a name="matveenko"></a>![matveenko](http://dropbucket.ru/matveenko) Сергей Матвеенко, Санкт-Петербург
+
+> Senior Python Developer компании [DataArt](http://dataart.ru). Опыт в IТ-индустрии 16 лет. В качестве CTO и Team Lead выпустил более десятка продуктов. Разработчик, апологет свободного ПО. Организатор петербургского Python-сообщества.
+
+<a name="tuzova"></a>![tuzova](http://dropbucket.ru/tuzova) Екатерина Тузова, Санкт-Петербург
+
+> Разработчик PyCharm, лектор и куратор студенческих проектов в [CompSciCenter](https://compscicenter.ru) и в [Академическом Университете](http://mit.spbau.ru/).
+
+> Twitter: [@ktisha](https://twitter.com/ktisha)
+
+> Github: [@ktisha](https://github.com/ktisha)
+
+<a name="1603"></a>![1603](http://dropbucket.ru/id/1603) Павел Петлинский, Москва
+
+> Ведущий инженер-разработчик Python в Рамблер.
 
 <a name="iliya-beda"></a>![iliya-beda](http://dropbucket.ru/beda) Илья Беда, Красноярск
 
@@ -55,13 +82,6 @@ projects in the Python ecosystem including PyPy and py.tes.
 <a name="shvets"></a>![shvets](http://dropbucket.ru/shvets) Александр Швец, Москва
 
 > Компания Marilyn, директор по продукту.
-
-<a name="soldatenko"></a>![soldatenko](http://dropbucket.ru/soldatenko) Андрей Солдатенко, Киев
-
-> Python Backend Developer в [Toptal](http://www.toptal.com/#connect-fantastic-computer-engineers) и QA Automation Lead в [Wargaming.NET](http://ru.wargaming.net). Докладчик множества Python-конференций. 
->
-> Twitter: [@a_soldatenko](https://twitter.com/a_soldatenko)  
-> Blog: [asoldatenko.com](http://asoldatenko.com)
 
 <a name="malashkevish"></a>![malashkevish](http://dropbucket.ru/pyconru/malashkevich) Алексей Малашкевич, Санкт-Петербург
 
@@ -84,25 +104,5 @@ projects in the Python ecosystem including PyPy and py.tes.
 > Blog: [hackflow.com](http://hackflow.com/)
 
 > Github: [Suor](https://github.com/Suor)
-
-<a name="sinitcin"></a>![sinitcin](http://dropbucket.ru/sinitcin) Валентин Синицын, Екатеринбург
-
-> Разработчик сервиса Яндекс.Такси и большой любитель разбираться, как устроены привычные инструменты «под капотом». Ведущий рубрики «Ключевая технология» (Core Technology) в журнале [«Linux Voice»](http://www.linuxvoice.com). Преподает в Уральском Федеральном Университете.
-
-<a name="matveenko"></a>![matveenko](http://dropbucket.ru/matveenko) Сергей Матвеенко, Санкт-Петербург
-
-> Senior Python Developer компании [DataArt](http://dataart.ru). Опыт в IТ-индустрии 16 лет. В качестве CTO и Team Lead выпустил более десятка продуктов. Разработчик, апологет свободного ПО. Организатор петербургского Python-сообщества.
-
-<a name="tuzova"></a>![tuzova](http://dropbucket.ru/tuzova) Екатерина Тузова, Санкт-Петербург
-
-> Разработчик PyCharm, лектор и куратор студенческих проектов в [CompSciCenter](https://compscicenter.ru) и в [Академическом Университете](http://mit.spbau.ru/).
-
-> Twitter: [@ktisha](https://twitter.com/ktisha)
-
-> Github: [@ktisha](https://github.com/ktisha)
-
-<a name="1603"></a>![1603](http://dropbucket.ru/id/1603) Павел Петлинский, Москва
-
-> Ведущий инженер-разработчик Python в Рамблер.
 
 <iframe src="https://docs.google.com/forms/d/1OfDY1kYP0sMWVn_Tux7EMJJK2mmTNQo8o7kvbr3VLA0/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
