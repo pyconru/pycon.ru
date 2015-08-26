@@ -70,7 +70,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 <a name="petlinski"></a>![petlinski](http://dropbucket.ru/petlinski) Павел Петлинский, Москва
 
-> Ведущий инженер-разработчик Python в Рамблер.
+> Ведущий инженер-разработчик Python в Rambler&Co. Тимлид проекта Рамблер.Видео. Любит читать исходники, функциональное программирование, асинхронность, unix way и open source. Занимается разработкой высоконагруженных распределенных приложений. Программирует на Python более 10 лет.
 
 <a name="iliya-beda"></a>![iliya-beda](http://dropbucket.ru/beda) Илья Беда, Красноярск
 
