@@ -105,7 +105,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Github: [Suor](https://github.com/Suor)
 
-<a name="1603"></a>![1603](http://dropbucket.ru/id/1603) Дмитрий Вахрушев, Омск
+<a name="vahrushev"></a>![vahrushev](http://dropbucket.ru/vahrushev) Дмитрий Вахрушев, Омск
 
 > Веб-разработчик, питонист, линуксоид. Автор ряда опен-сорс проектов (https://bitbucket.org/kr41/) и [технического блога](http://www.kr41.net/).
 
