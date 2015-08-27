@@ -109,5 +109,10 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Веб-разработчик, питонист, линуксоид. Автор ряда опен-сорс проектов (https://bitbucket.org/kr41/) и [технического блога](http://www.kr41.net/).
 
+<a name="ignatov"></a>![ignatov](http://dropbucket.ru/ignatov) Константин Игнатов 
+
+> Выпускник МГТУ им. Баумана (Информатика и управление) и Высшей Школы Экономики (Бизнес-информатика)
+Программист в отделе исследований Qrator Labs.
+
 
 <iframe src="https://docs.google.com/forms/d/1OfDY1kYP0sMWVn_Tux7EMJJK2mmTNQo8o7kvbr3VLA0/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
