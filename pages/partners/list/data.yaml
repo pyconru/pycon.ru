@@ -1,5 +1,10 @@
 sections:
 
+- name: "Бронзовый спонсор"
+  sponsors:
+  - logo: http://dropbucket.ru/rambler
+    link: http://rambler-co.ru
+
 - name: "Информационные партнеры"
   sponsors:
     
