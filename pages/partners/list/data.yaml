@@ -1,5 +1,10 @@
 sections:
 
+- name: "Золотой спонсор"
+  sponsors:
+  - logo: http://dropbucket.ru/jetbrains
+    link: https://www.jetbrains.com
+    
 - name: "Серебряные спонсоры"
   sponsors:
   - logo: http://dropbucket.ru/naumen1
