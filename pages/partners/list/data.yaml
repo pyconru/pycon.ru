@@ -1,7 +1,10 @@
 sections:
 
-- name: "Бронзовый спонсор"
+- name: "Серебряные спонсоры"
   sponsors:
+  - logo: http://dropbucket.ru/pycon/naumen
+    link: http://www.naumen.ru/
+    
   - logo: http://dropbucket.ru/rambler
     link: http://rambler-co.ru
 
