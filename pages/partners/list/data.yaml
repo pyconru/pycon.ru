@@ -19,6 +19,9 @@ sections:
   - logo: http://dropbucket.ru/minsk
     link: https://www.facebook.com/MinskPythonMeetup?fref=ts
     
+  - logo: http://dropbucket.ru/mjm
+    link: http://moscowdjango.ru
+    
   - logo: http://dropbucket.ru/piterpy
     link: http://it-sobytie.ru/events_groups/15  
     
@@ -31,23 +34,20 @@ sections:
   - logo: http://dropbucket.ru/itsob2
     link: http://it-sobytie.ru
     
+  - logo: http://dropbucket.ru/python3
+    link: https://vk.com/python_3 
+    
+  - logo: http://dropbucket.ru/pworld
+    link: http://pythonworld.ru
+    
   - logo: http://dropbucket.ru/dataart
     link: http://dataart.ru
-    
-  - logo: http://dropbucket.ru/mjm
-    link: http://moscowdjango.ru
    
   - logo: http://dropbucket.ru/pvideo
     link: http://pyvideo.ru
     
   - logo: http://dropbucket.ru/ittalk
     link: http://it-talk.dataart.ru
-    
-  - logo: http://dropbucket.ru/python3
-    link: https://vk.com/python_3 
-    
-  - logo: http://dropbucket.ru/pworld
-    link: http://pythonworld.ru
     
   - logo: http://dropbucket.ru/itvdn
     link: http://itvdn.com/ru
