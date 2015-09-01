@@ -39,11 +39,10 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Технический евангелист в [VoxImplant](http://voximplant.com). Карьеру специалиста по созданию программ начал в конце 90-х: сначала как разработчик, затем как руководитель отдела разработки. Участвовал в создании таких программных продуктов как Radmin и Advanced IP Scanner, занимался продвижением интерактивного телевидения NPTV.
 
-<a name="koshelev"></a>![koshelev](http://dropbucket.ru/koshelev) Александр Кошелев, Москва
+<a name="borisov"></a>![borisov](http://dropbucket.ru/borisov) Кирилл Борисов, Москва
 
-> Тимлид в Яндексе. Разрабатывал Яндекс.Афишу. Активный участник python-конференций.
+> Закончил КГТУ им. А. Н. Туполева. Занимался разработкой АСУ, учётных систем различного назначения и проектированием инфраструктурных систем в компании «БАРС Груп». В 2014 году пришёл в Яндекс, где занимается разработкой систем авторизации.
 >
-> Linkedin: [daevaorn](http://www.linkedin.com/in/daevaorn) 
 
 <a name="soldatenko"></a>![soldatenko](http://dropbucket.ru/soldatenko) Андрей Солдатенко, Киев
 
