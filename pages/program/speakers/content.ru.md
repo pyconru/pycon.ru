@@ -46,7 +46,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 <a name="soldatenko"></a>![soldatenko](http://dropbucket.ru/soldatenko) Андрей Солдатенко, Киев
 
-> Python Backend Developer в [Toptal](http://www.toptal.com/#connect-fantastic-computer-engineers) и QA Automation Lead в [Wargaming.NET](http://ru.wargaming.net). Докладчик множества Python-конференций. 
+> Python Backend Developer и QA Automation Lead в [Wargaming.NET](http://ru.wargaming.net). Докладчик множества Python-конференций. 
 >
 > Twitter: [@a_soldatenko](https://twitter.com/a_soldatenko)  
 > Blog: [asoldatenko.com](http://asoldatenko.com)
