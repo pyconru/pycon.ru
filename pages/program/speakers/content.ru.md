@@ -113,5 +113,19 @@ projects in the Python ecosystem including PyPy and py.tes.
 > Выпускник МГТУ им. Баумана (Информатика и управление) и Высшей Школы Экономики (Бизнес-информатика).
 Программист в отделе исследований Qrator Labs.
 
+<a name="glibin"></a>![glibin](http://dropbucket.ru/glibin) Виталий Глибин, Москва
+
+> Являюсь сооснователем сервиса для ведения вакансий Huntflow (https://huntflow.ru), а также руководителем frontend разработки в Программе ГлавБух (https://1pgb.ru). До этого работал тимлидом в HeadHunter (https://hh.ru).
+Выступал на PyCon 2014 с докладом про SOA и микрофреймворк tortik.  
+>
+> Twitter: [@glibin](https://twitter.com/glibin) 
+
+> Github: [glibin](https://github.com/glibin) Github: https://github.com/glibin
+
+<a name="savin"></a>![savin](http://dropbucket.ru/savin) Иван Савин, Москва
+
+> IPONWEB, Python Developer at Technology depaptment.
+>
+> Linkedin: [ololosha](https://ru.linkedin.com/in/ololosha)
 
 <iframe src="https://docs.google.com/forms/d/1OfDY1kYP0sMWVn_Tux7EMJJK2mmTNQo8o7kvbr3VLA0/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
