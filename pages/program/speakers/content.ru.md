@@ -123,7 +123,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 <a name="savin"></a>![savin](http://dropbucket.ru/savin) Иван Савин, Москва
 
-> IPONWEB, Python Developer at Technology depaptment.
+> Разработчик в IPONWEB. Также преподаю в НИУ ВШЭ в Департаменте Компьютерной Инженерии и на Факультете Компьютерных Наук.
 >
 > Linkedin: [ololosha](https://ru.linkedin.com/in/ololosha)
 
