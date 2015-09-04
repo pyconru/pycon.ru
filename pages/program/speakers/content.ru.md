@@ -115,12 +115,11 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 <a name="glibin"></a>![glibin](http://dropbucket.ru/glibin) Виталий Глибин, Москва
 
-> Являюсь сооснователем сервиса для ведения вакансий Huntflow (https://huntflow.ru), а также руководителем frontend разработки в Программе ГлавБух (https://1pgb.ru). До этого работал тимлидом в HeadHunter (https://hh.ru).
-Выступал на PyCon 2014 с докладом про SOA и микрофреймворк tortik.  
+> Являюсь сооснователем сервиса для ведения вакансий [Huntflow](https://huntflow.ru), а также руководителем frontend разработки в Программе [ГлавБух](https://1pgb.ru). До этого работал тимлидом в [HeadHunter](https://hh.ru).
 >
 > Twitter: [@glibin](https://twitter.com/glibin) 
 
-> Github: [glibin](https://github.com/glibin) Github: https://github.com/glibin
+> Github: [glibin](https://github.com/glibin) 
 
 <a name="savin"></a>![savin](http://dropbucket.ru/savin) Иван Савин, Москва
 
