@@ -6,7 +6,7 @@ day1:
   b1: 
     - speaker: "Gael Varoquaux"
       talk: "Building a cutting-edge data processing environment on a budget"
-      slug: "building-a-cutting-edge-data-processing-environment-on-a-budget"
+      slug: "gael"
       time: "10:00"
 
     - break: "Перерыв"
@@ -14,7 +14,7 @@ day1:
 
     - speaker: "Benjamin Peterson"
       talk: "Python Packaging Progress"
-      slug: "python-packaging-progress"
+      slug: "progress"
       time: "11:15"
       
     - break: "Перерыв"
@@ -22,7 +22,7 @@ day1:
 
     - speaker: "Андрей Светлов"
       talk: "Aiohttp"
-      slug: "aiohttp"
+      slug: "svetlov"
       time: "12:30"
 
   b2:
@@ -32,18 +32,18 @@ day1:
   b3a:
     - speaker: "Григорий Петров, VoxImplant"
       talk: "50 оттенков кеширования: обзор актуальных батареек"
-      slug: "voxImplant"
+      slug: "petrov"
       time: "14:30"
       
     - speaker: "Иван Савин, IPONWEB"
       talk: "Как сделать логирование приятным в быстро развивающемся проекте"
-      slug: "IPONWEB"
+      slug: "savin"
       time: "15:30"
   
   b3b:
     - speaker: "Михаил Коробов"
       talk: "Мастер-класс"
-      slug: "workshop"
+      # slug: "workshop"  # TODO
       time: "14:30"
   
   b4:
@@ -53,23 +53,23 @@ day1:
   b5a:
     - speaker: "Андрей Власовских, PyCharm"
       talk: "Чем аннотации типов могут быть полезны для вас"
-      slug: "pyCharm"
+      slug: "vlasovskich"
       time: "16:30"
       
     - speaker: "Александр Щепановский, funcy"
       talk: "Никогда больше так не делай"
-      slug: "funcy"
+      slug: "Shchepanovskiy"
       time: "17:15"
       
   b5b:
     - speaker: "Илья Беда, bro.agency"
       talk: "View как чистая функция от состояния базы данных"
-      slug: "bro.agency"
+      slug: "beda"
       time: "16:30"
       
     - speaker: "Константин Игнатов, Qrator Labs"
       talk: "Превращаем свалку проектов в экосистему при помощи setuptools"
-      slug: "qrator Labs"
+      slug: "ignatov"
       time: "17:15"
 
   b6:
@@ -98,28 +98,28 @@ day2:
   b1a: 
     - speaker: "Павел Петлинский, Rambler&Co"
       talk: "Making of external DSL for Django ORM"
-      slug: "DSL"
+      slug: "rambler"
       time: "11:00"
       
     - speaker: "Александр Швец, Marilyn"
       talk: "Секреты здорового питания: полезные рецепты с Celery"
-      slug: "сelery"
+      slug: "celery"
       time: "11:30"
       
     - speaker: "Екатерина Тузова, PyCharm"
       talk: "Numpy: Векторизация"
-      slug: "numpy"
+      slug: "tuzova"
       time: "12:00"
   
   b1b: 
     - speaker: "Андрей Власовских, PyCharm"
       talk: "Мастер-класс"
-      slug: "workshop"
+      # slug: "workshop" # TODO
       time: "11:00"
      
     - speaker: "Дмитрий Вахрушев"
       talk: "Архитектура RESTful API на Pyramid — приемы проектирования"
-      slug: "pyramid"
+      slug: "vahrushev"
       time: "12:00"
   
   b2:
@@ -129,23 +129,23 @@ day2:
   b3a:
     - speaker: "Валентин Синицын, Яндекс"
       talk: "Python: управление памятью"
-      slug: "python-управление-памятью"
+      slug: "sinicin"
       time: "13:45"
       
     - speaker: "Антон Патрушев, UNFCCC"
       talk: "Оптимизация на грани и за ней"
-      slug: "оптимизация-на-грани-и-за-ней"
+      slug: "patrushev"
       time: "14:30" 
       
   b3b:
     - speaker: "Алексей Малашкевич, Александр Козловский, Pony ORM"
       talk: "Разработка одностраничных веб-приложений с использованием PonyORM и ReactJS"
-      slug: "PonyORM"
+      slug: "pony"
       time: "13:45"
       
     - speaker: "Андрей Солдатенко, Wargaming.NET"
       talk: "Погружение в полнотекстовый поиск, используя Python"
-      slug: "погружение-в-полнотекстовый-поиск"
+      slug: "soldatenko"
       time: "14:30" 
 
   b4:
@@ -155,24 +155,24 @@ day2:
   b5a:
     - speaker: "Александр Сибиряков, Scrapinghub"
       talk: "Frontera: распределенный робот для обхода интернета в больших объемах"
-      slug: "frontera"
+      slug: "sibiryakov"
       time: "15:45"
       
     - speaker: "Кирилл Борисов, Яндекс"
       talk: "Автоматизированные рефакторинги: AST, FST и все-все-все"
-      slug: "AST"
+      slug: "borisov"
       time: "16:30" 
       
 
   b5b:
     - speaker: "Сергей Матвеенко, DataArt"
       talk: "Вещи на Python"
-      slug: "вещи-на-Python"
+      slug: "matveenko"
       time: "15:45"
       
     - speaker: "Виталий Глибин, Huntflow"
       talk: "Изоморфные приложения и Python"
-      slug: "изоморфные-приложения-и-Python"
+      slug: "glibin"
       time: "16:30" 
 
   b6:
