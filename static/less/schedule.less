@@ -1,6 +1,6 @@
 #schedule {
   padding: 40px;
-  
+
   .block {
     padding: 3px 10px;
     margin: 0 0 10px 0;
@@ -59,7 +59,7 @@
   @yellow: #FBFFC7;
   @pink: #FADCFF;
   @green: #D3FFC7;
-  
+
   @media @mobile {
     h4 {
       display: none;
@@ -105,12 +105,13 @@
           float: left;
         }
         &3b {
-          float: right;
-        }
-        &3a {
+          background: @green;
           position: absolute;
           top: 0;
           bottom: 0;
+        }
+        &3a {
+        float: left;
         }
         &3a, &5a {
           margin-right: 20px;
@@ -129,7 +130,6 @@
         }
         &9a {
           float: left;
-          /*width: 380px;*/
         }
         &9b, &9c {
           float: right;
@@ -157,24 +157,40 @@
       }
 
       .b {
-        &1a, &2, &3, &1b, &2b {
+        &1a, &1b, &3a, &5b {
           width: 380px;
           float: left;
         }
         &1b, &5b {
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          left: 420px;
+        }
+        &1b {
           background: @green;
+        }
+        &5b {
+          background: @peach;
+        }
+        &1, &2 {
+          clear: left;
+        }
+        &1a {
+          background: @peach;
+        }
+        &3a, &3b {
+          background: @peach;
+          width: 380px;
+          display: inline-block;
+        }
+        &3a {
           position: absolute;
           top: 0;
           bottom: 0;
         }
-        &1b, &5b {
-          left: 420px;
-        }
-        &1, &2, &3 {
-          clear: left;
-        }
-        &1a, &3 {
-          background: @peach;
+        &3b {
+          float: right;
         }
         &1a, &1b {
           margin-right: 20px;
@@ -183,7 +199,7 @@
           clear: both;
         }
         &5a {
-          background: @blue;
+          background: @peach;
           width: 380px;
         }
         &7 {
