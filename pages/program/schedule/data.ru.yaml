@@ -40,7 +40,7 @@ day1:
       slug: "IPONWEB"
       time: "15:30"
   
-   b3b:
+  b3b:
     - speaker: "Михаил Коробов"
       talk: "Мастер-класс"
       slug: "workshop"
