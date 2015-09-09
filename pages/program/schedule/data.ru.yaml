@@ -111,7 +111,7 @@ day2:
       slug: "numpy"
       time: "12:00"
   
- b1b: 
+  b1b: 
     - speaker: "Андрей Власовских, PyCharm"
       talk: "Мастер-класс"
       slug: "workshop"
