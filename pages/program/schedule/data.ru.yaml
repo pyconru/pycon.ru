@@ -51,7 +51,7 @@ day1:
       time: "16:00"
 
   b5a:
-    - speaker: "Андрей Власовских, PyCharm"
+    - speaker: "Андрей Власовских, JetBrains"
       talk: "Чем аннотации типов могут быть полезны для вас"
       slug: "vlasovskich"
       time: "16:30"
@@ -106,13 +106,13 @@ day2:
       slug: "celery"
       time: "11:30"
       
-    - speaker: "Екатерина Тузова, PyCharm"
+    - speaker: "Екатерина Тузова, JetBrains"
       talk: "Numpy: Векторизация"
       slug: "tuzova"
       time: "12:00"
   
   b1b: 
-    - speaker: "Андрей Власовских, PyCharm"
+    - speaker: "Андрей Власовских, JetBrains"
       talk: "Мастер-класс по PyCharm"
       # slug: "workshop" # TODO
       time: "11:00"
