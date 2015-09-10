@@ -95,7 +95,7 @@ day1:
 
 
 day2:
-  b1a: 
+  b1a1:
     - speaker: "Павел Петлинский, Rambler&Co"
       talk: "Making of external DSL for Django ORM"
       slug: "rambler"
@@ -106,22 +106,24 @@ day2:
       slug: "celery"
       time: "11:30"
       
-    - speaker: "Екатерина Тузова, JetBrains"
-      talk: "Numpy: Векторизация"
-      slug: "tuzova"
-      time: "12:00"
-  
-  b1b: 
+  b1b1:
     - speaker: "Андрей Власовских, JetBrains"
       talk: "Мастер-класс по PyCharm"
       # slug: "workshop" # TODO
       time: "11:00"
-     
+
+  b1a2:
+    - speaker: "Екатерина Тузова, JetBrains"
+      talk: "Numpy: Векторизация"
+      slug: "tuzova"
+      time: "12:00"
+
+  b1b2:
     - speaker: "Дмитрий Вахрушев"
       talk: "Архитектура RESTful API на Pyramid — приемы проектирования"
       slug: "vahrushev"
       time: "12:00"
-  
+
   b2:
     - break: "Обед"
       time: "12:45"
