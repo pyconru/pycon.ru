@@ -4,7 +4,7 @@
 
 ![imankulov](http://dropbucket.ru/pyconru/imankulov) [Роман Иманкулов](http://www.linkedin.com/pub/roman-imankulov/44/761/910)<br>разработчик Doist Inc
 
-![korobov](http://dropbucket.ru/pyconru/korobov) [Михаил Коробов](http://kmike.ru/)<br>Python-разработчик, спикер различных Python-конференций
+![korobov](http://dropbucket.ru/pyconru/korobov) [Михаил Коробов](http://kmike.ru/)<br>Python-разработчик в ScrapingHub, спикер различных Python-конференций
 
 ![svetlov](http://dropbucket.ru/pyconru/svetlov) [Андрей Светлов](http://www.linkedin.com/pub/andrew-svetlov/59/b1/586)<br>Python Core Developer, инженер в DataRobot, организатор Pycamp/Pycon Ukraine
 
