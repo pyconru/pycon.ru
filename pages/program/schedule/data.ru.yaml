@@ -42,7 +42,7 @@ day1:
 
   b3b:
     - speaker: "Михаил Коробов"
-      talk: "Мастер-класс"
+      talk: "Мастер-класс «Инструменты по работе с текстом в Python»"
       # slug: "workshop"  # TODO
       time: "14:30"
 
@@ -113,7 +113,7 @@ day2:
   
   b1b: 
     - speaker: "Андрей Власовских, PyCharm"
-      talk: "Мастер-класс"
+      talk: "Мастер-класс по PyCharm"
       # slug: "workshop" # TODO
       time: "11:00"
      
