@@ -56,9 +56,9 @@ day1:
       slug: "vlasovskich"
       time: "16:30"
       
-    - speaker: "Александр Щепановский, funcy"
-      talk: "Никогда больше так не делай"
-      slug: "Shchepanovskiy"
+   - speaker: "Валентин Синицын, Яндекс"
+      talk: "Python: управление памятью"
+      slug: "sinicin" 
       time: "17:15"
       
   b5b:
@@ -129,9 +129,9 @@ day2:
       time: "12:45"
 
   b3a:
-    - speaker: "Валентин Синицын, Яндекс"
-      talk: "Python: управление памятью"
-      slug: "sinicin"
+    - speaker: "Александр Щепановский, funcy"
+      talk: "Никогда больше так не делай"
+      slug: "Shchepanovskiy"
       time: "13:45"
       
     - speaker: "Антон Патрушев, UNFCCC"
