@@ -56,7 +56,7 @@ day1:
       slug: "vlasovskich"
       time: "16:30"
       
-   - speaker: "Валентин Синицын, Яндекс"
+    - speaker: "Валентин Синицын, Яндекс"
       talk: "Python: управление памятью"
       slug: "sinicin" 
       time: "17:15"
