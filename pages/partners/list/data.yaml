@@ -1,5 +1,10 @@
 sections:
 
+- name: "Генеральный партнер"
+  sponsors:
+  - logo: http://dropbucket.ru/wargaming1
+    link: http://ru.wargaming.net
+    
 - name: "Золотой спонсор"
   sponsors:
   - logo: http://dropbucket.ru/jetbrains
