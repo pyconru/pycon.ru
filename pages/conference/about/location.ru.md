@@ -1,4 +1,4 @@
 ### Место проведения
 
-PyCon Russia 2015 пройдёт 18&ndash;19 сентября в [загородном учебном центре Иволга](http://www.ivolga-ural.ru/), 30 км от Екатеринбурга.
+PyCon Russia 2016 пройдёт 3&ndash;4 июля в [парк-отеле «Cronwell Park Яхонты Таруса»](http://yahontytarusa.ru), 85 км от Москвы.
 
