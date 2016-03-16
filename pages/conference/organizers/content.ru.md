@@ -13,7 +13,7 @@
 ![vlasovskii](http://dropbucket.ru/vlasovskii) [Андрей Власовских](http://pirx.ru)<br> Разработчик IDE PyCharm в JetBrains
 
 # Организационный комитет
-![gerasimovich](http://dropbucket.ru/pycon/gerasimovich) [Юлия Герасимович](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266)<br>директор компании [IT-People.ru](http://it-people.ru/)
+![gerasimovich](http://dropbucket.ru/gerasimovich1) [Юлия Герасимович](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266)<br>директор компании [IT-People.ru](http://it-people.ru/)
 
 ![voronina](http://dropbucket.ru/pycon/voronina) Елена Воронина
 
