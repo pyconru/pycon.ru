@@ -23,6 +23,6 @@
 
 ![suleymanova](http://dropbucket.ru/suleymanova) Евгения Сулейманова
 
-![ronaher](http://dropbucket.ru/ronaher1) Мария Ронахер
+![ronaher](http://dropbucket.ru/ronaher2) Мария Ронахер
 
 
