@@ -132,3 +132,6 @@ msgstr "Итоги"
 
 msgid "July"
 msgstr "Июль"
+
+msgid "PyCon Russia moves to Moscow!"
+msgstr "PyCon Russia переезжает в Москву!"
