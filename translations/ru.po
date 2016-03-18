@@ -129,3 +129,6 @@ msgstr "Видео и презентация"
 
 msgid "Summary"
 msgstr "Итоги"
+
+msgid "July"
+msgstr "Июль"
