@@ -1,4 +1,4 @@
-<a name="Raymond-Hettinger"></a>![hettinger1](http://dropbucket.ru/hettinger1)Raymond Hettinger, США
+<a name="Raymond-Hettinger"></a>![hettinger1](http://dropbucket.ru/hettinger1)Raymond Hettinger, Санта-Клара, Калифорния
 
 Python core developer с 2001 года, автор и мэйнтейнер многих частей языка. Он руководит компнией, которая проводит обучение Python, выпустившей более 5000  программистов на python по всему миру.
 
