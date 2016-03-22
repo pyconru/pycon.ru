@@ -8,6 +8,6 @@
 - Lunch and dinner 3 July, breakfast and lunch 4 July   
 - All coffee breaks  
 - Entertainment 3 July
-- Bus from the city to the venue and back. 3 and 4 July [[more](http://pycon.ru/participation/venue/)]
+- Bus from the city to the venue and back. 
 
-[REGISTRATION -->](http://pycon.ru/register/)
+[REGISTRATION -->](http://pycon.ru/2016/register/)
