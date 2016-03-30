@@ -31,3 +31,4 @@ Developer IDE PyCharm, JetBrains
 
 ![suleymanova](http://dropbucket.ru/suleymanova) Evgenia Suleymanova 
 
+![ronaher](http://dropbucket.ru/ronaher2) Maria Ronacher
