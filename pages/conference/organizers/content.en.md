@@ -1,27 +1,24 @@
 ##Program Committee
 
-![shtan](http://dropbucket.ru/pycon/shtan) - Danila Shtan, CTO at E96.ru
+![shtan](http://dropbucket.ru/pycon/shtan) Danila Shtan, project manager at Scrapinghub
 
 
-![imankulov](http://dropbucket.ru/pyconru/imankulov) - Roman Imankulov, Software developer at Doist Inc
+![imankulov](http://dropbucket.ru/pyconru/imankulov) Roman Imankulov, software developer at Doist Inc
 
 
-![korobov](http://dropbucket.ru/pyconru/korobov) - Mikhail Korobov, Python developer, spokesperson on several Python events
+![korobov](http://dropbucket.ru/pyconru/korobov) Mikhail Korobov, Python developer at Scrapinghub, speaker
 
 
-![svetlov](http://dropbucket.ru/pyconru/svetlov) - Andrew Svetlov, Python, Insollo Entertainment, Pycamp/Pycon Ukraine organization committee
+![svetlov](http://dropbucket.ru/pyconru/svetlov) Andrew Svetlov, Python Core Developer, engineer at DataRobot, organizer of Pycamp/Pycon Ukraine
 
-![ovchinnikov](http://dropbucket.ru/ovchinnikov) Dmitry Ovchinnikov 
-Senior Software Engineer, Wargaming.net 
+![ovchinnikov](http://dropbucket.ru/ovchinnikov) Dmitry Ovchinnikov, senior software engineer at Wargaming.net 
 
-![vlasovskii](http://dropbucket.ru/vlasovskii) [Andrew Vlasovskih](http://pirx.ru)
-Developer IDE PyCharm, JetBrains
+![vlasovskii](http://dropbucket.ru/vlasovskii) [Andrew Vlasovskih](http://pirx.ru), developer of IDE PyCharm, JetBrains
 
 
 ##Organization team
 
-![gerasimovich](http://dropbucket.ru/pycon/gerasimovich)  [ Yulia Gerasimovich](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266), - [IT-People.ru](http://it-people.ru/), company head. The organizer of a large number of conferences and educational activities in the sphere of IT.
-
+![gerasimovich](http://dropbucket.ru/pycon/gerasimovich)  [Yulia Gerasimovich](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266), CEO of [IT-People.ru](http://it-people.ru/), organizer of a large number of IT conferences and educational activities
 
 ![voronina](http://dropbucket.ru/pycon/voronina) Elena Voronina
 
