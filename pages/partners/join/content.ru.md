@@ -56,7 +56,7 @@
 
 ![silver-foto](http://dropbucket.ru/silver-foto)
 
-<h4 id="bronze"> 4. Бронзовый партнёр</h4>
+<h4 id="bronze"> Бронзовый партнёр</h4>
 <b>Спонсорский взнос:</b> 30,000 руб.	
 
 <b>Состав пакета:</b>
