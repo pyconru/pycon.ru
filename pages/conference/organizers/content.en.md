@@ -29,3 +29,5 @@
 ![suleymanova](http://dropbucket.ru/suleymanova) Evgenia Suleymanova 
 
 ![ronaher](http://dropbucket.ru/ronaher2) Maria Ronacher
+
+![pervuhina](http://dropbucket.ru/pervuhina) Maria Pervuhina
