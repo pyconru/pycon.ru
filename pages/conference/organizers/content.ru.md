@@ -1,6 +1,6 @@
 
 # Программный комитет
-![shtan](http://dropbucket.ru/pycon/shtan) [Данила Штань](http://ru.linkedin.com/pub/danila-shtan/38/57/842)<br>руководитель отдела разработки E96.ru
+![shtan](http://dropbucket.ru/pycon/shtan) [Данила Штань](http://ru.linkedin.com/pub/danila-shtan/38/57/842)<br>ScrapingHub
 
 ![imankulov](http://dropbucket.ru/pyconru/imankulov) [Роман Иманкулов](http://www.linkedin.com/pub/roman-imankulov/44/761/910)<br>разработчик Doist Inc
 
