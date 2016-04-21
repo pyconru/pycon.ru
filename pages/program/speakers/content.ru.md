@@ -14,7 +14,7 @@ all, enumerate, reversed, zip и sorted.
 > Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov)  
 > Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.ru/)
 
-<a name="andrew-sumin"></a>![sumin](http://dropbucket.ru/sumin) Андрей Сумин, Москва
+<a name="andrew-sumin"></a>![sumin](http://dropbucket.ru/sumin1) Андрей Сумин, Москва
 
 > Тимлид команды Продукты в HeadHunter, до этого — разработчик команды SRE там же. Мейнтейнер Питон-инфраструктуры hh.ru.
 > Linkedin: [andreysumin](https://www.linkedin.com/in/andreysumin)  
