@@ -6,4 +6,11 @@
 >
 > Twitter: [@raymondh](https://twitter.com/raymondh) 
 
+<a name="andrew-svetlov"></a>![andrew-svetlov](http://dropbucket.ru/pyconru/svetlov) Andrew Svetlov, Kiev
+
+> Python Core Developer, engineer at [DataRobot](http://www.datarobot.com), organizer of Pycamp/Pycon.
+>
+> Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov)  
+> Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.ru/)
+
 <iframe src="https://docs.google.com/forms/d/1tQQu9koSzhJvMu5OVSk7LKagw0-Z6NVlwNicgA68vZQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
