@@ -1,5 +1,11 @@
 sections:
 
+- name: "При поддержке"
+  sponsors:
+    
+  - logo: http://dropbucket.ru/psf
+    link: https://www.python.org/psf-landing/
+
 - name: "Информационные партнеры"
   sponsors:
     
