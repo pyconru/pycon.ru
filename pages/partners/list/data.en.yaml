@@ -1,0 +1,19 @@
+sections:
+
+- name: "Supported by"
+  sponsors:
+    
+  - logo: http://dropbucket.ru/psf
+    link: https://www.python.org/psf-landing/
+
+- name: "Partners"
+  sponsors:
+    
+  - logo: http://dropbucket.ru/minsk
+    link: https://www.facebook.com/MinskPythonMeetup?fref=ts
+    
+  - logo: http://dropbucket.ru/11
+    link: http://it-sobytie.ru/events_groups/15  
+    
+  - logo: http://dropbucket.ru/mp
+    link: http://www.moscowpython.ru
