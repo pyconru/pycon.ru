@@ -25,4 +25,6 @@
 
 ![ronaher](http://dropbucket.ru/ronaher2) Мария Ронахер
 
+![pervuhina](http://dropbucket.ru/pervuhina) Мария Первухина
+
 
