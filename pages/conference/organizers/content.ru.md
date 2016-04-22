@@ -1,5 +1,5 @@
 
-# Программный комитет
+##Программный комитет
 ![shtan](http://dropbucket.ru/pycon/shtan) [Данила Штань](http://ru.linkedin.com/pub/danila-shtan/38/57/842)<br>менеджер проектов в ScrapingHub
 
 ![imankulov](http://dropbucket.ru/pyconru/imankulov) [Роман Иманкулов](http://www.linkedin.com/pub/roman-imankulov/44/761/910)<br>разработчик Doist Inc
@@ -11,7 +11,7 @@
 ![vlasovskii](http://dropbucket.ru/vlasovskii) [Андрей Власовских](http://pirx.ru)<br> Разработчик IDE PyCharm в JetBrains
 
 
-# Организационный комитет
+##Организационный комитет
 ![gerasimovich](http://dropbucket.ru/gerasimovich1) [Юлия Герасимович](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266)<br>директор компании [IT-People.ru](http://it-people.ru/)
 
 ![voronina](http://dropbucket.ru/pycon/voronina) Елена Воронина
