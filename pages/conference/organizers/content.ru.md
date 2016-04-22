@@ -8,7 +8,7 @@
 
 ![svetlov](http://dropbucket.ru/pyconru/svetlov) [Андрей Светлов](http://www.linkedin.com/pub/andrew-svetlov/59/b1/586)<br>Python Core Developer, инженер в DataRobot, организатор Pycamp/Pycon Ukraine
 
-![vlasovskii](http://dropbucket.ru/vlasovskii) [Андрей Власовских](http://pirx.ru)<br> Разработчик IDE PyCharm в JetBrains
+![vlasovskii](http://dropbucket.ru/vlasovskii) [Андрей Власовских](http://pirx.ru)<br> разработчик IDE PyCharm в JetBrains
 
 
 ##Организационный комитет
