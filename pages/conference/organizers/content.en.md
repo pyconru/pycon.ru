@@ -11,8 +11,6 @@
 
 ![svetlov](http://dropbucket.ru/pyconru/svetlov) Andrew Svetlov, Python Core Developer, engineer at DataRobot, organizer of Pycamp/Pycon Ukraine
 
-![ovchinnikov](http://dropbucket.ru/ovchinnikov) Dmitry Ovchinnikov, senior software engineer at Wargaming.net 
-
 ![vlasovskii](http://dropbucket.ru/vlasovskii) [Andrew Vlasovskih](http://pirx.ru), developer of IDE PyCharm, JetBrains
 
 
