@@ -12,11 +12,17 @@ sections:
   - logo: http://dropbucket.ru/minsk
     link: https://www.facebook.com/MinskPythonMeetup?fref=ts
     
-  - logo: http://dropbucket.ru/id/1948
-    link: http://it-sobytie.ru/events_groups/15  
+  - logo: http://dropbucket.ru/pd
+    link: https://pythondigest.ru
+    
+  - logo: http://dropbucket.ru/nsk
+    link: https://vk.com/pynsk
     
   - logo: http://dropbucket.ru/mp1
     link: http://www.moscowpython.ru
     
   - logo: http://dropbucket.ru/it-eburg
     link: http://it-eburg.com
+    
+  - logo: http://dropbucket.ru/piter-py
+    link: http://it-sobytie.ru/events_groups/15 
