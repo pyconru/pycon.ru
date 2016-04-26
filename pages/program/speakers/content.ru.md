@@ -1,4 +1,4 @@
-<a name="Raymond-Hettinger"></a>![hettinger1](http://dropbucket.ru/hettinger1)Raymond Hettinger, Санта-Клара, Калифорния
+<a name="Raymond-Hettinger"></a>![hettinger1](http://dropbucket.ru/hettinger1)Raymond Hettinger, Санта-Клара, США
 
 > Raymond Hettinger has been a Python core developer since 2001 and is the author or maintainer of many parts of the language. He runs a Python training company that has trained over 5,000 Python programmers worldwide.
 
