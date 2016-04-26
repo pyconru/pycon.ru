@@ -1,6 +1,6 @@
 <b>Price PyCon Russia 2016:</b>
 
-* the first 50 tickets: 13 500 rub.
+* 15 000 rub.
 
 <b>Included with your ticket:</b>
 
