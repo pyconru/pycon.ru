@@ -1,11 +1,14 @@
 <a name="Raymond-Hettinger"></a>![hettinger1](http://dropbucket.ru/hettinger1)Raymond Hettinger, Санта-Клара, Калифорния
 
-> Python core developer с 2001 года, автор и мэйнтейнер многих частей языка. Руководит компанией, обучающей языку Python и  выпустившей более 5000  программистов на python по всему миру.
+> Raymond Hettinger has been a Python core developer since 2001 and is the author or maintainer of many parts of the language. He runs a Python training company that has trained over 5,000 Python programmers worldwide.
 
-> В прошлом году Python Software Foundation наградила его Python Distinguished Service Award за исключительный вклад в развитеие Python сообщества. Его вклад включает в себя generator expressions, локальную оптимизацию, коллекции и модуль itertools, LRU кэширование и некоторые встроенные функции, которые мы используем каждый день, например, any,
-all, enumerate, reversed, zip и sorted.
+> Last year, the Python Software Foundation honored him with the Python Distinguished Service Award for exemplary contribution to the Python community. His contributions to the language include generator expressions, the peephole optimizer, the collections and itertools modules, the LRU cache, and a number of everyday builtins such as any, all, enumerate, reversed, zip, and sorted.
 >
 > Twitter: [@raymondh](https://twitter.com/raymondh) 
+
+<a name="David-maclver"></a>![maclver](http://dropbucket.ru/maclver)David Maclver, 
+
+> David is the primary author of Hypothesis, a property-based testing library for Python whose stated mission is "to drag the world kicking and screaming into a new and terrifying age of high quality software". It’s a work in progress. Prior to tilting at windmills, he worked at Google and a series of London startups as a back end data engineer and was often accused of not writing enough tests.
 
 <a name="andrew-svetlov"></a>![andrew-svetlov](http://dropbucket.ru/pyconru/svetlov) Андрей Светлов, Киев
 
