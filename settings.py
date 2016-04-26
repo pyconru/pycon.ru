@@ -35,5 +35,6 @@ ORDERING = {
     'participation': ['price', 'venue', 'hotels'],
     'partners': ['list', 'join'],
     'program': ['speakers', 'content', 'schedule'],
+    'archive': ['2013', '2014', '2015'],
     'program/content': [],
 }
