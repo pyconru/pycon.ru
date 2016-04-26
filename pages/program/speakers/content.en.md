@@ -10,6 +10,12 @@
 
 > David is the primary author of Hypothesis, a property-based testing library for Python whose stated mission is "to drag the world kicking and screaming into a new and terrifying age of high quality software". It’s a work in progress. Prior to tilting at windmills, he worked at Google and a series of London startups as a back end data engineer and was often accused of not writing enough tests.
 
+<a name="alexander-sibiryakov"></a>![alexander-sibiryakov](http://dropbucket.ru/sibiryakov) Alexander Sibiryakov, Prague, Czech Republic
+
+> Python Developer at [Scrapinghub](http://scrapinghub.com).
+>
+> Blog: [sibiryakov.eu](http://sibiryakov.eu)
+
 <a name="andrew-svetlov"></a>![andrew-svetlov](http://dropbucket.ru/pyconru/svetlov) Andrew Svetlov, Kiev
 
 > Python Core Developer, engineer at [DataRobot](http://www.datarobot.com), organizer of Pycamp/Pycon.
