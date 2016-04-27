@@ -10,6 +10,15 @@
 
 > David is the primary author of Hypothesis, a property-based testing library for Python whose stated mission is "to drag the world kicking and screaming into a new and terrifying age of high quality software". It’s a work in progress. Prior to tilting at windmills, he worked at Google and a series of London startups as a back end data engineer and was often accused of not writing enough tests.
 
+<a name="Ronacher"></a>![Ronacher](https://img-fotki.yandex.ru/get/30894/121639917.db/0_14ab60_949a4635_orig) Armin Ronacher, Vienna, Austria
+
+> Armin Ronacher is the original creator of the [Flask framework](http://flask.pocoo.org/), the Pallets project and many other Open Source libraries.
+He's currently located in Austria and working as a partner for Sentry and as an advisor for Fireteam.
+>
+> Twitter: [@mitsuhiko](https://twitter.com/mitsuhiko)  
+> Github: [mitsuhiko](https://github.com/mitsuhiko)  
+> Blog: [lucumr.pocoo.org](http://lucumr.pocoo.org/)
+
 <a name="alexander-sibiryakov"></a>![alexander-sibiryakov](http://dropbucket.ru/sibiryakov) Alexander Sibiryakov, Prague, Czech Republic
 
 > Python Developer at [Scrapinghub](http://scrapinghub.com).
