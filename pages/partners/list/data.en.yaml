@@ -18,7 +18,7 @@ sections:
   - logo: http://dropbucket.ru/nsk
     link: https://vk.com/pynsk
     
- - logo: http://dropbucket.ru/pythongr
+  - logo: http://dropbucket.ru/pythongr
     link: https://vk.com/python_programing
     
   - logo: http://dropbucket.ru/devzen
@@ -41,3 +41,4 @@ sections:
     
   - logo: http://dropbucket.ru/pworld
     link: http://pythonworld.ru
+    
