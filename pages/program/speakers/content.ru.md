@@ -12,7 +12,7 @@
 >
 > Github: [DRMacIver](https://github.com/DRMacIver)
 
-<a name="Ronacher"></a>![Ronacher](https://img-fotki.yandex.ru/get/56406/121639917.db/0_14ab5f_77b63a22_orig) Armin Ronacher, Вена, Австрия
+<a name="Ronacher"></a>![Ronacher](https://img-fotki.yandex.ru/get/30894/121639917.db/0_14ab60_949a4635_orig) Armin Ronacher, Вена, Австрия
 
 > Armin Ronacher is the original creator of the [Flask framework](http://flask.pocoo.org/), the Pallets project and many other Open Source libraries.
 He's currently located in Austria and working as a partner for Sentry and as an advisor for Fireteam.
