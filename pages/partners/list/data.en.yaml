@@ -18,8 +18,29 @@ sections:
   - logo: http://dropbucket.ru/nsk
     link: https://vk.com/pynsk
     
+ - logo: http://dropbucket.ru/pythongr
+    link: https://vk.com/python_programing
+    
   - logo: http://dropbucket.ru/devzen
     link: http://devzen.ru
+    
+  - logo: http://dropbucket.ru/mp2
+    link: http://www.moscowpython.ru
+    
+  - logo: http://dropbucket.ru/pythonsu
+    link: http://python.su
+  
+  - logo: http://dropbucket.ru/pydev
+    link: https://vk.com/python_developers
+    
+  - logo: http://dropbucket.ru/it-eburg
+    link: http://it-eburg.com
+    
+  - logo: http://dropbucket.ru/piterpy
+    link: http://it-sobytie.ru/events_groups/15 
+    
+  - logo: http://dropbucket.ru/pworld
+    link: http://pythonworld.ru
     
   - logo: http://dropbucket.ru/mp2
     link: http://www.moscowpython.ru
