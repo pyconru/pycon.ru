@@ -8,7 +8,9 @@
 
 <a name="David-maclver"></a>![maclver](http://dropbucket.ru/maclver)David Maclver, London, UK
 
-> David is the primary author of Hypothesis, a property-based testing library for Python whose stated mission is "to drag the world kicking and screaming into a new and terrifying age of high quality software". It’s a work in progress. Prior to tilting at windmills, he worked at Google and a series of London startups as a back end data engineer and was often accused of not writing enough tests.
+> [David](http://www.drmaciver.com/ ) is the primary author of [Hypothesis](http://hypothesis.readthedocs.org/), a property-based testing library for Python whose stated mission is "to drag the world kicking and screaming into a new and terrifying age of high quality software". It’s a work in progress. Prior to tilting at windmills, he worked at Google and a series of London startups as a back end data engineer and was often accused of not writing enough tests.
+>
+> Github: [DRMacIver](https://github.com/DRMacIver)
 
 <a name="Ronacher"></a>![Ronacher](https://img-fotki.yandex.ru/get/30894/121639917.db/0_14ab60_949a4635_orig) Armin Ronacher, Vienna, Austria
 
