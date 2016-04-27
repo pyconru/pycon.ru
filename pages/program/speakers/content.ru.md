@@ -12,6 +12,14 @@
 >
 > Github: [DRMacIver](https://github.com/DRMacIver)
 
+<a name="Ronacher"></a>![Ronacher](https://img-fotki.yandex.ru/get/102061/121639917.db/0_14ab5e_bd1e4d1_orig) Armin Ronacher, Вена, Австрия
+
+> Armin Ronacher is the original creator of the [Flask framework](http://flask.pocoo.org/), the Pallets project and many other Open Source libraries.
+He's currently located in Austria and working as a partner for Sentry and as an advisor for Fireteam.
+>
+> Twitter: [@mitsuhiko](https://twitter.com/mitsuhiko)  
+> Github: [mitsuhiko](https://github.com/mitsuhiko)  
+> Blog: [lucumr.pocoo.org](http://lucumr.pocoo.org/)
 
 <a name="alexander-sibiryakov"></a>![alexander-sibiryakov](http://dropbucket.ru/sibiryakov) Александр Сибиряков, Прага, Чехия
 
