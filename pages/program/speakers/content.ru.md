@@ -34,7 +34,7 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov)  
 > Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.ru/)
 
-<a name="andrew-sumin"></a>![sumin](http://dropbucket.ru/sumin1) Андрей Сумин, Москва
+<a name="andrew-sumin"></a>![sumin](https://img-fotki.yandex.ru/get/42385/121639917.db/0_14b556_84f3e61d_orig) Андрей Сумин, Москва
 
 > Тимлид команды Продукты в HeadHunter, до этого — разработчик команды SRE там же. Мейнтейнер Питон-инфраструктуры hh.ru.
 >
