@@ -1,4 +1,4 @@
-<a name="Raymond-Hettinger"></a>![hettinger1](http://dropbucket.ru/hettinger1)Raymond Hettinger, Santa Clara, USA
+<a name="Raymond-Hettinger"></a>![hettinger1](https://img-fotki.yandex.ru/get/25939/121639917.db/0_14b553_340e664f_orig)Raymond Hettinger, Santa Clara, USA
 
 > Raymond Hettinger has been a Python core developer since 2001 and is the author or maintainer of many parts of the language. He runs a Python training company that has trained over 5,000 Python programmers worldwide.
 
@@ -6,7 +6,7 @@
 >
 > Twitter: [@raymondh](https://twitter.com/raymondh) 
 
-<a name="David-maclver"></a>![maclver](http://dropbucket.ru/maclver)David Maclver, London, UK
+<a name="David-maclver"></a>![maclver](https://img-fotki.yandex.ru/get/47776/121639917.db/0_14b557_10c8d66d_orig)David Maclver, London, UK
 
 > [David](http://www.drmaciver.com/ ) is the primary author of [Hypothesis](http://hypothesis.readthedocs.org/), a property-based testing library for Python whose stated mission is "to drag the world kicking and screaming into a new and terrifying age of high quality software". It’s a work in progress. Prior to tilting at windmills, he worked at Google and a series of London startups as a back end data engineer and was often accused of not writing enough tests.
 >
@@ -21,20 +21,20 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Github: [mitsuhiko](https://github.com/mitsuhiko)  
 > Blog: [lucumr.pocoo.org](http://lucumr.pocoo.org/)
 
-<a name="alexander-sibiryakov"></a>![alexander-sibiryakov](http://dropbucket.ru/sibiryakov) Alexander Sibiryakov, Prague, Czech Republic
+<a name="alexander-sibiryakov"></a>![alexander-sibiryakov](https://img-fotki.yandex.ru/get/45704/121639917.db/0_14b555_5e902961_orig) Alexander Sibiryakov, Prague, Czech Republic
 
 > Python Developer at [Scrapinghub](http://scrapinghub.com).
 >
 > Blog: [sibiryakov.eu](http://sibiryakov.eu)
 
-<a name="andrew-svetlov"></a>![andrew-svetlov](http://dropbucket.ru/pyconru/svetlov) Andrew Svetlov, Kiev
+<a name="andrew-svetlov"></a>![andrew-svetlov](https://img-fotki.yandex.ru/get/60015/121639917.db/0_14b554_387ef7a0_orig) Andrew Svetlov, Kiev
 
 > Python Core Developer, engineer at [DataRobot](http://www.datarobot.com), organizer of Pycamp/Pycon.
 >
 > Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov)  
 > Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.ru/)
 
-<a name="andrew-sumin"></a>![sumin](http://dropbucket.ru/sumin1) Andrey Sumin, Moscow
+<a name="andrew-sumin"></a>![sumin](https://img-fotki.yandex.ru/get/42385/121639917.db/0_14b556_84f3e61d_orig) Andrey Sumin, Moscow
 
 > Team Lead, Products team at HeadHunter Group.
 >
