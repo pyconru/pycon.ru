@@ -40,4 +40,8 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 >
 > Linkedin: [andreysumin](https://www.linkedin.com/in/andreysumin)  
 
+<a name="pavel-petlinsky"></a>![petlinsky](https://img-fotki.yandex.ru/get/117578/121639917.db/0_14b558_772965cd_orig) Pavel Petlynsky, Moscow
+> 
+> Python Developer at Rambler&Co.
+
 <iframe src="https://docs.google.com/forms/d/1tQQu9koSzhJvMu5OVSk7LKagw0-Z6NVlwNicgA68vZQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
