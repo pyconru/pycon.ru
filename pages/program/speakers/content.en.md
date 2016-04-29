@@ -36,12 +36,12 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 
 <a name="andrew-sumin"></a>![sumin](https://img-fotki.yandex.ru/get/42385/121639917.db/0_14b556_84f3e61d_orig) Andrey Sumin, Moscow
 
-> Team Lead, Products team at HeadHunter Group.
+> Team Lead, Products team at [HeadHunter Group](hh.ru).
 >
 > Linkedin: [andreysumin](https://www.linkedin.com/in/andreysumin)  
 
 <a name="pavel-petlinsky"></a>![petlinsky](https://img-fotki.yandex.ru/get/117578/121639917.db/0_14b558_772965cd_orig) Pavel Petlynsky, Moscow
 > 
-> Python Developer at Rambler&Co.
+> Python Developer at [Rambler&Co](http://rambler-co.ru).
 
 <iframe src="https://docs.google.com/forms/d/1tQQu9koSzhJvMu5OVSk7LKagw0-Z6NVlwNicgA68vZQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
