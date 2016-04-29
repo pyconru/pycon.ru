@@ -36,13 +36,13 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 
 <a name="andrew-sumin"></a>![sumin](https://img-fotki.yandex.ru/get/42385/121639917.db/0_14b556_84f3e61d_orig) Андрей Сумин, Москва
 
-> Тимлид команды Продукты в HeadHunter, до этого — разработчик команды SRE там же. Мейнтейнер Питон-инфраструктуры hh.ru.
+> Тимлид команды Продукты в [HeadHunter](hh.ru), до этого — разработчик команды SRE там же. Мейнтейнер Питон-инфраструктуры hh.ru.
 >
 > Linkedin: [andreysumin](https://www.linkedin.com/in/andreysumin)  
 
 <a name="pavel-petlinsky"></a>![petlinsky](https://img-fotki.yandex.ru/get/117578/121639917.db/0_14b558_772965cd_orig) Павел Петлинский, Москва
 > 
-> Ведущий инженер-разработчик Python в Rambler&Co. Тимлид проекта Рамблер.Видео. Любит читать исходники, функциональное программирование, асинхронность, unix way и open source. Занимается разработкой высоконагруженных распределенных приложений. Программирует на Python более 10 лет.
+> Ведущий инженер-разработчик Python в [Rambler&Co](http://rambler-co.ru). Тимлид проекта Рамблер.Видео. Любит читать исходники, функциональное программирование, асинхронность, unix way и open source. Занимается разработкой высоконагруженных распределенных приложений. Программирует на Python более 10 лет.
 
 <iframe src="https://docs.google.com/forms/d/1YYY7epb0LfLrvmxmBthQicmvMgAjpFApH66w6XzokBk/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
 
