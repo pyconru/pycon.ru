@@ -21,7 +21,7 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Github: [mitsuhiko](https://github.com/mitsuhiko)  
 > Blog: [lucumr.pocoo.org](http://lucumr.pocoo.org/)
 
-<a name="alexander-sibiryakov"></a>![alexander-sibiryakov](http://dropbucket.ru/sibiryakov) Александр Сибиряков, Прага, Чехия
+<a name="alexander-sibiryakov"></a>![alexander-sibiryakov](https://img-fotki.yandex.ru/get/45704/121639917.db/0_14b555_5e902961_orig) Александр Сибиряков, Прага, Чехия
 
 > Python-разработчик в [Scrapinghub](http://scrapinghub.com).
 >
