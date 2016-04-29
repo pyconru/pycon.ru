@@ -36,7 +36,7 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 
 <a name="andrew-sumin"></a>![sumin](https://img-fotki.yandex.ru/get/42385/121639917.db/0_14b556_84f3e61d_orig) Андрей Сумин, Москва
 
-> Тимлид команды Продукты в [HeadHunter](https://hh.ru), до этого — разработчик команды SRE там же. Мейнтейнер Питон-инфраструктуры hh.ru.
+> Тимлид команды Продукты в [HeadHunter](https://ekaterinburg.hh.ru), до этого — разработчик команды SRE там же. Мейнтейнер Питон-инфраструктуры hh.ru.
 >
 > Linkedin: [andreysumin](https://www.linkedin.com/in/andreysumin)  
 
