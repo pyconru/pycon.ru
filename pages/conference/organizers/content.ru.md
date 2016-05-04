@@ -8,16 +8,16 @@
 
 ![svetlov](http://dropbucket.ru/pyconru/svetlov) [Андрей Светлов](http://www.linkedin.com/pub/andrew-svetlov/59/b1/586)<br>Python Core Developer, инженер в DataRobot, организатор Pycamp/Pycon Ukraine
 
-![ovchinnikov](http://dropbucket.ru/ovchinnikov) Дмитрий Овчинников<br>Senior Software Engineer в Wargaming.net
+![ovchinnikov](https://img-fotki.yandex.ru/get/41138/121639917.dc/0_14bbae_d29aa7cc_orig) Дмитрий Овчинников<br>Senior Software Engineer в Wargaming.net
 
-![vlasovskii](http://dropbucket.ru/vlasovskii) [Андрей Власовских](http://pirx.ru)<br> Разработчик IDE PyCharm в JetBrains
+![vlasovskii](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) [Андрей Власовских](http://pirx.ru)<br> Разработчик IDE PyCharm в JetBrains
 
 # Организационный комитет
 ![gerasimovich](http://dropbucket.ru/pycon/gerasimovich) [Юлия Герасимович](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266)<br>директор компании [IT-People.ru](http://it-people.ru/)
 
 ![voronina](http://dropbucket.ru/pycon/voronina) Елена Воронина
 
-![shulyndina](http://dropbucket.ru/shulyndina) Екатерина Шулындина
+![shulyndina](https://img-fotki.yandex.ru/get/51827/121639917.dc/0_14bbb0_b334f936_orig) Екатерина Шулындина
 
 ![kudinova](http://dropbucket.ru/kudinova) Ксения Кудинова
 
