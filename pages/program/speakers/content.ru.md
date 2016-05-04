@@ -71,7 +71,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Ведущий инженер-разработчик Python в Rambler&Co. Тимлид проекта Рамблер.Видео. Любит читать исходники, функциональное программирование, асинхронность, unix way и open source. Занимается разработкой высоконагруженных распределенных приложений. Программирует на Python более 10 лет.
 
-<a name="iliya-beda"></a>![iliya-beda](http://dropbucket.ru/beda) Илья Беда, Красноярск
+<a name="iliya-beda"></a>![iliya-beda](https://img-fotki.yandex.ru/get/49649/121639917.dc/0_14bbbb_dc690e93_orig) Илья Беда, Красноярск
 
 > Разработчик web приложений с 7-летним стажем. Тимлидер [bro.agency](http://bro.agency).
 >
@@ -82,7 +82,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Компания Marilyn, директор по продукту.
 
-<a name="malashkevish"></a>![malashkevish](http://dropbucket.ru/pyconru/malashkevich) Алексей Малашкевич, Санкт-Петербург
+<a name="malashkevish"></a>![malashkevish](https://img-fotki.yandex.ru/get/112678/121639917.dc/0_14bbbe_90a64d0b_orig) Алексей Малашкевич, Санкт-Петербург
 
 > Разработчик с 15-летним опытом, автор объектно-реляционного маппера [Pony ORM](http://ponyorm.com/) - проекта, вошедшего в список "The Best of Python in 2013". Активный участник и спикер на Python-конференциях и митапах. До основания собственного стартапа руководил разработкой высокопроизводительных систем в финансовой трейдинговой компании в Нью-Йорке.
 
@@ -94,7 +94,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Twitter: [@metaprogrammer](https://twitter.com/metaprogrammer) 
 
-<a name="shepanovsky"></a>![shepanovsky](http://dropbucket.ru/pyconru/shepanovsky) Александр Щепановский, Красноярск
+<a name="shepanovsky"></a>![shepanovsky](https://img-fotki.yandex.ru/get/60682/121639917.dc/0_14bbba_a8f69059_orig) Александр Щепановский, Красноярск
 
 > Автор нескольких популярных (funcy, cacheops) и чуть большего количества непопулярных  библиотек, как и просто интересных open source экспериментов. Любитель копать глубже в поисках интересного, запутанного и иногда полезного.
 >
@@ -113,7 +113,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 > Выпускник МГТУ им. Баумана (Информатика и управление) и Высшей Школы Экономики (Бизнес-информатика).
 Программист в отделе исследований Qrator Labs.
 
-<a name="glibin"></a>![glibin](http://dropbucket.ru/glibin) Виталий Глибин, Москва
+<a name="glibin"></a>![glibin](https://img-fotki.yandex.ru/get/29815/121639917.dc/0_14bbbc_ee58a404_orig) Виталий Глибин, Москва
 
 > Являюсь сооснователем сервиса для ведения вакансий [Huntflow](https://huntflow.ru), а также руководителем frontend разработки в Программе [ГлавБух](https://1pgb.ru). До этого работал тимлидом в [HeadHunter](https://hh.ru).
 >
@@ -121,7 +121,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Github: [glibin](https://github.com/glibin) 
 
-<a name="savin"></a>![savin](http://dropbucket.ru/savin) Иван Савин, Москва
+<a name="savin"></a>![savin](https://img-fotki.yandex.ru/get/49649/121639917.dc/0_14bbbd_3d760868_orig) Иван Савин, Москва
 
 > Разработчик в IPONWEB. Также преподаю в НИУ ВШЭ в Департаменте Компьютерной Инженерии и на Факультете Компьютерных Наук.
 >
