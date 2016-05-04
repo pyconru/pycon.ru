@@ -9,7 +9,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Gael is an INRIA faculty researcher working on data science for brain imaging in the Neurospin brain research institute (Paris, France). He is a core developer of scikit-learn, joblib, Mayavi and nilearn, a nominated member of the PSF, and often teaches scientific computing with Python using the scipy lecture notes.
 
-<a name="alexander-sibiryakov"></a>![alexander-sibiryakov](http://dropbucket.ru/sibiryakov) Александр Сибиряков, Прага
+<a name="alexander-sibiryakov"></a>![alexander-sibiryakov](https://img-fotki.yandex.ru/get/45704/121639917.db/0_14b555_5e902961_orig) Александр Сибиряков, Прага
 
 > Python-разработчик в [Scrapinghub](http://scrapinghub.com).
 >
@@ -67,7 +67,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Github: [@ktisha](https://github.com/ktisha)
 
-<a name="petlinski"></a>![petlinski](http://dropbucket.ru/petlinski) Павел Петлинский, Москва
+<a name="petlinski"></a>![petlinski](https://img-fotki.yandex.ru/get/117578/121639917.db/0_14b558_772965cd_orig) Павел Петлинский, Москва
 
 > Ведущий инженер-разработчик Python в Rambler&Co. Тимлид проекта Рамблер.Видео. Любит читать исходники, функциональное программирование, асинхронность, unix way и open source. Занимается разработкой высоконагруженных распределенных приложений. Программирует на Python более 10 лет.
 
