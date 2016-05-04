@@ -78,7 +78,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 > Twitter: [@ir4y_ix](https://twitter.com/ir4y_ix)  
 > Blog: [+ ИльяБеда](https://plus.google.com/+ИльяБеда/posts)
 
-<a name="shvets"></a>![shvets](http://dropbucket.ru/shvets) Александр Швец, Москва
+<a name="shvets"></a>![shvets](https://img-fotki.yandex.ru/get/112678/121639917.dc/0_14bbbf_d420d8f1_orig) Александр Швец, Москва
 
 > Компания Marilyn, директор по продукту.
 
@@ -88,7 +88,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Twitter: [@amalashkevich](https://twitter.com/amalashkevich) 
 
-<a name="kozlovski"></a>![kozlovski](http://dropbucket.ru/kozlovski) Александр Козловский, Санкт-Петербург
+<a name="kozlovski"></a>![kozlovski](https://img-fotki.yandex.ru/get/51809/121639917.dc/0_14bbc0_e81865af_orig) Александр Козловский, Санкт-Петербург
 
 > Автор объектно-реляционного маппера [Pony ORM](http://ponyorm.com/). Мастер метапрограммирования на языке Python. Разработчик высоконагруженных приложений на Python и Django. Имеет десятилетний опыт преподавания курса "Базы данных" в Санкт-Петербургском государственном университете аэрокосмического приборостроения.
 
@@ -108,7 +108,7 @@ projects in the Python ecosystem including PyPy and py.tes.
 
 > Веб-разработчик, питонист, линуксоид. Автор ряда опен-сорс проектов (https://bitbucket.org/kr41/) и [технического блога](http://www.kr41.net/).
 
-<a name="ignatov"></a>![ignatov](http://dropbucket.ru/ignatov) Константин Игнатов, Москва
+<a name="ignatov"></a>![ignatov](https://img-fotki.yandex.ru/get/29815/121639917.dc/0_14bbc1_3da5ab9_orig) Константин Игнатов, Москва
 
 > Выпускник МГТУ им. Баумана (Информатика и управление) и Высшей Школы Экономики (Бизнес-информатика).
 Программист в отделе исследований Qrator Labs.
