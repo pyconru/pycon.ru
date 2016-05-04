@@ -17,7 +17,7 @@
 
 ![voronina](http://dropbucket.ru/pycon/voronina) Елена Воронина
 
-![shulyndina](http://dropbucket.ru/shulyndina) Екатерина Шулындина
+![shulyndina](https://img-fotki.yandex.ru/get/51827/121639917.dc/0_14bbb0_b334f936_orig) Екатерина Шулындина
 
 ![kudinova](http://dropbucket.ru/kudinova) Ксения Кудинова
 
