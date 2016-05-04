@@ -1,11 +1,11 @@
-<a name="benjamin-peterson"></a>![peterson](http://dropbucket.ru/peterson) Benjamin Peterson, San Francisco
+<a name="benjamin-peterson"></a>![peterson](https://img-fotki.yandex.ru/get/53301/121639917.dc/0_14bbb2_92229aa2_orig) Benjamin Peterson, San Francisco
 
 > Developer of CPython. He also wrote the six Python 2/3 compatibility library and has contributed to numerous
 projects in the Python ecosystem including PyPy and py.tes.
 
 > Twitter: [@gutworth](https://twitter.com/gutworth)  
 
-<a name="gael"></a>![gael](http://dropbucket.ru/gael) Gael Varoquaux, Paris
+<a name="gael"></a>![gael](https://img-fotki.yandex.ru/get/28982/121639917.dc/0_14bbb3_13e50990_orig) Gael Varoquaux, Paris
 
 > Gael is an INRIA faculty researcher working on data science for brain imaging in the Neurospin brain research institute (Paris, France). He is a core developer of scikit-learn, joblib, Mayavi and nilearn, a nominated member of the PSF, and often teaches scientific computing with Python using the scipy lecture notes.
 
@@ -22,44 +22,44 @@ projects in the Python ecosystem including PyPy and py.tes.
 > Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov)  
 > Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.ru/)
 
-<a name="аpatrushev"></a>![аpatrushev](http://dropbucket.ru/pyconru/аpatrushev) Антон Патрушев, Бонн
+<a name="аpatrushev"></a>![аpatrushev](https://img-fotki.yandex.ru/get/105980/121639917.dc/0_14bbb1_6116d169_orig) Антон Патрушев, Бонн
 
 > Associate Information Systems Officer в [UNFCCC](http://newsroom.unfccc.int).
 >
 > Linkedin: [apatrushev](https://www.linkedin.com/in/apatrushev) 
 
-<a name="andrew_vlasovskix"></a>![andrew_vlasovskix](http://dropbucket.ru/pycon/vlasovskii) Андрей Власовских, Санкт-Петербург
+<a name="andrew_vlasovskix"></a>![andrew_vlasovskix](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) Андрей Власовских, Санкт-Петербург
 
 > Разработчик PyCharm и эмулятора Vim для сред программирования в JetBrains. Автор библиотеки funcparserlib для написания парсеров на Python в функциональном стиле. Организатор встреч по функциональному программированию. Участвует в разработке PEP 484: Type Hints.
 >
 > Блог: [pirx.ru](http://pirx.ru/)  
 > GitHub: [vlasovskikh](https://github.com/vlasovskikh)
 
-<a name="grigory-petrov"></a>![grigory-petrov](http://dropbucket.ru/petrov) Григорий Петров, Москва
+<a name="grigory-petrov"></a>![grigory-petrov](https://img-fotki.yandex.ru/get/41138/121639917.dc/0_14bbb6_54d28bb1_orig) Григорий Петров, Москва
 
 > Технический евангелист в [VoxImplant](http://voximplant.com). Карьеру специалиста по созданию программ начал в конце 90-х: сначала как разработчик, затем как руководитель отдела разработки. Участвовал в создании таких программных продуктов как Radmin и Advanced IP Scanner, занимался продвижением интерактивного телевидения NPTV.
 
-<a name="borisov"></a>![borisov](http://dropbucket.ru/borisov) Кирилл Борисов, Москва
+<a name="borisov"></a>![borisov](https://img-fotki.yandex.ru/get/112678/121639917.dc/0_14bbb5_71322ebf_orig) Кирилл Борисов, Москва
 
 > Закончил КГТУ им. А. Н. Туполева. Занимался разработкой АСУ, учётных систем различного назначения и проектированием инфраструктурных систем в компании «БАРС Груп». В 2014 году пришёл в Яндекс, где занимается разработкой систем авторизации.
 >
 
-<a name="soldatenko"></a>![soldatenko](http://dropbucket.ru/soldatenko) Андрей Солдатенко, Киев
+<a name="soldatenko"></a>![soldatenko](https://img-fotki.yandex.ru/get/60682/121639917.dc/0_14bbb4_693fff19_orig) Андрей Солдатенко, Киев
 
 > Python Backend Developer и QA Automation Lead в [Wargaming.NET](http://ru.wargaming.net). Докладчик множества Python-конференций. 
 >
 > Twitter: [@a_soldatenko](https://twitter.com/a_soldatenko)  
 > Blog: [asoldatenko.com](http://asoldatenko.com)
 
-<a name="sinitcin"></a>![sinitcin](http://dropbucket.ru/sinitcin) Валентин Синицын, Екатеринбург
+<a name="sinitcin"></a>![sinitcin](https://img-fotki.yandex.ru/get/112678/121639917.dc/0_14bbb7_13a93caf_orig) Валентин Синицын, Екатеринбург
 
 > Разработчик сервиса Яндекс.Такси и большой любитель разбираться, как устроены привычные инструменты «под капотом». Ведущий рубрики «Ключевая технология» (Core Technology) в журнале [«Linux Voice»](http://www.linuxvoice.com). Преподает в Уральском Федеральном Университете.
 
-<a name="matveenko"></a>![matveenko](http://dropbucket.ru/matveenko) Сергей Матвеенко, Санкт-Петербург
+<a name="matveenko"></a>![matveenko](https://img-fotki.yandex.ru/get/28982/121639917.dc/0_14bbb9_277559f0_orig) Сергей Матвеенко, Санкт-Петербург
 
 > Senior Python Developer компании [DataArt](http://dataart.ru). Опыт в IТ-индустрии 16 лет. В качестве CTO и Team Lead выпустил более десятка продуктов. Разработчик, апологет свободного ПО. Организатор петербургского Python-сообщества.
 
-<a name="tuzova"></a>![tuzova](http://dropbucket.ru/tuzova) Екатерина Тузова, Санкт-Петербург
+<a name="tuzova"></a>![tuzova](https://img-fotki.yandex.ru/get/61020/121639917.dc/0_14bbb8_9dbbdeb_orig) Екатерина Тузова, Санкт-Петербург
 
 > Разработчик PyCharm, лектор и куратор студенческих проектов в [CompSciCenter](https://compscicenter.ru) и в [Академическом Университете](http://mit.spbau.ru/).
 
