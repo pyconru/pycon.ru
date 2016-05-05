@@ -13,10 +13,12 @@
 
 ![vlasovskii](http://dropbucket.ru/vlasovskii) [Andrew Vlasovskih](http://pirx.ru), developer of IDE PyCharm, JetBrains
 
+![ovchinnikov](https://img-fotki.yandex.ru/get/41138/121639917.dc/0_14bbae_d29aa7cc_orig) Dmitry Ovchinnikov, Senior Software Engineer, Wargaming.net
+
 
 ##Organization team
 
-![gerasimovich](http://dropbucket.ru/pycon/gerasimovich)  [Yulia Gerasimovich](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266), CEO of [IT-People.ru](http://it-people.ru/), organizer of a large number of IT conferences and educational activities
+![gerasimovich](http://dropbucket.ru/gerasimovich1)  [Yulia Gerasimovich](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266), CEO of [IT-People.ru](http://it-people.ru/), organizer of a large number of IT conferences and educational activities
 
 ![voronina](http://dropbucket.ru/pycon/voronina) Elena Voronina
 
