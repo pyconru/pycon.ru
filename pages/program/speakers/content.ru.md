@@ -6,7 +6,7 @@
 >
 > Twitter: [@raymondh](https://twitter.com/raymondh) 
 
-<a name="David-maclver"></a>![maclver](https://img-fotki.yandex.ru/get/47776/121639917.db/0_14b557_10c8d66d_orig) David Maclver, Лондон, Великобритания
+<a name="David-maclver"></a>![maclver](https://img-fotki.yandex.ru/get/47776/121639917.db/0_14b557_10c8d66d_orig) David MacIver, Лондон, Великобритания
 
 > [David](http://www.drmaciver.com/ ) is the primary author of [Hypothesis](http://hypothesis.readthedocs.org/), a property-based testing library for Python whose stated mission is "to drag the world kicking and screaming into a new and terrifying age of high quality software". It’s a work in progress. Prior to tilting at windmills, he worked at Google and a series of London startups as a back end data engineer and was often accused of not writing enough tests.
 >
