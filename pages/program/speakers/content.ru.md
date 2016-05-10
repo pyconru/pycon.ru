@@ -46,7 +46,7 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/50061/121639917.dc/0_14d40c_42d4d5ee_orig) Артем Малышев, Нижний Новгород
 >
-> Senior python developer в компании Positive Technologies. Последние два года занимается разработкой распределённых систем. Любит Open Source, Python и его дружное сообщество. Спикер MoscowPython и Rannts Meetup.
+> Senior python developer в компании [Positive Technologies](http://www.ptsecurity.ru). Последние два года занимается разработкой распределённых систем. Любит Open Source, Python и его дружное сообщество. Спикер MoscowPython и Rannts Meetup.
 >
 > Twitter: [@proofit404]( https://twitter.com/proofit404)  
 > Github: [proofit404](https://github.com/proofit404/)
