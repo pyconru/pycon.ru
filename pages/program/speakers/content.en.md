@@ -44,4 +44,11 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > 
 > Python Developer at [Rambler&Co](http://rambler-co.ru).
 
+<a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/50061/121639917.dc/0_14d40c_42d4d5ee_orig) Artem Malyshev, Nizhny Novgorod
+>
+> Senior python developer at [Positive Technologies](http://www.ptsecurity.ru).
+>
+> Twitter: [@proofit404]( https://twitter.com/proofit404)  
+> Github: [proofit404](https://github.com/proofit404/)
+
 <iframe src="https://docs.google.com/forms/d/1tQQu9koSzhJvMu5OVSk7LKagw0-Z6NVlwNicgA68vZQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
