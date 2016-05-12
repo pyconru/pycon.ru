@@ -12,6 +12,12 @@
 >
 > Github: [DRMacIver](https://github.com/DRMacIver)
 
+<a name="Jackie-Kazil"></a>![Kazil](https://img-fotki.yandex.ru/get/28292/121639917.dc/0_14d98a_173ea49f_orig) Jackie Kazil, Вашингтон, США
+
+> Technical Fellow at [Capital One](https://www.capitalone.com).
+>
+> Twitter: [@JackieKazil](https://twitter.com/JackieKazil) 
+
 <a name="Ronacher"></a>![Ronacher](https://img-fotki.yandex.ru/get/30894/121639917.db/0_14ab60_949a4635_orig) Armin Ronacher, Вена, Австрия
 
 > Armin Ronacher is the original creator of the [Flask framework](http://flask.pocoo.org/), the Pallets project and many other Open Source libraries.
