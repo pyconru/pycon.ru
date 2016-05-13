@@ -67,4 +67,10 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Twitter: [@proofit404]( https://twitter.com/proofit404)  
 > Github: [proofit404](https://github.com/proofit404/)
 
+<a name="kiselev"></a>![kiselev](https://img-fotki.yandex.ru/get/58454/121639917.dc/0_14da0a_f392f13b_orig) Dmitry Kiselev, Ekaterinburg
+>
+> Developer at [Endpoint.com](https://www.endpoint.com).
+> 
+> Github: [kiselev-dv](https://github.com/kiselev-dv)
+
 <iframe src="https://docs.google.com/forms/d/1tQQu9koSzhJvMu5OVSk7LKagw0-Z6NVlwNicgA68vZQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
