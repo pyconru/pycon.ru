@@ -32,8 +32,10 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Blog: [lucumr.pocoo.org](http://lucumr.pocoo.org/)
 
 <a name="Nathaniel-Manista"></a>![Manista](https://img-fotki.yandex.ru/get/59613/121639917.dc/0_14da09_30d0feb3_orig) Nathaniel Manista, Сан-Франциско, США 
-
+>
 >  In recent years Nathaniel worked on [Project Hosting At code.google.com](https://www.google.com/url?hl=ru&q=https://en.wikipedia.org/wiki/Google_Developers%23Google_Code&source=gmail&ust=1463207579648000&usg=AFQjCNHvjLHP8M2-aRtX036OkzpIPQbXTQ), [Google Summer of Code](https://www.google.com/url?hl=ru&q=https://summerofcode.withgoogle.com/&source=gmail&ust=1463207579648000&usg=AFQjCNGzlnvwQNcEQb83GSvjf1SOsS1WAQ), and [gRPC](https://www.google.com/url?hl=ru&q=http://www.grpc.io/&source=gmail&ust=1463207579648000&usg=AFQjCNG2Jb7trzJbibTUHHqusCLHBfIK3w). Professional interests include the challenges of correctness and maintainability of codebases at scales of thousands of developers and decades of development.
+>
+> Github: [nathanielmanistaatgoogle](https://github.com/nathanielmanistaatgoogle) 
 
 <a name="alexander-sibiryakov"></a>![alexander-sibiryakov](https://img-fotki.yandex.ru/get/45704/121639917.db/0_14b555_5e902961_orig) Александр Сибиряков, Прага, Чехия
 
