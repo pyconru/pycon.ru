@@ -7,6 +7,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/2016/css/tickets.css" />
     <base target="_blank">
     <!--[if lt IE 9]>
       <script src="{{ STATIC_URL }}js/html5shiv.js"></script>
@@ -45,7 +46,7 @@
     </script>
     <noscript><div><img src="//mc.yandex.ru/watch/18910277" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
-    
+
     <a href="https://github.com/pyconru/pycon.ru" class="github-ribbon">Fork me on GitHub</a>
 
     <div class="container">
@@ -60,7 +61,7 @@
             PyCon Russia <span class="year">2016</span>
           </h1>
         </a>
-        
+
         <section class="language-selector">
           <a href="{{ url_for(PATH, language='ru') }}" target="_self"
              class="ru{% if LANGUAGE == 'ru' %} active{% endif %}">Рус</a>
@@ -76,12 +77,12 @@
       {% set LABELS = {
         'conference': _('Conference'),
         'conference/about': _('About'),
-        'conference/coc': _('Code of Conduct'),       
+        'conference/coc': _('Code of Conduct'),
         'conference/organizers': _('Organizers'),
         'conference/contacts': _('Contacts'),
-        
+
         'program': _('Program'),
-        'program/cfp': _('Call for Proposals'),   
+        'program/cfp': _('Call for Proposals'),
         'program/speakers': _('Speakers'),
         'program/content': _('Content'),
         'program/schedule': _('Schedule'),
@@ -94,7 +95,7 @@
         'partners': _('Partners'),
         'partners/list': _('Partners'),
         'partners/join': _('Join'),
-        
+
         'archive': _('Archive'),
         'archive/2013': _('PyCon Russia 2013'),
         'archive/2014': _('PyCon Russia 2014'),
@@ -151,7 +152,7 @@
 
       <div class="push"></div>
     </div>
-      
+
     <footer>
       <nav>
         {% for page in ROOT.CHILDREN %}
