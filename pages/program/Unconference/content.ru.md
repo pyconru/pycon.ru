@@ -18,4 +18,4 @@
 
 Мы пока не знаем, что получится в итоге, но очень надеемся, что будет круто!
 
-<iframe src="https://docs.google.com/forms/d/1TNzV-6UsR6PwL4QOBpgxdAJTo8kIiw2EH9_Q_LEZ_rk/edit?usp=sharing" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
+<iframe src="https://docs.google.com/forms/d/1TNzV-6UsR6PwL4QOBpgxdAJTo8kIiw2EH9_Q_LEZ_rk/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
