@@ -34,7 +34,7 @@ ORDERING = {
     'conference': ['about', 'coc', 'organizers', 'contacts'],
     'participation': ['price', 'venue', 'hotels'],
     'partners': ['list', 'join'],
-    'program': ['speakers', 'content', 'schedule'],
+    'program': ['speakers', 'content', 'schedule', 'Unconference'],
     'archive': ['2013', '2014', '2015'],
     'program/content': [],
 }
