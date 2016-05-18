@@ -88,18 +88,6 @@
       />
       Заплачу сам банковской картой
     </label>
-    <label for="tickets_payment_cash" class="tickets--label">
-      <input
-        type="radio"
-        name="payment"
-        value="office"
-        id="tickets_payment_cash"
-        class="tickets--radio_input set_action_on_check"
-        data-saic-action="https://formspree.io/partyordie@icloud.com"
-        data-saic-method="post"
-      />
-      Заплачу сам наличными в офисе IT-People
-    </label>
   </div>
   <div id="toggle_company_details" class="tickets--field">
     <label for="tickets_company_details" class="tickets--label">Укажите реквизиты компании</label>
