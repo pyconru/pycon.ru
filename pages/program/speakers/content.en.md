@@ -43,12 +43,18 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 >
 > Blog: [sibiryakov.eu](http://sibiryakov.eu)
 
-<a name="andrew-svetlov"></a>![andrew-svetlov](https://img-fotki.yandex.ru/get/60015/121639917.db/0_14b554_387ef7a0_orig) Andrew Svetlov, Kiev
+<a name="andrew-svetlov"></a>![andrew-svetlov](https://img-fotki.yandex.ru/get/60015/121639917.db/0_14b554_387ef7a0_orig) Andrew Svetlov, Kiev, Ukraine
 
 > Python Core Developer, engineer at [DataRobot](http://www.datarobot.com), organizer of Pycamp/Pycon.
 >
 > Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov)  
 > Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.ru/)
+
+<a name="Koshkin"></a>![Aleksandr-Koshkin](https://img-fotki.yandex.ru/get/26468/121639917.dc/0_14fa8c_a5babe04_orig) Aleksandr Koshkin, Boston, USA
+
+> Senior python developer at [Positive Technologies](http://www.ptsecurity.com).
+>
+> Linkedin: [Aleksandr Koshkin](https://www.linkedin.com/in/aleksandr-koshkin-688525b6)  
 
 <a name="andrew-sumin"></a>![sumin](https://img-fotki.yandex.ru/get/42385/121639917.db/0_14b556_84f3e61d_orig) Andrey Sumin, Moscow
 
