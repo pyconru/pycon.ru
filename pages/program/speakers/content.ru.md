@@ -43,7 +43,7 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 >
 > Blog: [sibiryakov.eu](http://sibiryakov.eu)
 
-<a name="andrew-svetlov"></a>![andrew-svetlov](https://img-fotki.yandex.ru/get/60015/121639917.db/0_14b554_387ef7a0_orig) Андрей Светлов, Киев
+<a name="andrew-svetlov"></a>![andrew-svetlov](https://img-fotki.yandex.ru/get/60015/121639917.db/0_14b554_387ef7a0_orig) Андрей Светлов, Киев, Украина
 
 > Python Core Developer, инженер в [DataRobot](http://www.datarobot.com).
 >
