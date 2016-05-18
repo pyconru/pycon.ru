@@ -50,6 +50,12 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov)  
 > Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.ru/)
 
+<a name="Koshkin"></a>![Aleksandr-Koshkin](https://img-fotki.yandex.ru/get/26468/121639917.dc/0_14fa8c_a5babe04_orig) Александр Кошкин, Бостон, США
+
+> Senior python developer в компании [Positive Technologies](http://www.ptsecurity.com). Последнее время занимается разработкой различных компонентов PT SIEM. Спикер piterpy, wargaming python meetup.
+>
+> Linkedin: [Aleksandr Koshkin](https://www.linkedin.com/in/aleksandr-koshkin-688525b6)  
+
 <a name="andrew-sumin"></a>![sumin](https://img-fotki.yandex.ru/get/42385/121639917.db/0_14b556_84f3e61d_orig) Андрей Сумин, Москва
 
 > Тимлид команды Продукты в [HeadHunter](https://ekaterinburg.hh.ru), до этого — разработчик команды SRE там же. Мейнтейнер Питон-инфраструктуры hh.ru.
