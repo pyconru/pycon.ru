@@ -83,4 +83,11 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > 
 > Developer at [Yandex](https://www.yandex.ru). 
 
+<a name="lavrenuk"></a>![lavrenuk](https://img-fotki.yandex.ru/get/102061/121639917.dc/0_14ff21_da88f89f_orig) Andrii Soldatenko, Kiev, Ukraine
+> 
+> Andrii Soldatenko boast expertise as a Python and Golang developer with strong hard and soft skills. He is CTO in Australian startup Persollo. Also he’s working as Python Backend Developer via [toptal](https://www.toptal.com/#connect-fantastic-computer-engineers) under social network. He has lot's of experience in speaking in many PyCons and has fallen in love with natural language processing and text mining.
+>
+> Blog: [asoldatenko.com](https://asoldatenko.com)
+> Twitter: [@a_soldatenko](https://twitter.com/a_soldatenko) 
+
 <iframe src="https://docs.google.com/forms/d/1tQQu9koSzhJvMu5OVSk7LKagw0-Z6NVlwNicgA68vZQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
