@@ -90,4 +90,10 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Blog: [asoldatenko.com](https://asoldatenko.com)
 > Twitter: [@a_soldatenko](https://twitter.com/a_soldatenko) 
 
+<a name="Tsyganov"></a>![Tsyganov](https://img-fotki.yandex.ru/get/52127/121639917.dc/0_14ff24_5646b492_orig) Ivan Tsyganov, St. Petersburg
+> 
+> Senior python developer at [Positive Technologies](http://www.ptsecurity.ru).
+>
+> Linkedin: [tsyganovivan](https://www.linkedin.com/in/tsyganovivan) 
+
 <iframe src="https://docs.google.com/forms/d/1tQQu9koSzhJvMu5OVSk7LKagw0-Z6NVlwNicgA68vZQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
