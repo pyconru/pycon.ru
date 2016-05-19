@@ -79,4 +79,8 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > 
 > Github: [kiselev-dv](https://github.com/kiselev-dv)
 
+<a name="lavrenuk"></a>![lavrenuk](https://img-fotki.yandex.ru/get/60682/121639917.dc/0_14ff1b_47c6305d_orig) Alexey Lavrenyuk, Moscow
+> 
+> Developer at [Yandex](https://www.yandex.ru), 
+
 <iframe src="https://docs.google.com/forms/d/1tQQu9koSzhJvMu5OVSk7LKagw0-Z6NVlwNicgA68vZQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
