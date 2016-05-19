@@ -92,7 +92,7 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 
 <a name="Tsyganov"></a>![Tsyganov](https://img-fotki.yandex.ru/get/52127/121639917.dc/0_14ff24_5646b492_orig) Иван Цыганов, Санкт-Петербург
 > 
-> Senior python developer в компании Positive Technologies. Спикер конференций PiterPy#2 и PiterPy#3. Пишет на Python более 5 лет. Терпеть не может frontend. Любит server-side и Docker. В свободное время участвует в OpenSource проектах.
+> Senior python developer в компании [Positive Technologies](http://www.ptsecurity.ru). Спикер конференций PiterPy#2 и PiterPy#3. Пишет на Python более 5 лет. Терпеть не может frontend. Любит server-side и Docker. В свободное время участвует в OpenSource проектах.
 >
 > Linkedin: [tsyganovivan](https://www.linkedin.com/in/tsyganovivan) 
 
