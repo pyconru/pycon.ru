@@ -79,6 +79,10 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > 
 > Github: [kiselev-dv](https://github.com/kiselev-dv)
 
+<a name="lavrenuk"></a>![lavrenuk](https://img-fotki.yandex.ru/get/60682/121639917.dc/0_14ff1b_47c6305d_orig) Алексей Лавренюк, Москва
+> 
+> Работает в [Яндексе](https://www.yandex.ru), занимается нагрузочным тестированием и разработкой инструментов для нагрузочного тестирования. Ведет open-source проект Yandex.Tank.
+
 <iframe src="https://docs.google.com/forms/d/1YYY7epb0LfLrvmxmBthQicmvMgAjpFApH66w6XzokBk/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
 
 
