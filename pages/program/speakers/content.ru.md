@@ -97,6 +97,13 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 >
 > Linkedin: [tsyganovivan](https://www.linkedin.com/in/tsyganovivan) 
 
+<a name="egorov"></a>![egorov](https://img-fotki.yandex.ru/get/51827/121639917.dc/0_14ff25_c4ec3634_orig) Антон Егоров, Москва
+> 
+> Ведущий разработчик/DevOps в компании [Ostrovok.ru](https://ostrovok.ru). Ответственный за кучу терабайт фоток и геобазу Островка. 
+>
+> Blog: [satyrius.name](http://satyrius.name) 
+
+
 <iframe src="https://docs.google.com/forms/d/1YYY7epb0LfLrvmxmBthQicmvMgAjpFApH66w6XzokBk/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
 
 
