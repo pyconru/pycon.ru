@@ -97,7 +97,7 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 >
 > Linkedin: [tsyganovivan](https://www.linkedin.com/in/tsyganovivan) 
 
-<a name="egorov"></a>![egorov](https://img-fotki.yandex.ru/get/51827/121639917.dc/0_14ff25_c4ec3634_orig) Anton Egorov Moscow
+<a name="egorov"></a>![egorov](https://img-fotki.yandex.ru/get/51827/121639917.dc/0_14ff25_c4ec3634_orig) Anton Egorov, Moscow
 > 
 > Developer at [Ostrovok.ru](https://ostrovok.ru). 
 >
