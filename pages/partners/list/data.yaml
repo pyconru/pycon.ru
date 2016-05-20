@@ -1,11 +1,16 @@
 sections:
 
+- name: "Серебряные спонсоры"
+  sponsors:
+  - logo: https://img-fotki.yandex.ru/get/51592/121639917.dc/0_151210_a43d9486_orig
+    link: http://www.jetbrains.com
+    
 - name: "При поддержке"
   sponsors:
     
   - logo: https://img-fotki.yandex.ru/get/59977/121639917.db/0_14b563_3913715f_orig
     link: https://www.python.org/psf-landing/
-
+    
 - name: "Информационные партнеры"
   sponsors:
     
