@@ -1,5 +1,10 @@
 sections:
 
+- name: "Silver sponsor"
+  sponsors:
+  - logo: https://img-fotki.yandex.ru/get/51592/121639917.dc/0_151210_a43d9486_orig
+    link: http://www.jetbrains.com
+
 - name: "Supported by"
   sponsors:
     
