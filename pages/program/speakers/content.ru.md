@@ -18,7 +18,7 @@
 
 <a name="Jackie-Kazil"></a>![Kazil](https://img-fotki.yandex.ru/get/28292/121639917.dc/0_14d98a_173ea49f_orig) Jackie Kazil, Вашингтон, США
 
-> Technical Fellow at [Capital One](https://www.capitalone.com).
+> Technical Fellow at [Capital One](https://www.capitalone.com). Jackie loves data and teaching coding. She is a leader in the Python community and is involved with [PyLadiesDC](https://www.google.com/url?hl=ru&q=http://www.meetup.com/dc-pyladies/&source=gmail&ust=1464071638851000&usg=AFQjCNGxulVJpvTZ-cZo0Q3bJWf79iH3iA), [PyLadies Int’l](https://www.google.com/url?hl=ru&q=http://www.pyladies.com/&source=gmail&ust=1464071638851000&usg=AFQjCNEuBwbuBeJqvd2c92z_iqv3hBgiTw), [Women Data Science DC](https://www.google.com/url?hl=ru&q=http://www.meetup.com/WomenDataScientistsDC/&source=gmail&ust=1464071638851000&usg=AFQjCNHBkJE2PyxZX3LBOeQ4OHQ54FNIKA), [Python Software Foundation](https://www.google.com/url?hl=ru&q=https://www.python.org/psf/&source=gmail&ust=1464071638851000&usg=AFQjCNFzhdKFz4EsjDNV8aKn0yb3CLPdSg), and more.  She is the author of [Data Wrangling with Python](https://www.google.com/url?hl=ru&q=http://shop.oreilly.com/product/0636920032861.do&source=gmail&ust=1464071638851000&usg=AFQjCNELZfn0lMLXGUAevI5zJpOBHKjOAg) and creator of [Mesa](https://www.google.com/url?hl=ru&q=https://github.com/projectmesa/mesa&source=gmail&ust=1464071638851000&usg=AFQjCNF2OCLWP131Zd2oMyTzNZg_hXBrnw), a Python 3 agent-based modeling library. In her professional career, she has worked to transform non-tech companies into tech-first organizations. She has worked in finance, government, and journalism, with a focus on public service. Twitter & Medium: @jackiekazil
 >
 > Twitter: [@JackieKazil](https://twitter.com/JackieKazil) 
 
