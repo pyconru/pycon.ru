@@ -103,6 +103,11 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 >
 > Blog: [satyrius.name](http://satyrius.name) 
 
-
+<a name="egorov"></a>![egorov](https://img-fotki.yandex.ru/get/35827/121639917.dd/0_15459f_41993fba_orig) Екатерина Тузова, Санкт-Петербург
+> 
+> Разработчик [PyCharm](https://www.jetbrains.com/pycharm/), лектор и куратор студенческих проектов в CompSciCenter и в Академическом Университете.
+>
+> Twitter: [@ktisha](https://twitter.com/ktisha) 
+> Github: [ktisha](https://github.com/ktisha)
 
 
