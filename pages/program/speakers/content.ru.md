@@ -104,8 +104,5 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Blog: [satyrius.name](http://satyrius.name) 
 
 
-<iframe src="https://docs.google.com/forms/d/1YYY7epb0LfLrvmxmBthQicmvMgAjpFApH66w6XzokBk/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
-
-
 
 
