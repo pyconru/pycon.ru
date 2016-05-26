@@ -108,6 +108,7 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Разработчик [PyCharm](https://www.jetbrains.com/pycharm/), лектор и куратор студенческих проектов в CompSciCenter и в Академическом Университете.
 >
 > Twitter: [@ktisha](https://twitter.com/ktisha) 
+
 > Github: [ktisha](https://github.com/ktisha)
 
 
