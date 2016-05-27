@@ -5,13 +5,11 @@ sections:
   - logo: https://img-fotki.yandex.ru/get/55569/121639917.dd/0_1543ff_b0af0f90_orig
     link: https://www.ptsecurity.ru
 
-- name: "Gold sponsor"
+- name: "Gold sponsors"
   sponsors:
   - logo: https://img-fotki.yandex.ru/get/31382/121639917.dc/0_151211_ed8cd948_orig
     link: http://www.jetbrains.com
     
-- name: "Silver sponsor"
-  sponsors:
   - logo: https://img-fotki.yandex.ru/get/62935/121639917.dd/0_154bf9_a4635074_orig
     link: http://rambler-co.ru/jobs
 
