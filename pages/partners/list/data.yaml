@@ -8,7 +8,7 @@ sections:
 - name: "Золотые спонсоры"
   sponsors:
   - logo: https://img-fotki.yandex.ru/get/31382/121639917.dc/0_151211_ed8cd948_orig
-    link: http://www.jetbrains.com
+    link: https://www.jetbrains.com/pycharm/
     
   - logo: https://img-fotki.yandex.ru/get/31412/121639917.dd/0_154e19_ec22e999_orig
     link: http://rambler-co.ru/jobs
