@@ -8,7 +8,7 @@
 
 <a name="Martin-Görner"></a>![Görner](https://img-fotki.yandex.ru/get/50455/121639917.dc/0_14d98e_c49853a3_orig) Martin Görner, Париж, Франция
 
-> Developer Relations, [Google](https://www.google.com/).
+> Developer Relations, [Google](https://www.google.com/). Martin is passionate about science, technology, coding, algorithms and everything in between. He graduated from Mines Paris Tech, enjoyed his first engineering years in the computer architecture group of ST Microlectronics and then spent the next 11 years shaping the nascent eBook market, starting with the Mobipocket startup, which later became the software part of the Amazon Kindle and its mobile variants. He joined Google Developer Relations in 2011 and now focuses on parallel processing and machine learning technologies.
 
 <a name="David-maclver"></a>![maclver](https://img-fotki.yandex.ru/get/47776/121639917.db/0_14b557_10c8d66d_orig) David MacIver, Лондон, Великобритания
 
