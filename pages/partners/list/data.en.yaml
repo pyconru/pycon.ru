@@ -12,6 +12,11 @@ sections:
     
   - logo: https://img-fotki.yandex.ru/get/62935/121639917.dd/0_154bf9_a4635074_orig
     link: http://rambler-co.ru/jobs
+    
+- name: "Bronze sponsor"
+  sponsors:
+  - logo: https://img-fotki.yandex.ru/get/29815/121639917.dd/0_154e1b_de33ad43_orig
+    link: https://ostrovok.ru
 
 - name: "Supported by"
   sponsors:
