@@ -4,7 +4,7 @@
 
 > Last year, the Python Software Foundation honored him with the Python Distinguished Service Award for exemplary contribution to the Python community. His contributions to the language include generator expressions, the peephole optimizer, the collections and itertools modules, the LRU cache, and a number of everyday builtins such as any, all, enumerate, reversed, zip, and sorted.
 >
-> Twitter: [@raymondh](https://twitter.com/raymondh) 
+> Twitter: [@raymondh](https://twitter.com/raymondh)
 
 <a name="Martin-Görner"></a>![Görner](https://img-fotki.yandex.ru/get/50455/121639917.dc/0_14d98e_c49853a3_orig) Martin Görner,  Paris, France
 
@@ -20,9 +20,9 @@
 
 > Technical Fellow at [Capital One](https://www.capitalone.com). > Technical Fellow at [Capital One](https://www.capitalone.com). Jackie loves data and teaching coding. She is a leader in the Python community and is involved with [PyLadiesDC](https://www.google.com/url?hl=ru&q=http://www.meetup.com/dc-pyladies/&source=gmail&ust=1464071638851000&usg=AFQjCNGxulVJpvTZ-cZo0Q3bJWf79iH3iA), [PyLadies Int’l](https://www.google.com/url?hl=ru&q=http://www.pyladies.com/&source=gmail&ust=1464071638851000&usg=AFQjCNEuBwbuBeJqvd2c92z_iqv3hBgiTw), [Women Data Science DC](https://www.google.com/url?hl=ru&q=http://www.meetup.com/WomenDataScientistsDC/&source=gmail&ust=1464071638851000&usg=AFQjCNHBkJE2PyxZX3LBOeQ4OHQ54FNIKA), [Python Software Foundation](https://www.google.com/url?hl=ru&q=https://www.python.org/psf/&source=gmail&ust=1464071638851000&usg=AFQjCNFzhdKFz4EsjDNV8aKn0yb3CLPdSg), and more.  She is the author of [Data Wrangling with Python](https://www.google.com/url?hl=ru&q=http://shop.oreilly.com/product/0636920032861.do&source=gmail&ust=1464071638851000&usg=AFQjCNELZfn0lMLXGUAevI5zJpOBHKjOAg) and creator of [Mesa](https://www.google.com/url?hl=ru&q=https://github.com/projectmesa/mesa&source=gmail&ust=1464071638851000&usg=AFQjCNF2OCLWP131Zd2oMyTzNZg_hXBrnw), a Python 3 agent-based modeling library. In her professional career, she has worked to transform non-tech companies into tech-first organizations. She has worked in finance, government, and journalism, with a focus on public service.
 >
-> Twitter: [@JackieKazil](https://twitter.com/JackieKazil) 
+> Twitter: [@JackieKazil](https://twitter.com/JackieKazil)
 >
-> Twitter: [@JackieKazil](https://twitter.com/JackieKazil) 
+> Twitter: [@JackieKazil](https://twitter.com/JackieKazil)
 
 <a name="Ronacher"></a>![Ronacher](https://img-fotki.yandex.ru/get/30894/121639917.db/0_14ab60_949a4635_orig) Armin Ronacher, Vienna, Austria
 
@@ -33,11 +33,11 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Github: [mitsuhiko](https://github.com/mitsuhiko)  
 > Blog: [lucumr.pocoo.org](http://lucumr.pocoo.org/)
 
-<a name="Nathaniel-Manista"></a>![Manista](https://img-fotki.yandex.ru/get/59613/121639917.dc/0_14da09_30d0feb3_orig) Nathaniel Manista, San Francisco, California, USA 
+<a name="Nathaniel-Manista"></a>![Manista](https://img-fotki.yandex.ru/get/59613/121639917.dc/0_14da09_30d0feb3_orig) Nathaniel Manista, San Francisco, California, USA
 >
->  In recent years Nathaniel worked on [Project Hosting At code.google.com](https://www.google.com/url?hl=ru&q=https://en.wikipedia.org/wiki/Google_Developers%23Google_Code&source=gmail&ust=1463207579648000&usg=AFQjCNHvjLHP8M2-aRtX036OkzpIPQbXTQ), [Google Summer of Code](https://www.google.com/url?hl=ru&q=https://summerofcode.withgoogle.com/&source=gmail&ust=1463207579648000&usg=AFQjCNGzlnvwQNcEQb83GSvjf1SOsS1WAQ), and [gRPC](https://www.google.com/url?hl=ru&q=http://www.grpc.io/&source=gmail&ust=1463207579648000&usg=AFQjCNG2Jb7trzJbibTUHHqusCLHBfIK3w). Professional interests include the challenges of correctness and maintainability of codebases at scales of thousands of developers and decades of development.
+>  In recent years Nathaniel has worked on [Project Hosting At code.google.com](https://www.google.com/url?hl=ru&q=https://en.wikipedia.org/wiki/Google_Developers%23Google_Code&source=gmail&ust=1463207579648000&usg=AFQjCNHvjLHP8M2-aRtX036OkzpIPQbXTQ), [Google Summer of Code](https://www.google.com/url?hl=ru&q=https://summerofcode.withgoogle.com/&source=gmail&ust=1463207579648000&usg=AFQjCNGzlnvwQNcEQb83GSvjf1SOsS1WAQ), and [gRPC](https://www.google.com/url?hl=ru&q=http://www.grpc.io/&source=gmail&ust=1463207579648000&usg=AFQjCNG2Jb7trzJbibTUHHqusCLHBfIK3w). His professional interests include the challenges of correctness and maintainability of codebases at scales of thousands of developers and decades of development.
 >
-> Github: [nathanielmanistaatgoogle](https://github.com/nathanielmanistaatgoogle) 
+> Github: [nathanielmanistaatgoogle](https://github.com/nathanielmanistaatgoogle)
 
 <a name="alexander-sibiryakov"></a>![alexander-sibiryakov](https://img-fotki.yandex.ru/get/45704/121639917.db/0_14b555_5e902961_orig) Alexander Sibiryakov, Prague, Czech Republic
 
@@ -65,7 +65,7 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Linkedin: [andreysumin](https://www.linkedin.com/in/andreysumin)  
 
 <a name="pavel-petlinsky"></a>![petlinsky](https://img-fotki.yandex.ru/get/117578/121639917.db/0_14b558_772965cd_orig) Pavel Petlynsky, Moscow
-> 
+>
 > Python Developer at [Rambler&Co](http://rambler-co.ru).
 
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/50061/121639917.dc/0_14d40c_42d4d5ee_orig) Artem Malyshev, Nizhny Novgorod
@@ -78,15 +78,15 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 <a name="kiselev"></a>![kiselev](https://img-fotki.yandex.ru/get/58454/121639917.dc/0_14da0a_f392f13b_orig) Dmitry Kiselev, Ekaterinburg
 >
 > Developer at [Endpoint.com](https://www.endpoint.com).
-> 
+>
 > Github: [kiselev-dv](https://github.com/kiselev-dv)
 
 <a name="lavrenuk"></a>![lavrenuk](https://img-fotki.yandex.ru/get/60682/121639917.dc/0_14ff1b_47c6305d_orig) Alexey Lavrenyuk, Moscow
-> 
-> Developer at [Yandex](https://www.yandex.ru). 
+>
+> Developer at [Yandex](https://www.yandex.ru).
 
 <a name="lavrenuk"></a>![lavrenuk](https://img-fotki.yandex.ru/get/102061/121639917.dc/0_14ff21_da88f89f_orig) Andrii Soldatenko, Kiev, Ukraine
-> 
+>
 > Andrii Soldatenko boast expertise as a Python and Golang developer with strong hard and soft skills. He is CTO in Australian startup Persollo. Also he’s working as Python Backend Developer via [toptal](https://www.toptal.com/#connect-fantastic-computer-engineers) under social network. He has lot's of experience in speaking in many PyCons and has fallen in love with natural language processing and text mining.
 >
 >
@@ -94,20 +94,20 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Twitter: [@a_soldatenko](https://twitter.com/a_soldatenko)  
 
 <a name="Tsyganov"></a>![Tsyganov](https://img-fotki.yandex.ru/get/52127/121639917.dc/0_14ff24_5646b492_orig) Ivan Tsyganov, St. Petersburg
-> 
+>
 > Senior python developer at [Positive Technologies](http://www.ptsecurity.ru).
 >
-> Linkedin: [tsyganovivan](https://www.linkedin.com/in/tsyganovivan) 
+> Linkedin: [tsyganovivan](https://www.linkedin.com/in/tsyganovivan)
 
 <a name="egorov"></a>![egorov](https://img-fotki.yandex.ru/get/51827/121639917.dc/0_14ff25_c4ec3634_orig) Anton Egorov, Moscow
-> 
-> Developer at [Ostrovok.ru](https://ostrovok.ru). 
 >
-> Blog: [satyrius.name](http://satyrius.name) 
+> Developer at [Ostrovok.ru](https://ostrovok.ru).
+>
+> Blog: [satyrius.name](http://satyrius.name)
 
 <a name="Tuzova"></a>![Tuzova](https://img-fotki.yandex.ru/get/35827/121639917.dd/0_15459f_41993fba_orig) Ekaterina Tuzova, St. Petersburg
-> 
+>
 > Developer at [PyCharm](https://www.jetbrains.com/pycharm/).
 >
-> Twitter: [@ktisha](https://twitter.com/ktisha) 
+> Twitter: [@ktisha](https://twitter.com/ktisha)
 > Github: [ktisha](https://github.com/ktisha)
