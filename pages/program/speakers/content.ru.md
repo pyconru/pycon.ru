@@ -110,3 +110,13 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Twitter: [@ktisha](https://twitter.com/ktisha)
 
 > Github: [ktisha](https://github.com/ktisha)
+
+<a name="borisov"></a>![borisov](https://img-fotki.yandex.ru/get/112678/121639917.dc/0_14bbb5_71322ebf_orig) Кирилл Борисов, Москва
+>
+> Разработчик систем авторизации из [Яндекса](https://www.yandex.ru), до переезда в Москву прошел тернистый путь от junior developer до системного архитектора в далекой "БАРС Груп" г. Казани.
+> Писал на C, Pascal'е, Perl'е, PHP и Clojure. но последние годы предпочитает зарабатывать на жизнь разработкой на Python. Часто об этом жалеет, но хочет есть.
+>
+> Рефакторил печальное количество legacy-кода, оптимизировал работу монументальных отчетов и часто ломал себе голову над проектированием систем в угоду заказчику.
+
+> Github: [lensvol](https://github.com/lensvol/)
+
