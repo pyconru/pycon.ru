@@ -109,3 +109,9 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 >
 > Twitter: [@ktisha](https://twitter.com/ktisha)
 > Github: [ktisha](https://github.com/ktisha)
+
+<a name="borisov"></a>![borisov](https://img-fotki.yandex.ru/get/112678/121639917.dc/0_14bbb5_71322ebf_orig) Kirill Borisov, Moscow
+>
+> > Developer at [Yandex](https://www.yandex.ru).
+
+> Github: [lensvol](https://github.com/lensvol/)
