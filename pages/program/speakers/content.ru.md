@@ -122,4 +122,4 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 
 <a name="lopuhin"></a>![lopuhin](https://img-fotki.yandex.ru/get/125649/121639917.dd/0_1598f9_3ef30392_orig) Константин Лопухин, Москва
 >
-> Разработчик в компании [Scrapinghub](http://scrapinghub.com), до этого 6 лет работал в компании ЧТД, сначала ведущим разработчиком, потом техническим директором. Занимается open-source разработкой (https://github.com/lopuhin и https://bitbucket.org/kostialopuhin), поддерживает библиотеку psycopg2cffi (аналог psycopg2 для pypy), увлекается машинным обучением и компьютерной лингвистикой.
+> Разработчик в компании [Scrapinghub](http://scrapinghub.com), до этого 6 лет работал в компании ЧТД, сначала ведущим разработчиком, потом техническим директором. Занимается open-source разработкой [https://github.com/lopuhin](https://github.com/lopuhin) и [https://bitbucket.org/kostialopuhin](https://bitbucket.org/kostialopuhin), поддерживает библиотеку psycopg2cffi (аналог psycopg2 для pypy), увлекается машинным обучением и компьютерной лингвистикой.
