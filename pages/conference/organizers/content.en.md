@@ -9,7 +9,7 @@
 ![korobov](http://dropbucket.ru/pyconru/korobov) Mikhail Korobov, Python developer at Scrapinghub, speaker
 
 
-![svetlov](http://dropbucket.ru/pyconru/svetlov) Andrew Svetlov, Python Core Developer, engineer at DataRobot, organizer of Pycamp/Pycon Ukraine
+![svetlov](http://dropbucket.ru/pyconru/svetlov) Andrew Svetlov, Python Core Developer, organizer of Pycamp/Pycon Ukraine
 
 ![vlasovskii](http://dropbucket.ru/vlasovskii) [Andrew Vlasovskih](http://pirx.ru), developer of IDE PyCharm, JetBrains
 
