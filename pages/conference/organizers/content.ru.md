@@ -6,7 +6,7 @@
 
 ![korobov](http://dropbucket.ru/pyconru/korobov) [Михаил Коробов](http://kmike.ru/)<br>Python-разработчик в ScrapingHub, спикер различных Python-конференций
 
-![svetlov](http://dropbucket.ru/pyconru/svetlov) [Андрей Светлов](http://www.linkedin.com/pub/andrew-svetlov/59/b1/586)<br>Python Core Developer, инженер в DataRobot, организатор Pycamp/Pycon Ukraine
+![svetlov](http://dropbucket.ru/pyconru/svetlov) [Андрей Светлов](http://www.linkedin.com/pub/andrew-svetlov/59/b1/586)<br>Python Core Developer, организатор Pycamp/Pycon Ukraine
 
 ![vlasovskii](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) [Андрей Власовских](http://pirx.ru)<br> разработчик IDE PyCharm в JetBrains
 
