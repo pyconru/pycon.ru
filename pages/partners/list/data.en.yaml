@@ -25,8 +25,14 @@ sections:
     
   - logo: https://img-fotki.yandex.ru/get/59977/121639917.db/0_14b563_3913715f_orig
     link: https://www.python.org/psf-landing/
+    
+- name: "Partner"
+  sponsors:
+    
+  - logo: https://img-fotki.yandex.ru/get/28292/121639917.dd/0_15a014_9b5236aa_orig
+    link: https://geekbrains.ru/?utm_source=PyCon&utm_medium=affiliate&utm_campaign=partner_PyCon_09.06.16
 
-- name: "Partners"
+- name: "Information Partners"
   sponsors:
     
   - logo: https://img-fotki.yandex.ru/get/44085/121639917.db/0_14b571_2adaa349_orig
