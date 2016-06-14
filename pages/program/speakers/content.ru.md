@@ -117,6 +117,7 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Писал на C, Pascal'е, Perl'е, PHP и Clojure. но последние годы предпочитает зарабатывать на жизнь разработкой на Python. Часто об этом жалеет, но хочет есть.
 >
 > Рефакторил печальное количество legacy-кода, оптимизировал работу монументальных отчетов и часто ломал себе голову над проектированием систем в угоду заказчику.
+>
 > Github: [lensvol](https://github.com/lensvol/)
 
 <a name="lopuhin"></a>![lopuhin](https://img-fotki.yandex.ru/get/125649/121639917.dd/0_1598f9_3ef30392_orig) Константин Лопухин, Москва
