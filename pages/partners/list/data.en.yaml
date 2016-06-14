@@ -19,6 +19,9 @@ sections:
   sponsors:
   - logo: https://img-fotki.yandex.ru/get/29815/121639917.dd/0_154e1b_de33ad43_orig
     link: https://ostrovok.ru
+    
+  - logo: https://img-fotki.yandex.ru/get/47284/121639917.dd/0_15b4f6_e8e9d7f1_orig
+    link: http://scrapinghub.com
 
 - name: "Supported by"
   sponsors:
