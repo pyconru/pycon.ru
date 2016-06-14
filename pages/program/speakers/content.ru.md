@@ -3,7 +3,6 @@
 > Raymond Hettinger has been a Python core developer since 2001 and is the author or maintainer of many parts of the language. He runs a Python training company that has trained over 5,000 Python programmers worldwide.
 
 > Last year, the Python Software Foundation honored him with the Python Distinguished Service Award for exemplary contribution to the Python community. His contributions to the language include generator expressions, the peephole optimizer, the collections and itertools modules, the LRU cache, and a number of everyday builtins such as any, all, enumerate, reversed, zip, and sorted.
->
 > Twitter: [@raymondh](https://twitter.com/raymondh)
 
 <a name="Martin-Gorner"></a>![Gorner](https://img-fotki.yandex.ru/get/50455/121639917.dc/0_14d98e_c49853a3_orig) Martin Gorner, Париж, Франция
@@ -117,7 +116,7 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > Писал на C, Pascal'е, Perl'е, PHP и Clojure. но последние годы предпочитает зарабатывать на жизнь разработкой на Python. Часто об этом жалеет, но хочет есть.
 >
 > Рефакторил печальное количество legacy-кода, оптимизировал работу монументальных отчетов и часто ломал себе голову над проектированием систем в угоду заказчику.
-
+>
 > Github: [lensvol](https://github.com/lensvol/)
 
 <a name="lopuhin"></a>![lopuhin](https://img-fotki.yandex.ru/get/125649/121639917.dd/0_1598f9_3ef30392_orig) Константин Лопухин, Москва
