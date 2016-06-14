@@ -20,8 +20,8 @@ sections:
   - logo: https://img-fotki.yandex.ru/get/29815/121639917.dd/0_154e1b_de33ad43_orig
     link: https://ostrovok.ru
     
- - logo: https://img-fotki.yandex.ru/get/149948/121639917.dd/0_15b4f5_af0246a_orig
-   link: http://scrapinghub.com
+  - logo: https://img-fotki.yandex.ru/get/149948/121639917.dd/0_15b4f5_af0246a_orig
+    link: http://scrapinghub.com
 
 - name: "При поддержке"
   sponsors:
