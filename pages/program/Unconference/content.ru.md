@@ -8,7 +8,7 @@
 
 * <b>Дмитрий Киселев, Endpoint.com, Екатеринбург</b>
     
-«Docker-compose + ROS + roslibjs + Selenium и тетирование распределенных систем»
+«Docker-compose + ROS + roslibjs + Selenium и тестирование распределенных систем»
 
 Все то, что я описываю в [основном докладе](http://pycon.ru/2016/program/content/kiselev/) надо еще и тестировать. Расскажу и покажу, как мы гоняем тесты для распределенных гетерогенных систем, используя docker-compose.
    
