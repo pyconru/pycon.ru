@@ -45,7 +45,7 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 > 
 > Ben is enthusiastic about engaging people in computing and digital making and ensuring it’s accessible to everyone. Ben created a Python library called GPIO Zero, which provides interfaces to everyday GPIO components making physical computing with the Raspberry Pi more intuitive.
 >
-
+>
 <a name="alexander-sibiryakov"></a>![alexander-sibiryakov](https://img-fotki.yandex.ru/get/45704/121639917.db/0_14b555_5e902961_orig) Alexander Sibiryakov, Prague, Czech Republic
 
 > Python Developer at [Scrapinghub](http://scrapinghub.com).
