@@ -37,6 +37,15 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 >
 > Github: [nathanielmanistaatgoogle](https://github.com/nathanielmanistaatgoogle)
 
+<a name="nuttal"></a>![nuttal](https://img-fotki.yandex.ru/get/145691/121639917.dd/0_15bb3f_efbf1f46_orig) Ben Nuttall, Лондон, Великобритания
+
+> Ben is [Raspberry Pi’s Community](https://www.raspberrypi.org) Manager.
+> 
+> He’s a software developer who loves Linux, Python and all things open source. Ben has helped the Raspberry Pi Foundation with its education and outreach over the last four years, starting with setting up a Raspberry Jam as a keen member of the community, and for the last two years, working for the Foundation in Cambridge, delivering teacher training, creating learning resources, running workshops and speaking at conferences.
+> 
+> Ben is enthusiastic about engaging people in computing and digital making and ensuring it’s accessible to everyone. Ben created a Python library called GPIO Zero, which provides interfaces to everyday GPIO components making physical computing with the Raspberry Pi more intuitive.
+>
+
 <a name="alexander-sibiryakov"></a>![alexander-sibiryakov](https://img-fotki.yandex.ru/get/45704/121639917.db/0_14b555_5e902961_orig) Александр Сибиряков, Прага, Чехия
 
 > Python-разработчик в [Scrapinghub](http://scrapinghub.com).
