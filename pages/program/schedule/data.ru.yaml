@@ -20,7 +20,7 @@ day1:
       talk: "Static Type Checking in Python: What it does for you and what it doesn't"
       slug: "Static-Type "
       time: "12:15"
-      
+
     - break: "Перерыв"
       time: "13:00"
 
@@ -38,10 +38,12 @@ day1:
       talk: "Хочу всё знать!"
       slug: "petlinsky"
       time: "15:00"
+      
     - speaker: "Константин Лопухин, Scrapinghub"
       talk: "Как добавить scripting в веб приложение"
       slug: "lopuhin"
       time: "15:30"
+      
     - speaker: "Иван Цыганов, Positive Technologies"
       talk: "Осторожно, DSL!"
       slug: "Tsyganov"
@@ -52,6 +54,7 @@ day1:
       talk: "Theano: обучаем нейросеть"
       slug: "Theano"
       time: "14:00"
+      
     - speaker: "Martin Gorner, Google"
       talk: "Tensorflow and deep learning, without a PhD"
       slug: "G-rner"
@@ -66,6 +69,7 @@ day1:
       talk: "Аннотации типов и Python 2+3"
       slug: "vlasovskich"
       time: "17:00"
+      
     - speaker: "Андрей Светлов, Python Core Developer"
       talk: "Продвинутое использование py.test"
       slug: "svetlov"
@@ -106,6 +110,7 @@ day2:
       talk: "Докеризация веб-приложениния на Python"
       slug: "egorov"
       time: "10:00"
+      
     - speaker: "Кирилл Борисов, Яндекс"
       talk: "Flame graph: новый взгляд на привычное профилирование"
       slug: "borisov"
@@ -116,6 +121,7 @@ day2:
       talk: "Наш опыт использования микрофреймворка falcon в Competitive Gaming"
       slug: "kukushkin"
       time: "10:00"
+      
     - speaker: "Артем Малышев, Positive Technologies"
       talk: "Очереди задач без купюр"
       slug: "malyshev"
@@ -136,6 +142,7 @@ day2:
       talk: "Питон под нагрузкой"
       slug: "sumin"
       time: "11:15" 
+      
     - speaker: "Александр Сибиряков, Scrapinghub"
       talk: "Автоматическое разрешение заявок о ложных срабатываниях в антивирусе Avast"
       slug: "sibiryakov"
@@ -146,6 +153,7 @@ day2:
       talk: "Python Robot Operating System вместо Middleware framework"
       slug: "kiselev"
       time: "11:15"
+      
     - speaker: "Александр Кошкин, Positive Technologies"
       talk: "Знай и люби свой CPython во имя луны и великой справедливости"
       slug: "koshkin"
@@ -160,6 +168,7 @@ day2:
       talk: "User-centered open source projects"
       slug: "Kazil"
       time: "13:00" 
+      
     - speaker: "Модератор — Григорий Петров, VoxImplant"
       talk: "Дискуссионная панель"
       slug: "panel"
@@ -170,6 +179,7 @@ day2:
       talk: "Мастер-класс"
       slug: "mk"
       time: "13:00"
+      
     - speaker: "Андрей Солдатенко, Toptal"
       talk: "Building social network with Neo4j and Python"
       slug: "soldatenko"
@@ -184,6 +194,7 @@ day2:
       talk: "How Python was Shaped by leaky Internals"
       slug: "ronacher"
       time: "15:45" 
+      
     - speaker: "Ben Nuttall, Raspberry Pi"
       talk: "Тема утверждается"
       slug: "nuttall"
