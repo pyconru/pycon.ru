@@ -7,7 +7,7 @@ day1:
     - time: "11:00"
       talk: "Торжественное открытие"
 
-  b1: 
+  b2: 
     - speaker: "Nathaniel Manista, Google"
       talk: "Code Unto Others"
       slug: "Manista"
@@ -29,11 +29,11 @@ day1:
       slug: "maciver2"
       time: "13:15"
 
-  b2:
+  b3:
     - break: Обед
       time: "14:00"
   
-  b3a:
+  b4a:
     - speaker: "Павел Петлинский, Rambler&Co"
       talk: "Хочу всё знать!"
       slug: "petlinsky"
@@ -47,7 +47,7 @@ day1:
       slug: "Tsyganov"
       time: "16:00" 
 
-  b3b:
+  b4b:
     - speaker: "Екатерина Тузова, PyCharm"
       talk: "Theano: обучаем нейросеть"
       slug: "Theano"
@@ -57,11 +57,11 @@ day1:
       slug: "G-rner"
       time: "15:30"
   
-  b4:
+  b5:
     - break: "Кофе-брейк"
       time: "16:30"
   
-  b5a:
+  b6a:
     - speaker: "Андрей Власовских, JetBrains"
       talk: "Аннотации типов и Python 2+3"
       slug: "vlasovskich"
@@ -71,31 +71,31 @@ day1:
       slug: "svetlov"
       time: "17:40"
   
-  b5b:
+  b6b:
     - speaker: "Martin Gorner, Google"
       talk: "Воркшоп «Tensorflow»"
       slug: "Gerner"
       time: "17:00"
 
-  b5c:
+  b6c:
     - speaker: "Алексей Лавренюк, Яндекс"
       talk: "МК «Методика нагрузочного тестирования»"
       slug: "lavrenuk"
       time: "17:00"
-  b6:
+  b7:
     - break: "Перерыв"
       time: "18:20"
   
-  b7:
+  b8:
     - break: "Lightning Talks"
       slug: "lightning-talks-1"
       time: "18:40"
   
-  b8:
+  b9:
     - break: "Ужин"
       time: "20:00"
     
-  b9a:
+  b10:
     - break: "Афтепати"
       time: "20:40"
 
