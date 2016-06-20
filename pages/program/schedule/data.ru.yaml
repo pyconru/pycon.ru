@@ -77,13 +77,13 @@ day1:
   
   b6b:
     - speaker: "Martin Gorner, Google"
-      talk: "Воркшоп «Tensorflow»"
+      talk: "Воркшоп Tensorflow"
       slug: "Gerner"
       time: "17:00"
 
   b6c:
     - speaker: "Алексей Лавренюк, Яндекс"
-      talk: "МК «Методика нагрузочного тестирования»"
+      talk: "МК Методика нагрузочного тестирования"
       slug: "lavrenuk"
       time: "17:00"
 
@@ -129,7 +129,7 @@ day2:
 
   b1c:
     - speaker: "David MacIver, Hypothesis"
-      talk: "Воркшоп «Property-based testing with Hypothesis»"
+      talk: "Воркшоп Property-based testing with Hypothesis"
       slug: "workshop-rpython"
       time: "10:00"
 
