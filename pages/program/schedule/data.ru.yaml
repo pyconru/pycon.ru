@@ -1,13 +1,13 @@
 day1:
-  b0: 
+  b0:
     - time: "10:00"
       break: "Регистрация"
 
-  b1: 
+  b1:
     - time: "11:00"
       break: "Торжественное открытие"
 
-  b2: 
+  b2:
     - speaker: "Nathaniel Manista, Google"
       talk: "Code Unto Others"
       slug: "Manista"
@@ -18,7 +18,7 @@ day1:
 
     - speaker: "Raymond Hettinger, Python core developer"
       talk: "Static Type Checking in Python: What it does for you and what it doesn't"
-      slug: "Static-Type"
+      # slug: "Static-Type"
       time: "12:15"
 
     - break: "Перерыв"
@@ -32,49 +32,49 @@ day1:
   b3:
     - break: Обед
       time: "14:00"
-  
+
   b4a:
     - speaker: "Павел Петлинский, Rambler&Co"
       talk: "Хочу всё знать!"
       slug: "petlinsky"
       time: "15:00"
-      
+
     - speaker: "Константин Лопухин, Scrapinghub"
       talk: "Как добавить scripting в веб приложение"
       slug: "lopuhin"
       time: "15:30"
-      
+
     - speaker: "Иван Цыганов, Positive Technologies"
       talk: "Осторожно, DSL!"
       slug: "Tsyganov"
-      time: "16:00" 
+      time: "16:00"
 
   b4b:
     - speaker: "Екатерина Тузова, PyCharm"
       talk: "Theano: обучаем нейросеть"
       slug: "Theano"
       time: "14:00"
-      
+
     - speaker: "Martin Gorner, Google"
       talk: "Tensorflow and deep learning, without a PhD"
       slug: "G-rner"
       time: "15:30"
-  
+
   b5:
     - break: "Кофе-брейк"
       time: "16:30"
-  
+
   b6a:
     - speaker: "Андрей Власовских, JetBrains"
       talk: "Аннотации типов и Python 2+3"
       slug: "vlasovskich"
       time: "17:00"
-      
+
     - speaker: "Андрей Светлов, Python Core Developer"
       talk: "Продвинутое использование py.test"
       slug: "svetlov"
       time: "17:40"
-  
+
   b6b:
     - speaker: "Martin Gorner, Google"
       talk: "Воркшоп Tensorflow"
@@ -90,27 +90,27 @@ day1:
   b7:
     - break: "Перерыв"
       time: "18:20"
-  
+
   b8:
     - speaker: "Lightning Talks"
       slug: "lightning-talks-1"
       time: "18:40"
-  
+
   b9:
     - break: "Ужин"
       time: "20:00"
-    
+
   b10:
     - break: "Афтепати"
       time: "20:40"
 
 day2:
-  b1a: 
+  b1a:
     - speaker: "Антон Егоров, ostrovok.ru"
       talk: "Докеризация веб-приложениния на Python"
       slug: "egorov"
       time: "10:00"
-      
+
     - speaker: "Кирилл Борисов, Яндекс"
       talk: "Flame graph: новый взгляд на привычное профилирование"
       slug: "borisov"
@@ -121,7 +121,7 @@ day2:
       talk: "Наш опыт использования микрофреймворка falcon в Competitive Gaming"
       slug: "kukushkin"
       time: "10:00"
-      
+
     - speaker: "Артем Малышев, Positive Technologies"
       talk: "Очереди задач без купюр"
       slug: "malyshev"
@@ -141,24 +141,24 @@ day2:
     - speaker: "Андрей Сумин, HeadHunter"
       talk: "Питон под нагрузкой"
       slug: "sumin"
-      time: "11:15" 
-      
+      time: "11:15"
+
     - speaker: "Александр Сибиряков, Scrapinghub"
       talk: "Автоматическое разрешение заявок о ложных срабатываниях в антивирусе Avast"
       slug: "sibiryakov"
-      time: "11:45" 
+      time: "11:45"
 
   b3b:
     - speaker: "Дмитрий Киселев, Endpoint.com"
       talk: "Python Robot Operating System вместо Middleware framework"
       slug: "kiselev"
       time: "11:15"
-      
+
     - speaker: "Александр Кошкин, Positive Technologies"
       talk: "Знай и люби свой CPython во имя луны и великой справедливости"
       slug: "koshkin"
       time: "11:45"
-  
+
   b4:
     - break: "Кофе-брейк"
       time: "12:30"
@@ -167,19 +167,19 @@ day2:
     - speaker: "Jackie Kazil, Capital One"
       talk: "User-centered open source projects"
       slug: "Kazil"
-      time: "13:00" 
-      
+      time: "13:00"
+
     - speaker: "Модератор — Григорий Петров, VoxImplant"
       talk: "Дискуссионная панель"
-      slug: "panel"
-      time: "13:45" 
+      # slug: "panel"
+      time: "13:45"
 
   b5b:
     - speaker: "Raymond Hettinger, Python core developer "
       talk: "Мастер-класс"
-      slug: "mk"
+      # slug: "mk"
       time: "13:00"
-      
+
     - speaker: "Андрей Солдатенко, Toptal"
       talk: "Building social network with Neo4j and Python"
       slug: "soldatenko"
@@ -193,16 +193,16 @@ day2:
     - speaker: "Armin Ronacher, Flask framework"
       talk: "How Python was Shaped by leaky Internals"
       slug: "ronacher"
-      time: "15:45" 
-      
+      time: "15:45"
+
     - speaker: "Ben Nuttall, Raspberry Pi"
       talk: "Тема утверждается"
-      slug: "nuttall"
-      time: "16:30" 
+      # slug: "nuttall"
+      time: "16:30"
 
   b8:
     - break: "Торжественное закрытие"
-      time: "17:30" 
+      time: "17:30"
 
   b9:
     - break: "Кофе-брейк"
