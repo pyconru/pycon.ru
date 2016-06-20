@@ -18,7 +18,7 @@ day1:
 
     - speaker: "Raymond Hettinger, Python core developer"
       talk: "Static Type Checking in Python: What it does for you and what it doesn't"
-      slug: "Static-Type "
+      slug: "Static-Type"
       time: "12:15"
 
     - break: "Перерыв"
