@@ -1,11 +1,11 @@
 day1:
   b0: 
     - time: "10:00"
-      talk: "Регистрация"
+      break: "Регистрация"
 
   b1: 
     - time: "11:00"
-      talk: "Торжественное открытие"
+      break: "Торжественное открытие"
 
   b2: 
     - speaker: "Nathaniel Manista, Google"
@@ -92,7 +92,7 @@ day1:
       time: "18:20"
   
   b8:
-    - break: "Lightning Talks"
+    - speaker: "Lightning Talks"
       slug: "lightning-talks-1"
       time: "18:40"
   
