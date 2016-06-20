@@ -1,9 +1,7 @@
 day1:
-  b0:
+  b0: 
     - time: "10:00"
-      break: "Регистрация"
-    - time: "11:00"
-      break: "Торжественное открытие"
+      talk: "Регистрация"
 
   b1:
     - speaker: "Nathaniel Manista, Google"
@@ -73,6 +71,10 @@ day1:
       slug: "svetlov"
       time: "17:40"
 
+  b6:
+    - break: "Перерыв"
+      time: "18:20"
+
   b5b:
     - speaker: "Martin Gorner, Google"
       talk: "Воркшоп Tensorflow"
@@ -84,10 +86,6 @@ day1:
       talk: "МК Методика нагрузочного тестирования"
       slug: "lavrenuk"
       time: "17:00"
-
-  b6:
-    - break: "Перерыв"
-      time: "18:20"
 
   b7:
     - speaker: "Lightning Talks"
