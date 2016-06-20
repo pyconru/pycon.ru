@@ -48,7 +48,7 @@ day1:
   b3b:
     - speaker: "Екатерина Тузова, PyCharm"
       talk: "Theano: обучаем нейросеть"
-      slug: "Theano"
+      slug: "Tuzova"
       time: "14:00"
 
     - speaker: "Martin Gorner, Google"
