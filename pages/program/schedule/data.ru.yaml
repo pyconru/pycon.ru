@@ -81,12 +81,6 @@ day1:
       slug: "Gerner"
       time: "17:00"
 
-  b5c:
-    - speaker: "Алексей Лавренюк, Яндекс"
-      talk: "МК Методика нагрузочного тестирования"
-      slug: "lavrenuk"
-      time: "17:00"
-
   b7:
     - speaker: "Lightning Talks"
       slug: "lightning-talks-1"
@@ -122,12 +116,6 @@ day2:
       talk: "Очереди задач без купюр"
       slug: "malyshev"
       time: "10:30"
-
-  b1c:
-    - speaker: "David MacIver, Hypothesis"
-      talk: "Воркшоп Property-based testing with Hypothesis"
-      slug: "maciver"
-      time: "10:00"
 
   b2:
     - break: "Перерыв"
