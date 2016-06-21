@@ -77,21 +77,26 @@ day1:
       slug: "Gerner"
       time: "17:00"
 
-
   b6:
     - break: "Перерыв"
       time: "18:20"
 
   b7:
+    - speaker: "Андрей Солдатенко, Toptal"
+      talk: "Building social network with Neo4j and Python"
+      slug: "soldatenko"
+      time: "13:45"
+
+  b8:
     - break: "Lightning Talks"
       slug: "lightning-talks-1"
       time: "18:40"
 
-  b8:
+  b9:
     - break: "Ужин"
       time: "20:00"
 
-  b9:
+  b10:
     - break: "Афтепати"
       time: "20:40"
 
@@ -168,11 +173,6 @@ day2:
       talk: "Воркшоп Descriptors and Context Managers"
       slug: "hettinger2"
       time: "13:00"
-
-    - speaker: "Андрей Солдатенко, Toptal"
-      talk: "Building social network with Neo4j and Python"
-      slug: "soldatenko"
-      time: "13:45"
 
   b6:
     - break: "Обед"
