@@ -71,18 +71,18 @@ day1:
       slug: "svetlov"
       time: "17:40"
 
-  b6:
-    - break: "Перерыв"
-      time: "18:20"
-
   b5b:
     - speaker: "Martin Gorner, Google"
       talk: "Воркшоп Tensorflow"
       slug: "Gerner"
       time: "17:00"
+      
+  b6:
+    - break: "Перерыв"
+      time: "18:20"
 
   b7:
-    - speaker: "Lightning Talks"
+    - break: "Lightning Talks"
       slug: "lightning-talks-1"
       time: "18:40"
 
