@@ -1,4 +1,21 @@
 speaker: |
     **Raymond Hettinger**, Python core developer
     
-title: "Static Type Checking in Python: What it does for you and what it doesn't"
+title: "Thinking about Concurrency"
+
+description: |
+    Walk through two examples of threading and multiprocessing to illustrate rules and best practices for taking advantage of concurrency.
+
+    - Processes versus threads
+    - Fear and respect.  Methodology and Confidence
+    - Role of testing and fuzzing
+    - Race conditions and sequencing issues
+    - Locks versus flags
+    - Resource isolation and atomic message queues
+    - Sequencing by placing tasks in one thread
+    - Barriers that wait for parallel threads to complete
+    - Monitoring progress of daemon threads
+    - Thread local variables versus global state
+    - Advantages and disadvantages of processes
+    - Parallelizable tasks versus intrinsically sequential tasks
+    - Performance killers, the three most common mistakes
