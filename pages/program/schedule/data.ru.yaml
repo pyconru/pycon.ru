@@ -73,7 +73,7 @@ day1:
 
   b5b:
     - speaker: "Martin Gorner, Google"
-      talk: "Воркшоп по использованию системы машинного обучения Tensorflow"
+      talk: "Воркшоп по использованию системы машинного обучения от Google Tensorflow"
       slug: "Gerner"
       time: "17:00"
     
