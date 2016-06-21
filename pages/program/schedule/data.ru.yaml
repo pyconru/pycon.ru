@@ -97,11 +97,11 @@ day1:
 
 day2:
   b0:
-      - time: "9:00"
-      talk: "Завтрак"
+    - break: "Кофе-брейк"
+      time: "12:30"
       
   b1a:
-    - speaker: "Антон Егоров, ostrovok.ru"
+    - speaker: "Антон Егоров, Ostrovok.ru"
       talk: "Докеризация веб-приложениния на Python"
       slug: "egorov"
       time: "10:00"
