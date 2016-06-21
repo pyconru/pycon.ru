@@ -1,7 +1,7 @@
 day1:
   b0: 
     - time: "10:00"
-      talk: "Регистрация"
+      break: "Регистрация"
 
   b1:
     - speaker: "Nathaniel Manista, Google"
@@ -98,7 +98,7 @@ day1:
 day2:
   b0:
     - time: "09:00"
-      talk: "Завтрак"
+      break: "Завтрак"
       
   b1a:
     - speaker: "Антон Егоров, Ostrovok.ru"
