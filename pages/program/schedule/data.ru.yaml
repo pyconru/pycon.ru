@@ -1,5 +1,5 @@
 day1:
-  b0: 
+  b0:
     - time: "10:00"
       break: "Регистрация"
 
@@ -76,8 +76,8 @@ day1:
       talk: "Воркшоп по использованию системы машинного обучения от Google Tensorflow"
       slug: "Gerner"
       time: "17:00"
-    
-      
+
+
   b6:
     - break: "Перерыв"
       time: "18:20"
@@ -96,11 +96,11 @@ day1:
       time: "20:40"
 
 day2:
-  # b0:
-    # - time: "09:00"
-      # break: "Завтрак"
-      # 
-  b1a:
+  b0:
+    - time: "09:00"
+      break: "Завтрак"
+
+  b1a1:
     - speaker: "Антон Егоров, Ostrovok.ru"
       talk: "Докеризация веб-приложениния на Python"
       slug: "egorov"
@@ -111,7 +111,7 @@ day2:
       slug: "borisov"
       time: "10:30"
 
-  b1b:
+  b1b1:
     - speaker: "Дмитрий Кукушкин, Wargaming"
       talk: "Наш опыт использования микрофреймворка falcon в Competitive Gaming"
       slug: "kukushkin"
@@ -166,7 +166,7 @@ day2:
   b5b:
     - speaker: "Raymond Hettinger, Python core developer"
       talk: "Воркшоп Descriptors and Context Managers"
-      slug: "hettinger2" 
+      slug: "hettinger2"
       time: "13:00"
 
     - speaker: "Андрей Солдатенко, Toptal"
