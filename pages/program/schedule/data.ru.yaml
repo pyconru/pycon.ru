@@ -77,6 +77,11 @@ day1:
       slug: "Gerner"
       time: "17:00"
       
+      - speaker: " "
+      talk: " "
+      slug: " "
+      time: " "
+      
   b6:
     - break: "Перерыв"
       time: "18:20"
