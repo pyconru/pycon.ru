@@ -73,14 +73,10 @@ day1:
 
   b5b:
     - speaker: "Martin Gorner, Google"
-      talk: "Воркшоп Tensorflow"
+      talk: "Воркшоп по использованию системы машинного обучения Tensorflow"
       slug: "Gerner"
       time: "17:00"
-      
-      - speaker: " "
-      talk: " "
-      slug: " "
-      time: " "
+    
       
   b6:
     - break: "Перерыв"
