@@ -1,7 +1,7 @@
 speaker: |
     **Raymond Hettinger**, Python core developer
     
-title: "Воркшоп «Descriptors and Context Managers»"
+title: "Tutorial Descriptors and Context Managers"
 
 description: |
    - Preview:  use of property() for computed fields
