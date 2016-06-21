@@ -77,6 +77,12 @@ day1:
       slug: "Gerner"
       time: "17:00"
 
+  b5с:
+    - speaker: "Raymond Hettinger, Python core developer"
+      talk: "Воркшоп «Descriptors and Context Managers»"
+      slug: "hettinger2"
+      time: "17:00"
+
   b6:
     - break: "Перерыв"
       time: "18:20"
