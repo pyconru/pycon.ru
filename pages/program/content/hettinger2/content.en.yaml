@@ -7,9 +7,8 @@ description: |
    - Preview:  use of property() for computed fields
    - Overview: How descriptors work
    - Project:  Develop descriptor based data validators
-
    - Preview:  Output redirection with print()
-   - Most common context managers:  files and locks
+   - Most common context managers: files and locks
    - Three paths through a content manager
    - Project base case:  family() help()  dis()
    - Redirection the hard way
