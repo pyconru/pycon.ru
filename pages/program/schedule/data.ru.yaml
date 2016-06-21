@@ -97,8 +97,8 @@ day1:
 
 day2:
   b0:
-    - break: "Кофе-брейк"
-      time: "12:30"
+    - time: "09:00"
+      talk: "Завтрак"
       
   b1a:
     - speaker: "Антон Егоров, Ostrovok.ru"
