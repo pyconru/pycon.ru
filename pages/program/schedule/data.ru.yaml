@@ -96,6 +96,10 @@ day1:
       time: "20:40"
 
 day2:
+  b0:
+      - time: "9:00"
+      talk: "Завтрак"
+      
   b1a:
     - speaker: "Антон Егоров, ostrovok.ru"
       talk: "Докеризация веб-приложениния на Python"
