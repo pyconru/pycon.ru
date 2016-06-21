@@ -169,9 +169,9 @@ day2:
       time: "13:45"
 
   b5b:
-    - speaker: "Raymond Hettinger, Python core developer"
-      talk: "Воркшоп Descriptors and Context Managers"
-      slug: "hettinger2"
+    - speaker: "Алексей Лавренюк, Яндекс"
+      talk: "Мастер-класс «Методика нагрузочного тестирования»"
+      slug: "lavrenuk"
       time: "13:00"
 
   b6:
