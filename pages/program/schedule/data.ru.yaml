@@ -91,12 +91,12 @@ day1:
     - speaker: "Андрей Солдатенко, Toptal"
       talk: "Building social network with Neo4j and Python"
       slug: "soldatenko"
-      time: "13:45"
+      time: "18:40"
 
   b8:
     - break: "Lightning Talks"
       slug: "lightning-talks-1"
-      time: "18:40"
+      time: "19:20"
 
   b9:
     - break: "Ужин"
