@@ -124,7 +124,7 @@ day2:
 
   b1b1:
     - speaker: "Дмитрий Кукушкин, Wargaming"
-      talk: "Наш опыт использования микрофреймворка falcon в Competitive Gaming"
+      talk: "Falcon — очередная WSGI библиотека?"
       slug: "kukushkin"
       time: "10:00"
 
