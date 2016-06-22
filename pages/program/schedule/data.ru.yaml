@@ -191,7 +191,7 @@ day2:
       time: "15:45"
 
     - speaker: "Ben Nuttall, Raspberry Pi"
-      talk: "Тема утверждается"
+      talk: "Physical computing with Python and Raspberry Pi"
       slug: "nuttall"
       time: "16:30"
 
