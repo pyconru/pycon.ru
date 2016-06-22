@@ -127,3 +127,7 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 <a name="lopuhin"></a>![lopuhin](https://img-fotki.yandex.ru/get/125649/121639917.dd/0_1598f9_3ef30392_orig) Konstantin Lopuhin, Moscow
 >
 > Developer at [Scrapinghub](http://scrapinghub.com).
+
+<a name="kukushkin"></a>![kukushkin](https://img-fotki.yandex.ru/get/48627/121639917.dd/0_15bf1a_78378ecd_orig) Dmitry Kukushkin Minsk
+>
+> Developer at [Wargaming.net](http://wargaming.com/ru/).
