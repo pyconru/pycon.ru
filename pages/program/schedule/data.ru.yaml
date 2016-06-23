@@ -49,7 +49,7 @@ day1:
     - speaker: "Екатерина Тузова, PyCharm"
       talk: "Theano: обучаем нейросеть"
       slug: "Tuzova"
-      time: "14:00"
+      time: "15:00"
 
     - speaker: "Martin Gorner, Google"
       talk: "Tensorflow and deep learning, without a PhD"
