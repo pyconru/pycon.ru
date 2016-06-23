@@ -133,7 +133,7 @@ day2:
       slug: "malyshev"
       time: "10:30"
 
- b1с1:
+  b1с1:
     - speaker: "David MacIver, Hypothesis"
       talk: "Воркшоп «Property-based testing with Hypothesis»"
       slug: "maciver"
