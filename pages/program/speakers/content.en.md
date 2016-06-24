@@ -64,6 +64,10 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 >
 > Linkedin: [Aleksandr Koshkin](https://www.linkedin.com/in/aleksandr-koshkin-688525b6)  
 
+<a name="andrew_vlasovskix"></a>![andrew_vlasovskix](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) Андрей Власовских, Санкт-Петербург
+>
+> Python Developer at [PyCharm](https://www.jetbrains.com/pycharm/).
+
 <a name="andrew-sumin"></a>![sumin](https://img-fotki.yandex.ru/get/42385/121639917.db/0_14b556_84f3e61d_orig) Andrey Sumin, Moscow
 
 > Team Lead, Products team at [HeadHunter Group](https://ekaterinburg.hh.ru).
