@@ -65,6 +65,13 @@ He's currently located in Austria and working as a partner for Sentry and as an 
 >
 > Linkedin: [Aleksandr Koshkin](https://www.linkedin.com/in/aleksandr-koshkin-688525b6)  
 
+<a name="vlasovskix"></a>![vlasovskix](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) Андрей Власовских, Санкт-Петербург
+>
+> Разработчик PyCharm и эмулятора Vim для сред программирования в JetBrains. Автор библиотеки funcparserlib для написания парсеров на Python в функциональном стиле. Организатор встреч по функциональному программированию. Участвует в разработке PEP 484: Type Hints.
+>
+> Блог: [pirx.ru](http://pirx.ru/)  
+> GitHub: [vlasovskikh](https://github.com/vlasovskikh)
+
 <a name="andrew-sumin"></a>![sumin](https://img-fotki.yandex.ru/get/42385/121639917.db/0_14b556_84f3e61d_orig) Андрей Сумин, Москва
 
 > Тимлид команды Продукты в [HeadHunter](https://ekaterinburg.hh.ru), до этого — разработчик команды SRE там же. Мейнтейнер Питон-инфраструктуры hh.ru.
