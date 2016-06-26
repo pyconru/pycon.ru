@@ -98,7 +98,7 @@
           background: @blue;
           clear: both;
         }
-        &3a, &3b, &5a, &5b {
+        &3a, &3b {
           background: @peach;
           width: 380px;
           display: inline-block;
@@ -117,14 +117,25 @@
           margin-right: 20px;
         }
 
-        &5a {
-        position: absolute;
-        top: 0;
-        bottom: 0;
-      }
+        &5a, &5b, &5c {
+          width: 240px;
+          float: left;
+          background-color: @peach;
+        }
+        &5b, &5c {
+          position: absolute;
+          top: 0;
+          bottom: 0;
+        }
         &5b {
-        float: right;
-      }
+            left: 280px;
+            background: @green;
+        }
+        &5c {
+            left: 280px * 2;
+            background: @pink;
+        }
+
         &4, &6, &7, &9 {
           clear: both;
         }
@@ -175,6 +186,24 @@
           bottom: 0;
           left: 420px;
         }
+        &1a1, &1b1, &1c1 {
+          width: 240px;
+          float: left;
+          background-color: @peach;
+        }
+        &1b1, &1c1 {
+          position: absolute;
+          top: 0;
+          bottom: 0;
+        }
+        &1b1 {
+            left: 280px;
+            background: @green;
+        }
+        &1c1 {
+            left: 280px * 2;
+            background: @pink;
+        }
         &1a2 {
           position: absolute;
           top: 0;
@@ -215,7 +244,7 @@
         &5a {
           background: @peach;
         }
-         &5b {
+        &5b {
           background: @peach;
         }
         &7 {
