@@ -115,14 +115,14 @@ msgstr "День"
 msgid "Now live!"
 msgstr "Уже идёт!"
 
-msgid "Large conference hall"
+msgid "Зал Таруса"
 msgstr "Большой конференц-зал"
 
-msgid "Small conference hall"
+msgid "Зал Трансформер"
 msgstr "Малый конференц-зал"
 
 msgid "Conference hall in 3rd building"
-msgstr "Конференц-зал в 3-м корпусе"
+msgstr "Конференц-зал в 10-м корпусе"
 
 msgid "Video & Slides"
 msgstr "Видео и презентация"
