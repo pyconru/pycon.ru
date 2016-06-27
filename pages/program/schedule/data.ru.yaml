@@ -113,7 +113,7 @@ day2:
 
   b1a1:
     - speaker: "Антон Егоров, Ostrovok.ru"
-      talk: "Докеризация веб-приложениния на Python"
+      talk: "Докеризация веб-приложения на Python"
       slug: "egorov"
       time: "10:00"
 
