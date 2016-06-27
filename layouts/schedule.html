@@ -69,7 +69,7 @@
       {% endfor %}
 
       <div class="columns-wrapper">
-        {% for block in ['b5a', 'b5b'] %}
+        {% for block in ['b5a', 'b5b', 'b5c'] %}
           {{ render_block(day1, block, halls_day_1) }}
         {% endfor %}
       </div>
@@ -83,6 +83,7 @@
   {% set halls_day_2 = {
     'b1a1': lch,
     'b1b1': sch,
+    'b1c1': trdch,
     'b3a': lch,
     'b3b': sch,
     'b5a': lch,
@@ -100,7 +101,7 @@
       {% endfor %}
 
       <div class="columns-wrapper">
-        {% for block in ['b1a1', 'b1b1'] %}
+        {% for block in ['b1a1', 'b1b1', 'b1c1'] %}
           {{ render_block(day2, block, halls_day_2) }}
         {% endfor %}
       </div>

@@ -77,7 +77,7 @@ day1:
       slug: "Gerner"
       time: "17:00"
 
-  b5с:
+  b5c:
     - speaker: "Raymond Hettinger, Python core developer"
       talk: "Воркшоп «Descriptors and Context Managers»"
       slug: "hettinger2"
@@ -133,7 +133,7 @@ day2:
       slug: "malyshev"
       time: "10:30"
 
-  b1с1:
+  b1c1:
     - speaker: "David MacIver, Hypothesis"
       talk: "Воркшоп «Property-based testing with Hypothesis»"
       slug: "maciver"
