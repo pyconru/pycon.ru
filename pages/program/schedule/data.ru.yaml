@@ -73,13 +73,13 @@ day1:
 
   b5b:
     - speaker: "Martin Gorner, Google"
-      talk: "Воркшоп по использованию системы машинного обучения от Google Tensorflow"
+      talk: "Воркшоп по использованию системы машинного обучения от Google Tensorflow (2 часа)"
       slug: "Gerner"
       time: "17:00"
 
   b5c:
     - speaker: "Raymond Hettinger, Python core developer"
-      talk: "Воркшоп «Descriptors and Context Managers»"
+      talk: "Воркшоп «Descriptors and Context Managers» (2 часа)"
       slug: "hettinger2"
       time: "17:00"
 
@@ -135,7 +135,7 @@ day2:
 
   b1c1:
     - speaker: "David MacIver, Hypothesis"
-      talk: "Воркшоп «Property-based testing with Hypothesis»"
+      talk: "Воркшоп «Property-based testing with Hypothesis» (2 часа 15 минут)"
       slug: "maciver"
       time: "10:00"
 
