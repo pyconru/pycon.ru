@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
@@ -57,7 +57,7 @@ msgid "Speakers"
 msgstr "Докладчики"
 
 #: index.html:57
-msgid "See Venue for more information about conference location." 
+msgid "See Venue for more information about conference location."
 msgstr "Узнать более подробно о месте проведения"
 
 #: _base.html:55
@@ -115,10 +115,10 @@ msgstr "День"
 msgid "Now live!"
 msgstr "Уже идёт!"
 
-msgid "LARGE CONFERENCE HALL"
+msgid "Large conference hall"
 msgstr "Зал Таруса"
 
-msgid "SMALL CONFERENCE HALL"
+msgid "Small conference hall"
 msgstr "Зал Трансформер"
 
 msgid "Conference hall in 3rd building"
