@@ -135,7 +135,7 @@ day2:
 
   b1c1:
     - speaker: "David MacIver, Hypothesis"
-      talk: "Воркшоп «Property-based testing with Hypothesis» (2 часа 15 минут)"
+      talk: "Воркшоп «Property-based testing with Hypothesis» (2,5 часа)"
       slug: "maciver"
       time: "10:00"
 
