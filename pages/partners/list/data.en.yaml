@@ -26,6 +26,11 @@ sections:
   - logo: https://img-fotki.yandex.ru/get/47284/121639917.dd/0_15b4f6_e8e9d7f1_orig
     link: http://scrapinghub.com
 
+- name: "Afterparty sponsor"
+  sponsors:
+  - logo: https://img-fotki.yandex.ru/get/128446/356682190.0/0_13fc83_db32f188_orig
+    link: http://jobsatkiwi.com/?
+
 - name: "Supported by"
   sponsors:
     
