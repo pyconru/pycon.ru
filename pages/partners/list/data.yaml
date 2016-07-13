@@ -18,6 +18,11 @@ sections:
   - logo: https://img-fotki.yandex.ru/get/38765/121639917.dd/0_15c6f0_34a9533_orig
     link: http://wargaming.com/ru/
 
+- name: "Cпонсор афтепати"
+  sponsors:
+  - logo: https://img-fotki.yandex.ru/get/128446/356682190.0/0_13fc83_db32f188_orig
+    link: http://jobsatkiwi.com/?
+
 - name: "Бронзовые спонсоры"
   sponsors:
   - logo: https://img-fotki.yandex.ru/get/29815/121639917.dd/0_154e1b_de33ad43_orig
