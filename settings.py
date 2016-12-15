@@ -7,7 +7,7 @@ from carcade.utils import patterns
 
 LANGUAGES = ('en', 'ru')
 
-BASE_URL = '/2016/'
+BASE_URL = '/2017/'
 STATIC_URL = BASE_URL
 
 DEFAULT_PAGE = 'conference/about'
@@ -35,6 +35,6 @@ ORDERING = {
     'participation': ['price', 'venue', 'hotels'],
     'partners': ['list', 'join'],
     'program': ['speakers', 'content', 'schedule', 'Unconference'],
-    'archive': ['2013', '2014', '2015'],
+    'archive': ['2013', '2014', '2015', '2016'],
     'program/content': [],
 }
