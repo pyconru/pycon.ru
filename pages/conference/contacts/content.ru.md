@@ -1,5 +1,5 @@
 ####Организатор конференции:####
-[![IT-People](http://dropbucket.ru/pycon/it-people)](http://www.it-people.ru/)
+[![IT-People](https://img-fotki.yandex.ru/get/176331/121639917.103/0_180a79_f89b8c60_orig)](http://www.it-people.ru/)
 
 ####Наши контакты:####
 
