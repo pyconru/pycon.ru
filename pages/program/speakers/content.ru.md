@@ -1,4 +1,4 @@
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc31_-NxasiRNrcK5bUFVmpaukyIauGRotJ1N4zwRXJS8JP6A/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc31_-NxasiRNrcK5bUFVmpaukyIauGRotJ1N4zwRXJS8JP6A/viewform?embedded=true" width="500" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
 
 
 
