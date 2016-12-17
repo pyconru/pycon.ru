@@ -34,7 +34,7 @@
 
 <!-- <b>Одноместные стандартные номера закончились.</b> Остались только большие номера супериоры, поэтому цена за билет категории «Хочу жить один» выросла.  -->
 
-<form id="tickets_form" action="https://money.yandex.ru/eshop.xml" class="tickets">
+<!-- <form id="tickets_form" action="https://money.yandex.ru/eshop.xml" class="tickets">
   <div id="tickets_picker"></div>
   <div class="tickets--field">
     <label for="tickets_email" class="tickets--label">Почта</label>
@@ -123,4 +123,5 @@
 </form>
 
 <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-<script src="/2016/js/tickets-0.js"></script>
+<script src="/2016/js/tickets-0.js"></script>  -->
+
