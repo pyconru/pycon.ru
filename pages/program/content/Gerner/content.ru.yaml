@@ -1,7 +1,0 @@
-speaker: |
-    **Martin Gorner**, Google
-    
-title: "Workshop «Tensorflow»"
-
-description: |
-   Preparation instructions: make sure you come with the [necessary software](https://github.com/martin-gorner/tensorflow-mnist-tutorial/blob/master/INSTALL.txt) installed.
