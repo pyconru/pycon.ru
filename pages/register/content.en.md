@@ -11,4 +11,3 @@
 - Entertainment 3 July
 - Bus from the city to the venue and back. -->
 
-<!--[REGISTRATION -->](http://pycon.ru/2016/register/)-->
