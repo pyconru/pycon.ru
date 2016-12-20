@@ -1,4 +1,5 @@
-<b>Price PyCon Russia 2016:</b>
+
+<!--<b>Price PyCon Russia 2016:</b>
 
 * 15 000 rub.
 
@@ -8,6 +9,6 @@
 - Lunch and dinner 3 July, breakfast and lunch 4 July   
 - All coffee breaks  
 - Entertainment 3 July
-- Bus from the city to the venue and back. 
+- Bus from the city to the venue and back. -->
 
-[REGISTRATION -->](http://pycon.ru/2016/register/)
+<!--[REGISTRATION -->](http://pycon.ru/2016/register/)-->
