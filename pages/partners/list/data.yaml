@@ -1,1 +1,6 @@
+sections:
 
+- name: "Информационные партнёры"
+  sponsors:
+  - logo: https://img-fotki.yandex.ru/get/198361/121639917.103/0_1859da_e57e04de_orig
+    link: http://by.pycon.org
