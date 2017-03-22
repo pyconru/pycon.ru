@@ -134,4 +134,4 @@ msgid "July"
 msgstr "Июль"
 
 msgid "PyCon Russia 2017 will take place on the 16th and 17th of July"
-msgstr "PYCON RUSSIA 2017 пройдет 16 и 17 июля"
+msgstr "PYCON RUSSIA 2017 пройдёт 16 и 17 июля"
