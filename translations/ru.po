@@ -90,8 +90,8 @@ msgstr "Организаторы"
 
 #: index.html:21
 #: &#8209; -- non-breaking hyphen
-msgid "PyCon Russia 2017, July&nbsp;9&#8209;10"
-msgstr "PyCon Russia 2017, 9&#8209;10&nbsp;июля"
+msgid "PyCon Russia 2017, July&nbsp;16&#8209;17"
+msgstr "PyCon Russia 2017, 16&#8209;17&nbsp;июля"
 
 #: index.html:26
 msgid "days"
@@ -133,5 +133,5 @@ msgstr "Итоги"
 msgid "July"
 msgstr "Июль"
 
-msgid "PyCon Russia 2017 will take place on the 9th and 10th of July"
-msgstr "PYCON RUSSIA 2017 пройдет 9 и 10 июля"
+msgid "PyCon Russia 2017 will take place on the 16th and 17th of July"
+msgstr "PYCON RUSSIA 2017 пройдет 16 и 17 июля"
