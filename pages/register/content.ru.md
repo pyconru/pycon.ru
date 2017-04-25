@@ -22,7 +22,7 @@
 
 <!-- <b>Специальная цена для студентов</b> — 8000 рублей. Цена фиксированная, действует все время продажи билетов. Чтобы купить билет по спец.цене, пришлите скан студенческого на [om.itpeople@gmail.com](om.itpeople@gmail.com), в ответ мы вышлем промокод. Введя этот код, вы сможете купить билет со скидкой.-->
 
-Если участие будет оплачивать <b>юридическое лицо</b>, укажите реквизиты в анкете регистрации, и мы вышлем вам счет на оплату. Либо напишите на [om.itpeople@gmail.com](om.itpeople@gmail.com), и мы выставим вам счет. 
+<!-- Если участие будет оплачивать <b>юридическое лицо</b>, укажите реквизиты в анкете регистрации, и мы вышлем вам счет на оплату. Либо напишите на [om.itpeople@gmail.com](om.itpeople@gmail.com), и мы выставим вам счет. 
 
 <form id="tickets_form" action="https://money.yandex.ru/eshop.xml" class="tickets">
   <div id="tickets_picker"></div>
@@ -113,4 +113,4 @@
 </form>
 
 <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-<script src="/2016/js/tickets-0.js"></script>  
+<script src="/2016/js/tickets-0.js"></script>  -->
