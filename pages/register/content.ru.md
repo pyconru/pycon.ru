@@ -66,7 +66,7 @@
         value="company"
         id="tickets_payment_company"
         class="tickets--radio_input set_action_on_check"
-        data-saic-action="https://formspree.io/partyordie@icloud.com"
+        data-saic-action="https://formspree.io/om.itpeople@gmail.com"
         data-saic-method="post"
       />
       За меня заплатит компания
