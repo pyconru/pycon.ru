@@ -1,6 +1,6 @@
-<!-- Регистрация скоро откроется. -->
+Регистрация скоро откроется. 
 
- Чтобы принять участие в конференции, зарегистрируйтесь и оплатите билет.
+<!--  Чтобы принять участие в конференции, зарегистрируйтесь и оплатите билет.
 
 <b>Первые 50 билетов стоят:</b>
 
@@ -115,4 +115,4 @@
 </form>
 
 <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-<script src="/2017/js/tickets-1.js"></script> 
+<script src="/2017/js/tickets-1.js"></script> -->
