@@ -1,4 +1,4 @@
-<!-- Регистрация скоро откроется. -->
+<!--  Регистрация скоро откроется. -->
 
  Чтобы принять участие в конференции, зарегистрируйтесь и оплатите билет.
 
@@ -25,6 +25,8 @@
  <b>Специальная цена для студентов</b> — 9000 рублей. Цена фиксированная, действует все время продажи билетов. Чтобы купить билет по спец.цене, пришлите скан студенческого на [om.itpeople@gmail.com](om.itpeople@gmail.com), в ответ мы вышлем промокод. Введя этот код, вы сможете купить билет со скидкой.
 
 Если участие будет оплачивать <b>юридическое лицо</b>, укажите реквизиты в анкете регистрации, и мы вышлем вам счет на оплату. Либо напишите на [om.itpeople@gmail.com](om.itpeople@gmail.com), и мы выставим вам счет.
+
+<b>Обратите внимание:</b> по правилам отеля заселение проходит с 17.30. До заселения в номера вещи можно будет оставить в специальном месте. Если вам принципильно важен «ранний заезд», напишите нам об этом заранее. Это платная услуга.
 
 <form id="tickets_form" action="https://money.yandex.ru/eshop.xml" class="tickets">
   <div id="tickets_picker"></div>
@@ -66,7 +68,7 @@
         value="company"
         id="tickets_payment_company"
         class="tickets--radio_input set_action_on_check"
-        data-saic-action="https://formspree.io/partyordie@icloud.com"
+        data-saic-action="https://formspree.io/om.itpeople@gmail.com"
         data-saic-method="post"
       />
       За меня заплатит компания
@@ -107,8 +109,8 @@
   <div class="tickets--warning"></div>
   <input type="submit" value="Купить билеты" class="tickets--submit" />
 
-  <input type="hidden" name="shopId" value="113292" />
-  <input type="hidden" name="scid" value="43168" />
+  <input type="hidden" name="shopId" value="135957" />
+  <input type="hidden" name="scid" value="98736" />
   <input type="hidden" name="paymentType" value="AC" />
   <input type="hidden" name="orderDetails" id="tickets_order_details" />
   <input type="text" name="_gotcha" style="display:none" />
