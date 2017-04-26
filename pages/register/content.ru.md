@@ -107,7 +107,7 @@
   <div class="tickets--warning"></div>
   <input type="submit" value="Купить билеты" class="tickets--submit" />
 
-  <input type="hidden" name="shopId" value="113292" />
+  <input type="hidden" name="shopId" value="135957" />
   <input type="hidden" name="scid" value="43168" />
   <input type="hidden" name="paymentType" value="AC" />
   <input type="hidden" name="orderDetails" id="tickets_order_details" />
