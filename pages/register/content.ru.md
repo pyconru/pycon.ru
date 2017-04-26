@@ -1,16 +1,6 @@
-Регистрация скоро откроется. 
+<!--  Регистрация скоро откроется. -->
 
-Первые 50 билетов стоят:</b>
-
-• 14 500 (при заселении в двухместный или трехместный номер)
-
-• 17 000 (при одноместном заселении)
-
-Специальная цена для студентов</b> — 9000 рублей. 
-
-Билет для второй половинки/ребенка — 5000 рублей.
-
-<!--  Чтобы принять участие в конференции, зарегистрируйтесь и оплатите билет.
+Чтобы принять участие в конференции, зарегистрируйтесь и оплатите билет.
 
 <b>Первые 50 билетов стоят:</b>
 
@@ -118,11 +108,11 @@
   <input type="submit" value="Купить билеты" class="tickets--submit" />
 
   <input type="hidden" name="shopId" value="135957" />
-  <input type="hidden" name="scid" value="43168" />
+  <input type="hidden" name="scid" value="98736" />
   <input type="hidden" name="paymentType" value="AC" />
   <input type="hidden" name="orderDetails" id="tickets_order_details" />
   <input type="text" name="_gotcha" style="display:none" />
 </form>
 
 <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-<script src="/2017/js/tickets-1.js"></script> -->
+<script src="/2017/js/tickets-1.js"></script> 
