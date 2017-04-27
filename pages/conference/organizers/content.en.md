@@ -15,7 +15,7 @@
 
 ##Organization team
 
-![gerasimovich](https://img-fotki.yandex.ru/get/195990/121639917.103/0_180d4e_d97021d0_orig)  [Yulia Gerasimovich](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266), CEO of [IT-People.ru](http://it-people.ru/), organizer of a large number of IT conferences and educational activities
+![gerasimovich](https://img-fotki.yandex.ru/get/195990/121639917.103/0_180d4e_d97021d0_orig) Yulia Gerasimovich, CEO of [IT-People.ru](http://it-people.ru/), organizer of a large number of IT conferences and educational activities
 
 ![voronina](https://img-fotki.yandex.ru/get/42692/121639917.103/0_180d54_28c36dde_orig) Elena Voronina
 
