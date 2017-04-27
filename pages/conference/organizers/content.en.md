@@ -1,10 +1,11 @@
 ##Program Committee
+![shtan](https://img-fotki.yandex.ru/get/195648/121639917.103/0_180d49_899da6d1_orig) [Danila Shtan]<br>CTO, [Tochka]((https://tochka.com)
 
-![imankulov](https://img-fotki.yandex.ru/get/94596/121639917.103/0_180d47_c749c124_orig) Roman Imankulov, software developer at Doist Inc
+![imankulov](https://img-fotki.yandex.ru/get/94596/121639917.103/0_180d47_c749c124_orig) Roman Imankulov, software developer, [Doist Inc](https://doist.com)
 
-![vlasovskii](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) [Andrew Vlasovskih](http://pirx.ru), developer of IDE PyCharm, JetBrains
+![vlasovskii](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) [Andrew Vlasovskih](http://pirx.ru), developer of IDE PyCharm, [JetBrains](https://www.jetbrains.com)
 
-![ovchinnikov](https://img-fotki.yandex.ru/get/41138/121639917.dc/0_14bbae_d29aa7cc_orig) Dmitry Ovchinnikov, Senior Software Engineer, Wargaming.net
+![ovchinnikov](https://img-fotki.yandex.ru/get/41138/121639917.dc/0_14bbae_d29aa7cc_orig) Dmitry Ovchinnikov, Software Engineer, [pipedrive.com](https://www.pipedrive.com/ru) 
 
 ![soldatenko](https://img-fotki.yandex.ru/get/251308/356682190.0/0_1597f8_df717725_orig) Andrii Soldatenko<br>developer, Persollo, [Toptal](https://www.toptal.com).
 
