@@ -1,5 +1,7 @@
 
 ##Программный комитет
+![shtan](https://img-fotki.yandex.ru/get/195648/121639917.103/0_180d49_899da6d1_orig) [Данила Штань](http://ru.linkedin.com/pub/danila-shtan/38/57/842)<br>CTO в Точка
+
 ![imankulov](https://img-fotki.yandex.ru/get/94596/121639917.103/0_180d47_c749c124_orig) [Роман Иманкулов](http://www.linkedin.com/pub/roman-imankulov/44/761/910)<br>разработчик Doist Inc
 
 ![vlasovskii](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) [Андрей Власовских](http://pirx.ru)<br> разработчик IDE PyCharm в JetBrains
