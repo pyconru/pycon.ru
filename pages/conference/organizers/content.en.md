@@ -7,7 +7,7 @@
 
 ![ovchinnikov](https://img-fotki.yandex.ru/get/41138/121639917.dc/0_14bbae_d29aa7cc_orig) Dmitry Ovchinnikov, Software Engineer, [pipedrive.com](https://www.pipedrive.com/ru) 
 
-![soldatenko](https://img-fotki.yandex.ru/get/251308/356682190.0/0_1597f8_df717725_orig) Andrii Soldatenko<br>developer, Persollo, [Toptal](https://www.toptal.com).
+![soldatenko](https://img-fotki.yandex.ru/get/251308/356682190.0/0_1597f8_df717725_orig) Andrii Soldatenko<br>developer, [Persollo](https://persollo.com), [Toptal](https://www.toptal.com)
 
 ![suleymanova](https://img-fotki.yandex.ru/get/195132/121639917.103/0_180d52_5de239c0_orig) Evgenia Suleymanova<br>IT-People
 
