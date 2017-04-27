@@ -16,7 +16,7 @@
 
 
 ##Организационный комитет
-![gerasimovich](https://img-fotki.yandex.ru/get/195990/121639917.103/0_180d4e_d97021d0_orig) [Юлия Герасимович](http://www.linkedin.com/pub/yulia-gerasimovich/50/623/266)<br>директор компании [IT-People.ru](http://it-people.ru/)
+![gerasimovich](https://img-fotki.yandex.ru/get/195990/121639917.103/0_180d4e_d97021d0_orig) Юлия Герасимович<br>директор компании [IT-People.ru](http://it-people.ru/)
 
 ![voronina](https://img-fotki.yandex.ru/get/42692/121639917.103/0_180d54_28c36dde_orig) Елена Воронина
 
