@@ -1,5 +1,5 @@
 ##Program Committee
-![shtan](https://img-fotki.yandex.ru/get/195648/121639917.103/0_180d49_899da6d1_orig) [Danila Shtan]<br>CTO, [Tochka](https://tochka.com)
+![shtan](https://img-fotki.yandex.ru/get/195648/121639917.103/0_180d49_899da6d1_orig) Danila Shtan<br>CTO, [Tochka](https://tochka.com)
 
 ![imankulov](https://img-fotki.yandex.ru/get/94596/121639917.103/0_180d47_c749c124_orig) Roman Imankulov, software developer, [Doist Inc](https://doist.com)
 
