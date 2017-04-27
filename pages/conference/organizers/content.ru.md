@@ -2,11 +2,11 @@
 ##Программный комитет
 ![shtan](https://img-fotki.yandex.ru/get/195648/121639917.103/0_180d49_899da6d1_orig) Данила Штань<br>CTO в [Точка](https://tochka.com)
 
-![imankulov](https://img-fotki.yandex.ru/get/94596/121639917.103/0_180d47_c749c124_orig) Роман Иманкулов<br>разработчик Doist Inc
+![imankulov](https://img-fotki.yandex.ru/get/94596/121639917.103/0_180d47_c749c124_orig) Роман Иманкулов<br>разработчик [Doist Inc](https://doist.com)
 
-![vlasovskii](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) [Андрей Власовских](http://pirx.ru)<br> разработчик IDE PyCharm в JetBrains
+![vlasovskii](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) [Андрей Власовских](http://pirx.ru)<br> разработчик IDE PyCharm в [JetBrains](https://www.jetbrains.com)
 
-![ovchinnikov](https://img-fotki.yandex.ru/get/41138/121639917.dc/0_14bbae_d29aa7cc_orig) Дмитрий Овчинников<br>Software Engineer [pipedrive.com](https://www.pipedrive.com/ru) 
+![ovchinnikov](https://img-fotki.yandex.ru/get/41138/121639917.dc/0_14bbae_d29aa7cc_orig) Дмитрий Овчинников<br>Software Engineer в [pipedrive.com](https://www.pipedrive.com/ru) 
 
 ![soldatenko](https://img-fotki.yandex.ru/get/251308/356682190.0/0_1597f8_df717725_orig) Андрей Солдатенко<br>CTO в Persollo, python-разработчик в [Toptal](https://www.toptal.com).
 
