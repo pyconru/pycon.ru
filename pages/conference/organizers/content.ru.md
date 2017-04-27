@@ -8,7 +8,7 @@
 
 ![ovchinnikov](https://img-fotki.yandex.ru/get/41138/121639917.dc/0_14bbae_d29aa7cc_orig) Дмитрий Овчинников<br>Software Engineer в [pipedrive.com](https://www.pipedrive.com/ru) 
 
-![soldatenko](https://img-fotki.yandex.ru/get/251308/356682190.0/0_1597f8_df717725_orig) Андрей Солдатенко<br>CTO в Persollo, python-разработчик в [Toptal](https://www.toptal.com).
+![soldatenko](https://img-fotki.yandex.ru/get/251308/356682190.0/0_1597f8_df717725_orig) Андрей Солдатенко<br>CTO в [Persollo](https://persollo.com), python-разработчик в [Toptal](https://www.toptal.com).
 
 ![suleymanova](https://img-fotki.yandex.ru/get/195132/121639917.103/0_180d52_5de239c0_orig) Евгения Сулейманова<br>IT-People
 
