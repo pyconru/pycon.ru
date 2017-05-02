@@ -1,5 +1,10 @@
 sections:
 
+- name: "GOLD SPONSOR"
+  sponsors:
+  - logo: https://img-fotki.yandex.ru/get/233044/356682190.0/0_159e95_4c0dd78a_orig
+    link: https://adcombo.com
+    
 - name: "Information Partners"
   sponsors:
   - logo: https://img-fotki.yandex.ru/get/198361/121639917.103/0_1859da_e57e04de_orig
