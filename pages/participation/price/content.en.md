@@ -5,11 +5,17 @@
 • 17 000 rubles (for single occupancy) 
 
 <b>Your ticket includes:</b>
+
 •Participation in the conference (2 days)
+
 •Hotel accommodation
+
 •Lunch and dinner on July, 16 and breakfast and lunch on July, 17
+
 •All coffee breaks 
+
 •Entertainment 
+
 •Bus from the city to the venue and back. 
 
 
