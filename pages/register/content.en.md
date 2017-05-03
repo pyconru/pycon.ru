@@ -24,3 +24,5 @@ To participate in the conference, you should register and pay for the ticket.
 <b>Special price for students — 9 000 rubles.</b> To buy a ticket for a special price, send a student scan to om.itpeople@gmail.com, in return we will send you a promotional code. After entering this code, you will be able to buy a discount ticket.
 
 <b>Ticket for a partner / child — 6 000 rubles.</b> It includes hotel accommodation, meals, coffee breaks, participation in an afterparty, but not visiting reports.
+
+[REGISTRATION -->](http://pycon.ru/2017/register/)
