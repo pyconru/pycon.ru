@@ -1,2 +1,2 @@
 ## Hotel map “Yakhonty Tarusa”
-![karta](https://img-fotki.yandex.ru/get/30086/121639917.dd/0_15da2b_478a407b_orig)
+![map](https://img-fotki.yandex.ru/get/170749/121639917.112/0_193a9e_f544b30b_orig)
