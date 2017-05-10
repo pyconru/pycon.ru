@@ -9,7 +9,7 @@
 
 ![soldatenko](https://img-fotki.yandex.ru/get/251308/356682190.0/0_1597f8_df717725_orig) Andrii Soldatenko<br>developer, [Persollo](https://persollo.com), [Toptal](https://www.toptal.com)
 
-![patrushev](https://img-fotki.yandex.ru/get/246231/121639917.112/0_193b50_3215ed11_orig) Anton Patrushev<br>CTO, [Spherical](http://spherical.co)
+![patrushev](https://img-fotki.yandex.ru/get/246231/121639917.112/0_193b50_3215ed11_orig) Anton Patrushev<br>CTO, [Spherical](https://www.spherical.pm)
 
 ![suleymanova](https://img-fotki.yandex.ru/get/195132/121639917.103/0_180d52_5de239c0_orig) Evgenia Suleymanova<br>IT-People
 
