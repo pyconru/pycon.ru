@@ -21,7 +21,7 @@
 
 ![voronina](https://img-fotki.yandex.ru/get/42692/121639917.103/0_180d54_28c36dde_orig) Elena Voronina
 
-![shulyndina](https://img-fotki.yandex.ru/get/51236/121639917.103/0_180d53_d3c83db2_orig) Ekaterina Shulyndina
+![shulyndina](https://img-fotki.yandex.ru/get/221708/121639917.112/0_193e88_56a14259_orig) Ekaterina Shulyndina
 
 ![kudinova](https://img-fotki.yandex.ru/get/42692/121639917.103/0_180d50_5b7d76ae_orig) Ksenya Kudinova
 
