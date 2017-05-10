@@ -7,16 +7,16 @@
 > Twitter: [@paulhildebrandt](https://twitter.com/paulhildebrandt)  
 > GitHub: [@paulhildebrandt](https://github.com/paulhildebrandt)  
 > IMDB: [Paul Hildebrandt](http://www.imdb.com/name/nm0383880/)
-
-
-<a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Артём Малышев, Нижний Новгород
 >
-> Senior python developer в компании [Positive Technologies](http://www.ptsecurity.ru). Последние два года занимается разработкой распределённых систем. 
+>
+>
+
+<a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Артём Малышев, независымый разработчик, Нижний Новгород
 >
 > Twitter: [@proofit404]( https://twitter.com/proofit404)  
 > Github: [proofit404](https://github.com/proofit404/)
 >
 ><b>Как написать свой debugger</b>
-
+>
 >Наверное, только очень талантливый программист не нуждается в средствах отладки. Поменять значение переменных, посмотреть шаг за шагом ход исполнения программы, разложить всё по полочкам будет тяжело без Pdb. О том, как эти инструменты устроены, какие внутренние механизмы Python VM задействуют и от каких ограничений платформы страдают, и будет мой доклад.
 
