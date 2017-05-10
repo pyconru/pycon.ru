@@ -26,6 +26,6 @@
 
 ![kudinova](https://img-fotki.yandex.ru/get/42692/121639917.103/0_180d50_5b7d76ae_orig) Ксения Кудинова
 
-![pervuhina](https://img-fotki.yandex.ru/get/56406/121639917.112/0_193e87_bdbf4deb_orig) Мария Первухина
+![pervuhina](https://img-fotki.yandex.ru/get/106693/121639917.113/0_193e89_8faf2c4d_orig) Мария Первухина
 
 
