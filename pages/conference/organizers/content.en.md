@@ -25,4 +25,4 @@
 
 ![kudinova](https://img-fotki.yandex.ru/get/42692/121639917.103/0_180d50_5b7d76ae_orig) Ksenya Kudinova
 
-![pervuhina](https://img-fotki.yandex.ru/get/195990/121639917.103/0_180d51_c4688eef_orig) Maria Pervuhina
+![pervuhina](https://img-fotki.yandex.ru/get/56406/121639917.112/0_193e87_bdbf4deb_orig) Maria Pervuhina
