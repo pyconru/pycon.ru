@@ -7,7 +7,6 @@
 > Twitter: [@paulhildebrandt](https://twitter.com/paulhildebrandt)  
 > GitHub: [@paulhildebrandt](https://github.com/paulhildebrandt)  
 > IMDB: [Paul Hildebrandt](http://www.imdb.com/name/nm0383880/)
->
 
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Артём Малышев, независимый разработчик, Нижний Новгород
 
