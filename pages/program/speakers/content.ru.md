@@ -8,10 +8,8 @@
 > GitHub: [@paulhildebrandt](https://github.com/paulhildebrandt)  
 > IMDB: [Paul Hildebrandt](http://www.imdb.com/name/nm0383880/)
 >
->
->
 
-<a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Артём Малышев, независымый разработчик, Нижний Новгород
+<a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Артём Малышев, независимый разработчик, Нижний Новгород
 >
 > Twitter: [@proofit404]( https://twitter.com/proofit404)  
 > Github: [proofit404](https://github.com/proofit404/)
