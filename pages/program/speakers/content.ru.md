@@ -16,4 +16,4 @@
 
 <a name="Tsyganov"></a>![Tsyganov](https://img-fotki.yandex.ru/get/52127/121639917.dc/0_14ff24_5646b492_orig) Иван Цыганов, Санкт-Петербург
 
-> Старший программист в компании Positive Technologies.
+> Старший программист в компании [Positive Technologies](http://www.ptsecurity.ru).
