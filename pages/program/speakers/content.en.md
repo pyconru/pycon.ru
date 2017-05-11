@@ -4,6 +4,12 @@
 
 > Twitter: [@paulhildebrandt](https://twitter.com/paulhildebrandt), GitHub: [@paulhildebrandt](https://github.com/paulhildebrandt), IMDB: [Paul Hildebrandt](http://www.imdb.com/name/nm0383880/)
 
+<a name="shashkova"></a>![shashkova](https://img-fotki.yandex.ru/get/195637/121639917.113/0_193f84_31ec8a92_orig) Elizabeth Shashkova, St. Petersburg
+
+>  Developer at [JetBrains](https://www.jetbrains.com).
+
+> Twitter: [@lisa_shashkova](https://twitter.com/lisa_shashkova)
+> Github: [Elizaveta239](https://github.com/Elizaveta239)
 
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Artem Malyshev, Independent developer, Nizhny Novgorod
 
