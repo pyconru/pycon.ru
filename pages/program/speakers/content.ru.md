@@ -9,6 +9,7 @@
 > Разработчик в команде PyCharm IDE в компании [JetBrains](https://www.jetbrains.com). Занимается отладчиком и интегрированной Python консолью.
 
 > Twitter: [@lisa_shashkova](https://twitter.com/lisa_shashkova)
+
 > Github: [Elizaveta239](https://github.com/Elizaveta239)
 
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Артём Малышев, Нижний Новгород
