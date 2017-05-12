@@ -15,6 +15,8 @@
 
 > Senior python developer at [Positive Technologies](http://www.ptsecurity.com).
 
+> Github: [magniff](https://github.com/magniff)
+
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Artem Malyshev, Independent developer, Nizhny Novgorod
 
 > Twitter: [@proofit404]( https://twitter.com/proofit404)  
