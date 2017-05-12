@@ -14,8 +14,9 @@
 
 <a name="Koshkin"></a>![Aleksandr-Koshkin](https://img-fotki.yandex.ru/get/26468/121639917.dc/0_14fa8c_a5babe04_orig) Александр Кошкин, Санкт-Петербург
 
-> Senior python developer в компании [Positive Technologies](http://www.ptsecurity.com). Последнее время занимается разработкой различных компонентов PT SIEM. Спикер piterpy, wargaming python meetup.
+> Senior python developer в компании [Positive Technologies](http://www.ptsecurity.com). Последнее время занимается разработкой различных компонентов PT SIEM. Спикер Piterpy, Wargaming python meetup, PyCon Russia, Boston python meetup.
 >
+> Github: [magniff](https://github.com/magniff)
 
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Артём Малышев, Нижний Новгород
 
