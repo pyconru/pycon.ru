@@ -11,7 +11,7 @@
 
 ![patrushev](https://img-fotki.yandex.ru/get/246231/121639917.112/0_193b50_3215ed11_orig) Anton Patrushev<br>CTO, [Spherical](https://www.spherical.pm)
 
-![suleymanova](https://img-fotki.yandex.ru/get/195132/121639917.103/0_180d52_5de239c0_orig) Evgenia Suleymanova<br>IT-People
+![suleymanova](https://img-fotki.yandex.ru/get/94189/121639917.113/0_193f98_a1aa2740_orig) Evgenia Suleymanova<br>IT-People
 
 ![ronaher](https://img-fotki.yandex.ru/get/197741/121639917.103/0_180d4f_8d6f7195_orig) Maria Ronacher<br>IT-People
 
