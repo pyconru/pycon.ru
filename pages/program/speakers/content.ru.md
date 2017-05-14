@@ -18,6 +18,14 @@
 >
 > Github: [magniff](https://github.com/magniff)
 
+<a name="borisov"></a>![borisov](https://img-fotki.yandex.ru/get/112678/121639917.dc/0_14bbb5_71322ebf_orig) Кирилл Борисов, Москва
+>
+За все свои грехи работает в Яндексе. Грешен разработкой компонентов для военных АСУ, информационных систем для решения социальных вопросов и просто странных вещей на Python. С тех пор скитается по конференциях, пытаясь распылением знаний замолить хоть какие-то из них :)
+
+[Некоторые из докладов](http://lensvol.me/pages/talks.html)
+>
+> Github: [lensvol](https://github.com/lensvol/)
+
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Артём Малышев, Нижний Новгород
 
 > Независимый разработчик. Спикер PyCon Russia, PyCon Ukraine, PyCon Belarus, Moscow Python Conf. 
