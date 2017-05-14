@@ -13,13 +13,8 @@ description: |
    Main points:
    
    - Abundance of computation resources are getting us lazy
-
    - You can't win against IoT, so all that left is to join the fray.
-
    - Python can be used for low-level interaction with various hardware.
-
    - MicroPython - stripped-down version of Python 3 for use on various microcontrollers.
-
-   - Python ecosystem has various libraries for working with industry-proven communication protocols (e.g. ZigBee)
-
+   - Python ecosystem has various libraries for working with industry-proven communication protocols (e.g. ZigBee).
    - Safety first!
