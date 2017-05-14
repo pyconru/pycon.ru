@@ -17,6 +17,12 @@
 
 > Github: [magniff](https://github.com/magniff)
 
+<a name="borisov"></a>![borisov](https://img-fotki.yandex.ru/get/112678/121639917.dc/0_14bbb5_71322ebf_orig) Kirill Borisov, Moscow
+>
+> > Developer at [Yandex](https://www.yandex.ru).
+
+> Github: [lensvol](https://github.com/lensvol/)
+
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Artem Malyshev, Independent developer, Nizhny Novgorod
 
 > Twitter: [@proofit404]( https://twitter.com/proofit404)  
