@@ -19,7 +19,7 @@
 
 <a name="borisov"></a>![borisov](https://img-fotki.yandex.ru/get/112678/121639917.dc/0_14bbb5_71322ebf_orig) Kirill Borisov, Moscow
 >
-> > Developer at [Yandex](https://www.yandex.ru).
+> Developer at [Yandex](https://www.yandex.ru).
 
 > Github: [lensvol](https://github.com/lensvol/)
 
