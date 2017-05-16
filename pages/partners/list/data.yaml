@@ -7,5 +7,17 @@ sections:
 
 - name: "Информационные партнёры"
   sponsors:
-  - logo: https://img-fotki.yandex.ru/get/198361/121639917.103/0_1859da_e57e04de_orig
-    link: https://adcombo.com
+  - logo: https://img-fotki.yandex.ru/get/62701/121639917.dd/0_158bf3_de687d2a_orig
+    link: https://www.facebook.com/pyconby
+    
+  - logo: https://img-fotki.yandex.ru/get/231315/121639917.113/0_19491b_2b17dff8_orig
+    link: https://vk.com/k0d_python
+    
+  - logo: https://img-fotki.yandex.ru/get/45082/121639917.db/0_14b56f_86a80eab_orig
+    link: https://vk.com/python_community
+    
+  - logo: https://img-fotki.yandex.ru/get/31690/121639917.db/0_14b562_5236337d_orig
+    link: http://pythonworld.ru
+    
+  - logo: https://img-fotki.yandex.ru/get/404236/121639917.113/0_194980_cde55f82_orig
+    link: https://python-scripts.com
