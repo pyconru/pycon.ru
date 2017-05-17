@@ -18,7 +18,7 @@
 >
 > Github: [magniff](https://github.com/magniff)
 
-<a name="yumatov"></a>![yumatov](https://img-fotki.yandex.ru/get/48807/121639917.113/0_1949e0_a96cd05b_orig) Михаил Юматов, Москва
+<a name="yumatov"></a>![yumatov](https://img-fotki.yandex.ru/get/169995/121639917.113/0_1949e1_e652d2a1_orig) Михаил Юматов, Москва
 
 > [ЦИАН](https://www.cian.ru), руководитель разработки.
 
