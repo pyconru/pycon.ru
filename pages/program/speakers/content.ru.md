@@ -20,7 +20,7 @@
 
 <a name="yumatov"></a>![yumatov](https://img-fotki.yandex.ru/get/48807/121639917.113/0_1949e0_a96cd05b_orig) Михаил Юматов, Москва
 
-> ЦИАН, руководитель разработки.
+> [ЦИАН](https://www.cian.ru), руководитель разработки.
 
 <a name="borisov"></a>![borisov](https://img-fotki.yandex.ru/get/112678/121639917.dc/0_14bbb5_71322ebf_orig) Кирилл Борисов, Москва
 >
