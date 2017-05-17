@@ -19,7 +19,7 @@
 
 <a name="yumatov"></a>![yumatov](https://img-fotki.yandex.ru/get/169995/121639917.113/0_1949e1_e652d2a1_orig) Mikhail Yumatov, Moscow
 
-> [Cian](https://www.cian.ru), руководитель разработки.
+> [Cian](https://www.cian.ru), head of development.
 
 <a name="borisov"></a>![borisov](https://img-fotki.yandex.ru/get/112678/121639917.dc/0_14bbb5_71322ebf_orig) Kirill Borisov, Moscow
 >
