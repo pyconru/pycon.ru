@@ -40,3 +40,10 @@
 <a name="Tsyganov"></a>![Tsyganov](https://img-fotki.yandex.ru/get/52127/121639917.dc/0_14ff24_5646b492_orig) Иван Цыганов, Санкт-Петербург
 
 > Старший программист в компании [Positive Technologies](http://www.ptsecurity.ru). Спикер Pycon Russia, Pycon Siberia, PiterPy, Moscow Python Conf.
+
+<a name="vlasovskix"></a>![vlasovskix](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) Андрей Власовских, Санкт-Петербург
+>
+> Разработчик PyCharm и эмулятора Vim для сред программирования в JetBrains. Автор библиотеки funcparserlib для написания парсеров на Python в функциональном стиле. Организатор встреч по функциональному программированию. Участвует в разработке PEP 484: Type Hints.
+>
+> Блог: [pirx.ru](http://pirx.ru/)  
+> GitHub: [vlasovskikh](https://github.com/vlasovskikh)
