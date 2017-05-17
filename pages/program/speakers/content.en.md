@@ -35,3 +35,7 @@
 <a name="Tsyganov"></a>![Tsyganov](https://img-fotki.yandex.ru/get/52127/121639917.dc/0_14ff24_5646b492_orig) Ivan Tsyganov, St. Petersburg
 >
 > Senior python developer at [Positive Technologies](http://www.ptsecurity.ru).
+
+<a name="andrew_vlasovskix"></a>![andrew_vlasovskix](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) Andrey Vlasovskikh, St. Petersburg
+>
+> Python Developer at [PyCharm](https://www.jetbrains.com/pycharm/).
