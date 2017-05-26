@@ -1,8 +1,14 @@
-<a name="Paul-Hildebrandt"></a>![paul-hildebrandt](/2017/img/speakers/2017/paul-hildebrandt.jpg)Paul Hildebrandt, Los Angeles, USA
+<a name="Paul-Hildebrandt"></a>![paul-hildebrandt](/2017/img/speakers/2017/paul-hildebrandt.jpg)Paul Hildebrandt, Los Angeles, CA, USA
 
 > Paul Hildebrandt has been a Senior Engineer with [Walt Disney Animation Studios (WDAS)](https://www.disneyanimation.com/) since 1996, and has worked in both Systems and Software engineering. His current title is Senior Software Engineer and Product Owner for the Playback tools. Among his primary duties is spending time working with the artists, understanding their needs, and designing tools to assist them. If he is lucky, he gets to write code.
 
 > Twitter: [@paulhildebrandt](https://twitter.com/paulhildebrandt), GitHub: [@paulhildebrandt](https://github.com/paulhildebrandt), IMDB: [Paul Hildebrandt](http://www.imdb.com/name/nm0383880/)
+
+<a name="Lukasz-Langa"></a>![lukasz-langa](/2017/img/speakers/2017/lukasz-langa.jpg)Łukasz Langa, Bay Area, CA, USA
+
+> Python committer since 2010. Chronic perfectionist. Pianist. Dad. Spreads the gospel of type checking to anyone who's listening. In his free time helps [Facebook](https://www.facebook.com) adopt Python 3.
+
+> Twitter: [@llanga](https://twitter.com/llanga), GitHub: [@ambv](https://github.com/ambv), website: [Łukasz Langa](http://lukasz.langa.pl/)
 
 <a name="shashkova"></a>![shashkova](https://img-fotki.yandex.ru/get/195637/121639917.113/0_193f84_31ec8a92_orig) Елизавета Шашкова, Санкт-Петербург
 
@@ -32,7 +38,7 @@
 
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Артём Малышев, Нижний Новгород
 
-> Независимый разработчик. Спикер PyCon Russia, PyCon Ukraine, PyCon Belarus, Moscow Python Conf. 
+> Независимый разработчик. Спикер PyCon Russia, PyCon Ukraine, PyCon Belarus, Moscow Python Conf.
 
 > Twitter: [@proofit404]( https://twitter.com/proofit404)  
 > Github: [proofit404](https://github.com/proofit404/)
