@@ -51,6 +51,10 @@
 
 > Старший программист в компании [Positive Technologies](http://www.ptsecurity.ru). Спикер Pycon Russia, Pycon Siberia, PiterPy, Moscow Python Conf.
 
+<a name="sentemova"></a>![sentemova](https://img-fotki.yandex.ru/get/3210/121639917.113/0_197457_1b6640cc_orig) Ольга Сентемова, Москва
+>
+> Разработчик в [Тинькофф Банк](https://www.tinkoff.ru).
+
 <a name="vlasovskix"></a>![vlasovskix](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) Андрей Власовских, Санкт-Петербург
 >
 > Разработчик [PyCharm](https://www.jetbrains.com/pycharm/) и эмулятора Vim для сред программирования в JetBrains. Автор библиотеки funcparserlib для написания парсеров на Python в функциональном стиле. Организатор встреч по функциональному программированию. Участвует в разработке PEP 484: Type Hints.
