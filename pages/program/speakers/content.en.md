@@ -46,6 +46,10 @@
 >
 > Senior python developer at [Positive Technologies](http://www.ptsecurity.ru).
 
+<a name="sentemova"></a>![sentemova](https://img-fotki.yandex.ru/get/3210/121639917.113/0_197457_1b6640cc_orig) Olga Sentemova, Moscow
+>
+> Developer at [Tinkoff Bank](https://www.tinkoff.ru).
+
 <a name="andrew_vlasovskix"></a>![andrew_vlasovskix](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) Andrey Vlasovskikh, St. Petersburg
 >
 > Python Developer at [PyCharm](https://www.jetbrains.com/pycharm/).
