@@ -36,6 +36,10 @@
 >
 > Github: [lensvol](https://github.com/lensvol/)
 
+<a name="mokrov"></a>![mokrov](https://img-fotki.yandex.ru/get/98813/121639917.113/0_19742b_9d919691_orig)Александр Мокров, Нижний Новгород
+
+> [Positive Technologies](http://www.ptsecurity.com), ведущий программист. Выступал с несколькими докладами в рамках нижегородского python-митапа [rannts](https://rannts.ru/speakers/).
+
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Артём Малышев, Нижний Новгород
 
 > Независимый разработчик. Спикер PyCon Russia, PyCon Ukraine, PyCon Belarus, Moscow Python Conf.
