@@ -33,6 +33,10 @@
 
 > Github: [lensvol](https://github.com/lensvol/)
 
+<a name="mokrov"></a>![mokrov](https://img-fotki.yandex.ru/get/98813/121639917.113/0_19742b_9d919691_orig)Alexander Mokrov, Nizhny Novgorod
+
+> Senior python developer at [Positive Technologies](http://www.ptsecurity.com).
+
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Artem Malyshev, Independent developer, Nizhny Novgorod
 
 > Twitter: [@proofit404]( https://twitter.com/proofit404)  
