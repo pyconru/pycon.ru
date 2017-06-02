@@ -37,6 +37,10 @@
 
 > Senior python developer at [Positive Technologies](http://www.ptsecurity.com).
 
+<a name="novikov"></a>![novikov](https://img-fotki.yandex.ru/get/60881/121639917.113/0_1976de_3d45611_orig)Igor Novikov Kharkiv-Lviv
+
+> Senior Python developer at [Scalr](https://www.scalr.com/), project founder at [sK1 Project](https://sk1project.net/). 
+
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Artem Malyshev, Independent developer, Nizhny Novgorod
 
 > Twitter: [@proofit404]( https://twitter.com/proofit404)  
