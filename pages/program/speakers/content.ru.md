@@ -10,6 +10,12 @@
 
 > Twitter: [@llanga](https://twitter.com/llanga), GitHub: [@ambv](https://github.com/ambv), website: [Łukasz Langa](http://lukasz.langa.pl/)
 
+<a name="Nina-Zakharenko"></a>![nina-zakharenko](/2017/img/speakers/2017/nina-zakharenko.jpg)Nina Zakharenko, Portland, OR, USA
+
+> Nina Zakharenko is a software engineer with over 10 years of experience. She’s enjoyed a long career working for a range of companies, from large enterprise organizations like [HBO](http://www.hbo.com/) to small startups like [Reddit](https://www.reddit.com/). She’s currently a senior software engineer at [Venmo](https://venmo.com/), working on internal tools for developer productivity. In her spare time, she skis and snowboards, mountain bikes, and rock climbs from her home base in Portland, OR.
+
+> Twitter: [@nnja](https://twitter.com/nnja), GitHub: [@nnja](https://github.com/nnja), website: [Nina Zakharenko](http://nnja.io/)
+
 <a name="shashkova"></a>![shashkova](https://img-fotki.yandex.ru/get/195637/121639917.113/0_193f84_31ec8a92_orig) Елизавета Шашкова, Санкт-Петербург
 
 > Разработчик в команде PyCharm IDE в компании [JetBrains](https://www.jetbrains.com). Занимается отладчиком и интегрированной Python консолью.

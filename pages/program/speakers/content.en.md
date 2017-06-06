@@ -10,6 +10,12 @@
 
 > Twitter: [@llanga](https://twitter.com/llanga), GitHub: [@ambv](https://github.com/ambv), website: [Łukasz Langa](http://lukasz.langa.pl/)
 
+<a name="Nina-Zakharenko"></a>![nina-zakharenko](/2017/img/speakers/2017/nina-zakharenko.jpg)Nina Zakharenko, Portland, OR, USA
+
+> Nina Zakharenko is a software engineer with over 10 years of experience. She’s enjoyed a long career working for a range of companies, from large enterprise organizations like [HBO](http://www.hbo.com/) to small startups like [Reddit](https://www.reddit.com/). She’s currently a senior software engineer at [Venmo](https://venmo.com/), working on internal tools for developer productivity. In her spare time, she skis and snowboards, mountain bikes, and rock climbs from her home base in Portland, OR.
+
+> Twitter: [@nnja](https://twitter.com/nnja), GitHub: [@nnja](https://github.com/nnja), website: [Nina Zakharenko](http://nnja.io/)
+
 <a name="shashkova"></a>![shashkova](https://img-fotki.yandex.ru/get/195637/121639917.113/0_193f84_31ec8a92_orig) Elizabeth Shashkova, St. Petersburg
 
 >  Developer at [JetBrains](https://www.jetbrains.com).
@@ -39,7 +45,7 @@
 
 <a name="novikov"></a>![novikov](https://img-fotki.yandex.ru/get/60881/121639917.113/0_1976de_3d45611_orig)Igor Novikov Kharkiv-Lviv
 
-> Senior Python developer at [Scalr](https://www.scalr.com/), project founder at [sK1 Project](https://sk1project.net/). 
+> Senior Python developer at [Scalr](https://www.scalr.com/), project founder at [sK1 Project](https://sk1project.net/).
 
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Artem Malyshev, Independent developer, Nizhny Novgorod
 
