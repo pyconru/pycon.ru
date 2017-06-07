@@ -1,0 +1,11 @@
+speaker: |
+    **Andrey Stepanov**, Tinkoff Bank
+    
+title: "Speech Recognition with Python, without PhD"
+
+description: |
+    While thousands of people watch two Google Homes arguing with each other on Twitch and Microsoft Research reaches human parity in conversational speech recognition, for us, developers, it all seems like black magic. We used to think, that these types of technologies are the ones that only big companies with a lots of data and a dozen PhD researchers can afford.
+ 
+    But this is not the case anymore.
+ 
+    During this session we will try to build a simple speech recognition engine using Tensorflow and train a neural net that will perform speech recognition on a simple dataset.
