@@ -29,6 +29,10 @@
 > Twitter: [@lisa_shashkova](https://twitter.com/lisa_shashkova)
 > Github: [Elizaveta239](https://github.com/Elizaveta239)
 
+<a name="stepanov"></a>![stepanov](/2017/img/speakers/2017/a.stepanov12.jpg) Andrey Stepanov, Moscow
+
+> Developer analyst, [Tinkoff Bank](https://www.tinkoff.ru).
+
 <a name="Koshkin"></a>![Aleksandr-Koshkin](https://img-fotki.yandex.ru/get/26468/121639917.dc/0_14fa8c_a5babe04_orig) Aleksandr Koshkin, St. Petersburg
 
 > Senior python developer at [Positive Technologies](http://www.ptsecurity.com).
