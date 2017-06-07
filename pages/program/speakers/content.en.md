@@ -39,6 +39,12 @@
 
 > Github: [lensvol](https://github.com/lensvol/)
 
+<a name="churkin"></a>![churkin](https://img-fotki.yandex.ru/get/58784/121639917.113/0_197b1d_4c537567_orig)Oleg Churkin, Moscow
+
+> Senior python developer at [Rambler&Co](https://rambler-co.ru).
+
+> Github: [Bahus](https://github.com/Bahus)
+
 <a name="mokrov"></a>![mokrov](https://img-fotki.yandex.ru/get/98813/121639917.113/0_19742b_9d919691_orig)Alexander Mokrov, Nizhny Novgorod
 
 > Senior python developer at [Positive Technologies](http://www.ptsecurity.com).
