@@ -42,6 +42,15 @@
 >
 > Github: [lensvol](https://github.com/lensvol/)
 
+<a name="churkin"></a>![churkin](https://img-fotki.yandex.ru/get/58784/121639917.113/0_197b1d_4c537567_orig)Олег Чуркин, Москва
+
+> Руководитель группы Python-проектов в [Rambler&Co](https://rambler-co.ru). За 12 лет в IT успел пройти огонь, воду и медные трубы: работал в службе поддержки, затем в тестировании, a сейчас занимается разработкой веб-проектов. Работал в Acronis, Лаборатория Касперского, Innova, РБК, в данный момент решает сложные задачи в компании Rambler&Co. 
+
+> Выступал на конференциях: DevConf 2016, Python Conf 2016, Moscow Python Meetup.
+
+> Github: [Bahus](https://github.com/Bahus)
+
+
 <a name="mokrov"></a>![mokrov](https://img-fotki.yandex.ru/get/98813/121639917.113/0_19742b_9d919691_orig)Александр Мокров, Нижний Новгород
 
 > [Positive Technologies](http://www.ptsecurity.com), ведущий программист. Выступал с несколькими докладами в рамках нижегородского python-митапа [rannts](https://rannts.ru/speakers/).
