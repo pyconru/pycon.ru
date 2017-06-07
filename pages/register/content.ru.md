@@ -1,7 +1,7 @@
 <!--  Регистрация скоро откроется. -->
 
  Чтобы принять участие в конференции, зарегистрируйтесь и оплатите билет.
- 
+
  <b>Обратите внимание:</b> количество мест на конференцию ограничено количеством номеров в отеле.
 
 <b>Стоимость билетов до 30 июня:</b>
@@ -119,4 +119,4 @@
 </form>
 
 <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-<script src="/2017/js/tickets-7.js"></script>
+<script src="/2017/js/tickets-8.js"></script>
