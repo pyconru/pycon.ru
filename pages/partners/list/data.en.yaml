@@ -5,6 +5,11 @@ sections:
   - logo: https://img-fotki.yandex.ru/get/233044/356682190.0/0_159e95_4c0dd78a_orig
     link: https://adcombo.com
     
+- name: "SUPPORTED BY"
+  sponsors:
+  - logo: https://img-fotki.yandex.ru/get/198026/121639917.113/0_197b21_eb005c1b_orig
+    link: https://www.python.org/psf/
+  
 - name: "Information Partners"
   sponsors:
   - logo: https://img-fotki.yandex.ru/get/62701/121639917.dd/0_158bf3_de687d2a_orig
