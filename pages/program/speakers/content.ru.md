@@ -71,7 +71,9 @@
 
 <a name="khaaerov"></a>![khaaerov](/2017/img/speakers/2017/khaaerov.png)Александр Хаёров, Москва
 
-> Ingram Micro (ex Parallels), Unit manager, руководит стройкой ряда объектов крупнейшей экосистемой по дистрибьюции [облачных сервисов](http://bit.ly/2qv9QA9). [Выступления на митапах и конференциях](http://bit.ly/2qvrIux).  
+> Ingram Micro (ex Parallels), Unit manager, руководит стройкой ряда объектов крупнейшей экосистемой по дистрибьюции [облачных сервисов](http://bit.ly/2qv9QA9). 
+
+> [Выступления на митапах и конференциях](http://bit.ly/2qvrIux).  
 
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Артём Малышев, Нижний Новгород
 
