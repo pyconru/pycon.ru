@@ -63,6 +63,10 @@
 
 > Senior Python developer at [Scalr](https://www.scalr.com/), project founder at [sK1 Project](https://sk1project.net/).
 
+<a name="khaaerov"></a>![khaaerov](/2017/img/speakers/2017/khaaerov.png)Aleksander Hayorov, Moscow
+
+> Unit manager at Ingram Micro (ex Parallels). 
+
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Artem Malyshev, Independent developer, Nizhny Novgorod
 
 > Twitter: [@proofit404]( https://twitter.com/proofit404)  
