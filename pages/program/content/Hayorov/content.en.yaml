@@ -1,0 +1,7 @@
+speaker: |
+    **Aleksander Hayorov**, Ingram Micro (ex Parallels)
+    
+title: "Amazing AppEngine"
+
+description: |
+    I want to talk about AppEngine hosting platform (GCP) and our more than two years of production experience . I'm going to explain why you should use AppEngine for Python project and how it can be well cooked. There will be concrete examples and tips for developers.
