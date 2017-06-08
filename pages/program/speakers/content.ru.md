@@ -69,6 +69,10 @@
 
 > Senior Python developer в компании [Scalr](https://www.scalr.com/), project founder в [sK1 Project](https://sk1project.net/). Специализация — мультиплатформенные десктопные приложения на Python и векторная графика. Спикер Libre Graphics Meeting, Latinoware, OSDN Conference, FOSS Lviv, KharkivPy. Награды Les Trophées du Libre, Hackontest, The best free project of Russia.
 
+<a name="khaaerov"></a>![khaaerov](/2017/img/speakers/2017/khaaerov.png)Александр Хаёров, Москва
+
+> Ingram Micro (ex Parallels), Unit manager, руководит стройкой ряда объектов крупнейшей экосистемой по дистрибьюции [облачных сервисов](http://bit.ly/2qv9QA9). [Выступления на митапах и конференциях](http://bit.ly/2qvrIux).  
+
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Артём Малышев, Нижний Новгород
 
 > Независимый разработчик. Спикер PyCon Russia, PyCon Ukraine, PyCon Belarus, Moscow Python Conf.
