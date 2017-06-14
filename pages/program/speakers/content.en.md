@@ -86,6 +86,10 @@
 >
 > Developer at [Tinkoff Bank](https://www.tinkoff.ru).
 
+<a name="shvets"></a>![shvets](/2017/img/speakers/2017/shvets.jpg) Alexander Shvets, Moscow
+>
+> CTO at [Marilyn System](https://mymarilyn.ru) and [Aori](https://aori.ru).
+
 <a name="andrew_vlasovskix"></a>![andrew_vlasovskix](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) Andrey Vlasovskikh, St. Petersburg
 >
 > Python Developer at [PyCharm](https://www.jetbrains.com/pycharm/).
