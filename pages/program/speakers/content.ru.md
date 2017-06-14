@@ -96,6 +96,10 @@
 >
 > Разработчик в [Тинькофф Банк](https://www.tinkoff.ru).
 
+<a name="shvets"></a>![shvets](/2017/img/speakers/2017/shvets.jpg) Александр Швец, Москва
+>
+> Технический директор [Marilyn System](https://mymarilyn.ru) и [Aori](https://aori.ru).
+
 <a name="vlasovskix"></a>![vlasovskix](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) Андрей Власовских, Санкт-Петербург
 >
 > Разработчик [PyCharm](https://www.jetbrains.com/pycharm/) и эмулятора Vim для сред программирования в JetBrains. Автор библиотеки funcparserlib для написания парсеров на Python в функциональном стиле. Организатор встреч по функциональному программированию. Участвует в разработке PEP 484: Type Hints.
