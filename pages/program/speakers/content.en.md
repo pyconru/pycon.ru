@@ -28,6 +28,12 @@
 
 > Twitter: [@paulhildebrandt](https://twitter.com/paulhildebrandt), GitHub: [@paulhildebrandt](https://github.com/paulhildebrandt), IMDB: [Paul Hildebrandt](http://www.imdb.com/name/nm0383880/)
 
+<a name="shvets"></a>![shvets](/2017/img/speakers/2017/sibiryakov.jpg) Alexander Sibiryakov, Prague, Czech Republic
+
+> Python-developer at [Scrapinghub](http://scrapinghub.com).
+>
+> Blog: [sibiryakov.eu](http://sibiryakov.eu)
+
 <a name="shashkova"></a>![shashkova](https://img-fotki.yandex.ru/get/195637/121639917.113/0_193f84_31ec8a92_orig) Elizabeth Shashkova, St. Petersburg
 
 >  Developer at [JetBrains](https://www.jetbrains.com).
