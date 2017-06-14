@@ -2,3 +2,10 @@ speaker: |
     **Paul Hildebrandt**,  Walt Disney Animation Studios
 
 title: "Inside the Hat: Python @ Walt Disney Animation Studios"
+
+description: |
+    The Walt Disney Animation Studios has a long history of creating acclaimed animated films and continues to be an industry leader with regards to artistic achievements, storytelling excellence, and cutting-edge innovations. Since the 1923 release of "Snow White", they’ve been pushing forward technology in the art of movie making. This push continues in the modern day with classics such as Oscar-winning box office hits "Zootopia", "Big-Hero 6", and "Frozen" and Oscar-nominated hits "Moana", "Wreck-It Ralph", "Tangled", "Bolt", "Treasure Planet", and "Dinosaur".
+
+    *«One of the most common questions I get when attending Python conferences is "Why are you here?" People seem confused that technology, especially Python is used in the making of animated films.»*
+
+    Paul will give you some background on the Walt Disney Animation Studios and talk about where specifically Python comes into play.

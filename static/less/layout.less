@@ -12,6 +12,10 @@ body {
   }
 }
 
+em {
+	font-style: italic;
+}
+
 .github-ribbon {
   position: absolute;
   left: 0;
@@ -21,7 +25,7 @@ body {
   background-image: url('../img/github-ribbon.png');
   text-indent: -10000px;
   z-index: 5000;
-  
+
   @media @mobile {
     display: none;
   }
@@ -93,7 +97,7 @@ header {
       font-weight: normal;
     }
   }
-  
+
   .language-selector {
     font-family: 'Open Sans';
     font-size: 13px;
@@ -198,7 +202,7 @@ header {
       float: left;
       color: white;
     }
-      
+
     .language-selector {
       position: absolute;
       right: 0;
@@ -279,7 +283,7 @@ nav.main {
             left: 0px;
           }
         }
-        
+
         @media @default {
           border-right: #fff solid 1px;
         }
@@ -292,10 +296,10 @@ nav.main {
 
           a, span {
             color: black;
-            
+
             &:hover {
               background: darken(white, 10%);
-            } 
+            }
           }
         }
       }
@@ -386,7 +390,7 @@ nav.main {
       background: lighten(@yellow, 5%);
     }
   }
-  
+
   a {
     display: block;
     width: 100%;
@@ -446,7 +450,7 @@ footer {
     width: 900px;
     height: 32px;
   }
-  
+
   @media @mobile {
     width: 100%;
     min-width: 470px;
@@ -477,7 +481,7 @@ footer {
       margin: 0 5px 0 5px;
       text-indent: -10000px;
       background-image: url('../img/social-buttons-sprite.png');
-      
+
       @media @default {
         float: right;
       }
@@ -555,7 +559,7 @@ h2, h3, h4 {
   margin: 0 0 20px 0;
   font-family: 'Open Sans';
   text-transform: uppercase;
-} 
+}
 
 h2 {
   text-align: center;
