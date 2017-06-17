@@ -79,6 +79,10 @@
 
 > Unit manager at Ingram Micro (ex Parallels).
 
+<a name="podsoblaev"></a>![podsoblaev](https://img-fotki.yandex.ru/get/104403/121639917.113/0_19879e_18a9864d_orig)Alexander Podsoblyaev, Moscow
+
+> [Rambler&Co](https://rambler-co.ru), head of development Rambler / Top100.
+
 <a name="malyshev"></a>![malyshev](https://img-fotki.yandex.ru/get/233354/121639917.112/0_193e63_e5135d1a_orig)Artem Malyshev, Independent developer, Nizhny Novgorod
 
 > Twitter: [@proofit404]( https://twitter.com/proofit404)  
