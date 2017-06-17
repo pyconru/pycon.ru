@@ -4,7 +4,7 @@
 
 ![imankulov](https://img-fotki.yandex.ru/get/94596/121639917.103/0_180d47_c749c124_orig) Роман Иманкулов<br>разработчик [Doist Inc](https://doist.com)
 
-![vlasovskii](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) [Андрей Власовских](http://pirx.ru)<br> разработчик IDE PyCharm в [JetBrains](https://www.jetbrains.com)
+![vlasovskii](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) [Андрей Власовских](http://pirx.ru)<br> Руководитель PyCharm Community в [JetBrains](https://www.jetbrains.com)
 
 ![ovchinnikov](https://img-fotki.yandex.ru/get/41138/121639917.dc/0_14bbae_d29aa7cc_orig) Дмитрий Овчинников<br>Software Engineer в [pipedrive.com](https://www.pipedrive.com/ru) 
 
