@@ -112,7 +112,9 @@
 
 <a name="vlasovskix"></a>![vlasovskix](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) Андрей Власовских, Санкт-Петербург
 >
-> Разработчик [PyCharm](https://www.jetbrains.com/pycharm/) и эмулятора Vim для сред программирования в JetBrains. Автор библиотеки funcparserlib для написания парсеров на Python в функциональном стиле. Организатор встреч по функциональному программированию. Участвует в разработке PEP 484: Type Hints.
+> Руководитель PyCharm Community в JetBrains. Разработчик плагина IdeaVim для платформы IntelliJ. Автор библиотеки funcparserlib. Участвовал в разработке PEP 484: Type Hints. Выступал с докладами на EuroPython, PyCon Japan, PyCon Russia и других конференциях.
 >
 > Блог: [pirx.ru](http://pirx.ru/)  
 > GitHub: [vlasovskikh](https://github.com/vlasovskikh)
+> Twitter: [@vlasovskikh](https://twitter.com/vlasovskikh)  
+
