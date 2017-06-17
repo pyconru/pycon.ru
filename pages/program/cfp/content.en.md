@@ -1,2 +1,0 @@
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeLF8H4KXQO1AFF1-6_Obmgk_TKieHnEZAX_jFLEo0CHsnApg/viewform?embedded=true" width="860" height="400" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
-
