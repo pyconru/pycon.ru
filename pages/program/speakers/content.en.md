@@ -102,6 +102,6 @@
 
 <a name="andrew_vlasovskix"></a>![andrew_vlasovskix](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) Andrey Vlasovskikh, St. Petersburg
 >
-> head of development PyCharm Community, JetBrains. 
+> Head of development PyCharm Community, JetBrains. 
 >
 > Blog: [pirx.ru](http://pirx.ru/), GitHub: [vlasovskikh](https://github.com/vlasovskikh), Twitter: [@vlasovskikh](https://twitter.com/vlasovskikh)  
