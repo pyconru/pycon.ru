@@ -55,6 +55,10 @@
 
 > [Cian](https://www.cian.ru), head of development.
 
+<a name="markov"></a>![markov](/2017/img/speakers/2017/markov.jpg) Nikolay Markov, Moscow
+
+> Senior Data Science Engineer at [Aligned Research Group](http://alignedresearch.com). 
+
 <a name="borisov"></a>![borisov](https://img-fotki.yandex.ru/get/112678/121639917.dc/0_14bbb5_71322ebf_orig) Kirill Borisov, Moscow
 >
 > Developer at [Yandex](https://www.yandex.ru).
