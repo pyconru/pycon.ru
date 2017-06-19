@@ -1,7 +1,7 @@
 speaker: |
     **Lynn Root**,  Spotify
 
-title: Tales of Tunes on Tubes: Python in Spotify's Infrastructure
+title: "Tales of Tunes on Tubes: Python in Spotify's Infrastructure"
 
 description: |
     Spotify's infrastructure depends heavily on Python. I'll walk through how we use the language for critical tasks while operating the biggest music streaming service worldwide. I'll highlight where Python has shined for us, where it lacks, and how we are migrating from 2.7 to 3.6.
