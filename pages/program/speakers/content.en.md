@@ -100,7 +100,7 @@
 >
 > CTO at [Marilyn System](https://mymarilyn.ru) and [Aori](https://aori.ru).
 
-<a name="andrew_vlasovskix"></a>![andrew_vlasovskix](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) Andrey Vlasovskikh, St. Petersburg
+<a name="andrew_vlasovskix"></a>![andrew_vlasovskix](/2017/img/speakers/2017/vlasovskih.JPG) Andrey Vlasovskikh, St. Petersburg
 >
 > Head of development PyCharm Community, JetBrains. 
 >
