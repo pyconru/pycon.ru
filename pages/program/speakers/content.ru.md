@@ -110,7 +110,7 @@
 >
 > Технический директор [Marilyn System](https://mymarilyn.ru) и [Aori](https://aori.ru).
 
-<a name="vlasovskix"></a>![vlasovskix](https://img-fotki.yandex.ru/get/56796/121639917.dc/0_14bbaf_3f642a40_orig) Андрей Власовских, Санкт-Петербург
+<a name="vlasovskix"></a>![vlasovskix](/2017/img/speakers/2017/vlasovskih.JPG) Андрей Власовских, Санкт-Петербург
 >
 > Руководитель PyCharm Community в JetBrains. Разработчик плагина IdeaVim для платформы IntelliJ. Автор библиотеки funcparserlib. Участвовал в разработке PEP 484: Type Hints. Выступал с докладами на EuroPython, PyCon Japan, PyCon Russia и других конференциях.
 >
