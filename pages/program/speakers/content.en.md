@@ -4,11 +4,15 @@
 
 > Twitter: [@llanga](https://twitter.com/llanga), GitHub: [@ambv](https://github.com/ambv), website: [Łukasz Langa](http://lukasz.langa.pl/)
 
+> Talk: [Gradual Typing of Production Applications](/2017/program/content/langa/)
+
 <a name="Lynn-Root"></a>![lynn-root](/2017/img/speakers/2017/lynn-root.jpg)Lynn Root, New York, US
 
 > Lynn Root is a Site Reliability Engineer at [Spotify](https://www.spotify.com), a [PSF](https://www.python.org/psf/) & [DSF](https://www.djangoproject.com/foundation/) member. She is also a global leader of [PyLadies](http://www.pyladies.com/), an international mentorship group for women and friends in the Python community, and the founder & former leader of the San Francisco PyLadies. When her hands are not on a keyboard, they are usually holding a pair of knitting needles.
 
 > Twitter: [@roguelynn](https://twitter.com/roguelynn), GitHub: [@econchick](https://github.com/econchick), website: [Lynn Root](http://www.roguelynn.com/)
+
+> Talk: [Tales of Tunes on Tubes: Python in Spotify's Infrastructure](/2017/program/content/root/)
 
 <a name="Maciej-Fijalkowski"></a>![maciej-fijalkowski](/2017/img/speakers/2017/maciej-fijalkowski.jpg)Maciej Fijałkowski, Cape Town,  South Africa
 
@@ -16,17 +20,23 @@
 
 > Twitter: [@fijall](https://twitter.com/fijall), GitHub: [@fijal](https://github.com/fijal), website: [Baroque Software](http://baroquesoftware.com/)
 
+> Talk: [Why is Python slow?](/2017/program/content/fijal/)
+
 <a name="Nina-Zakharenko"></a>![nina-zakharenko](/2017/img/speakers/2017/nina-zakharenko.jpg)Nina Zakharenko, Portland, OR, USA
 
 > Nina Zakharenko is a software engineer with over 10 years of experience. She’s enjoyed a long career working for a range of companies, from large enterprise organizations like [HBO](http://www.hbo.com/) to small startups like [Reddit](https://www.reddit.com/). She’s currently a senior software engineer at [Venmo](https://venmo.com/), working on internal tools for developer productivity. In her spare time, she skis and snowboards, mountain bikes, and rock climbs from her home base in Portland, OR.
 
 > Twitter: [@nnja](https://twitter.com/nnja), GitHub: [@nnja](https://github.com/nnja), website: [Nina Zakharenko](http://nnja.io/)
 
+> Talk: [Elegant Solutions for Everyday Python Problems](/2017/program/content/zakharenko/)
+
 <a name="Paul-Hildebrandt"></a>![paul-hildebrandt](/2017/img/speakers/2017/paul-hildebrandt.jpg)Paul Hildebrandt, Los Angeles, CA, USA
 
 > Paul Hildebrandt has been a Senior Engineer with [Walt Disney Animation Studios (WDAS)](https://www.disneyanimation.com/) since 1996, and has worked in both Systems and Software engineering. His current title is Senior Software Engineer and Product Owner for the Playback tools. Among his primary duties is spending time working with the artists, understanding their needs, and designing tools to assist them. If he is lucky, he gets to write code.
 
 > Twitter: [@paulhildebrandt](https://twitter.com/paulhildebrandt), GitHub: [@paulhildebrandt](https://github.com/paulhildebrandt), IMDB: [Paul Hildebrandt](http://www.imdb.com/name/nm0383880/)
+
+> Talk: [Inside the Hat: Python @ Walt Disney Animation Studios](/2017/program/content/hildebrandt/)
 
 <a name="shvets"></a>![shvets](/2017/img/speakers/2017/sibiryakov.jpg) Alexander Sibiryakov, Prague, Czech Republic
 
@@ -106,7 +116,7 @@
 
 <a name="andrew_vlasovskix"></a>![andrew_vlasovskix](/2017/img/speakers/2017/vlasovskih.JPG) Andrey Vlasovskikh, St. Petersburg
 >
-> Head of development PyCharm Community, JetBrains. 
+> Head of development PyCharm Community, JetBrains.
 >
 > Blog: [pirx.ru](http://pirx.ru/), GitHub: [vlasovskikh](https://github.com/vlasovskikh), Twitter: [@vlasovskikh](https://twitter.com/vlasovskikh)  
 

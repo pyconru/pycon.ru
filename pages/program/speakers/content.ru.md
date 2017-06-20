@@ -2,7 +2,9 @@
 
 > Python committer since 2010. Chronic perfectionist. Pianist. Dad. Spreads the gospel of type checking to anyone who's listening. In his free time helps [Facebook](https://www.facebook.com) adopt Python 3.
 
-> Twitter: [@llanga](https://twitter.com/llanga), GitHub: [@ambv](https://github.com/ambv), website: [Łukasz Langa](http://lukasz.langa.pl/)
+> Twitter: [@llanga](https://tgitwitter.com/llanga), GitHub: [@ambv](https://github.com/ambv), website: [Łukasz Langa](http://lukasz.langa.pl/)
+
+> Talk: [Gradual Typing of Production Applications](/2017/program/content/langa/)
 
 <a name="Lynn-Root"></a>![lynn-root](/2017/img/speakers/2017/lynn-root.jpg)Lynn Root, New York, US
 
@@ -10,11 +12,15 @@
 
 > Twitter: [@roguelynn](https://twitter.com/roguelynn), GitHub: [@econchick](https://github.com/econchick), website: [Lynn Root](http://www.roguelynn.com/)
 
+> Talk: [Tales of Tunes on Tubes: Python in Spotify's Infrastructure](/2017/program/content/root/)
+
 <a name="Maciej-Fijalkowski"></a>![maciej-fijalkowski](/2017/img/speakers/2017/maciej-fijalkowski.jpg)Maciej Fijałkowski, Cape Town,  South Africa
 
 > Maciej is a freelancer working mostly on [PyPy](http://pypy.org/) for the past several years. He's a core developer since 2006, working on all kinds of parts in the entire codebase including JIT, GC and assembler backends. Maciej has been going to many conferences, advertising PyPy to a broader audience for the past several years. He's also the main maintainer of [jitviewer](https://pypi.python.org/pypi/JitViewer), a tool for analyzing performance of your python programs under PyPy.
 
 > Twitter: [@fijall](https://twitter.com/fijall), GitHub: [@fijal](https://github.com/fijal), website: [Baroque Software](http://baroquesoftware.com/)
+
+> Talk: [Why is Python slow?](/2017/program/content/fijal/)
 
 <a name="Nina-Zakharenko"></a>![nina-zakharenko](/2017/img/speakers/2017/nina-zakharenko.jpg)Nina Zakharenko, Portland, OR, USA
 
@@ -22,11 +28,15 @@
 
 > Twitter: [@nnja](https://twitter.com/nnja), GitHub: [@nnja](https://github.com/nnja), website: [Nina Zakharenko](http://nnja.io/)
 
+> Talk: [Elegant Solutions for Everyday Python Problems](/2017/program/content/zakharenko/)
+
 <a name="Paul-Hildebrandt"></a>![paul-hildebrandt](/2017/img/speakers/2017/paul-hildebrandt.jpg)Paul Hildebrandt, Los Angeles, CA, USA
 
 > Paul Hildebrandt has been a Senior Engineer with [Walt Disney Animation Studios (WDAS)](https://www.disneyanimation.com/) since 1996, and has worked in both Systems and Software engineering. His current title is Senior Software Engineer and Product Owner for the Playback tools. Among his primary duties is spending time working with the artists, understanding their needs, and designing tools to assist them. If he is lucky, he gets to write code.
 
 > Twitter: [@paulhildebrandt](https://twitter.com/paulhildebrandt), GitHub: [@paulhildebrandt](https://github.com/paulhildebrandt), IMDB: [Paul Hildebrandt](http://www.imdb.com/name/nm0383880/)
+
+> Talk: [Inside the Hat: Python @ Walt Disney Animation Studios](/2017/program/content/hildebrandt/)
 
 <a name="shvets"></a>![shvets](/2017/img/speakers/2017/sibiryakov.jpg) Александр Сибиряков, Прага, Чехия
 
@@ -125,4 +135,3 @@
 <a name="mirgorodskaya"></a>![mirgorodskaya](/2017/img/speakers/2017/mirgorodskaya.jpg) Надежда Миргородская, Санкт-Петербург
 >
 > [Яндекс](https://www.yandex.ru), инженер по нагрузочному тестированию.
-
