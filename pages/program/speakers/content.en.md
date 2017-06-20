@@ -109,3 +109,7 @@
 > Head of development PyCharm Community, JetBrains. 
 >
 > Blog: [pirx.ru](http://pirx.ru/), GitHub: [vlasovskikh](https://github.com/vlasovskikh), Twitter: [@vlasovskikh](https://twitter.com/vlasovskikh)  
+
+<a name="mirgorodskaya"></a>![mirgorodskaya](/2017/img/speakers/2017/mirgorodskaya.jpg) Nadezhda Mirgorodskaya, St. Petersburg
+>
+> [Yandex](https://www.yandex.ru), QA engineer.
