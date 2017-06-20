@@ -116,9 +116,13 @@
 
 <a name="vlasovskix"></a>![vlasovskix](/2017/img/speakers/2017/vlasovskih.JPG) Андрей Власовских, Санкт-Петербург
 >
-> Руководитель PyCharm Community в JetBrains. Разработчик плагина IdeaVim для платформы IntelliJ. Автор библиотеки funcparserlib. Участвовал в разработке PEP 484: Type Hints. Выступал с докладами на EuroPython, PyCon Japan, PyCon Russia и других конференциях.
+> Руководитель PyCharm Community в [JetBrains](https://www.jetbrains.com). Разработчик плагина IdeaVim для платформы IntelliJ. Автор библиотеки funcparserlib. Участвовал в разработке PEP 484: Type Hints. Выступал с докладами на EuroPython, PyCon Japan, PyCon Russia и других конференциях.
 >
 > Блог: [pirx.ru](http://pirx.ru/)  
 > GitHub: [vlasovskikh](https://github.com/vlasovskikh)
 > Twitter: [@vlasovskikh](https://twitter.com/vlasovskikh)  
+
+<a name="mirgorodskaya"></a>![mirgorodskaya](/2017/img/speakers/2017/mirgorodskaya.jpg) Надежда Миргородская, Санкт-Петербург
+>
+> [Яндекс](https://www.yandex.ru), инженер по нагрузочному тестированию.
 
