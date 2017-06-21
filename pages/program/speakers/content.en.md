@@ -123,3 +123,10 @@
 <a name="mirgorodskaya"></a>![mirgorodskaya](/2017/img/speakers/2017/mirgorodskaya.jpg) Nadezhda Mirgorodskaya, St. Petersburg
 >
 > [Yandex](https://www.yandex.ru), Performance Test Engineer.
+
+<a name="menshih"></a>![menshih](/2017/img/speakers/2017/menshih.jpg) Ivan Menshikh, Yekaterinburg
+>
+> Open Source Community Manager / R&D in Machine learning in [RaRe Technologies](https://rare-technologies.com/)
+
+> Twitter: [@menshikh_iv](https://twitter.com/menshikh_iv) 
+> GitHub: [menshikh-iv](https://github.com/menshikh-iv)
