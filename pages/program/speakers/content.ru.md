@@ -149,6 +149,7 @@
 > Maintainers в WorldSense.
 >
 > Twitter: [@teagermylk](https://twitter.com/teagermylk) 
+>
 > GitHub: [tmylk](https://github.com/tmylk)
 
 <a name="kuzmin"></a>![kuzmin](/2017/img/speakers/2017/kuzmin2.jpg) Алексей Кузьмин, Москва
