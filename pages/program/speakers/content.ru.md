@@ -135,3 +135,10 @@
 <a name="mirgorodskaya"></a>![mirgorodskaya](/2017/img/speakers/2017/mirgorodskaya.jpg) Надежда Миргородская, Санкт-Петербург
 >
 > [Яндекс](https://www.yandex.ru), инженер по нагрузочному тестированию.
+
+<a name="menshih"></a>![menshih](/2017/img/speakers/2017/menshih.jpg) Иван Меньших, Екатеринбург
+>
+> Open Source Community Manager / R&D in Machine learning в [RaRe Technologies](https://rare-technologies.com/).
+
+> Twitter: [@menshikh_iv](https://twitter.com/menshikh_iv) 
+> GitHub: [menshikh-iv](https://github.com/menshikh-iv)
