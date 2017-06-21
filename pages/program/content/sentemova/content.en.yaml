@@ -2,3 +2,8 @@ speaker: |
     **Olga Sentemova**, Tinkoff Bank
     
 title: "Live-chat's childhood illnesses"
+
+description: |
+    Nowadays Telegram, Viber, Whatsapp and social media are crucial in customer support. It means that platforms for this purpose are getting large-scale and high-load. 
+    
+    Today we have about 50 operators simultaneously and about 10000 chats every day. We want to report about the architecture of out live-chat application, predictive answers on users side to lower high-load and integration with other systems.
