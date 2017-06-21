@@ -130,3 +130,6 @@
 
 > Twitter: [@menshikh_iv](https://twitter.com/menshikh_iv) 
 > GitHub: [menshikh-iv](https://github.com/menshikh-iv)
+
+<a name="kuzmin"></a>![kuzmin](/2017/img/speakers/2017/kuzmin.png) Alexey Kuzmin, Moscow
+
