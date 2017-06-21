@@ -141,4 +141,5 @@
 > Open Source Community Manager / R&D in Machine learning в [RaRe Technologies](https://rare-technologies.com/).
 
 > Twitter: [@menshikh_iv](https://twitter.com/menshikh_iv) 
+>
 > GitHub: [menshikh-iv](https://github.com/menshikh-iv)
