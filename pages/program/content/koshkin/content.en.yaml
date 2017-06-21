@@ -1,2 +1,7 @@
 speaker: |
     **Aleksandr Koshkin**, Positive Technologies
+    
+title: "Python on the edge of a razor: PyPy project"
+
+description: |
+    This time we are going to discuss performance and some technical details of cutting edge implementation of Python VM called PyPy. Write an interpreted language in another interpreted language? Whaaaaaaaa? How this is a good idea?
