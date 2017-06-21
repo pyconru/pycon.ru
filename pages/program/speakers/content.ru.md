@@ -36,7 +36,7 @@
 
 > Twitter: [@paulhildebrandt](https://twitter.com/paulhildebrandt), GitHub: [@paulhildebrandt](https://github.com/paulhildebrandt), IMDB: [Paul Hildebrandt](http://www.imdb.com/name/nm0383880/)
 
-> Talk: [Inside the Hat: Python @ Walt Disney Animation Studios](/2017/program/content/hildebrandt/)
+> Talk: [Inside the Hat: Python @ Walt Disney Animation Studios](/2017/program/content/Hildebrandt/)
 
 <a name="shvets"></a>![shvets](/2017/img/speakers/2017/sibiryakov.jpg) Александр Сибиряков, Прага, Чехия
 
@@ -143,6 +143,13 @@
 > Twitter: [@menshikh_iv](https://twitter.com/menshikh_iv) 
 >
 > GitHub: [menshikh-iv](https://github.com/menshikh-iv)
+
+<a name="konstantinovskyi.jpg"></a>![konstantinovskyi.jpg](/2017/img/speakers/2017/konstantinovskyi.jpg) Лев Константиновский, Лондон
+>
+> Maintainers в WorldSense.
+>
+> Twitter: [@teagermylk](https://twitter.com/teagermylk) 
+> GitHub: [tmylk](https://github.com/tmylk)
 
 <a name="kuzmin"></a>![kuzmin](/2017/img/speakers/2017/kuzmin2.jpg) Алексей Кузьмин, Москва
 >
