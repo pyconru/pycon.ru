@@ -122,4 +122,4 @@
 
 <a name="mirgorodskaya"></a>![mirgorodskaya](/2017/img/speakers/2017/mirgorodskaya.jpg) Nadezhda Mirgorodskaya, St. Petersburg
 >
-> [Yandex](https://www.yandex.ru), QA engineer.
+> [Yandex](https://www.yandex.ru), Performance Test Engineer.
