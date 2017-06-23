@@ -114,4 +114,4 @@ To participate in the conference, you should register and pay for the ticket.
 </form>
 
 <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-<script src="/2017/js/tickets_en-6.js"></script>
+<script src="/2017/js/tickets_en-7.js"></script>
