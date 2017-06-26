@@ -108,6 +108,12 @@
       Не пишу на Python
     </label>
   </div>
+  <div class="tickets--field">
+    <label for="tickets_agreement" class="tickets--label">
+      <input type="checkbox" name="agreement" value="true" id="tickets_agreement" class="tickets--radio_input" />
+      Даю <a href="https://www.dropbox.com/s/w0rjo9u7d10hzb3/Согласие%20на%20обработку%20ПД.docx?dl=0">согласие</a> на обработку моих персональных данных.
+    </label>
+  </div>
   <div class="tickets--warning"></div>
   <input type="submit" value="Купить билеты" class="tickets--submit" />
 
@@ -119,4 +125,4 @@
 </form>
 
 <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-<script src="/2017/js/tickets-11.js"></script>
+<script src="/2017/js/tickets-12.js"></script>
