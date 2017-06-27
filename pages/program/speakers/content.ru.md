@@ -4,7 +4,7 @@
 
 > Twitter: [@llanga](https://tgitwitter.com/llanga), GitHub: [@ambv](https://github.com/ambv), website: [Łukasz Langa](http://lukasz.langa.pl/)
 
-> Talk: [Gradual Typing of Production Applications](/2017/program/content/langa/)
+> Talk: [Gradual Typing of Production Applications](/2017/program/content/Langa/)
 
 <a name="Lynn-Root"></a>![lynn-root](/2017/img/speakers/2017/lynn-root.jpg)Lynn Root, New York, US
 
