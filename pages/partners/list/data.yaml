@@ -29,6 +29,9 @@ sections:
     
   - logo: https://img-fotki.yandex.ru/get/404236/121639917.113/0_194980_cde55f82_orig
     link: https://python-scripts.com
+ 
+  - logo: /2017/img/speakers/2017/trud.png
+    link: http://moskva.trud.com
 
   - logo: https://img-fotki.yandex.ru/get/59115/121639917.dc/0_14b572_ccbdc657_orig
     link: https://vk.com/python_developers
@@ -39,5 +42,4 @@ sections:
   - logo: https://img-fotki.yandex.ru/get/30894/121639917.db/0_14b56c_16a16745_orig
     link: http://www.moscowpython.ru
     
-  - logo: /2017/img/speakers/2017/trud.png
-    link: http://moskva.trud.com
+
