@@ -2,9 +2,9 @@ To participate in the conference, you should register and pay for the ticket.
 
 <b>Tickets cost:</b>
 
-• 15 500 rubles (upon arrival in a double or triple room)
+• 17 000 rubles (upon arrival in a double or triple room)
 
-• 22 000 rubles (for single occupancy)
+• 27 000 rubles (for single occupancy)
 
 <b>Your ticket includes:</b>
 
