@@ -98,7 +98,7 @@ day2:
     - time: "09:00"
       break: "Завтрак"
 
-  b1:
+  b1a1:
     - speaker: "Lynn Root, Spotify"
       talk: "Tales of Tunes on Tubes: Python in Spotify's Infrastructure"
       slug: "root"
