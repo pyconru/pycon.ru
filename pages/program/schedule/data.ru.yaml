@@ -92,18 +92,17 @@ day1:
     - break: "Афтепати"
       time: "20:40"
 
-
 day2:
   b0:
     - time: "09:00"
       break: "Завтрак"
 
-  b1a1:
+  b1:
     - speaker: "Lynn Root, Spotify"
       talk: "Tales of Tunes on Tubes: Python in Spotify's Infrastructure"
       slug: "root"
       time: "10:00"
-    
+
     - break: "Перерыв"
       time: "10:45"
 
@@ -151,7 +150,7 @@ day2:
       talk: "Память и Python. Что надо знать для счастья?"
       slug: "kuzmin"
       time: "14:55"
-   
+
     - speaker: "Олег Чуркин, Rambler&Co"
       talk: "Микросервисы наносят ответный удар!"
       slug: "churkin"
@@ -167,13 +166,13 @@ day2:
       talk: "Отладка в Python 3.6: Быстрее, Выше, Сильнее"
       slug: "shashkova"
       time: "14:55"
-   
+
     - speaker: "Артём Малышев, независимый разработчик"
       talk: "Как написать свой debugger"
       slug: "malyshev"
       time: "15:35"
-      
-  b5с:
+
+  b5c:
     - speaker: "Андрей Степанов, Тинькофф Банк"
       talk: "Мастер-класс «Распознавание речи на Python без PhD» (до 16.15)"
       slug: "stepanov"
@@ -193,8 +192,8 @@ day2:
       talk: "Тотальный контроль производительности"
       slug: "yumatov"
       time: "17:30"
-      
-   b7b:
+
+  b7b:
     - speaker: "Игорь Новиков, Scalr"
       talk: "Write once run anywhere — почём опиум для народа?"
       slug: "novikov"

@@ -46,7 +46,6 @@
     'b3b': sch,
     'b5a': lch,
     'b5b': sch,
-    'b5c': trdch,
     'b7': lch,
   } %}
 
@@ -69,7 +68,7 @@
       {% endfor %}
 
       <div class="columns-wrapper">
-        {% for block in ['b5a', 'b5b', 'b5c'] %}
+        {% for block in ['b5a', 'b5b'] %}
           {{ render_block(day1, block, halls_day_1) }}
         {% endfor %}
       </div>
@@ -81,13 +80,12 @@
   {% endif %}
 
   {% set halls_day_2 = {
-    'b1a1': lch,
-    'b1b1': sch,
-    'b1c1': trdch,
+    'b1': lch,
     'b3a': lch,
     'b3b': sch,
     'b5a': lch,
     'b5b': sch,
+    'b5c': trdch,
     'b7': lch,
   } %}
 
@@ -100,11 +98,9 @@
         {{ render_block(day2, block, halls_day_2) }}
       {% endfor %}
 
-      <div class="columns-wrapper">
-        {% for block in ['b1a1', 'b1b1', 'b1c1'] %}
-          {{ render_block(day2, block, halls_day_2) }}
-        {% endfor %}
-      </div>
+      {% for block in ['b1'] %}
+        {{ render_block(day2, block, halls_day_2) }}
+      {% endfor %}
 
       {{ render_block(day2, 'b2', halls_day_2) }}
 
@@ -119,12 +115,22 @@
       {% endfor %}
 
       <div class="columns-wrapper">
-        {% for block in ['b5a', 'b5b'] %}
+        {% for block in ['b5a', 'b5b', 'b5c'] %}
           {{ render_block(day2, block, halls_day_2) }}
         {% endfor %}
       </div>
 
-      {% for block in ['b6', 'b7', 'b8', 'b9', 'b10'] %}
+      {% for block in ['b6'] %}
+        {{ render_block(day2, block, halls_day_2) }}
+      {% endfor %}
+
+      <div class="columns-wrapper">
+        {% for block in ['b7a', 'b7b'] %}
+          {{ render_block(day2, block, halls_day_2) }}
+        {% endfor %}
+      </div>
+
+      {% for block in ['b8'] %}
         {{ render_block(day2, block, halls_day_2) }}
       {% endfor %}
     </section>
