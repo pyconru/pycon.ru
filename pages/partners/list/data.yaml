@@ -9,6 +9,16 @@ sections:
   sponsors:  
   - logo: https://img-fotki.yandex.ru/get/62935/121639917.dd/0_154bf9_a4635074_orig
     link: http://rambler-co.ru/jobs
+
+- name: "Бронзовый спонсор"
+  sponsors:  
+  - logo: /2017/img/speakers/2017/meidascope logo_Black.png
+    link: http://mediascope.net
+
+- name: "Партнёр энергии и хорошего настроения"
+  sponsors:  
+  - logo: /2017/img/speakers/2017/FIN_CIAN-logo-cyrillic-horizontal-blue.png
+    link: https://www.cian.ru
     
 - name: "При поддержке"
   sponsors:
@@ -29,7 +39,7 @@ sections:
   - logo: https://img-fotki.yandex.ru/get/45082/121639917.db/0_14b56f_86a80eab_orig
     link: https://vk.com/python_community
     
-  - logo: /2017/img/speakers/2017/PyDjango Logo-c.png
+  - logo: /2017/img/speakers/2017/PyDjango Logo.png
     link: https://telegram.me/pydjango
     
   - logo: https://img-fotki.yandex.ru/get/31690/121639917.db/0_14b562_5236337d_orig
@@ -50,7 +60,7 @@ sections:
   - logo: https://img-fotki.yandex.ru/get/30894/121639917.db/0_14b56c_16a16745_orig
     link: http://www.moscowpython.ru
     
-  - logo: https://img-fotki.yandex.ru/get/30894/121639917.db/0_14b56d_bd26a287_orig
+  - logo: /2017/img/speakers/2017/devzen.png
     link: http://devzen.ru
     
 
