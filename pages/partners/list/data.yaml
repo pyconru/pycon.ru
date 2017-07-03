@@ -62,5 +62,7 @@ sections:
     
   - logo: /2017/img/speakers/2017/devzen.png
     link: http://devzen.ru
-    
+
+  - logo: /2017/img/speakers/2017/pydata.png
+    link: https://www.facebook.com/PyDataMoscow/?fref=ts
 
