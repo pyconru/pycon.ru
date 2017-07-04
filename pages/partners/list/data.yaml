@@ -10,7 +10,7 @@ sections:
   - logo: https://img-fotki.yandex.ru/get/62935/121639917.dd/0_154bf9_a4635074_orig
     link: http://rambler-co.ru/jobs
 
-  - logo: /2017/img/speakers/2017/icon_logo.png
+  - logo: /2017/img/speakers/2017/domclick.png
     link: https://domclick.ru
 
 - name: "Бронзовый спонсор"
@@ -20,7 +20,7 @@ sections:
 
 - name: "Спонсор афтепати"
   sponsors:  
-  - logo: /2017/img/speakers/2017/icon_logo.png
+  - logo: /2017/img/speakers/2017/domclick.png
     link: https://domclick.ru
 
 - name: "Партнёр энергии и хорошего настроения"
