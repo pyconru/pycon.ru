@@ -56,6 +56,10 @@
 
 > Разработчик-аналитик в [Тинькофф Банк](https://www.tinkoff.ru).
 
+<a name="patrushev"></a>![patrushev](https://img-fotki.yandex.ru/get/246231/121639917.112/0_193b50_3215ed11_orig)Антон Патрушев
+
+> CTO в [Spherical](https://www.spherical.pm).
+
 <a name="Koshkin"></a>![Aleksandr-Koshkin](https://img-fotki.yandex.ru/get/26468/121639917.dc/0_14fa8c_a5babe04_orig) Александр Кошкин, Санкт-Петербург
 
 > Senior python developer в компании [Positive Technologies](http://www.ptsecurity.com). Последнее время занимается разработкой различных компонентов PT SIEM. Спикер Piterpy, Wargaming python meetup, PyCon Russia, Boston python meetup.
