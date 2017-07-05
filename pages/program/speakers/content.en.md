@@ -55,6 +55,10 @@
 
 > Developer analyst, [Tinkoff Bank](https://www.tinkoff.ru).
 
+<a name="patrushev"></a>![patrushev](https://img-fotki.yandex.ru/get/246231/121639917.112/0_193b50_3215ed11_orig) Anton Patrushev
+
+> CTO, [Spherical](https://www.spherical.pm).
+
 <a name="Koshkin"></a>![Aleksandr-Koshkin](https://img-fotki.yandex.ru/get/26468/121639917.dc/0_14fa8c_a5babe04_orig) Aleksandr Koshkin, St. Petersburg
 
 > Senior python developer at [Positive Technologies](http://www.ptsecurity.com).
