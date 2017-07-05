@@ -61,6 +61,9 @@ sections:
 
   - logo: https://img-fotki.yandex.ru/get/59115/121639917.dc/0_14b572_ccbdc657_orig
     link: https://vk.com/python_developers
+  
+  - logo: /2017/img/speakers/2017/Index.png
+    link:  http://www.hh-it.ru
 
   - logo: https://img-fotki.yandex.ru/get/216168/121639917.113/0_194c20_62bf83fd_orig
     link: https://vse-kursy.com
@@ -76,4 +79,8 @@ sections:
  
   - logo: /2017/img/speakers/2017/SpiceIT_logo_sign-02.png
     link: http://www.spice-agency.ru/
+ 
+
+    
+   
 
