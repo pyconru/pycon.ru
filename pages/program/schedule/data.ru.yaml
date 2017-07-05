@@ -56,33 +56,35 @@ day1:
       time: "16:50"
 
   b5a:
-    - speaker: "Александр Кошелев, Яндекс"
-      talk: "Ещё один Поиск Яндекса"
+    - speaker: "Иван Цыганов, Positive Technologies"
+      talk: "(Без)опасный Python"
+      slug: "Tsyganov"
       time: "17:20"
 
     - speaker: "Александр Швец, Marilyn System"
       talk: "PyWat. А хорошо ли вы знаете Python?"
       slug: "shvets"
-      time: "17:50"
+      time: "18:05"
 
   b5b:
+    - speaker: "Игорь Новиков, Scalr"
+      talk: "Write once run anywhere — почём опиум для народа?"
+      slug: "novikov"
+      time: "17:20"
+    
     - speaker: "Надежда Миргородская, Яндекс"
       talk: "How I Learned to Stop Worrying and Love the BFG: нагрузочное тестирование со вкусом питона"
       slug: "Mirgorodskaya"
-      time: "17:20"
-
-    - speaker: "Lynn Root, Spotify"
-      talk: "Тема уточняется"
-      time: "17:50"
+      time: "18:05"
 
   b6:
     - break: "Перерыв"
-      time: "18:20"
+      time: "18:35"
 
   b7:
     - break: "Lightning Talks"
       slug: "lightning-talks-1"
-      time: "18:40"
+      time: "18:50"
 
   b8:
     - break: "Ужин"
@@ -90,7 +92,7 @@ day1:
 
   b9:
     - break: "Афтепати"
-      time: "20:40"
+      time: "21:00"
 
 day2:
   b0:
@@ -106,14 +108,20 @@ day2:
     - break: "Перерыв"
       time: "10:45"
 
+  b2а:
     - speaker: "Maciej Fijałkowski, PyPy"
       talk: "Why is Python slow?"
       slug: "fijal"
       time: "11:00"
-
-  b2:
+   
     - break: "Перерыв"
       time: "12:00"
+
+  b2с:
+    - speaker: "Антон Патрушев, Spherical"
+      talk: "Мастер-класс «Долой Electron, viva la Python» (до 13.25)"
+      slug: "patrushev"
+      time: "11:00"
 
   b3a:
     - speaker: "Александр Кошкин, Positive Technologies"
@@ -127,8 +135,8 @@ day2:
       time: "12:45"
 
   b3b:
-    - speaker: "Спикер уточняется"
-      talk: "Тема уточняется"
+    - speaker: "Александр Кошелев, Яндекс"
+      talk: "Ещё один Поиск Яндекса"
       time: "12:15"
 
     - speaker: "Александр Мокров, Positive Technologies"
@@ -141,36 +149,26 @@ day2:
       time: "13:25"
 
   b5a:
-    - speaker: "Ольга Сентемова, Тинькофф Банк"
-      talk: "Детские болезни live-чата"
-      slug: "sentemova"
-      time: "14:25"
-
     - speaker: "Алексей Кузьмин, ЦНС"
       talk: "Память и Python. Что надо знать для счастья?"
       slug: "kuzmin"
-      time: "14:55"
+      time: "14:25"
 
     - speaker: "Олег Чуркин, Rambler&Co"
       talk: "Микросервисы наносят ответный удар!"
       slug: "churkin"
-      time: "15:35"
+      time: "15:05"
 
   b5b:
-    - speaker: "Александр Сибиряков, Scrapinghub"
-      talk: "Scrapy internals"
-      slug: "Sibiryakov"
+    - speaker: "Артём Малышев, независимый разработчик"
+      talk: "Как написать свой debugger"
+      slug: "malyshev"
       time: "14:25"
 
     - speaker: "Елизавета Шашкова, JetBrains"
       talk: "Отладка в Python 3.6: Быстрее, Выше, Сильнее"
       slug: "shashkova"
-      time: "14:55"
-
-    - speaker: "Артём Малышев, независимый разработчик"
-      talk: "Как написать свой debugger"
-      slug: "malyshev"
-      time: "15:35"
+      time: "15:05"
 
   b5c:
     - speaker: "Андрей Степанов, Тинькофф Банк"
@@ -180,30 +178,30 @@ day2:
 
   b6:
     - break: "Кофе-брейк"
-      time: "16:15"
+      time: "15:45"
 
   b7a:
-    - speaker: "Иван Цыганов, Positive Technologies"
-      talk: "(Без)опасный Python"
-      slug: "Tsyganov"
-      time: "16:45"
+    - speaker: "Ольга Сентемова, Тинькофф Банк"
+      talk: "Детские болезни live-чата"
+      slug: "sentemova"
+      time: "16:15"
 
     - speaker: "Михаил Юматов, ЦИАН"
       talk: "Тотальный контроль производительности"
       slug: "yumatov"
-      time: "17:30"
+      time: "16:45"
 
   b7b:
-    - speaker: "Игорь Новиков, Scalr"
-      talk: "Write once run anywhere — почём опиум для народа?"
-      slug: "novikov"
-      time: "16:45"
+    - speaker: "Александр Сибиряков, Scrapinghub"
+      talk: "Scrapy internals"
+      slug: "Sibiryakov"
+      time: "16:15"
 
     - speaker: "Александр Хаёров, Ingram Micro"
       talk: "Amazing AppEngine"
       slug: "Hayorov"
-      time: "17:30"
+      time: "16:45"
 
   b8:
     - break: "Торжественное закрытие"
-      time: "18:00"
+      time: "17:15"
