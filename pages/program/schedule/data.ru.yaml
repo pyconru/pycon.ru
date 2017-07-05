@@ -71,7 +71,7 @@ day1:
       talk: "Write once run anywhere — почём опиум для народа?"
       slug: "novikov"
       time: "17:20"
-    
+
     - speaker: "Надежда Миргородская, Яндекс"
       talk: "How I Learned to Stop Worrying and Love the BFG: нагрузочное тестирование со вкусом питона"
       slug: "Mirgorodskaya"
@@ -108,16 +108,16 @@ day2:
     - break: "Перерыв"
       time: "10:45"
 
-  b2а:
+  b2a:
     - speaker: "Maciej Fijałkowski, PyPy"
       talk: "Why is Python slow?"
       slug: "fijal"
       time: "11:00"
-   
+
     - break: "Перерыв"
       time: "12:00"
 
-  b2с:
+  b2c:
     - speaker: "Антон Патрушев, Spherical"
       talk: "Мастер-класс «Долой Electron, viva la Python» (до 13.25)"
       slug: "patrushev"
