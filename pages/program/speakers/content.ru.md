@@ -56,7 +56,7 @@
 
 > Разработчик-аналитик в [Тинькофф Банк](https://www.tinkoff.ru).
 
-<a name="patrushev"></a>![patrushev](https://img-fotki.yandex.ru/get/246231/121639917.112/0_193b50_3215ed11_orig)Антон Патрушев
+<a name="patrushev"></a>![patrushev](https://img-fotki.yandex.ru/get/246231/121639917.112/0_193b50_3215ed11_orig) Антон Патрушев
 
 > CTO в [Spherical](https://www.spherical.pm).
 
