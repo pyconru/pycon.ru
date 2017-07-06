@@ -5,6 +5,11 @@ sections:
   - logo: https://img-fotki.yandex.ru/get/233044/356682190.0/0_159e95_4c0dd78a_orig
     link: https://adcombo.com
     
+- name: "Партнёр энергии и хорошего настроения"
+  sponsors:  
+  - logo: /2017/img/speakers/2017/FIN_CIAN-logo-cyrillic-horizontal-blue.png
+    link: https://www.cian.ru    
+    
 - name: "Серебряный спонсор"
   sponsors:  
   - logo: https://img-fotki.yandex.ru/get/62935/121639917.dd/0_154bf9_a4635074_orig
@@ -22,11 +27,6 @@ sections:
   sponsors:  
   - logo: /2017/img/speakers/2017/domclick.png
     link: https://domclick.ru
-
-- name: "Партнёр энергии и хорошего настроения"
-  sponsors:  
-  - logo: /2017/img/speakers/2017/FIN_CIAN-logo-cyrillic-horizontal-blue.png
-    link: https://www.cian.ru
     
 - name: "При поддержке"
   sponsors:
