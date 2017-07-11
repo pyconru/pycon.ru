@@ -137,6 +137,7 @@ day2:
   b3b:
     - speaker: "Александр Кошелев, Яндекс"
       talk: "Ещё один Поиск Яндекса"
+      slug: "koshelev"
       time: "12:15"
 
     - speaker: "Александр Мокров, Positive Technologies"
