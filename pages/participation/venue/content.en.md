@@ -10,7 +10,7 @@ On July, 16, from the subway station "Annino" buses leave at 8.00. At 10.00–10
 
 [Point](https://www.google.ru/maps/place/55%C2%B035'14.4%22N+37%C2%B035'51.1%22E/@55.5857505,37.5984397,16z/data=!4m5!3m4!1s0x0:0x0!8m2!3d55.587341!4d37.597532) on the map with coordinates, where there will be buses.
 
-On July, 17, buses from "Tarusa" to "Annino" depart at 18.30.
+On July, 17, buses from "Tarusa" to "Annino" depart at 17.30.
 
 ## How to drive to the hotel "Cronwell Yahonty Tarusa"
 
