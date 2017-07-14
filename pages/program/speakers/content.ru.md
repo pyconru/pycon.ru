@@ -95,7 +95,7 @@
 
 > [Positive Technologies](http://www.ptsecurity.com), ведущий программист. Выступал с несколькими докладами в рамках нижегородского python-митапа [rannts](https://rannts.ru/speakers/).
 
-<a name="novikov"></a>![novikov](https://img-fotki.yandex.ru/get/60881/121639917.113/0_1976de_3d45611_orig)Игорь Новиков, Харьков-Львов
+<a name="novikov"></a>![novikov](https://img-fotki.yandex.ru/get/60881/121639917.113/0_1976de_3d45611_orig)Игорь Новиков, Харьков-Львов-Вроцлав
 
 > Senior Python developer в компании [Scalr](https://www.scalr.com/), project founder в [sK1 Project](https://sk1project.net/). Специализация — мультиплатформенные десктопные приложения на Python и векторная графика. Спикер Libre Graphics Meeting, Latinoware, OSDN Conference, FOSS Lviv, KharkivPy. Награды Les Trophées du Libre, Hackontest, The best free project of Russia.
 
