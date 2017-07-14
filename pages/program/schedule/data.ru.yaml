@@ -117,13 +117,6 @@ day2:
     - break: "Перерыв"
       time: "12:00"
 
-  b2c:
-    - speaker: "Антон Патрушев, Spherical"
-      talk: "Мастер-класс «Долой Electron, viva la Python» (до 13.25)"
-      slug: "patrushev"
-      time: "11:00"
-
-  b3a:
     - speaker: "Александр Кошкин, Positive Technologies"
       talk: "Python на острие бритвы: PyPy project"
       slug: "koshkin"
@@ -134,7 +127,7 @@ day2:
       slug: "markov"
       time: "12:45"
 
-  b3b:
+  b2b:
     - speaker: "Александр Кошелев, Яндекс"
       talk: "Ещё один Поиск Яндекса"
       slug: "koshelev"
@@ -144,6 +137,12 @@ day2:
       talk: "Gevent — быть или не быть?"
       slug: "mokrov"
       time: "12:45"
+
+  b2c:
+    - speaker: "Антон Патрушев, Spherical"
+      talk: "Мастер-класс «Долой Electron, viva la Python» (до 13.25)"
+      slug: "patrushev"
+      time: "11:00"
 
   b4:
     - break: "Обед"
