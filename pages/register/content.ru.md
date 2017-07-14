@@ -118,7 +118,7 @@
   <input type="hidden" name="paymentType" value="AC" />
   <input type="hidden" name="orderDetails" id="tickets_order_details" />
   <input type="text" name="_gotcha" style="display:none" />
-</form>
+</form>-->
 
 <!-- <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
 <script src="/2017/js/tickets-16.js"></script> -->
