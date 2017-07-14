@@ -1,28 +1,30 @@
-To participate in the conference, you should register and pay for the ticket.
+Registration is closed. All tickets are sold.
 
-<b>Tickets cost:</b>
+<!--To participate in the conference, you should register and pay for the ticket.-->
 
-• 17 000 rubles (upon arrival in a double or triple room)
+<!--<b>Tickets cost:</b>-->
 
-<b>Your ticket includes:</b>
+<!--• 17 000 rubles (upon arrival in a double or triple room)-->
 
-• Participation in the conference (2 days)
+<!--<b>Your ticket includes:</b>-->
 
-• Hotel accommodation
+<!--• Participation in the conference (2 days)-->
 
-• Lunch and dinner on July, 16 and breakfast and lunch on July, 17
+<!--• Hotel accommodation-->
 
-• All coffee breaks
+<!--• Lunch and dinner on July, 16 and breakfast and lunch on July, 17-->
 
-• Entertainment
+<!--• All coffee breaks-->
 
-• Bus from the city to the venue and back.
+<!--• Entertainment-->
+
+<!--• Bus from the city to the venue and back.-->
 
 
-<b>Special price for students — 9 000 rubles.</b> To buy a ticket for a special price, send a student scan to om.itpeople@gmail.com, in return we will send you a promotional code. After entering this code, you will be able to buy a discount ticket.
+<!--<b>Special price for students — 9 000 rubles.</b> To buy a ticket for a special price, send a student scan to om.itpeople@gmail.com, in return we will send you a promotional code. After entering this code, you will be able to buy a discount ticket.-->
 
 
-<form id="tickets_form" action="https://money.yandex.ru/eshop.xml" class="tickets">
+<!--<form id="tickets_form" action="https://money.yandex.ru/eshop.xml" class="tickets">
   <div id="tickets_picker"></div>
   <div class="tickets--field">
     <label for="tickets_email" class="tickets--label">Email</label>
@@ -101,14 +103,14 @@ To participate in the conference, you should register and pay for the ticket.
     </label>
   </div>
   <div class="tickets--warning"></div>
-  <input type="submit" value="Buy tickets" class="tickets--submit" />
+  <input type="submit" value="Buy tickets" class="tickets--submit" />-->
 
-  <input type="hidden" name="shopId" value="135957" />
+ <!-- <input type="hidden" name="shopId" value="135957" />
   <input type="hidden" name="scid" value="98736" />
   <input type="hidden" name="paymentType" value="AC" />
   <input type="hidden" name="orderDetails" id="tickets_order_details" />
   <input type="text" name="_gotcha" style="display:none" />
-</form>
+</form>-->
 
-<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-<script src="/2017/js/tickets_en-11.js"></script>
+<!-- <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+<script src="/2017/js/tickets_en-11.js"></script>-->
