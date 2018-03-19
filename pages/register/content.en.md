@@ -1,4 +1,4 @@
-Registration is closed. All tickets are sold.
+Registration will be opened soon.
 
 <!--To participate in the conference, you should register and pay for the ticket.-->
 
