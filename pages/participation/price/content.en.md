@@ -1,1 +1,1 @@
-Registration is closed. All tickets are sold.
+Registration will be opened soon.
