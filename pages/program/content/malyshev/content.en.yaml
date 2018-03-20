@@ -1,7 +1,0 @@
-speaker: |
-    **Artem Malyshev**, Independent developer
-    
-title: "How to write your own debugger"
-
-description: |
-  A very rare programmer doesn't need debugging tools. Change a variable value, look at program execution step by step, get the whole picture of the situation is extremely hard without Pdb. How were all these debuggers implemented? What underlying mechanisms are they use? What issues do they need to solve? I will address all those questions in my talk.

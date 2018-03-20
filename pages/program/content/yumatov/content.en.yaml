@@ -1,9 +1,0 @@
-speaker: |
-    **Mikhail Yumatov**, Cian
-    
-title: "Total Performance Control"
-
-description: |
-   How to understand quickly what’s your app doing right now. Where does it spend its time? Which is the weakest link?
-
-   We’ll talk about available tools for monitoring web application performance. How to use them to collect detail information on all operations, detect problems quickly and react. Slowlog on steroids. What is statistical analysis and how to use it to debug performance.
