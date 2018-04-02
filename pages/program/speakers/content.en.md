@@ -1,1 +1,12 @@
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfIXsLQLzjLv9IoRFYaz4n9V6zp86MlI9uJ5ijtUpd0CfBWYQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
+<a name="selivanov"></a>![selivanov](https://img-fotki.yandex.ru/get/1028274/121639917.13c/0_1c300c_ab303f93_orig)Yury Selivanov, Toronto, Canada
+
+> Expert software engineer with the primary focus on system scalability and performance. Founder of EgdeDB, the next generation object database. Core Python developer, author of uvloop, asyncpg, asyncio. In the course of his work Yury consulted numerous companies like Cisco, Pinterest, ABB, Nintendo and others, and his software is used to improve performance at companies like Facebook, Instagram etc. Yury studied Computer Science at the Bauman Moscow State Technical University.
+
+> Twitter: [@1st1](https://twitter.com/1st1), GitHub: [@1st1](https://github.com/1st1)
+
+
+<a name="Rocklin"></a>![Rocklin](https://img-fotki.yandex.ru/get/998719/121639917.13c/0_1c300f_bbfbde0e_orig)Matthew Rocklin, New York, USA
+
+> Software developer in Continuum Analytics. 
+
+> GitHub: [@mrocklin](https://github.com/mrocklin/), website: [matthewrocklin.com](https://matthewrocklin.com)
