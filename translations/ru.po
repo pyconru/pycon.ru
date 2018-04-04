@@ -36,6 +36,10 @@ msgstr "Содержание"
 msgid "Call for Proposals"
 msgstr "Приём заявок"
 
+#: _base.html:78
+msgid "Call For Proposals"
+msgstr "Приём заявок"
+
 #: _base.html:80
 msgid "Program"
 msgstr "Программа"
