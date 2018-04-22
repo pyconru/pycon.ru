@@ -103,7 +103,7 @@
   <input type="text" name="_gotcha" style="display:none" />
 </form>
 
-<div style="font-size: 18px; color: #4382b4;">Спасибо, мы скоро свяжемся с вами.</div>
+<div id="thanks" style="font-size: 18px; color: #4382b4; display: none;">Спасибо, мы скоро свяжемся с вами.</div>
 
 <div id="tickets_widget_wrap" style="display: none;">
   <button type="button" class="tc-background-default" data-tc-event="5ad5a056515e35001c8e2693" data-tc-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6InRpY2tldHNjbG91ZC5ydSJ9.eyJwIjoiNWE2YjA4ZTQ1MTVlMzUwMDFhODk1OWRjIn0.NVuJBfB3h2X496IFUYH-Z3P57NMRlDtIsp1kaZH_XFQ">Купить билет</button>
