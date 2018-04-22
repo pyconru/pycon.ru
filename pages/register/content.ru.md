@@ -1,29 +1,4 @@
 <form id="tickets_form" action="#" class="tickets">
-  <div id="tickets_picker"></div>
-  <div class="tickets--field">
-    <label for="tickets_email" class="tickets--label">Почта</label>
-    <input type="email" name="email" id="tickets_email" class="tickets--text_input" />
-  </div>
-  <div class="tickets--field">
-    <label for="tickets_name" class="tickets--label">Имя и фамилия</label>
-    <input type="text" name="name" id="tickets_name" class="tickets--text_input" />
-  </div>
-  <div class="tickets--field">
-    <label for="tickets_phone" class="tickets--label">Телефон</label>
-    <input type="text" name="phone" id="tickets_phone" class="tickets--text_input" />
-  </div>
-  <div class="tickets--field">
-    <label for="tickets_company" class="tickets--label">Компания</label>
-    <input type="text" name="company" id="tickets_company" class="tickets--text_input" />
-  </div>
-  <div class="tickets--field">
-    <label for="tickets_position" class="tickets--label">Должность</label>
-    <input type="text" name="position" id="tickets_position" class="tickets--text_input" />
-  </div>
-  <div class="tickets--field">
-    <label for="tickets_city" class="tickets--label">Город</label>
-    <input type="text" name="city" id="tickets_city" class="tickets--text_input" />
-  </div>
   <div
     class="tickets--field show_if_checked set_action_if_checked"
     data-sif-watch='input'
@@ -56,6 +31,31 @@
       />
       Заплачу сам банковской картой
     </label>
+  </div>
+  <div id="tickets_picker"></div>
+  <div class="tickets--field">
+    <label for="tickets_email" class="tickets--label">Почта</label>
+    <input type="email" name="email" id="tickets_email" class="tickets--text_input" />
+  </div>
+  <div class="tickets--field">
+    <label for="tickets_name" class="tickets--label">Имя и фамилия</label>
+    <input type="text" name="name" id="tickets_name" class="tickets--text_input" />
+  </div>
+  <div class="tickets--field">
+    <label for="tickets_phone" class="tickets--label">Телефон</label>
+    <input type="text" name="phone" id="tickets_phone" class="tickets--text_input" />
+  </div>
+  <div class="tickets--field">
+    <label for="tickets_company" class="tickets--label">Компания</label>
+    <input type="text" name="company" id="tickets_company" class="tickets--text_input" />
+  </div>
+  <div class="tickets--field">
+    <label for="tickets_position" class="tickets--label">Должность</label>
+    <input type="text" name="position" id="tickets_position" class="tickets--text_input" />
+  </div>
+  <div class="tickets--field">
+    <label for="tickets_city" class="tickets--label">Город</label>
+    <input type="text" name="city" id="tickets_city" class="tickets--text_input" />
   </div>
   <div id="toggle_company_details" class="tickets--field">
     <label for="tickets_company_details" class="tickets--label">Укажите реквизиты компании</label>
