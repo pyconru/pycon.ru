@@ -1,6 +1,6 @@
 
 ##Программный комитет
-![shtan](https://img-fotki.yandex.ru/get/195648/121639917.103/0_180d49_899da6d1_orig) Данила Штань<br>CTO в [Точка](https://tochka.com)
+![shtan](https://img-fotki.yandex.ru/get/195648/121639917.103/0_180d49_899da6d1_orig) Данила Штань<br>CTO в Яндекс.Вертикали
 
 ![imankulov](https://img-fotki.yandex.ru/get/94596/121639917.103/0_180d47_c749c124_orig) Роман Иманкулов<br>разработчик [Doist Inc](https://doist.com)
 
