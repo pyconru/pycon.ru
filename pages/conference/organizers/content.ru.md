@@ -12,19 +12,13 @@
 
 ![patrushev](https://img-fotki.yandex.ru/get/246231/121639917.112/0_193b50_3215ed11_orig) Антон Патрушев<br>CTO в [Spherical](https://www.spherical.pm)
 
-![suleymanova](https://img-fotki.yandex.ru/get/94189/121639917.113/0_193f98_a1aa2740_orig) Евгения Сулейманова<br>IT-People
-
-![ronaher](https://img-fotki.yandex.ru/get/197741/121639917.103/0_180d4f_8d6f7195_orig) Мария Ронахер<br>IT-People
-
 
 ##Организационный комитет
 ![gerasimovich](https://img-fotki.yandex.ru/get/195990/121639917.103/0_180d4e_d97021d0_orig) Юлия Герасимович<br>директор компании [IT-People.ru](http://it-people.ru/)
 
-![voronina](https://img-fotki.yandex.ru/get/42692/121639917.103/0_180d54_28c36dde_orig) Елена Воронина
+![voronina](https://img-fotki.yandex.ru/get/42692/121639917.103/0_180d54_28c36dde_orig) Елена Могильникова
 
 ![shulyndina](https://img-fotki.yandex.ru/get/221708/121639917.112/0_193e88_56a14259_orig) Екатерина Шулындина
-
-![kudinova](https://img-fotki.yandex.ru/get/42692/121639917.103/0_180d50_5b7d76ae_orig) Ксения Кудинова
 
 ![pervuhina](https://img-fotki.yandex.ru/get/106693/121639917.113/0_193e89_8faf2c4d_orig) Мария Первухина
 
