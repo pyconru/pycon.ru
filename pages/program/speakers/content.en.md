@@ -8,6 +8,8 @@
 
 <a name="Rocklin"></a>![Rocklin](https://img-fotki.yandex.ru/get/998719/121639917.13c/0_1c300f_bbfbde0e_orig)Matthew Rocklin, New York, USA
 
-> Software developer in Continuum Analytics. 
+> Matthew is an open source software developer focusing on efficient computation and parallel computing, primarily within the Python ecosystem. He has contributed to many of the PyData libraries and today works on Dask a framework for parallel computing. Matthew holds a PhD in computer science from the University of Chicago where he focused on numerical linear algebra, task scheduling, and computer algebra.
 
-> GitHub: [@mrocklin](https://github.com/mrocklin/), website: [matthewrocklin.com](https://matthewrocklin.com)
+> Matthew lives in Brooklyn, NY and is employed by Anaconda Inc.
+
+> GitHub: [@mrocklin](https://github.com/mrocklin/), website: [matthewrocklin.com](https://matthewrocklin.com), blog: [matthewrocklin.com/blog](http://matthewrocklin.com/blog), dask: [http://dask.pydata.org](http://dask.pydata.org/)
