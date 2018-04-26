@@ -12,7 +12,7 @@
 
 > Matthew lives in Brooklyn, NY and is employed by Anaconda Inc.
 
-> GitHub: [@mrocklin](https://github.com/mrocklin/), website: [matthewrocklin.com](https://matthewrocklin.com), blog: [matthewrocklin.com/blog](http://matthewrocklin.com/blog), dask: [http://dask.pydata.org](http://dask.pydata.org/)
+> GitHub: [@mrocklin](https://github.com/mrocklin/), website: [matthewrocklin.com](https://matthewrocklin.com), blog: [matthewrocklin.com/blog](http://matthewrocklin.com/blog)
 
 
 
