@@ -14,6 +14,8 @@
 
 > GitHub: [@mrocklin](https://github.com/mrocklin/), website: [matthewrocklin.com](https://matthewrocklin.com), blog: [matthewrocklin.com/blog](http://matthewrocklin.com/blog), dask: [http://dask.pydata.org](http://dask.pydata.org/)
 
+
+
 <a name="Warrick"></a>![Warrick](https://img-fotki.yandex.ru/get/965297/121639917.148/0_1c3ca4_baa1d24a_orig)Melanie Warrick, San Francisco, USA
 
 > Melanie Warrick is a Senior Developer Advocate for machine learning and Google Cloud. Previously, she was a founding engineer for DeepLearning4J (open source neural net platform in Java), and also implemented machine learning in production at Change.org. Over the last couple of years, she has spoken at many conferences about artificial intelligence, and her passions include working on machine learning problems at scale.
