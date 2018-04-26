@@ -12,7 +12,7 @@
 
 > Matthew lives in Brooklyn, NY and is employed by Anaconda Inc.
 
-> GitHub: [@mrocklin](https://github.com/mrocklin/), website: [matthewrocklin.com](https://matthewrocklin.com), blog: [matthewrocklin.com/blog](http://matthewrocklin.com/blog), dask: [http://dask.pydata.org](http://dask.pydata.org/)
+> GitHub: [@mrocklin](https://github.com/mrocklin/), website: [matthewrocklin.com](https://matthewrocklin.com), blog: [matthewrocklin.com/blog](http://matthewrocklin.com/blog)
 
 <a name="Warrick"></a>![Warrick](https://img-fotki.yandex.ru/get/965297/121639917.148/0_1c3ca4_baa1d24a_orig)Melanie Warrick, San Francisco, USA
 
