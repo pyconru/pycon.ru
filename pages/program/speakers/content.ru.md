@@ -26,3 +26,9 @@
 
 > GitHub: [@tiran](https://github.com/tiran), twitter: [@ChristianHeimes](https://twitter.com/christianheimes)
 
+<a name="Heddleston"></a>![Heddleston](/2018/img/speakers/2018/hadson.jpg)Kate Heddleston, San Francisco, USA
+
+> Kate Heddleston is a software engineer from San Francisco. She currently works as an engineering manager for a startup called Shift, a marketplace for buying and selling used cars. 
+
+> GitHub: [@heddle317](https://github.com/heddle317), twitter: [@heddle317](https://twitter.com/heddle317)
+
