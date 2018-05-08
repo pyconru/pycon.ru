@@ -7,10 +7,10 @@ sections:
 
 - name: "Information Partners"
   sponsors:
-  - logo: /2017/img/speakers/2018/django.jpg
+  - logo: /2018/img/speakers/2018/django.jpg
     link: https://vk.com/we_use_django
     
-  - logo: https://3.downloader.disk.yandex.ru/disk/7f961b4d3dd8c67cf6cf0ec4d2a1c2b3807fc8927a4016f7db986283ef3532ce/5af08820/pjmZs59vfQjRItzShsOgmJPGAoG81I3Qjgyd2ZjCkB0dFTfMHqOeRoLdifjiqJzCGh5ligN4CV5Xdlbx3NGlhg%3D%3D?uid=121639917&filename=HrMUNqGiaXA.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&fsize=3171&hid=917256325a82c3d0e511f37c0b4768f3&media_type=image&tknv=v2&etag=9c19e34e01bf433a2b2c8011cc35fbca
+  - logo: /2018/img/speakers/2018/pirsipy.jpg
     link: https://vk.com/pirsipy
     
   - logo: https://img-fotki.yandex.ru/get/404236/121639917.113/0_194980_cde55f82_orig
@@ -18,3 +18,6 @@ sections:
 
   - logo: https://img-fotki.yandex.ru/get/30894/121639917.db/0_14b56c_16a16745_orig
     link: http://www.moscowpython.ru
+
+ - logo: https://img-fotki.yandex.ru/get/31690/121639917.db/0_14b562_5236337d_orig
+    link: http://pythonworld.ru
