@@ -5,17 +5,6 @@
 > Twitter: [@1st1](https://twitter.com/1st1), GitHub: [@1st1](https://github.com/1st1)
 
 
-
-<a name="Rocklin"></a>![Rocklin](https://img-fotki.yandex.ru/get/998719/121639917.13c/0_1c300f_bbfbde0e_orig)Matthew Rocklin, New York, USA
-
-> Matthew is an open source software developer focusing on efficient computation and parallel computing, primarily within the Python ecosystem. He has contributed to many of the PyData libraries and today works on Dask a framework for parallel computing. Matthew holds a PhD in computer science from the University of Chicago where he focused on numerical linear algebra, task scheduling, and computer algebra.
-
-> Matthew lives in Brooklyn, NY and is employed by Anaconda Inc.
-
-> GitHub: [@mrocklin](https://github.com/mrocklin/), website: [matthewrocklin.com](https://matthewrocklin.com), blog: [matthewrocklin.com/blog](http://matthewrocklin.com/blog)
-
-
-
 <a name="Warrick"></a>![Warrick](https://img-fotki.yandex.ru/get/965297/121639917.148/0_1c3ca4_baa1d24a_orig)Melanie Warrick, San Francisco, USA
 
 > Melanie Warrick is a Senior Developer Advocate for machine learning and Google Cloud. Previously, she was a founding engineer for DeepLearning4J (open source neural net platform in Java), and also implemented machine learning in production at Change.org. Over the last couple of years, she has spoken at many conferences about artificial intelligence, and her passions include working on machine learning problems at scale.
@@ -33,3 +22,9 @@
 > Kate Heddleston is a software engineer from San Francisco. She currently works as an engineering manager for a startup called Shift, a marketplace for buying and selling used cars. 
 
 > GitHub: [@heddle317](https://github.com/heddle317), twitter: [@heddle317](https://twitter.com/heddle317)
+
+<a name="Jaensch"></a>![Jaensch](/2018/img/speakers/2018/SJ.jpg)Stephan Jaensch, Hamburg, Germany
+
+> I'm a tech lead at Yelp, working on the core infrastructure of the Commerce group. I've worked and continue to work on our Business Owner App backend and am deeply involved in the service infrastructure at Yelp. My main focus area is inter-service development. I'm one of the maintainers of the Python stack for Swagger / OpenAPI (bravado etc). I also work on making our end-to-end testing faster and more reliable.
+
+> Twitter: [@s_jaensch](https://twitter.com/s_jaensch)
