@@ -28,3 +28,9 @@
 > I'm a tech lead at Yelp, working on the core infrastructure of the Commerce group. I've worked and continue to work on our Business Owner App backend and am deeply involved in the service infrastructure at Yelp. My main focus area is inter-service development. I'm one of the maintainers of the Python stack for Swagger / OpenAPI (bravado etc). I also work on making our end-to-end testing faster and more reliable.
 
 > Twitter: [@s_jaensch](https://twitter.com/s_jaensch)
+
+<a name="alej"></a>![alej](/2018/img/speakers/2018/alej1.jpeg)Alejandro Saucedo, London, United Kingdom
+
+> Alejandro is the Head of Deployed Engineering at Eigen Technologies where he leads multiple teams of Machine Learning / DevOps engineers and academics across London and New York. He is also the founder and CTO at Exponential, a tech consultancy in Machine Learning and DevOps. He is a Fellow for AI, Data & Machine Learning at The RSA and founder of The Institute for Ethical ML, a Think-tank focused on accelerating the creation of effective policy to ensure the ethical development of AI. He was previously the Chief Technology Officer at Hack Partners, a technology consultancy that operates in the railway sector, started a global NGO called HackaGlobal that created multiple developer communities around the world, and worked as a software engineer at Bloomberg LP.
+
+>  GitHub: [@axsauze](https://github.com/axsauze), twitter: [@axsaucedo](https://twitter.com/axsaucedo)
