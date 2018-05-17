@@ -4,6 +4,11 @@ sections:
   sponsors:
   - logo: https://img-fotki.yandex.ru/get/31382/121639917.dc/0_151211_ed8cd948_orig
     link: https://www.jetbrains.com/pycharm/
+    
+ - name: "Серебряный спонсор"
+   sponsors:
+   - logo: /2018/img/speakers/2018/mediascope.png
+     link: http://mediascope.net/about/company/russia/  
 
 - name: "Информационные партнёры"
   sponsors:
