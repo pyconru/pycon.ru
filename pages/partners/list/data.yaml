@@ -1,14 +1,19 @@
 sections:
 
-- name: "Золотой спонсор"
+- name: "Золотой партнёр"
   sponsors:
   - logo: https://img-fotki.yandex.ru/get/31382/121639917.dc/0_151211_ed8cd948_orig
     link: https://www.jetbrains.com/pycharm/
 
-- name: "Серебряный спонсор"
+- name: "Серебряный партнёр"
   sponsors:
   - logo: /2018/img/speakers/2018/mediascope.png
     link: http://mediascope.net/about/company/russia/  
+
+- name: "Спонсор воды"
+  sponsors:
+  - logo: /2018/img/speakers/2018/Logo-Avito.png
+    link: https://www.avito.ru 
 
 - name: "Информационные партнёры"
   sponsors:
