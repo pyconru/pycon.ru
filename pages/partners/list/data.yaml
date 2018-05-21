@@ -17,6 +17,9 @@ sections:
 
 - name: "Информационные партнёры"
   sponsors:
+  - logo: https://img-fotki.yandex.ru/get/62701/121639917.dd/0_158bf3_de687d2a_orig
+    link: https://www.facebook.com/pyconby
+    
   - logo: /2018/img/speakers/2018/django.jpg
     link: https://vk.com/we_use_django
     
