@@ -33,4 +33,4 @@
 
 > Alejandro is the Head of Deployed Engineering at Eigen Technologies where he leads multiple teams of Machine Learning / DevOps engineers and academics across London and New York. He is also the founder and CTO at Exponential, a tech consultancy in Machine Learning and DevOps. He is a Fellow for AI, Data & Machine Learning at The RSA and founder of The Institute for Ethical ML, a Think-tank focused on accelerating the creation of effective policy to ensure the ethical development of AI. He was previously the Chief Technology Officer at Hack Partners, a technology consultancy that operates in the railway sector, started a global NGO called HackaGlobal that created multiple developer communities around the world, and worked as a software engineer at Bloomberg LP.
 
->  GitHub: [@axsauze](https://github.com/axsauze), twitter: [@axsaucedo](https://twitter.com/axsaucedo)
+>  GitHub: [@axsauze](https://github.com/axsauze), twitter: [@axsaucedo](https://twitter.com/axsaucedo), linkedin: [@axsaucedo](https://www.linkedin.com/in/axsaucedo/)
