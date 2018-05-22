@@ -5,6 +5,12 @@
 
 > Twitter: [@1st1](https://twitter.com/1st1), GitHub: [@1st1](https://github.com/1st1)
 
+<a name="svwtlov"></a>![svwtlov](https://img-fotki.yandex.ru/get/1016686/121639917.148/0_1c3c03_26e22dab_orig)Андрей Светлов, Киев, Украина
+
+> Python Core Developer, автор и активный участник многих питоновских библиотек, среди которых [asyncio](http://asyncio.org), [aiohttp](https://pypi.org/project/aiohttp/), [aiopg](https://aiopg.readthedocs.io/en/stable/), [aiozmq](https://aiozmq.readthedocs.io/en/v0.7.0/).
+
+> Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov), Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.fr)
+
 <a name="Warrick"></a>![Warrick](https://img-fotki.yandex.ru/get/965297/121639917.148/0_1c3ca4_baa1d24a_orig)Melanie Warrick, San Francisco, USA
 
 > Melanie Warrick is a Senior Developer Advocate for machine learning and Google Cloud. Previously, she was a founding engineer for DeepLearning4J (open source neural net platform in Java), and also implemented machine learning in production at Change.org. Over the last couple of years, she has spoken at many conferences about artificial intelligence, and her passions include working on machine learning problems at scale.
