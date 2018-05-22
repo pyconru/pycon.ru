@@ -1,5 +1,5 @@
 ##Program Committee
-![svwtlov](https://img-fotki.yandex.ru/get/1016686/121639917.148/0_1c3c03_26e22dab_orig) Андрей Светлов<br>Python Core Developer
+![svwtlov](https://img-fotki.yandex.ru/get/1016686/121639917.148/0_1c3c03_26e22dab_orig) Andrew Svetlov<br>Python Core Developer
 
 ![shtan](https://img-fotki.yandex.ru/get/195648/121639917.103/0_180d49_899da6d1_orig) Danila Shtan<br>CTO, Yandex.Vertical
 
