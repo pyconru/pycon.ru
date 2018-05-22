@@ -4,6 +4,11 @@
 
 > Twitter: [@1st1](https://twitter.com/1st1), GitHub: [@1st1](https://github.com/1st1)
 
+<a name="svwtlov"></a>![svwtlov](https://img-fotki.yandex.ru/get/1016686/121639917.148/0_1c3c03_26e22dab_orig)Andrew Svetlov, Kiev, Ukraine
+
+> Python Core Developer, co-author of several Open Source libraries, speaker at many conferences.
+
+> Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov), Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.fr)
 
 <a name="Warrick"></a>![Warrick](https://img-fotki.yandex.ru/get/965297/121639917.148/0_1c3ca4_baa1d24a_orig)Melanie Warrick, San Francisco, USA
 
