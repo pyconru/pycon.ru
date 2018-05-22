@@ -1,0 +1,7 @@
+speaker: |
+    **Alejandro Saucedo**, Eigen Technologies
+    
+title: "Industrial Data Pipelines with Python and Airflow"
+
+description: |
+    This talk will provide a practical deep dive on how to build industry-ready machine learning / data pipelines using Airflow. This will consist of a practical presentation that will build from the basics of Airflow, and show how it is possible to build scalable and distributed machine learning data pipelines using a distributed architecture with a Celery backend. I will provide insights on some of the key learnings I've obtained throughout my career building & deploying machine learning systems in critical environments across several sectors.
