@@ -36,6 +36,14 @@
 
 <a name="alej"></a>![alej](/2018/img/speakers/2018/alej1.jpeg)Alejandro Saucedo, London, United Kingdom
 
-> Alejandro is the Head of Deployed Engineering at Eigen Technologies where he leads multiple teams of Machine Learning / DevOps engineers and academics across London and New York. He is also the founder and CTO at Exponential, a tech consultancy in Machine Learning and DevOps. He is a Fellow for AI, Data & Machine Learning at The RSA and founder of The Institute for Ethical ML, a Think-tank focused on accelerating the creation of effective policy to ensure the ethical development of AI. He was previously the Chief Technology Officer at Hack Partners, a technology consultancy that operates in the railway sector, started a global NGO called HackaGlobal that created multiple developer communities around the world, and worked as a software engineer at Bloomberg LP.
+> Alejandro is the Head of Deployed Engineering at Eigen Technologies where he leads multiple teams of Machine Learning / DevOps engineers and academics across London and New York. He is also the founder and CTO at Exponential, a tech consultancy in Machine Learning and DevOps. He is a Fellow for AI, Data & Machine Learning at The RSA and founder of The Institute for Ethical ML. He was previously the Chief Technology Officer at Hack Partners, a technology consultancy that operates in the railway sector, started a global NGO called HackaGlobal that created multiple developer communities around the world, and worked as a software engineer at Bloomberg LP.
 
 >  GitHub: [@axsauze](https://github.com/axsauze), twitter: [@axsaucedo](https://twitter.com/axsaucedo), linkedin: [@axsaucedo](https://www.linkedin.com/in/axsaucedo/)
+
+<a name="khaaerov"></a>![khaaerov](/2017/img/speakers/2017/khaaerov.png)Aleksander Hayorov, Moscow
+
+> Development Manager at Ingram Micro Cloud.
+
+<a name="kuzmin"></a>![kuzmin](/2018/img/speakers/2018/kuzmin.jpg) Alexey Kuzmin, Moscow
+>
+> Tech lead at Domclick.ru.
