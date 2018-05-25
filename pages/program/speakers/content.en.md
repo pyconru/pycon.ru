@@ -49,3 +49,7 @@
 <a name="kuzmin"></a>![kuzmin](/2018/img/speakers/2018/kuzmin.jpg) Alexey Kuzmin, Moscow
 >
 > Tech lead at Domclick.ru.
+
+<a name="borisov"></a>![borisov](/2018/img/speakers/2018/borisov.jpg)Sergei Borisov, Moscow
+
+> Tech lead at Domclick.ru.
