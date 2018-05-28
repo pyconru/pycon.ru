@@ -46,7 +46,7 @@
 
 > Development Manager at Ingram Micro Cloud.
 
-<a name="kuzmin"></a>![kuzmin](/2018/img/speakers/2018/kuzmin.jpg) Alexey Kuzmin, Moscow
+<a name="kuzmin"></a>![kuzmin](/2018/img/speakers/2018/kuzmin1.jpg) Alexey Kuzmin, Moscow
 >
 > Tech lead at Domclick.ru.
 
