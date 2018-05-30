@@ -57,3 +57,7 @@
 <a name="borisov"></a>![borisov](/2018/img/speakers/2018/borisov.jpg)Sergei Borisov, Moscow
 
 > Tech lead at Domclick.ru.
+
+<a name="pushtaev"></a>![pushtaev](/2018/img/speakers/2018/pushtaev.jpg)Vadim Pushtayev, Moscow
+
+> Developer at Mail.Ru.
