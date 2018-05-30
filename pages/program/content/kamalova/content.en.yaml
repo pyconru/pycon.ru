@@ -2,3 +2,12 @@ speaker: |
     **Marina Kamalova**, Yandex
     
 title: "Chat bot architecture"
+
+description: |
+    In this talk, I will explore creating chatbots in Python. Topics will include:
+
+    * Python libraries and frameworks doing lots of "boring" stuff for you: from API adapters to natural language processing and generation.
+    * Adapting the chatbot for other messengers (and non-messengers alike).
+    * Scalability and reliability issues, with a special focus on Telegram API.
+
+    The talk is aimed for anyone interested in making chatbots for fun and profit. It may also serve as a showcase for doing natural language processing in Python.
