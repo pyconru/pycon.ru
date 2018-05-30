@@ -17,6 +17,9 @@ sections:
 
 - name: "Информационные партнёры"
   sponsors:
+  - logo: https://img-fotki.yandex.ru/get/44085/121639917.db/0_14b571_2adaa349_orig
+    link: https://www.facebook.com/MinskPythonMeetup?fref=ts
+  
   - logo: https://img-fotki.yandex.ru/get/62701/121639917.dd/0_158bf3_de687d2a_orig
     link: https://www.facebook.com/pyconby
     
