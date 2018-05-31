@@ -42,7 +42,7 @@
 > twitter: [@axsaucedo](https://twitter.com/axsaucedo),
 > linkedin: [@axsaucedo](https://www.linkedin.com/in/axsaucedo/)
 
-<a name="khaaerov"></a>![khaaerov](/2017/img/speakers/2017/khaaerov.png)Aleksander Hayorov, Moscow
+<a name="khaaerov"></a>![khaaerov](/2017/img/speakers/2017/alex-khaerov-ava.jpg)Aleksander Hayorov, Moscow
 
 > Development Manager at Ingram Micro Cloud.
 
