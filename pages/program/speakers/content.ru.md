@@ -43,7 +43,7 @@
 > twitter: [@axsaucedo](https://twitter.com/axsaucedo),
 > linkedin: [@axsaucedo](https://www.linkedin.com/in/axsaucedo/)
 
-<a name="khaaerov"></a>![khaaerov](/2017/img/speakers/2017/alexkhaerov.jpg)Александр Хаёров, Москва
+<a name="khaaerov"></a>![khaaerov](/2018/img/speakers/2018/alexkhaerov.jpg)Александр Хаёров, Москва
 
 > Руководитель разработки в Ingram Micro Cloud.
 
