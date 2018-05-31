@@ -42,7 +42,7 @@
 > twitter: [@axsaucedo](https://twitter.com/axsaucedo),
 > linkedin: [@axsaucedo](https://www.linkedin.com/in/axsaucedo/)
 
-<a name="khaaerov"></a>![khaaerov](/2017/img/speakers/2017/alex-khaerov-ava.jpg)Alex Khaerov, Moscow
+<a name="khaaerov"></a>![khaaerov](/2017/img/speakers/2017/alexkhaerov.jpg)Alex Khaerov, Moscow
 
 > Alex is a Development Manager at Ingram Micro Cloud with strong project management skills and solid software development background. He is leading Vendor Managment services unit of cloud distribution ecosystem. Alex fell in love with the Python language more than five years ago and has been a regular conference participant and speaker ever since.
 
