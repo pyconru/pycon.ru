@@ -45,7 +45,10 @@
 
 <a name="khaaerov"></a>![khaaerov](/2018/img/speakers/2018/alexkhaerov.jpg)Александр Хаёров, Москва
 
-> Руководитель разработки в Ingram Micro Cloud.
+> Руководит подразделением разработки в Ingram Micro Cloud, с интересом относится к публичным облакам и kubernetes, украдкой программирует на Python. В прошлом много времени посветил инфраструктурным проектам на базе OpenStack и DevOps практикам.
+>
+> Twitter: [@hayorov](https://twitter.com/hayorov)
+> GitHub: [@hayorov](https://github.com/hayorov)
 
 <a name="kuzmin"></a>![kuzmin](/2018/img/speakers/2018/kuzmin1.jpg) Алексей Кузьмин, Москва
 >
