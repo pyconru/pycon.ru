@@ -45,6 +45,9 @@
 <a name="khaaerov"></a>![khaaerov](/2018/img/speakers/2018/alexkhaerov.jpg)Alex Khaerov, Moscow
 
 > Alex is a Development Manager at Ingram Micro Cloud with strong project management skills and solid software development background. He is leading Vendor Managment services unit of cloud distribution ecosystem. Alex fell in love with the Python language more than five years ago and has been a regular conference participant and speaker ever since.
+>
+> Twitter: [@hayorov](https://twitter.com/hayorov)
+> GitHub: [@hayorov](https://github.com/hayorov)
 
 <a name="kuzmin"></a>![kuzmin](/2018/img/speakers/2018/kuzmin1.jpg) Alexey Kuzmin, Moscow
 >
