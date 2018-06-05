@@ -1,0 +1,15 @@
+speaker: |
+    **Dmitry Khodakov**, Avito
+    
+title: "Tornado vs Aiohttp"
+
+description: |
+    We have a lot of microservices in kubernetes to apply machine learning in production in Avito, largest classified site in Russia.
+
+    When you have several dozens of highloaded microservices on your hands, you will inevitably think about the performance of asynchronous applications.
+
+    In my talk i'll cover
+    * Typical problems and pitfalls in the python microservice framework development​
+    * Profiling of asynchronous applications
+    * Fundamental differences in async tornado and async aiohttp
+    * Tornado vs aiohttp performance in real world
