@@ -72,5 +72,7 @@
 
 > В прошлом data scientist и machine learning engineer в EasyTen и University College London. Сейчас CEO в POTEHA DEVELOPERS.
 
+<a name="hodakov"></a>![hodakov](/2018/img/speakers/2018/hodakov.jpg)Дмитрий Ходаков, Москва
 
+> Тех.лид в Авито. Находят хорошие объявления для хороших людей при помощи машинного обучения и кучи нагруженных микросервисов на Python.
 
