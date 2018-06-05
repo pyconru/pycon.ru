@@ -1,0 +1,7 @@
+speaker: |
+    **Vitaly Davydov**, POTEHA DEVELOPERS
+    
+title: "Serverless + Python using AWS Lambda as an example"
+
+description: |
+    The talk will cover the core aspects of building Serverless Python app. After a short intro, we will jump into interactive deployment process demo of a simple microservice.
