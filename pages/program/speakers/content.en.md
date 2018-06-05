@@ -67,4 +67,4 @@
 
 <a name="davydov"></a>![davydov](/2018/img/speakers/2018/davydov.jpg)Vitaly Davydov, Moscow
 
-> Former data scientist and machine learning engineer at EasyTen and UCL. Nowadays CEO at [POTEHA DEVELOPERS](https://potehadevs.com).
+> Former data scientist and machine learning engineer at EasyTen and UCL. Nowadays CEO at POTEHA DEVELOPERS.
