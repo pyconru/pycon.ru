@@ -64,3 +64,7 @@
 <a name="pushtaev"></a>![pushtaev](/2018/img/speakers/2018/pushtaev.jpg)Vadim Pushtayev, Moscow
 
 > Developer at Mail.Ru.
+
+<a name="davydov"></a>![davydov](/2018/img/speakers/2018/davydov.jpg)Vitaly Davydov, Moscow
+
+> Former data scientist and machine learning engineer at EasyTen and UCL. Nowadays CEO at [POTEHA DEVELOPERS](https://potehadevs.com).
