@@ -10,7 +10,10 @@ description: |
 
     In my talk i'll cover
     
-    — Typical problems and pitfalls in the python microservice framework development​
+    — Typical problems and pitfalls in the python microservice framework development
+    
     — Profiling of asynchronous applications
+    
     — Fundamental differences in async tornado and async aiohttp
+    
     — Tornado vs aiohttp performance in real world
