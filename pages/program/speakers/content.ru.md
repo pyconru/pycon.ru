@@ -68,5 +68,9 @@
 
 > Разработчик в Поиске Mail.Ru. Программирует больше пятнадцати лет, профессионально — семь. Большую часть времени на Perl и Python. Преподает Perl и Python в образовательных проектах mail.ru. Автор канала по питону в телеграме: @pythonetc.
 
+<a name="davydov"></a>![davydov](/2018/img/speakers/2018/davydov.jpg)Виталий Давыдов, Москва
+
+> В прошлом data scientist и machine learning engineer в EasyTen и University College London. Сейчас CEO в [POTEHA DEVELOPERS](https://potehadevs.com).
+
 
 
