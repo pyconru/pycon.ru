@@ -1,0 +1,7 @@
+speaker: |
+    **Виталий Давыдов**, POTEHA DEVELOPERS
+    
+title: "Serverless + Python на примере AWS Lambda"
+
+description: |
+    В докладе мы рассмотрим пример микросервиса на Serverless с Python. После короткого доклада, мы в живом режиме попробуем развернуть простейший сервис на AWS Lambda и протестируем его.
