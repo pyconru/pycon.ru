@@ -1,22 +1,22 @@
-<a name="selivanov"></a>![selivanov](https://img-fotki.yandex.ru/get/1028274/121639917.13c/0_1c300c_ab303f93_orig)Yury Selivanov, Toronto, Canada
+<a name="selivanov"></a>![selivanov](/2018/img/speakers/2018/selivanov.png)Yury Selivanov, Toronto, Canada
 
 > Expert software engineer with the primary focus on system scalability and performance. Founder of EgdeDB, the next generation object database. Core Python developer, author of uvloop, asyncpg, asyncio. In the course of his work Yury consulted numerous companies like Cisco, Pinterest, ABB, Nintendo and others, and his software is used to improve performance at companies like Facebook, Instagram etc. Yury studied Computer Science at the Bauman Moscow State Technical University.
 
 > Twitter: [@1st1](https://twitter.com/1st1), GitHub: [@1st1](https://github.com/1st1)
 
-<a name="svwtlov"></a>![svwtlov](https://img-fotki.yandex.ru/get/1016686/121639917.148/0_1c3c03_26e22dab_orig)Andrew Svetlov, Kiev, Ukraine
+<a name="svwtlov"></a>![svwtlov](/2018/img/speakers/2018/svetlov.jpg)Andrew Svetlov, Kiev, Ukraine
 
 > Python Core Developer, co-author of several Open Source libraries, speaker at many conferences.
 
 > Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov), Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.fr)
 
-<a name="Warrick"></a>![Warrick](https://img-fotki.yandex.ru/get/965297/121639917.148/0_1c3ca4_baa1d24a_orig)Melanie Warrick, San Francisco, USA
+<a name="Warrick"></a>![Warrick](/2018/img/speakers/2018/Warrick.jpg)Melanie Warrick, San Francisco, USA
 
 > Melanie Warrick is a Senior Developer Advocate for machine learning and Google Cloud. Previously, she was a founding engineer for DeepLearning4J (open source neural net platform in Java), and also implemented machine learning in production at Change.org. Over the last couple of years, she has spoken at many conferences about artificial intelligence, and her passions include working on machine learning problems at scale.
 
 > Twitter: [@nyghtowl](https://twitter.com/nyghtowl)
 
-<a name="Heimes"></a>![Heimes](https://img-fotki.yandex.ru/get/912028/121639917.148/0_1c3ca3_5e358cf1_orig)Christian Heimes, Hamburg, Germany
+<a name="Heimes"></a>![Heimes](/2018/img/speakers/2018/Heimes.jpg)Christian Heimes, Hamburg, Germany
 
 > Christian is a Python core developer and security engineer from Hamburg/Germany. He maintains Python's ssl and hashlib module, and contributes to improve security of CPython. In his day job he works at Red Hat's security engineering and identity management department on FreeIPA, Dogtag PKI and Custodia.
 
