@@ -70,7 +70,7 @@
 
 <a name="davydov"></a>![davydov](/2018/img/speakers/2018/davydov.jpg)Виталий Давыдов, Москва
 
-> В прошлом data scientist и machine learning engineer в EasyTen и University College London. Сейчас CEO в [POTEHA DEVELOPERS](https://potehadevs.com).
+> В прошлом data scientist и machine learning engineer в EasyTen и University College London. Сейчас CEO в POTEHA DEVELOPERS.
 
 
 
