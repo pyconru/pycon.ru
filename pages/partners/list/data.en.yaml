@@ -9,6 +9,11 @@ sections:
   sponsors:
   - logo: /2018/img/speakers/2018/mediascope.png
     link: http://mediascope.net/about/company/russia/  
+
+- name: "Technical partner"
+  sponsors:
+  - logo: /2018/img/speakers/2018/MailRu_Group_Logo.png
+    link: https://mail.ru 
  
 - name: "Water sponsor"
   sponsors:
