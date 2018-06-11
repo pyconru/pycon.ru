@@ -75,3 +75,9 @@
 <a name="hodakov"></a>![hodakov](/2018/img/speakers/2018/hodakov.jpg)Dmitry Khodakov, Moscow
 
 > Technical Team Lead / Data Scientist at AVITO.ru
+
+<a name="slezko"></a>![slezko](/2018/img/speakers/2018/slezko.jpg)Evgeniy Slezko, Moscow
+
+> Technical Team Lead at Marilyn System.
+
+> Facebook: [slezko](https://www.facebook.com/slezko)
