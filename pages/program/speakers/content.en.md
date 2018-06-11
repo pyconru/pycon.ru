@@ -68,6 +68,9 @@
 <a name="davydov"></a>![davydov](/2018/img/speakers/2018/davydov.jpg)Vitaly Davydov, Moscow
 
 > Former data scientist and machine learning engineer at EasyTen and UCL. Nowadays CEO at POTEHA DEVELOPERS.
+>
+> Facebook: [iwitaly](https://www.facebook.com/iwitaly)
+> GitHub: [@iwitaly](https://github.com/iwitaly)
 
 <a name="hodakov"></a>![hodakov](/2018/img/speakers/2018/hodakov.jpg)Dmitry Khodakov, Moscow
 
