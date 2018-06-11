@@ -79,3 +79,9 @@
 
 > Тех.лид в Авито. Находят хорошие объявления для хороших людей при помощи машинного обучения и кучи нагруженных микросервисов на Python.
 
+<a name="slezko"></a>![slezko](/2018/img/speakers/2018/slezko.jpg)Евгений Слезко, Москва
+
+> Технический директор в Marilyn System.
+
+> Facebook: [slezko](https://www.facebook.com/slezko)
+
