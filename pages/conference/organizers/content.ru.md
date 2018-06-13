@@ -1,29 +1,29 @@
 
 ##Программный комитет
-![svwtlov](https://img-fotki.yandex.ru/get/1016686/121639917.148/0_1c3c03_26e22dab_orig) Андрей Светлов<br>Python Core Developer
+![svwtlov](/2018/img/speakers/2018/svetlov.jpg) Андрей Светлов<br>Python Core Developer
 
-![shtan](https://img-fotki.yandex.ru/get/195648/121639917.103/0_180d49_899da6d1_orig) Данила Штань<br>CTO в Яндекс.Вертикали
+![shtan](/2018/img/speakers/2018/shtan.jpg) Данила Штань<br>CTO в Яндекс.Вертикали
 
-![imankulov](https://img-fotki.yandex.ru/get/94596/121639917.103/0_180d47_c749c124_orig) Роман Иманкулов<br>разработчик [Doist Inc](https://doist.com)
+![imankulov](/2018/img/speakers/2018/imankulov.jpg) Роман Иманкулов<br>разработчик [Doist Inc](https://doist.com)
 
 ![vlasovskii](/2017/img/speakers/2017/vlasovskih.JPG) [Андрей Власовских](http://pirx.ru)<br> Руководитель PyCharm Community в [JetBrains](https://www.jetbrains.com)
 
-![ovchinnikov](https://img-fotki.yandex.ru/get/41138/121639917.dc/0_14bbae_d29aa7cc_orig) Дмитрий Овчинников<br>Software Engineer в [pipedrive.com](https://www.pipedrive.com/ru) 
+![ovchinnikov](/2018/img/speakers/2018/ovchinnikov.jpg) Дмитрий Овчинников<br>Software Engineer в [pipedrive.com](https://www.pipedrive.com/ru) 
 
-![soldatenko](https://img-fotki.yandex.ru/get/251308/356682190.0/0_1597f8_df717725_orig) Андрей Солдатенко<br>CTO в [Persollo](https://persollo.com), python-разработчик в [Toptal](https://www.toptal.com)
+![soldatenko](/2018/img/speakers/2018/soldatenko.jpg) Андрей Солдатенко<br>CTO в [Persollo](https://persollo.com), python-разработчик в [Toptal](https://www.toptal.com)
 
-![patrushev](https://img-fotki.yandex.ru/get/246231/121639917.112/0_193b50_3215ed11_orig) Антон Патрушев<br>CTO в [Spherical](https://www.spherical.pm)
+![patrushev](/2018/img/speakers/2018/patrushev.jpg) Антон Патрушев<br>CTO в [Spherical](https://www.spherical.pm)
 
 ![korobov](/2018/img/speakers/2018/korobov.jpg) Михаил Коробов<br>Python-разработчик в ScrapingHub
 
 
 ##Организационный комитет
-![gerasimovich](https://img-fotki.yandex.ru/get/195990/121639917.103/0_180d4e_d97021d0_orig) Юлия Герасимович<br>директор компании [IT-People.ru](http://it-people.ru/)
+![gerasimovich](/2018/img/speakers/2018/gerasimovich.jpg) Юлия Герасимович<br>директор компании [IT-People.ru](http://it-people.ru/)
 
-![voronina](https://img-fotki.yandex.ru/get/42692/121639917.103/0_180d54_28c36dde_orig) Елена Могильникова
+![voronina](/2018/img/speakers/2018/voronina.jpg) Елена Могильникова
 
-![shulyndina](https://img-fotki.yandex.ru/get/221708/121639917.112/0_193e88_56a14259_orig) Екатерина Шулындина
+![shulyndina](/2018/img/speakers/2018/shulyndina.jpg) Екатерина Шулындина
 
-![pervuhina](https://img-fotki.yandex.ru/get/106693/121639917.113/0_193e89_8faf2c4d_orig) Мария Первухина
+![pervuhina](/2018/img/speakers/2018/pervuhina.jpg) Мария Первухина
 
 
