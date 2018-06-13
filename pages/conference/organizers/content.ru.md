@@ -14,6 +14,8 @@
 
 ![patrushev](https://img-fotki.yandex.ru/get/246231/121639917.112/0_193b50_3215ed11_orig) Антон Патрушев<br>CTO в [Spherical](https://www.spherical.pm)
 
+![korobov](/2018/img/speakers/2018/korobov.jpg) Михаил Коробов<br>Python-разработчик в ScrapingHub
+
 
 ##Организационный комитет
 ![gerasimovich](https://img-fotki.yandex.ru/get/195990/121639917.103/0_180d4e_d97021d0_orig) Юлия Герасимович<br>директор компании [IT-People.ru](http://it-people.ru/)
