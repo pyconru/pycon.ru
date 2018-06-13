@@ -13,6 +13,8 @@
 
 ![patrushev](https://img-fotki.yandex.ru/get/246231/121639917.112/0_193b50_3215ed11_orig) Anton Patrushev<br>CTO, [Spherical](https://www.spherical.pm)
 
+![korobov](/2018/img/speakers/2018/korobov.jpg) Mikhail Korobov<br>Python-developer at ScrapingHub
+
 ##Organization team
 
 ![gerasimovich](https://img-fotki.yandex.ru/get/195990/121639917.103/0_180d4e_d97021d0_orig) Yulia Gerasimovich, CEO of [IT-People.ru](http://it-people.ru/), organizer of a large number of IT conferences and educational activities
