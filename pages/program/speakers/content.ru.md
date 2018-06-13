@@ -85,3 +85,8 @@
 
 > Facebook: [slezko](https://www.facebook.com/slezko)
 
+<a name="kataev"></a>![kataev](/2018/img/speakers/2018/kataev.jpeg)Денис Катаев, Екатеринбург
+
+> Разработчик в Тинькофф и аспирант в УрФУ.
+
+> GitHub: [@kataev](https://github.com/kataev)
