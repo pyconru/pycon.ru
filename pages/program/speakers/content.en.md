@@ -81,3 +81,9 @@
 > Technical Team Lead at Marilyn System.
 
 > Facebook: [slezko](https://www.facebook.com/slezko)
+
+<a name="kataev"></a>![kataev](/2018/img/speakers/2018/kataev.jpeg)Denis Kataev, Yekaterinburg
+
+> Developer at Tinkoff.
+
+> GitHub: [@kataev](https://github.com/kataev)
