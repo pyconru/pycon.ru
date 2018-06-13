@@ -90,3 +90,10 @@
 > Разработчик в Тинькофф и аспирант в УрФУ.
 
 > GitHub: [@kataev](https://github.com/kataev)
+
+<a name="korobov"></a>![korobov](/2018/img/speakers/2018/korobov.jpeg)Михаил Коробов, Екатеринбург
+
+> Head of Data Science, ScrapingHub.
+
+> GitHub: [@kmike](https://github.com/kmike)
+
