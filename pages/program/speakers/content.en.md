@@ -88,7 +88,7 @@
 
 > GitHub: [@kataev](https://github.com/kataev)
 
-<a name="korobov"></a>![korobov](/2018/img/speakers/2018/korobov.jpeg)Mikhail Korobov, Yekaterinburg
+<a name="korobov"></a>![korobov](/2018/img/speakers/2018/korobov.jpg)Mikhail Korobov, Yekaterinburg
 
 > Head of Data Science, ScrapingHub.
 
