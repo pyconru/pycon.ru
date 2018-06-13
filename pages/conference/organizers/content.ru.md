@@ -2,7 +2,7 @@
 ##Программный комитет
 ![svwtlov](/2018/img/speakers/2018/svetlov.jpg) Андрей Светлов<br>Python Core Developer
 
-![shtan](/2018/img/speakers/2018/shtan.jpg) Данила Штань<br>CTO в Яндекс.Вертикали
+![shtan](/2018/img/speakers/2018/shtan.png) Данила Штань<br>CTO в Яндекс.Вертикали
 
 ![imankulov](/2018/img/speakers/2018/imankulov.jpg) Роман Иманкулов<br>разработчик [Doist Inc](https://doist.com)
 
