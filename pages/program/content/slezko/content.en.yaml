@@ -1,0 +1,11 @@
+speaker: |
+    **Evgeniy Slezko**, Marilyn System
+    
+title: "Switching an existing Python project to SOA. Hard or nothing?"
+
+description: |
+    I’d like to share our experience of implementing service-oriented architecture in the existing application which is being developed in Python for over 5 years. Why would you need this? What problems does it solve and what problems does it create? What should you take into account before the start? What benefits does it have for a software engineer and for a manager?
+    
+    The presentation is for experienced software developers, system architects and managers of different levels who either already faced or will face the problem of SOA implementation in their projects.
+    
+    After transition to SOA the complexity doesn’t disappear, but rather moves to another level. Fortunately, on that level most of the potential problems have already been solved. After eliminating complexity at business logic level we can focus on the problem itself.
