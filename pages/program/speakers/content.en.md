@@ -1,6 +1,6 @@
 <a name="selivanov"></a>![selivanov](/2018/img/speakers/2018/selivanov.png)Yury Selivanov, Toronto, Canada
 
-> Expert software engineer with the primary focus on system scalability and performance. Founder of EgdeDB, the next generation object database. Core Python developer, author of uvloop, asyncpg, asyncio. In the course of his work Yury consulted numerous companies like Cisco, Pinterest, ABB, Nintendo and others, and his software is used to improve performance at companies like Facebook, Instagram etc. Yury studied Computer Science at the Bauman Moscow State Technical University.
+> Expert software engineer with the primary focus on system scalability and performance. Founder of EdgeDB, the next generation object database. Core Python developer, author of uvloop, asyncpg, asyncio. In the course of his work Yury consulted numerous companies like Cisco, Pinterest, ABB, Nintendo and others, and his software is used to improve performance at companies like Facebook, Instagram etc. Yury studied Computer Science at the Bauman Moscow State Technical University.
 
 > Twitter: [@1st1](https://twitter.com/1st1), GitHub: [@1st1](https://github.com/1st1)
 
