@@ -13,7 +13,12 @@ sections:
 - name: "Technical partner"
   sponsors:
   - logo: /2018/img/speakers/2018/MailRu_Group_Logo1.png
-    link: https://corp.mail.ru/ru/ 
+    link: https://corp.mail.ru/ru/
+    
+- name: "AFTERPARTY SPONSOR"
+  sponsors:
+  - logo: /2018/img/speakers/2018/logoen.png
+    link: http://www.sirena-travel.ru
  
 - name: "Water sponsor"
   sponsors:
