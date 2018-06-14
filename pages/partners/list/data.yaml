@@ -20,6 +20,12 @@ sections:
   - logo: /2018/img/speakers/2018/Logo-Avito.png
     link: https://www.avito.ru 
 
+- name: "При поддержке"
+  sponsors:
+  - logo: /2018/img/speakers/2018/psf.png
+    link: https://www.python.org/psf/ 
+    
+
 - name: "Информационные партнёры"
   sponsors:
   - logo: https://img-fotki.yandex.ru/get/44085/121639917.db/0_14b571_2adaa349_orig
