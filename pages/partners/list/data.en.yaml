@@ -23,7 +23,7 @@ sections:
 - name: "SUPPORTED BY"
   sponsors:
   - logo: /2018/img/speakers/2018/psf.png
-    link: https://www.python.org/psf/ 
+    link: https://www.python.org/psf1/ 
 
 - name: "Information Partners"
   sponsors:
