@@ -96,4 +96,4 @@
 
 <a name="menshikov"></a>![menshikov](/2018/img/speakers/2018/menshikov.jpg)Alexander Menshikov, Komsomolsk-on-Amur
 
-> Python-developer.
+> Python-developer at Laboratory of Intelligent Systems Engeneering.
