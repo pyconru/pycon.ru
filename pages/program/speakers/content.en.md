@@ -93,3 +93,7 @@
 > Head of Data Science, ScrapingHub.
 
 > GitHub: [@kmike](https://github.com/kmike)
+
+<a name="menshikov"></a>![menshikov](/2018/img/speakers/2018/menshikov.jpg)Alexander Menshikov, Komsomolsk-on-Amur
+
+> Python-developer.
