@@ -12,7 +12,7 @@ sections:
 
 - name: "Technical partner"
   sponsors:
-  - logo: /2018/img/speakers/2018/MailRu_Group_Logo1.png
+  - logo: /2018/img/speakers/2018/MRG_Logo1.png
     link: https://corp.mail.ru/ru/
     
 - name: "AFTERPARTY SPONSOR"
@@ -46,6 +46,9 @@ sections:
     
   - logo: https://img-fotki.yandex.ru/get/404236/121639917.113/0_194980_cde55f82_orig
     link: https://python-scripts.com
+ 
+  - logo: /2018/img/speakers/2018/meetup-logo-white.png
+    link: https://readymag.com/piterpy/meetup-ru/
 
   - logo: /2018/img/speakers/2018/LOGOTIP DMK Press.jpg
     link: https://dmkpress.com
