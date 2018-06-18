@@ -1,0 +1,7 @@
+speaker: |
+    **Melanie Warrick**, Google
+    
+title: "Reinforcement Learning"
+
+description: |
+    Reinforcement learning is a popular subfield in machine learning because of its success in beating humans at complex games like Go and Atari. The field’s value is in utilizing an award system to develop models and find more optimal ways to solve complex, real-world problems. This approach allows software to adapt to its environment without full knowledge of what the results should look like. This talk will cover reinforcement learning fundamentals and examples to help you understand how it works.
