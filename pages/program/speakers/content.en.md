@@ -97,3 +97,7 @@
 <a name="menshikov"></a>![menshikov](/2018/img/speakers/2018/menshikov.jpg)Alexander Menshikov, Komsomolsk-on-Amur
 
 > Python-developer at Laboratory of Intelligent Systems Engeneering.
+
+<a name="nike"></a>![nike](/2018/img/speakers/2018/nike.jpg)Elena Nikitina, Moscow
+
+> Python-developer at Charity Fund "System".
