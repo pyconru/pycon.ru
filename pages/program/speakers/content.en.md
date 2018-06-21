@@ -42,7 +42,7 @@
 > twitter: [@axsaucedo](https://twitter.com/axsaucedo),
 > linkedin: [@axsaucedo](https://www.linkedin.com/in/axsaucedo/)
 
-<a name="Ling"></a>![Ling](/2018/img/speakers/2018/Ling.png)Ling Zhang,London
+<a name="Ling"></a>![Ling](/2018/img/speakers/2018/Ling.png)Ling Zhang,London, United Kingdom
 
 > Ling is a passionate entrepreneur and polyglot software engineer. He is one of the first engineers at Aiden.ai, an AI-powered coworker for marketers and has  expertise in deep learning, natural language processing, and software architecture. He was previously in a NLP research group, has founded 2 startups, and was part of Entrepreneur First. 
 
