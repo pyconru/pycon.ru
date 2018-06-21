@@ -42,6 +42,10 @@
 > twitter: [@axsaucedo](https://twitter.com/axsaucedo),
 > linkedin: [@axsaucedo](https://www.linkedin.com/in/axsaucedo/)
 
+<a name="Ling"></a>![Ling](/2018/img/speakers/2018/Ling.png)Ling Zhang,London
+
+> Ling is a passionate entrepreneur and polyglot software engineer. He is one of the first engineers at Aiden.ai, an AI-powered coworker for marketers and has  expertise in deep learning, natural language processing, and software architecture. He was previously in a NLP research group, has founded 2 startups, and was part of Entrepreneur First. 
+
 <a name="khaaerov"></a>![khaaerov](/2018/img/speakers/2018/alexkhaerov.jpg)Alex Khaerov, Moscow
 
 > Alex is a Development Manager at Ingram Micro Cloud with strong project management skills and solid software development background. He is leading Vendor Managment services unit of cloud distribution ecosystem. Alex fell in love with the Python language more than five years ago and has been a regular conference participant and speaker ever since.
