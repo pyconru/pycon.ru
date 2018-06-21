@@ -43,6 +43,10 @@
 > twitter: [@axsaucedo](https://twitter.com/axsaucedo),
 > linkedin: [@axsaucedo](https://www.linkedin.com/in/axsaucedo/)
 
+<a name="Ling"></a>![Ling](/2018/img/speakers/2018/Ling.png)Ling Zhang,London
+
+> Ling is a passionate entrepreneur and polyglot software engineer. He is one of the first engineers at Aiden.ai, an AI-powered coworker for marketers and has  expertise in deep learning, natural language processing, and software architecture. He was previously in a NLP research group, has founded 2 startups, and was part of Entrepreneur First. 
+
 <a name="khaaerov"></a>![khaaerov](/2018/img/speakers/2018/alexkhaerov.jpg)Александр Хаёров, Москва
 
 > Руководит подразделением разработки в Ingram Micro Cloud, с интересом относится к публичным облакам и kubernetes, украдкой программирует на Python. В прошлом много времени посветил инфраструктурным проектам на базе OpenStack и DevOps практикам.
