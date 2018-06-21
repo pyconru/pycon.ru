@@ -105,3 +105,7 @@
 <a name="nike"></a>![nike](/2018/img/speakers/2018/nike.jpg)Elena Nikitina, Moscow
 
 > Python-developer at Charity Fund "System".
+
+![patrushev](/2018/img/speakers/2018/patrushev.jpg) Anton Patrushev, Yekaterinburg
+
+> CTO в [Spherical.](https://www.spherical.pm)
