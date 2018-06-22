@@ -109,3 +109,7 @@
 ![patrushev](/2018/img/speakers/2018/patrushev.jpg) Anton Patrushev, Yekaterinburg
 
 > CTO в [Spherical.](https://www.spherical.pm)
+
+<a name="mazaev"></a>![mazaev](/2018/img/speakers/2018/mazaev.JPG) Maxim Mazaev, Moscow
+
+> Python-developer at CIAN. 
