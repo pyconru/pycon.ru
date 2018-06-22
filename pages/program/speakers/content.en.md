@@ -108,8 +108,12 @@
 
 ![patrushev](/2018/img/speakers/2018/patrushev.jpg) Anton Patrushev, Yekaterinburg
 
-> CTO в [Spherical.](https://www.spherical.pm)
+> CTO at [Spherical.](https://www.spherical.pm)
 
 <a name="mazaev"></a>![mazaev](/2018/img/speakers/2018/mazaev.JPG) Maxim Mazaev, Moscow
 
 > Python-developer at CIAN. 
+
+<a name="soldatenko"></a>![soldatenko](/2018/img/speakers/2018/soldatenko.jpg) Andrii Soldatenko, Kiev
+
+> CTO at Persollo, python-developer at Toptal.
