@@ -1,0 +1,9 @@
+speaker: |
+    **Maxim Mazaev**, CIAN
+    
+title: "How to maintain the consistency of the API in a micro-service architecture"
+
+description: |
+    I'll talk about how we manage a lot of microservices in CIAN and how we deal with the typical problems of their support - versioning and API consistency.
+    How to control consistency with a CI system. How we use a code generation and swagger-schemes. 
+    This talk will be useful for experienced developers who interested in microservice architecture.
