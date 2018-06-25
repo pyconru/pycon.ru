@@ -9,7 +9,10 @@ sections:
   sponsors:
   - logo: /2018/img/speakers/2018/mediascope.png
     link: http://mediascope.net/about/company/russia/  
-   
+    
+  - logo: /2018/img/speakers/2018/Kaspersky.png
+    link: https://www.kaspersky.ru    
+  
 - name: "Технический партнёр"
   sponsors:
   - logo: /2018/img/speakers/2018/MRG_Logo1.png
