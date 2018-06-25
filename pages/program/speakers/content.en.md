@@ -117,3 +117,11 @@
 <a name="soldatenko"></a>![soldatenko](/2018/img/speakers/2018/soldatenko.jpg) Andrii Soldatenko, Kiev
 
 > CTO at Persollo, python-developer at Toptal.
+
+<a name="karpovich"></a>![karpovich](/2018/img/speakers/2018/karpovich1.jpg) Serg Karpovich, Moscow
+
+> Head of the Search Development Group mos.ru, PhD. Research interests: information retrieval, topic modeling, natural language processing, clustering, classification, data processing, machine learning.
+
+<a name="bereskin"></a>![bereskin](/2018/img/speakers/2018/bereskin.png) Vadim Berezkin, Moscow
+
+> Leading technologist of search mos.ru, the candidate of physical and mathematical sciences. Research interests: information retrieval, machine learning, backend development in Python and C ++.
