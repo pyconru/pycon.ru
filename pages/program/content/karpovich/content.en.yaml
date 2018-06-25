@@ -1,4 +1,9 @@
 speaker: |
     **Serg Karpovich, Vadim Berezkin**, mos.ru
     
-title: "How to make a convenient search system"
+title: "How to make a user-friendly search engine"
+
+description: |
+    Yandex and Google demonstrate a high level of usability and search quality and they give an answer with the user's intent. Existing free search engines cannot search like Yandex and Google, they cannot meet all the needs of business and users, you should configure the search engine, and refine the search engine infrastructure. We will talk about the available tools and ways to customize the usability, quality, and relevance of internal search using the example of Elasticsearch, Python.
+
+    The report will be useful to developers of search engines for sites and portals.
