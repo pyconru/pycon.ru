@@ -46,6 +46,17 @@
 
 > Ling is a passionate entrepreneur and polyglot software engineer. He is one of the first engineers at Aiden.ai, an AI-powered coworker for marketers and has  expertise in deep learning, natural language processing, and software architecture. He was previously in a NLP research group, has founded 2 startups, and was part of Entrepreneur First. 
 
+<a name="donald"></a>![donald](/2018/img/speakers/2018/donald.jpg)Donald Whyte, London, United Kingdom
+
+> Donald is a senior software engineer at Engineers Gate, a New York-based quantitive hedge fund. There, he builds large-scale data pipelines and has processed over two dozen datasets. An avid Python and Rust developer and data enthusiast, Donald has given many talks about these languages across the world.
+
+Previously, he organised hackathons in several countries and worked at Bloomberg L.P. where he built core, high performance database infrastructure that's still used across the firm globally. 
+>
+> GitHub: [@DonaldWhyte](https://github.com/DonaldWhyte/), 
+> twitter: [@donald_whyte](https://twitter.com/donald_whyte),
+> linkedin: [@donaldwhyte](https://www.linkedin.com/in/donaldwhyte/)
+> Videos of previous talks: [http://donsoft.io/](http://donsoft.io/)
+
 <a name="khaaerov"></a>![khaaerov](/2018/img/speakers/2018/alexkhaerov.jpg)Alex Khaerov, Moscow
 
 > Alex is a Development Manager at Ingram Micro Cloud with strong project management skills and solid software development background. He is leading Vendor Managment services unit of cloud distribution ecosystem. Alex fell in love with the Python language more than five years ago and has been a regular conference participant and speaker ever since.
