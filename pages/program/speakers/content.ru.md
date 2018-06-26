@@ -51,7 +51,7 @@
 
 > Donald is a senior software engineer at Engineers Gate, a New York-based quantitive hedge fund. There, he builds large-scale data pipelines and has processed over two dozen datasets. An avid Python and Rust developer and data enthusiast, Donald has given many talks about these languages across the world.
 
-> Previously, he organised hackathons in several countries and worked at Bloomberg L.P. where he built core, high performance database infrastructure that's still used across the firm globally. 
+> Previously, he organised hackathons in several countries and worked at Bloomberg L.P. 
 >
 > GitHub: [@DonaldWhyte](https://github.com/DonaldWhyte/), 
 > twitter: [@donald_whyte](https://twitter.com/donald_whyte),
