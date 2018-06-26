@@ -56,7 +56,6 @@
 > GitHub: [@DonaldWhyte](https://github.com/DonaldWhyte/), 
 > twitter: [@donald_whyte](https://twitter.com/donald_whyte),
 > linkedin: [@donaldwhyte](https://www.linkedin.com/in/donaldwhyte/)
-> Videos of previous talks: [http://donsoft.io/](http://donsoft.io/)
 
 <a name="khaaerov"></a>![khaaerov](/2018/img/speakers/2018/alexkhaerov.jpg)Александр Хаёров, Москва
 
