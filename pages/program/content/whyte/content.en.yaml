@@ -1,0 +1,11 @@
+speaker: |
+    **Donald Whyte**, Engineers Gate
+    
+title: "High Performance Data Processing in Python"
+
+description: |
+    The Internet age generates vast amounts of data. Most of this data is unstructured and needs to cleaned. Python has become the standard tool for transforming this data into more useable forms.
+
+    numpy and pandas are the most popular Python libraries for processing large quantities of data. For small datasets, these libraries do the job without much effort. However, when running complex transformations on larger datasets, many developers fall into common pitfalls that kill the performance of these libraries.
+
+    This talk explains how numpy and pandas work under the hood and how they use vectorisation to process large amounts of data extremely quickly. We show an example dataset being processed using numpy/pandas. We demonstrate how to use these libraries effectively, reducing the processing time of this large dataset from several hours to seconds.
