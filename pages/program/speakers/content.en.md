@@ -137,3 +137,7 @@
 <a name="bereskin"></a>![bereskin](/2018/img/speakers/2018/bereskin.png) Vadim Berezkin, Moscow
 
 > Leading technologist of search mos.ru, the candidate of physical and mathematical sciences. Research interests: information retrieval, machine learning, backend development in Python and C ++.
+
+<a name="koshelev"></a>![koshelev](/2018/img/speakers/2018/koshelev.jpg) Alexander Koshelev, Moscow
+
+> Python-developer at Yandex.
