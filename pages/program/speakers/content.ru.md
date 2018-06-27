@@ -127,9 +127,11 @@
 
 > Python-разработчик в ЦИАН. Занимается развитием направления Новостроек. Интересуется функциональным программированием, асинхронностью и свежими фронтенд-технологиями.
 
-<a name="soldatenko"></a>![soldatenko](/2018/img/speakers/2018/soldatenko.jpg) Андрей Солдатенко, Киев
+<a name="soldatenko"></a>![soldatenko](/2018/img/speakers/2018/soldatenko.jpg) Андрей Солдатенко, Киев, Украина
 
-> CTO в Persollo, python-разработчик в Toptal.
+> CTO в [goformoonshot](https://goformoonshot.com/). Yet another python developer, gopher under the hood. Blogger [asoldatenko.com](https://asoldatenko.com)
+
+> Twitter: [@a_soldatenko](https://twitter.com/a_soldatenko), GitHub: [@andriisoldatenko](https://github.com/andriisoldatenko)
 
 <a name="karpovich"></a>![karpovich](/2018/img/speakers/2018/karpovich1.jpg) Сергей Карпович, Москва
 
@@ -138,3 +140,7 @@
 <a name="bereskin"></a>![bereskin](/2018/img/speakers/2018/bereskin.png) Вадим Березкин, Москва
 
 > Ведущий технолог поиска mos.ru, кандидат физико-математических наук. Область интересов: информационный поиск, машинное обучение, бэкэнд-разработка на Python и C++.
+
+<a name="koshelev"></a>![koshelev](/2018/img/speakers/2018/koshelev.jpg) Александр Кошелев, Москва 
+
+> 
