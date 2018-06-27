@@ -3,14 +3,12 @@
 
 The tickets cost:
 
-• 17 000 rubles (accommodation in a four-bed house)
+• 13 500 rubles (without accommodation)
 
 
 <b>Your ticket includes:</b>
 
 • Participation in the conference (2 days)
-
-• Hotel accommodation
 
 • Lunch and dinner on July, 22 and breakfast and lunch on July, 23
 
