@@ -12,6 +12,9 @@ sections:
  
   - logo: /2018/img/speakers/2018/Kaspersky2.png
     link: https://www.kaspersky.ru 
+ 
+  - logo: /2018/img/speakers/2018/marilyn.png
+    link: https://mymarilyn.ru
 
 - name: "Technical partner"
   sponsors:
