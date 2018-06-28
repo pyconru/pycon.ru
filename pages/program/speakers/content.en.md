@@ -141,3 +141,7 @@
 <a name="koshelev"></a>![koshelev](/2018/img/speakers/2018/koshelev.jpg) Alexander Koshelev, Moscow
 
 > Python-developer at Yandex.
+
+<a name="malih"></a>![malih](/2018/img/speakers/2018/malih.jpg) Valentin Malykh, Moscow
+
+> Researcher in the laboratory of neural systems of MIPT.
