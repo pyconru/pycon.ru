@@ -145,3 +145,7 @@
 <a name="malih"></a>![malih](/2018/img/speakers/2018/malih.jpg) Valentin Malykh, Moscow
 
 > Researcher in the laboratory of neural systems of MIPT.
+
+<a name="limar"></a>![limar](/2018/img/speakers/2018/limar.jpg) Alexey Lymar, Moscow 
+
+> Researcher in the laboratory of neural systems of MIPT.
