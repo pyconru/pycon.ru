@@ -56,6 +56,10 @@
 > twitter: [@donald_whyte](https://twitter.com/donald_whyte),
 > linkedin: [@donaldwhyte](https://www.linkedin.com/in/donaldwhyte/)
 
+<a name="vlasovskih"></a>![vlasovskih](/2017/img/speakers/2017/vlasovskih.JPG)Andrew Vlasovskih, St. Petersburg
+
+> Developer of IDE PyCharm, JetBrains.
+
 <a name="khaaerov"></a>![khaaerov](/2018/img/speakers/2018/alexkhaerov.jpg)Alex Khaerov, Moscow
 
 > Alex is a Development Manager at Ingram Micro Cloud with strong project management skills and solid software development background. He is leading Vendor Managment services unit of cloud distribution ecosystem. Alex fell in love with the Python language more than five years ago and has been a regular conference participant and speaker ever since.
