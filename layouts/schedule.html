@@ -46,6 +46,7 @@
     'b3b': sch,
     'b5a': lch,
     'b5b': sch,
+    'b5c': trdch,
     'b7': lch,
   } %}
 
@@ -69,7 +70,7 @@
 
       <h4>{{ lch }}</h4><h4 class="last">{{ sch }}</h4>
       <div class="columns-wrapper">
-        {% for block in ['b5a', 'b5b'] %}
+        {% for block in ['b5a', 'b5b', 'b5c'] %}
           {{ render_block(day1, block, halls_day_1) }}
         {% endfor %}
       </div>
