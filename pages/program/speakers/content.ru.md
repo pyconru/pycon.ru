@@ -57,6 +57,10 @@
 > twitter: [@donald_whyte](https://twitter.com/donald_whyte),
 > linkedin: [@donaldwhyte](https://www.linkedin.com/in/donaldwhyte/)
 
+<a name="vlasovskih"></a>![vlasovskih](/2017/img/speakers/2017/vlasovskih.JPG)Андрей Власовских, Санкт-Петербург
+
+> Руководитель PyCharm Community в JetBrains.
+
 <a name="khaaerov"></a>![khaaerov](/2018/img/speakers/2018/alexkhaerov.jpg)Александр Хаёров, Москва
 
 > Руководит подразделением разработки в Ingram Micro Cloud, с интересом относится к публичным облакам и kubernetes, украдкой программирует на Python. В прошлом много времени посветил инфраструктурным проектам на базе OpenStack и DevOps практикам.
