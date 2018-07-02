@@ -203,7 +203,7 @@ day2:
       time: "16:45"
 
   b8:
-   - speaker: "Юрий Селиванов, Андрей Светлов и Christian Heimes"
+    - speaker: "Юрий Селиванов, Андрей Светлов и Christian Heimes"
       talk: "Core Development Panel"
       slug: "core"
       time: "17:15"
