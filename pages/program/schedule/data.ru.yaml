@@ -76,6 +76,12 @@ day1:
       talk: "SQLAlchemy: Python vs Raw SQL"
       slug: "kataev"
       time: "18:00"
+  
+  b5c:
+    - speaker: "Александр Меньшиков, Лаборатория Конструирования Интеллектуальных Систем"
+      talk: "Мастер-класс «Робототехника с Python и ROS»"
+      slug: "menshikov"
+      time: "17:20"     
 
   b6:
     - break: "Перерыв"
