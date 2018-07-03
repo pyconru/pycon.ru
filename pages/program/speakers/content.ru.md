@@ -11,7 +11,7 @@
 
 > Twitter: [@andrew_svetlov](https://twitter.com/andrew_svetlov), Blog: [asvetlov.blogspot.ru](http://asvetlov.blogspot.fr)
 
-<a name="Warrick"></a>![Warrick](/2018/img/speakers/2018/Warrick.jpg)Melanie Warrick, San Francisco, USA
+<a name="Warrick"></a>![Warrick](/2018/img/speakers/2018/nyghtowl.jpeg)Melanie Warrick, San Francisco, USA
 
 > Melanie Warrick is a Senior Developer Advocate for machine learning and Google Cloud. Previously, she was a founding engineer for DeepLearning4J (open source neural net platform in Java), and also implemented machine learning in production at Change.org. Over the last couple of years, she has spoken at many conferences about artificial intelligence, and her passions include working on machine learning problems at scale.
 
