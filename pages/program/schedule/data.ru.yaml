@@ -68,7 +68,7 @@ day1:
 
   b5b:
     - speaker: "Вадим Пуштаев, Mail.Ru"
-      talk: "Автотесты в проектах Поиска Mail.Ru"
+      talk: "Юнит-тесты в проектах Поиска mail.ru"
       slug: "pushtaev"
       time: "17:20"
 
