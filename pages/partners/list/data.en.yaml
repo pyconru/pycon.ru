@@ -15,6 +15,9 @@ sections:
  
   - logo: /2018/img/speakers/2018/marilyn.png
     link: https://mymarilyn.ru
+ 
+  - logo: /2018/img/speakers/2018/MegaFon.png
+    link: http://megafon.ru 
 
 - name: "Technical partner"
   sponsors:
