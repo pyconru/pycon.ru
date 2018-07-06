@@ -76,7 +76,7 @@
 
 <a name="kamalova"></a>![kamalova](/2018/img/speakers/2018/kamalova.jpg) Марина Камалова, Москва
 >
-> Яндекс, разработчик внутренних сервисов.
+> Яндекс, разработчик «Алисы».
 
 <a name="borisov"></a>![borisov](/2018/img/speakers/2018/borisov.jpg)Сергей Борисов, Москва
 
