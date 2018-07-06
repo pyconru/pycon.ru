@@ -67,9 +67,9 @@ day1:
       time: "18:00"
 
   b5b:
-    - speaker: "Вадим Пуштаев, Mail.Ru"
-      talk: "Юнит-тесты в проектах Поиска mail.ru"
-      slug: "pushtaev"
+    - speaker: "Сергей Карпович, Вадим Березкин, mos.ru"
+      talk: "Как сделать удобную для пользователей поисковую систему"
+      slug: "karpovich"
       time: "17:20"
 
     - speaker: "Денис Катаев, Тинькофф"
@@ -192,9 +192,9 @@ day2:
       slug: "soldatenko"
       time: "16:15"
 
-    - speaker: "Сергей Карпович, Вадим Березкин, mos.ru"
-      talk: "Как сделать удобную для пользователей поисковую систему"
-      slug: "karpovich"
+    - speaker: "Вадим Пуштаев, Mail.Ru"
+      talk: "Юнит-тесты в проектах Поиска mail.ru"
+      slug: "pushtaev"
       time: "16:45"
 
   b7b:
