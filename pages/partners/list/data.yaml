@@ -18,11 +18,21 @@ sections:
 
   - logo: /2018/img/speakers/2018/MegaFon.png
     link: http://megafon.ru 
+
+- name: "Спонсор позитивной волны"
+  sponsors:  
+  - logo: /2017/img/speakers/2017/FIN_CIAN-logo-cyrillic-horizontal-blue.png
+    link: https://www.cian.ru 
   
 - name: "Технический партнёр"
   sponsors:
   - logo: /2018/img/speakers/2018/MRG_Logo1.png
     link: https://corp.mail.ru/ru/
+
+- name: "Бронзовый партнёр"
+  sponsors:
+  - logo: /2018/img/speakers/2018/yandex_logo.png
+    link: https://yandex.ru/company/
 
 - name: "Спонсор афтепати"
   sponsors:
