@@ -35,20 +35,20 @@ day1:
       slug: "svetlov"
       time: "15:30"
 
-    - speaker: "Alejandro Saucedo, Eigen Technologies"
-      talk: "Industrial Data Pipelines with Python and Airflow"
-      slug: "Alejandro"
-      time: "16:10"
-
-  b3b:
     - speaker: "Дмитрий Ходаков, Авито"
       talk: "Tornado vs Aiohttp"
       slug: "hodakov"
-      time: "15:30"
+      time: "16:10"
 
+  b3b:
     - speaker: "Виталий Давыдов, POTEHA DEVELOPERS"
       talk: "Serverless + Python на примере AWS Lambda"
       slug: "davydov"
+      time: "15:30"
+
+    - speaker: "Alejandro Saucedo, Eigen Technologies"
+      talk: "Industrial Data Pipelines with Python and Airflow"
+      slug: "Alejandro"
       time: "16:10"
 
   b4:
@@ -61,9 +61,9 @@ day1:
       slug: "kuzmin"
       time: "17:20"
 
-    - speaker: "Марина Камалова, Яндекс"
-      talk: "Архитектура чат-бота"
-      slug: "kamalova"
+    - speaker: "Антон Патрушев, Spherical"
+      talk: "Как перестать заботиться об окружении и начать жить"
+      slug: "patrushev"
       time: "18:00"
 
   b5b:
@@ -198,17 +198,17 @@ day2:
       time: "16:45"
 
   b7b:
-    - speaker: "Антон Патрушев, Spherical"
-      talk: "Как перестать заботиться об окружении и начать жить"
-      slug: "patrushev"
+    - speaker: "Марина Камалова, Яндекс"
+      talk: "Архитектура чат-бота"
+      slug: "kamalova"
       time: "16:15"
 
   b8:
     - speaker: "Юрий Селиванов, Андрей Светлов и Christian Heimes"
       talk: "Core Development Panel"
       slug: "core"
-      time: "17:15"
+      time: "17:25"
   
   b9:      
     - break: "Торжественное закрытие"
-      time: "17:45"
+      time: "17:55"
