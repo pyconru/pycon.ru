@@ -198,15 +198,10 @@ day2:
       time: "16:45"
 
   b7b:
-    - speaker: "Александр Хаёров, Ingram Micro Cloud"
-      talk: "Окружение Python разработчика 2k18"
-      slug: "haerov"
-      time: "16:15"
-
     - speaker: "Антон Патрушев, Spherical"
       talk: "Как перестать заботиться об окружении и начать жить"
       slug: "patrushev"
-      time: "16:45"
+      time: "16:15"
 
   b8:
     - speaker: "Юрий Селиванов, Андрей Светлов и Christian Heimes"
