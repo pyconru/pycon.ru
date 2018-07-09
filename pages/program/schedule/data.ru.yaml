@@ -31,7 +31,7 @@ day1:
 
   b3a:
     - speaker: "Андрей Светлов, Python Core Developer"
-      talk: "aiohttp от автора"
+      talk: "Aiohttp от автора"
       slug: "svetlov"
       time: "15:30"
 
