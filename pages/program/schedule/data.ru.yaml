@@ -35,7 +35,7 @@ day1:
       slug: "svetlov"
       time: "15:30"
 
-    - speaker: "Дмитрий Ходаков, Авито"
+    - speaker: "Дмитрий Ходаков, Avito"
       talk: "Tornado vs Aiohttp"
       slug: "hodakov"
       time: "16:10"
@@ -72,7 +72,7 @@ day1:
       slug: "kamalova"
       time: "17:20"
 
-    - speaker: "Денис Катаев, Тинькофф"
+    - speaker: "Денис Катаев, Tinkoff.ru"
       talk: "SQLAlchemy: Python vs Raw SQL"
       slug: "kataev"
       time: "18:00"
