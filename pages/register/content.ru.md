@@ -5,7 +5,7 @@
 
 ## Билет без проживания стоит 13 500 рублей
 
-Вы можете купить билет без проживания. В этом случае вы сами выбираете, где ночевать, сами оплачиваете и добираетесь до места ночевки. Этот вариант будет удобен для тех, кто едет на своей машине, или для тех, кто любит ездить на такси и не зависеть от общего трансфера. 
+Вы можете купить билет без проживания. В этом случае вы сами выбираете, где ночевать, сами оплачиваете и добираетесь до места ночевки. Этот вариант будет удобен для тех, кто едет на своей машине, или для тех, кто любит ездить на такси и не зависеть от общего трансфера.
 
 <b>В стоимость билета входит:</b>
 
@@ -96,6 +96,17 @@
     </label>
     <label for="tickets_bus_no" class="tickets--label">
       <input type="radio" name="bus" value="no" id="tickets_bus_no" class="tickets--radio_input" checked />
+      Нет
+    </label>
+  </div>
+  <div class="tickets--field">
+    <div class="tickets--label">Нужно ли вам место для палатки?</div>
+    <label for="tickets_tent_yes" class="tickets--label">
+      <input type="radio" name="tent" value="yes" id="tickets_tent_yes" class="tickets--radio_input" />
+      Да
+    </label>
+    <label for="tickets_tent_no" class="tickets--label">
+      <input type="radio" name="tent" value="no" id="tickets_tent_no" class="tickets--radio_input" checked />
       Нет
     </label>
   </div>
