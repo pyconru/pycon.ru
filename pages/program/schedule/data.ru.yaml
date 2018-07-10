@@ -41,7 +41,7 @@ day1:
       time: "16:10"
 
   b3b:
-    - speaker: "Виталий Давыдов, POTEHA DEVELOPERS"
+    - speaker: "Виталий Давыдов, Poteha Developers"
       talk: "Serverless + Python на примере AWS Lambda"
       slug: "davydov"
       time: "15:30"
