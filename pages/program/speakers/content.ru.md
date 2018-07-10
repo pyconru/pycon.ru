@@ -126,7 +126,7 @@
 
 <a name="soldatenko"></a>![soldatenko](/2018/img/speakers/2018/soldatenko.jpg) Андрей Солдатенко, Киев, Украина
 
-> Python-разработчик в Toptal, CTO в [goformoonshot](https://goformoonshot.com/). Yet another python developer, gopher under the hood. Blogger [asoldatenko.com](https://asoldatenko.com)
+> Python-разработчик в Toptal. Yet another python developer, gopher under the hood. Blogger [asoldatenko.com](https://asoldatenko.com)
 
 > Twitter: [@a_soldatenko](https://twitter.com/a_soldatenko), GitHub: [@andriisoldatenko](https://github.com/andriisoldatenko)
 
