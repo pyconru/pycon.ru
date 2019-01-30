@@ -1,6 +1,6 @@
 PYCON RUSSIA 2018
 
-[Фотографии с конференции.](https://disk.yandex.ru/client/disk/PyCon Russia 2018)
+[Фотографии с конференции.](https://yadi.sk/d/uCH0v04-3aRf2b)
 
 Видеозписи докладов и слайды презентаций — по клику на название доклада в [расписании.](http://pycon.ru/2018/program/schedule/)
 
