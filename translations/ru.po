@@ -134,8 +134,8 @@ msgstr "Видео и презентация"
 msgid "Summary"
 msgstr "Итоги"
 
-msgid "July"
-msgstr "Июль"
+msgid "June"
+msgstr "Июнь"
 
 msgid "PyCon Russia 2019 will take place on the 24th and 25th of June"
 msgstr "Конференция PyCon Russia 2019 пройдёт 24-25 июня"
