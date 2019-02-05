@@ -1,1 +1,1 @@
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdOcV24xd77uVCH9OoM7ldbFb19FVnG1SHVXyVk9rghHyIksg/viewform?embedded=true" width="500" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdOcV24xd77uVCH9OoM7ldbFb19FVnG1SHVXyVk9rghHyIksg/viewform?embedded=true" width="800" height="500" frameborder="0" marginheight="0" marginwidth="0">Загрузка...</iframe>
