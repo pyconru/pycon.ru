@@ -1,7 +1,0 @@
-speaker: |
-    **Vadim Pushtayev**, Mail.Ru
-    
-title: "Autotests in the projects Mail.Ru"
-
-description: |
-    This talk is about how we do unit-testing in Python. From little things like naming test methods to the more significant problems like mocking subsystems, how to (or not to) use TDD, what to do with fixtures and more.

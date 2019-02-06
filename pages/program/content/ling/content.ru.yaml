@@ -1,7 +1,0 @@
-speaker: |
-    **Ling Zhang**, Aiden.ai
-    
-title: "NLP to Discover Rich Insights from Massive Noisy Text"
-
-description: |
-    In this talk, I present a case study of how we extracted rich, actionable insights from a large noisy corpus of unstructured survey responses for a government entity. We reduce time to analysis from months to minutes. We use scikit-learn and NLTK to explore techniques such as clustering, natural language understanding, and summarization, and go over both practical methods and the underlying theory.

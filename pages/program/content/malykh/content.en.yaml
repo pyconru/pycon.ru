@@ -1,7 +1,0 @@
-speaker: |
-    **Valentin Malykh, Alexey Lymar**, MIPT
-    
-title: "Workshop «DeepPavlov: open-source python library for dialog systems»"
-
-description: |
-    On iPavlov.ai workshop you'll learn how to make your own chat-bot (e.g. for Telegram or any other IM-service). We'll show how to handle data for dialog system training and how ещ use already existing models from DeepPavlov library.

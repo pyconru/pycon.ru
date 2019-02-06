@@ -1,7 +1,0 @@
-speaker: |
-    **Sergei Borisov**, Domclick.ru
-    
-title: "Workshop «Cython - C for humans»"
-
-description: |
-    Python has excellent facilities for integration with C code. This allows you to optimize performance-critical functions at a low cost while maintaining flexibility. Sometimes this is easier than rewriting the entire service to Go / Rust / <new_super_language_name>. I will show you what tools can be used to solve this kind of problems, and together we will create an asynchronous client with a simple protocol.
