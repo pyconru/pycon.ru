@@ -133,7 +133,7 @@ Early bird билеты стоят 18 000 рублей при двухместн
   <div class="tickets--field">
     <label for="tickets_agreement" class="tickets--label">
       <input type="checkbox" name="agreement" value="true" id="tickets_agreement" class="tickets--radio_input" />
-      Даю <a href="https://www.dropbox.com/s/w0rjo9u7d10hzb3/Согласие%20на%20обработку%20ПД.docx?dl=0">согласие</a> на обработку моих персональных данных
+      Даю <a href="https://drive.google.com/file/d/1UNIwtiqYnGZihgHoCf2szbktEsTcF-gz/view?usp=sharing">согласие</a> на обработку моих персональных данных
     </label>
   </div>
   <div class="tickets--warning"></div>
