@@ -23,6 +23,8 @@ Early bird билеты стоят 18 000 рублей при двухместн
 ## Регистрация на PYCON RUSSIA 2019
 
 Если за ваше участие заплатит компания, укажите реквизиты в анкете регистрации, и мы вышлем вам счет на оплату. Либо напишите на [ekaterina@it-people.ru](mailto:ekaterina@it-people.ru), и мы выставим вам счет.
+
+Мы работаем с участниками на основании [Договора-оферты[(https://drive.google.com/file/d/1QJlJYwL3S9TC8VyISFwkFxeJlBfpODne/view?usp=sharing). Основанием для счета служит этот договор.
 	
 Обратите внимание:</b> по правилам отеля заселение проходит с 17.30. До заселения в номера вещи можно будет оставить в специальном месте. Если вам принципиально важен «ранний заезд», напишите нам об этом заранее. Это платная услуга.
 
@@ -133,7 +135,7 @@ Early bird билеты стоят 18 000 рублей при двухместн
   <div class="tickets--field">
     <label for="tickets_agreement" class="tickets--label">
       <input type="checkbox" name="agreement" value="true" id="tickets_agreement" class="tickets--radio_input" />
-      Даю <a href="https://drive.google.com/file/d/1UNIwtiqYnGZihgHoCf2szbktEsTcF-gz/view?usp=sharing">согласие</a> на обработку моих персональных данных
+      Даю <a href="https://drive.google.com/file/d/1UNIwtiqYnGZihgHoCf2szbktEsTcF-gz/view?usp=sharing">согласие</a> на обработку моих персональных данных.
     </label>
   </div>
   <div class="tickets--warning"></div>
