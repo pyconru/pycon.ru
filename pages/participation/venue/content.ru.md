@@ -35,6 +35,6 @@ GPS координаты Долгота: (36.859546) Широта: (54.937646)
 
 
 ## Карта проезда до «Яхонты Таруса»
-![tarusa](https://img-fotki.yandex.ru/get/168237/356682190.0/0_1597fd_cd89f39d_orig) 
+![tarusa](/2019/img/speakers/2019/Shema-proezda-v-Tarusu.png) 
 
 
