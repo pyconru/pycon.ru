@@ -2,7 +2,7 @@
 [![IT-People](https://img-fotki.yandex.ru/get/176331/121639917.103/0_180a79_f89b8c60_orig)](http://www.it-people.ru/)
 
 ## Our contacts
-Email: [ekaterina@it-people.ru](mailto:ekaterina@it-people.ru)
+Email: [pycon@it-people.ru](mailto:pycon@it-people.ru)
 
 Phone: +7 999 112 5389
 
