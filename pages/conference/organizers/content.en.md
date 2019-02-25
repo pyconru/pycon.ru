@@ -3,17 +3,13 @@
 
 ![shtan](/2018/img/speakers/2018/shtan.png) Danila Shtan<br>CTO, Yandex.Vertical
 
-![imankulov](/2018/img/speakers/2018/imankulov.jpg) Roman Imankulov, software developer, [Doist Inc](https://doist.com)
-
 ![vlasovskii](/2017/img/speakers/2017/vlasovskih.JPG) [Andrew Vlasovskih](http://pirx.ru), developer of IDE PyCharm, [JetBrains](https://www.jetbrains.com)
-
-![ovchinnikov](/2018/img/speakers/2018/ovchinnikov.jpg) Dmitry Ovchinnikov, Software Engineer, [pipedrive.com](https://www.pipedrive.com/ru) 
-
-![soldatenko](/2018/img/speakers/2018/soldatenko.jpg) Andrii Soldatenko<br>developer, [Persollo](https://persollo.com), [Toptal](https://www.toptal.com)
 
 ![patrushev](/2018/img/speakers/2018/patrushev.jpg) Anton Patrushev<br>CTO, [Spherical](https://www.spherical.pm)
 
 ![korobov](/2018/img/speakers/2018/korobov.jpg) Mikhail Korobov<br>Python-developer at ScrapingHub
+
+![bukin](/2019/img/speakers/2019/bukin1.jpg) Alexander Bukin<br>Developer at Yandex
 
 ##Organization team
 
