@@ -10,7 +10,7 @@
 
 ![korobov](/2018/img/speakers/2018/korobov.jpg) Михаил Коробов<br>Python-разработчик в ScrapingHub
 
-![bukin](/2019/img/speakers/2019/bukin.jpg) Александр Букин<br>Разработчик в Яндексе
+![bukin](/2019/img/speakers/2019/bukin1.jpg) Александр Букин<br>Разработчик в Яндексе
 
 
 
