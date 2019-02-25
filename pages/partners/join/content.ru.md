@@ -19,7 +19,7 @@
 * [Спонсор воды](#water)
 * [Ролл-ап](#roll-up)
 
-Посмотреть спонсорские пакеты в [красивом файлике.](https://drive.google.com/file/d/1TJCsTt6gz4bPZ9O0V_qTK1LsEPKINzKf/view?usp=sharing)
+Посмотреть спонсорские пакеты в [красивом файлике.](https://drive.google.com/file/d/1ZZwGyJILMo17GZidM185NSjJG64r1P5N/view?usp=sharing)
 
 <h4 id="gold"> Золотой партнёр</h4>
 <b>Спонсорский взнос:</b> 250,000 руб.	
