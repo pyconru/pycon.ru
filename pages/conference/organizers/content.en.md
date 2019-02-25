@@ -11,6 +11,8 @@
 
 ![bukin](/2019/img/speakers/2019/bukin1.jpg) Alexander Bukin<br>Developer at Yandex
 
+![elovskih](/2019/img/speakers/2019/elovskih.jpg) Mikhail Yelovskikh<br>Developer at Yandex.Cloud
+
 ##Organization team
 
 ![gerasimovich](https://img-fotki.yandex.ru/get/195990/121639917.103/0_180d4e_d97021d0_orig) Yulia Gerasimovich, CEO of [IT-People.ru](http://it-people.ru/), organizer of a large number of IT conferences and educational activities
