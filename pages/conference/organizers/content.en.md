@@ -9,6 +9,8 @@
 
 ![korobov](/2018/img/speakers/2018/korobov.jpg) Mikhail Korobov<br>Python-developer at ScrapingHub
 
+![ovchinnikov](/2018/img/speakers/2018/ovchinnikov.jpg) Dmitry Ovchinnikov<br>CTO,Speakly
+
 ![bukin](/2019/img/speakers/2019/bukin1.jpg) Alexander Bukin<br>Developer at Yandex
 
 ![elovskih](/2019/img/speakers/2019/elovskih.jpg) Mikhail Yelovskikh<br>Developer at Yandex.Cloud
