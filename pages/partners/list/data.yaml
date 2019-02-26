@@ -4,3 +4,8 @@ sections:
   sponsors:
   - logo: /2019/img/speakers/2019/JetBrains.jpg
     link: https://www.jetbrains.com/pycharm/
+
+- name: "Серебряный партнёр"
+  sponsors:  
+  - logo: /2017/img/speakers/2017/FIN_CIAN-logo-cyrillic-horizontal-blue.png
+    link: https://www.cian.ru 
