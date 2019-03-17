@@ -5,3 +5,5 @@ translations/*.mo
 www
 static/img/Thumbs.db
 /node_modules
+.vagrant
+Vagrantfile
