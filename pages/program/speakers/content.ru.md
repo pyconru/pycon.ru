@@ -13,3 +13,19 @@
 > Twitter: [@voidspace](https://twitter.com/voidspace)
 
 > Site: [agileabstractions.com](https://agileabstractions.com)
+
+<a name="Travis-Oliphant"></a>![Oliphant](/2019/img/speakers/2019/oliphant.jpg)Travis Oliphant, Остин, США
+
+> Creator of SciPy, NumPy, and Numba; founder and Director of Anaconda, Inc. Founder of NumFOCUS. CEO of Quansight
+
+> Twitter: [@teoliphant](https://twitter.com/teoliphant)
+
+> Site: [technicaldiscovery.blogspot.com](http://technicaldiscovery.blogspot.com)
+
+<a name="Antonio-Cuni"></a>![Cuni](/2019/img/speakers/2019/cuni.jpg)Antonio Cuni, Остин, США
+
+> PyPy core developer, freelance programmer.
+
+> Twitter: [@antocuni](https://twitter.com/antocuni)
+
+> Site: [antocuni.eu/en](http://antocuni.eu/en/)
