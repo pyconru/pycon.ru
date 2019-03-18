@@ -16,7 +16,7 @@
 
 > Site: [agileabstractions.com](https://agileabstractions.com)
 
-<a name="Travis-Oliphant"></a>![Oliphant](/2019/img/speakers/2019/oliphant.jpg)Travis Oliphant, Остин, США
+<a name="Travis-Oliphant"></a>![Oliphant](/2019/img/speakers/2019/oliphant.jpg)Travis Oliphant, Austin, United States
 
 > Creator of SciPy, NumPy, and Numba; founder and Director of Anaconda, Inc. Founder of NumFOCUS. CEO of Quansight
 
@@ -24,7 +24,7 @@
 
 > Site: [technicaldiscovery.blogspot.com](http://technicaldiscovery.blogspot.com)
 
-<a name="Antonio-Cuni"></a>![Cuni](/2019/img/speakers/2019/cuni.jpg)Antonio Cuni, Остин, США
+<a name="Antonio-Cuni"></a>![Cuni](/2019/img/speakers/2019/cuni.jpg)Antonio Cuni, Genova, ITALY
 
 > PyPy core developer, freelance programmer.
 
