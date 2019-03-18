@@ -22,7 +22,7 @@
 
 > Site: [technicaldiscovery.blogspot.com](http://technicaldiscovery.blogspot.com)
 
-<a name="Antonio-Cuni"></a>![Cuni](/2019/img/speakers/2019/cuni.jpg)Antonio Cuni, Остин, США
+<a name="Antonio-Cuni"></a>![Cuni](/2019/img/speakers/2019/cuni.jpg)Antonio Cuni, Генуя, Италия
 
 > PyPy core developer, freelance programmer.
 
