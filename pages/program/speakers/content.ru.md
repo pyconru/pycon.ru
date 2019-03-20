@@ -24,8 +24,6 @@
 
 <a name="Antonio-Cuni"></a>![Cuni](/2019/img/speakers/2019/cuni.jpg)Antonio Cuni, Генуя, Италия
 
-> PyPy core developer, freelance programmer.
+> Живет в Италии, работает консультантом, за плечами - годы опыта работы как на большие бренды, так и с малым бизнесом. Обладатель степени Ph.D. и Master в Computer Science. Антонио — core developers в PyPy, кроме того он создал, поддерживает и развивает множество других open source проектов. Антонио не первый год активно участвует в жизни Python коммьюнити, выступая на таких конференциях, как EuroPython, PyCon Италия, PyCon Великобритания, PyCon Польша и PyCon ЮАР. Регулярно обновляет [блог](http://antocuni.eu/en/) о PyPy. В сфере его основных интересов - компиляторы, разные реализации языка, TDD и производительность.
 
 > Twitter: [@antocuni](https://twitter.com/antocuni)
-
-> Site: [antocuni.eu/en](http://antocuni.eu/en/)
