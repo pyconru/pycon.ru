@@ -3,9 +3,11 @@
 The first 100 tickets cost:
 
 • 18 000 rubles (upon arrival in a double or triple room)
+
 • 24 000 rubles (for single occupancy) 
 
 <b>Your ticket includes:</b>
+
 • Participation in the conference (2 days)
 	
 • Hotel accommodation
