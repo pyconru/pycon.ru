@@ -24,6 +24,7 @@ The first 100 tickets cost:
 	
 Special discount for students: -50%. To buy a ticket for a special price, send a student scan to mppycon@gmail.com, in return we will send you a promotional code. After entering this code, you will be able to buy a discount ticket.
 
+## Registration
 
 <form id="tickets_form" action="#" class="tickets">
   <div
