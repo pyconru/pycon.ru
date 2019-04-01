@@ -10,6 +10,11 @@ sections:
   - logo: /2017/img/speakers/2017/FIN_CIAN-logo-cyrillic-horizontal-blue.png
     link: https://www.cian.ru 
 
+- name: "Бронзовый партнёр"
+  sponsors:  
+  - logo: /2019/img/speakers/2019/wg_logo_mainpage.png
+    link: https://wargaming.com/ru/ 
+    
 - name: "Информационные партнёры"
   sponsors:
   - logo: /2019/img/speakers/2019/fareast.png
