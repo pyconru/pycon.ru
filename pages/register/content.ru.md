@@ -18,14 +18,14 @@
 
 ## Специальная цена для студентов
 
-Для студентов действует специальная скидка: -50% на билет с двухместным проживанием. Чтобы купить билет по спец.цене, пришлите скан студенческого на [mppycon@gmail.com](mailto:mppycon@gmail.com), в ответ мы вышлем промокод. 
+Для студентов действует специальная скидка: -50% на билет с двухместным проживанием. Чтобы купить билет по спец.цене, пришлите скан студенческого на [mppycon@gmail.com](mailto:mppycon@gmail.com), в ответ мы вышлем промокод.
 
 ## Регистрация на PYCON RUSSIA 2019
 
 Если за ваше участие заплатит компания, укажите реквизиты в анкете регистрации, и мы вышлем вам счет на оплату. Либо напишите на [mppycon@gmail.com](mailto:mppycon@gmail.com), и мы выставим вам счет.
 
 Мы работаем с участниками на основании [Договора-оферты](https://drive.google.com/file/d/1g8RAnEAR-XYANXUQdLrHUyhduUiZRK9p/view?usp=sharing). Основанием для счета служит этот договор.
-	
+
 Обратите внимание:</b> по правилам отеля заселение проходит с 17.30. До заселения в номера вещи можно будет оставить в специальном месте. Если вам принципиально важен «ранний заезд», напишите нам об этом заранее. Это платная услуга.
 
 <form id="tickets_form" action="#" class="tickets">
@@ -151,6 +151,6 @@
 </div>
 
 <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-<script src="/2019/js/tickets.js"></script>
+<script src="/2019/js/tickets-1.js"></script>
 
 <script src="https://ticketscloud.com/static/scripts/widget/tcwidget.js"></script>
