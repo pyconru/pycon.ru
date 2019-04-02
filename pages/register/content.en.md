@@ -1,10 +1,10 @@
 ## The tickets' cost
 
-The first 100 tickets cost:
+The tickets cost:
 
-• 18 000 rubles (upon arrival in a double or triple room)
+• 20 000 rubles (upon arrival in a double or triple room)
 
-• 24 000 rubles (for single occupancy) 
+• 26 000 rubles (for single occupancy) 
 
 <b>Your ticket includes:</b>
 
