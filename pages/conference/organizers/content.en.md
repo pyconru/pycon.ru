@@ -15,6 +15,8 @@
 
 ![elovskih](/2019/img/speakers/2019/elovskih.jpg) Mikhail Yelovskikh<br>Developer at Yandex.Cloud
 
+![ermakov](/2019/img/speakers/2019/ermakov.JPG)Petr Ermakov<br>Senior Data Scientist at LAMODA
+
 ##Organization team
 
 ![gerasimovich](https://img-fotki.yandex.ru/get/195990/121639917.103/0_180d4e_d97021d0_orig) Yulia Gerasimovich, CEO of [IT-People.ru](http://it-people.ru/), organizer of a large number of IT conferences and educational activities
