@@ -14,7 +14,7 @@
 
 ![bukin](/2019/img/speakers/2019/bukin1.jpg) Александр Букин<br>Разработчик в Яндексе
 
-![elovskih](/2019/img/speakers/2019/elovskih.jpg) Михаил Еловских<br>Разработчик в Яндекс.Облако
+![elovskih](/2019/img/speakers/2019/elovskih.jpg) Михаил Еловских<br>Разработчик в Яндекс.Облаке
 
 ![ermakov](/2019/img/speakers/2019/ermakov.JPG) Пётр Ермаков<br>Senior Data Scientist в LAMODA
 
