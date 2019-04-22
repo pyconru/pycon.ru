@@ -1,0 +1,11 @@
+speaker: |
+    **Kirill Borisov**
+    
+title: "A Flat Too Smart: IoT + Python + whatever"
+
+description: |
+    Let's face it: we are caught in a vicious loop of earning money and spending them to have some respite from earning them. Each hour that you spend on this leaves you a little bit less of a person. To add insult to the injury, that leaves you with less time to try something new, forcing you to console yourselves with creating yet more legacy code on Python 2.
+
+    "Enough is enough!". With that thought in hand, I decided to fill my life with all the Python things trending on Twitter. Smart home! Python 3! Lambda! Async!
+
+    The Idea is simple on the surface: create a simple data acquisition system for gathering meter readings and data from sensors using only Python (provided that makes sense) and other hyped-up things: MicroPython, asyncio, living in the cloud and Telegram bot for a good measure. Come and see what had been accomplished, what turned out to be a folly and what you can learn from this unholy mess.
