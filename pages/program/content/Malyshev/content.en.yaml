@@ -1,0 +1,7 @@
+speaker: |
+    **Artem Malyshev**, drylabs.io
+    
+title: "Domain driven design tools"
+
+description: |
+    There is an essential and accidental complexity. I'll explain how to organize the first and to minimize the second. We'll talk about how to build your product around solving problems, not used frameworks. You'll know where is the best place to apply typing and dataclasses. We'll consider where contract programming and pydantic is useful to us. We'll try libraries from the dry-python project. And of course, we will mention tests. Practice only. No UML included.
