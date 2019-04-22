@@ -37,3 +37,9 @@
 <a name="artem-malishev"></a>![malishev](/2019/img/speakers/2019/malishev.jpg)Artem Malyshev, Kaluga
 
 > Creator of the dry-python project. A former member of the django channels maintenance team.
+
+<a name="nikita-grishko"></a>![grishko](/2019/img/speakers/2019/grishko.png)Nikita Grishko, Minsk
+
+> Nikita helped to create tanks in Wargaming.net, participated in the ride-sharing service development at Juno Inc., was the part of the infrastructure team at PandaDoc. Now, Nikita is a member of the backend team at Flo Health Inc., where he aims to create the best female healthcare product.
+
+> When not in the office, Nikita contributes to OpenSource projects, striving to convert his experience into something useful and earn a couple of thousands of stars on GitHub.
