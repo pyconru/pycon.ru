@@ -1,0 +1,9 @@
+speaker: |
+    **Nikita Grishko**, Flo Health Inc
+    
+title: "Evolution of dependency management"
+
+description: |
+    If you use Python, you most probably use virtual environments and pip to install packages. You may have requirements.txt with all dependencies; you may even have two of them, for example, requirements-dev.txt. But what if I tell you that this good old approach has apparent problems, and there is more than one instrument that tries to solve these issues?
+
+    My speech addresses the existing problems in managing dependencies. I will tell you as well on how the developers tried and still try to solve these issues, and we will take a closer look at a set of tools: pip-tools, pipenv, flit, poetry. Together we will decide if these instruments worth a shot, or is it just a trivial train of madness it's better to avoid.
