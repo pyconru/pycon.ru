@@ -37,5 +37,5 @@
 
 > Характер нордический, есть коты.
 
-> Twitter: [@@lensvol](https://twitter.com/lensvol)
+
 
