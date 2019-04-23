@@ -43,3 +43,7 @@
 > Nikita helped to create tanks in Wargaming.net, participated in the ride-sharing service development at Juno Inc., was the part of the infrastructure team at PandaDoc. Now, Nikita is a member of the backend team at Flo Health Inc., where he aims to create the best female healthcare product.
 
 > When not in the office, Nikita contributes to OpenSource projects, striving to convert his experience into something useful and earn a couple of thousands of stars on GitHub.
+
+<a name="pushtaev"></a>![pushtaev](/2018/img/speakers/2018/pushtaev.jpg)Vadim Pushtayev, Moscow
+
+> Team lead at Mail.Ru Group.
