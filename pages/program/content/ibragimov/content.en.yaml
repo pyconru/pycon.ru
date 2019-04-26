@@ -1,0 +1,7 @@
+speaker: |
+    **Rishat Ibragimov**, Yandex
+    
+title: "Quantum computing with python: learning by example"
+
+description: |
+    Many have heard about quantum computers and the fantastic opportunities they open up. But not many people know that technologies have reached such a level that today anyone can write a simple Python program and execute it on a real quantum machine. Let us examine the basis of quantum computing with code samples, learn to run programs on a local simulator and a remote quantum computer. 
