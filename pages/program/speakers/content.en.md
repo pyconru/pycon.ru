@@ -44,10 +44,10 @@
 
 > When not in the office, Nikita contributes to OpenSource projects, striving to convert his experience into something useful and earn a couple of thousands of stars on GitHub.
 
-<a name="pushtaev"></a>![pushtaev](/2018/img/speakers/2018/pushtaev.jpg)Vadim Pushtayev, Moscow
+<a name="pushtaev"></a>![pushtaev](/2018/img/speakers/2018/pushtaev.jpg)Vadim Pushtayev, Moscow, Russia
 
 > Team lead at Mail.Ru Group.
 
-<a name="ibragimov"></a>![ibragimov](/2019/img/speakers/2019/ibragimov.png)Rishat Ibragimov, Yekaterinburg
+<a name="ibragimov"></a>![ibragimov](/2019/img/speakers/2019/ibragimov.png)Rishat Ibragimov, Moscow, Russia
 
 > Developer at Yandex. 
