@@ -47,3 +47,7 @@
 <a name="pushtaev"></a>![pushtaev](/2018/img/speakers/2018/pushtaev.jpg)Vadim Pushtayev, Moscow
 
 > Team lead at Mail.Ru Group.
+
+<a name="ibragimov"></a>![ibragimov](/2018/img/speakers/2018/ibragimov.jpeg)Rishat Ibragimov, Yekaterinburg
+
+> Developer at Yandex. 
