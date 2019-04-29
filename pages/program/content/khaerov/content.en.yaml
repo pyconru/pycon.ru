@@ -1,0 +1,7 @@
+speaker: |
+    **Alexander Khaerov**, Chainstack
+    
+title: "Goodbye Virtual Environments?"
+
+description: |
+    A Pythonista has more ways to manage dependencies than any other programmer. What happened and how is this compatible with "The Zen of Python"? Should Python have only one instrument? In the past year, two new contenders entered the scene to fix packaging for good - Pipenv and Poetry. What PEP517 (build isolation) brings us? This talk is an attempt to review through DevOps point of view and real experience.
