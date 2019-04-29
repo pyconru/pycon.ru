@@ -51,3 +51,7 @@
 <a name="ibragimov"></a>![ibragimov](/2019/img/speakers/2019/ibragimov.png)Rishat Ibragimov, Moscow, Russia
 
 > Developer at Yandex. 
+
+<a name="haerov"></a>![haerov](/2019/img/speakers/2019/haerov.jpg)Alexander Khaerov, Singapore
+
+> Development Lead, Chainstack.
