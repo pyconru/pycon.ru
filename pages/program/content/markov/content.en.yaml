@@ -1,0 +1,7 @@
+speaker: |
+    **Nikolay Markov**, Aligned Research
+    
+title: "Packaging Python code from A to Z"
+
+description: |
+    A huge fraction of developers don't really bother about code culture and packaging, especially since things like Docker are around. Also, the infrastructure itself isn't a piece of cake, either, - we have "eggs", we have "wheels", we have "pipfiles" and "pyproject.toml"... All right, let's talk about some good practices of the Python project structuring (from CLI up to docs), walk through the classic approach of manual packaging and take a look at modern ecosystem around all that for our all-favorite language.
