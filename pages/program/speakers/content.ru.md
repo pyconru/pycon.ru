@@ -57,3 +57,6 @@
 
 > Development Lead, Chainstack. Руководит разработкой, разбирается в  инфраструкте, программирует на Python и любит стикеры.
 
+<a name="markov"></a>![markov](/2019/img/speakers/2019/markov.jpg)Николай Марков, Москва, Россия
+
+> Ведущий инженер по анализу данных в Aligned Research, один из организаторов pydata. 
