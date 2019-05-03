@@ -55,3 +55,7 @@
 <a name="haerov"></a>![haerov](/2019/img/speakers/2019/haerov.jpg)Alexander Khaerov, Singapore
 
 > Development Lead, Chainstack.
+
+<a name="markov"></a>![markov](/2019/img/speakers/2019/markov.jpg)Nikolay Markov, Moscow, Russia
+
+> Lead data analyst at Aligned Research, one of the organizers of pydata.
