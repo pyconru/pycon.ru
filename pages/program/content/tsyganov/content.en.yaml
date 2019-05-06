@@ -1,0 +1,7 @@
+speaker: |
+    **Ivan Tsyganov**, Positive Technologies
+    
+title: "(Un)safe dependencies"
+
+description: |
+    The past seven years, the threat of "Using components with known vulnerabilities" has ninth in the OWASP TOP-10 rating. We will consider the consequences of using outdated versions of libraries and the interpreter itself. I'll show you how an attacker can exploit known vulnerabilities in the Django and Django Rest Framework, the SQLAlchemy, lxml, PyYAML, and aiohttp-session libraries, and in the Python 2 and Python 3 interpreters themselves.
