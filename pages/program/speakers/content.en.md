@@ -59,3 +59,7 @@
 <a name="markov"></a>![markov](/2019/img/speakers/2019/markov.jpg)Nikolay Markov, Moscow, Russia
 
 > Lead data analyst at Aligned Research, one of the organizers of pydata.
+
+<a name="tsyganov"></a>![tsyganov](/2019/img/speakers/2019/tsyganov.png)Ivan Tsyganov, Saint-Petersburg, Russia
+
+> Lead Programmer at Positive Technologies. Speaker of many conferences for programmers and testers.
