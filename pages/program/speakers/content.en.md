@@ -16,7 +16,7 @@
 
 > Site: [agileabstractions.com](https://agileabstractions.com)
 
-<a name="Travis-Oliphant"></a>![Oliphant](/2019/img/speakers/2019/oliphant.jpg)Travis Oliphant, Austin, United States
+<a name="Travis-Oliphant"></a>![Oliphant](/2019/img/speakers/2019/Travis.png)Travis Oliphant, Austin, United States
 
 > Travis E. Oliphant is a Founder and CEO/CTO of Quansight, a consulting company that connects companies with open-source communities to help companies gain actionable quantitative insight from their data. Travis previously co-founded Anaconda Inc. and is now a Director.  Since 1997, he has worked in the Python ecosystem, notably as the primary creator of the NumPy package and as a founding contributor of the SciPy package.  Travis also started the Numba project and organized and led the teams that built Conda, Dask, Bokeh, and XND.  Travis has a Ph.D. from the Mayo Clinic and B.S. and M.S. degrees in Mathematics and Electrical Engineering from Brigham Young University. 
 
