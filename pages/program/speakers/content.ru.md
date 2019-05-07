@@ -20,8 +20,6 @@
 
 > Twitter: [@teoliphant](https://twitter.com/teoliphant)
 
-> Site: [technicaldiscovery.blogspot.com](http://technicaldiscovery.blogspot.com)
-
 <a name="Antonio-Cuni"></a>![Cuni](/2019/img/speakers/2019/cuni.jpg)Antonio Cuni, Генуя, Италия
 
 > Живет в Италии, работает консультантом, за плечами — годы опыта работы как на большие бренды, так и с малым бизнесом. Обладатель степени Ph.D. и Master в Computer Science. Антонио — core developers в PyPy, кроме того он создал, поддерживает и развивает множество других open source проектов. Выступал на EuroPython, PyCon Италия, PyCon Великобритания, PyCon Польша и PyCon ЮАР. Регулярно обновляет [блог](http://antocuni.eu/en/) о PyPy. В сфере его основных интересов — компиляторы, разные реализации языка, TDD и производительность.
