@@ -61,3 +61,7 @@
 <a name="tsyganov"></a>![tsyganov](/2019/img/speakers/2019/tsyganov.png)Ivan Tsyganov, Saint-Petersburg, Russia
 
 > Lead Programmer at Positive Technologies. Speaker of many conferences for programmers and testers.
+
+<a name="borisov"></a>![borisov](/2018/img/speakers/2018/borisov.jpg)Sergei Borisov, Moscow
+
+> Tech lead at Domclick.ru.
