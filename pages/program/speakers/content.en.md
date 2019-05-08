@@ -62,6 +62,6 @@
 
 > Lead Programmer at Positive Technologies. Speaker of many conferences for programmers and testers.
 
-<a name="borisov"></a>![borisov](/2018/img/speakers/2018/borisov.jpg)Sergei Borisov, Moscow
+<a name="borisov"></a>![borisov](/2018/img/speakers/2018/borisov.jpg)Sergei Borisov, Moscow, Russia
 
 > Tech lead at Domclick.ru.
