@@ -1,7 +1,7 @@
 speaker: |
     **Андрей Власовских**, JetBrains
     
-title: "What's Coming in Python 3.8 and What isn't"
+title: "Что будет в Python 3.8 и чего не будет"
 
 description: |
     Что нового будет в Python 3.8? Об этом можно самостоятельно узнать из отличного документа [What's New in Python 3.8](https://docs.python.org/3.8/whatsnew/3.8.html), который не требует пересказа. В моём докладе речь пойдёт о том, что описано там лишь кратко или вообще не описано:
