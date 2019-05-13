@@ -1,0 +1,7 @@
+speaker: |
+    **Alexey Kuzmin**, Domclick.ru
+    
+title: "How to find and fix all the bottlenecks in Python"
+
+description: |
+    My name is Alexey. My services work fast, I never run out of memory and I don’t have to refactor my old code. Except for everything mentioned above is a huge lie. The truth is that throughout my career I’ve become extremely good at answering all the “why is it working slowly?”, “what’s wrong with that?” and “what should we do now?”. Now it’s time to share some of my life hacks and tools with you so you can save yourselves precious hours and avoid nervous breakdown while debugging. As a result you will leave with understanding which parts of your program are usually slow, how to reveal and fix them.
