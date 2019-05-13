@@ -81,3 +81,7 @@
 <a name="levonovich"></a>![levonovich](/2019/img/speakers/2019/levonovich.png)Nikita Levonovich, Dmitrov, Russia
 
 > Technical lead at Questdoers. 
+
+<a name="kuzmin"></a>![kuzmin](/2018/img/speakers/2018/kuzmin1.jpg) Alexey Kuzmin, Moscow, Russia
+>
+> Tech lead at Domclick.ru.
