@@ -67,3 +67,19 @@
 <a name="borisov"></a>![borisov](/2018/img/speakers/2018/borisov.jpg)Сергей Борисов, Москва, Россия
 
 > Технический руководитель команды «Импорт» в ДомКлик.
+
+<a name="vlasovskih"></a>![vlasovskih](/2017/img/speakers/2017/vlasovskih.JPG)Андрей Власовских, Санкт-Петербург, Россия
+
+> Руководитель PyCharm Community в JetBrains. Активный участник python-комьюнити, контрибьютор PEP 484, 561.
+
+<a name="patrushev"></a>![patrushev](/2019/img/speakers/2019/patrushev.jpg)Антон Патрушев, Екатеринбург, Россия
+
+> CTO в Spherical.
+
+<a name="zlata"></a>![zlata](/2019/img/speakers/2019/zlata.jpg)Злата Обуховская, Москва, Россия
+
+> Тимлид в Nvidia, евангелист Moscow Python
+
+<a name="levonovich"></a>![levonovich](/2019/img/speakers/2019/levonovich.png)Никита Левонович, Дмитров, Россия
+
+> Команда КВЕСТОДЕЛЫ, техлид.
