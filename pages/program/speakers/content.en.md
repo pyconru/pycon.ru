@@ -76,7 +76,7 @@
 
 <a name="zlata"></a>![zlata](/2019/img/speakers/2019/zlata.jpg)Zlata Obukhovskaya, Moscow, Russia
 
-> Technical lead at Nvidia, evangelist of Moscow Python community
+> Technical lead at Nvidia, evangelist of Moscow Python community.
 
 <a name="levonovich"></a>![levonovich](/2019/img/speakers/2019/levonovich.png)Nikita Levonovich, Dmitrov, Russia
 
