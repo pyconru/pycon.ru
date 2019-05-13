@@ -72,14 +72,20 @@
 
 > Руководитель PyCharm Community в JetBrains. Активный участник python-комьюнити, контрибьютор PEP 484, 561.
 
+> Twitter: [@vlasovskikh](https://twitter.com/vlasovskikh)
+
 <a name="patrushev"></a>![patrushev](/2019/img/speakers/2019/patrushev.jpg)Антон Патрушев, Екатеринбург, Россия
 
 > CTO в Spherical.
 
 <a name="zlata"></a>![zlata](/2019/img/speakers/2019/zlata.jpg)Злата Обуховская, Москва, Россия
 
-> Тимлид в Nvidia, евангелист Moscow Python
+> Тимлид в Nvidia, евангелист Moscow Python.
 
 <a name="levonovich"></a>![levonovich](/2019/img/speakers/2019/levonovich.png)Никита Левонович, Дмитров, Россия
 
 > Команда «Квестоделы», техлид.
+
+<a name="kuzmin"></a>![kuzmin](/2018/img/speakers/2018/kuzmin1.jpg) Алексей Кузьмин, Москва, Россия
+
+> Директор разработки в ДомКлик. Руководит направлением работы с данными и машинного обучения. 
