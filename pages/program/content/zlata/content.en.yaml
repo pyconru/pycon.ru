@@ -8,15 +8,15 @@ description: |
 
     This concept was adopted by developers from other ecosystems (Kotlin, C, Swift) thus raising new questions:
     
-    - What if instead of a set of concurrent functions we want to run a graph of concurrent functions?
+    — What if instead of a set of concurrent functions we want to run a graph of concurrent functions?
     
-    - How to pass data between concurrent contexts in a safe manner?
+    — How to pass data between concurrent contexts in a safe manner?
     
-    - How to supervise concurrent graphs lifecycles?
+    — How to supervise concurrent graphs lifecycles?
     
-    - How to execute graph effectively on one core? On multiple cores?
+    — How to execute graph effectively on one core? On multiple cores?
     
-    - How to make execution deterministic?
+    — How to make execution deterministic?
 
     Meanwhile these problems were more or less successfully approached in other programming languages.
 
