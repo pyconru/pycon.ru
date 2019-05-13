@@ -65,3 +65,19 @@
 <a name="borisov"></a>![borisov](/2018/img/speakers/2018/borisov.jpg)Sergei Borisov, Moscow, Russia
 
 > Tech lead at Domclick.ru.
+
+<a name="vlasovskih"></a>![vlasovskih](/2017/img/speakers/2017/vlasovskih.JPG)Andrey Vlasovskikh, St. Petersburg, Russia
+
+> Technical lead of PyCharm and the maintainer of IdeaVim at JetBrains. He is an active member of the Python typing community and a contributor to PEP 484, 561.
+
+<a name="patrushev"></a>![patrushev](/2019/img/speakers/2019/patrushev.jpg)Anton Patrushev, Yekaterinburg, Russia
+
+> CTO at Spherical.
+
+<a name="zlata"></a>![zlata](/2019/img/speakers/2019/zlata.jpg)Zlata Obukhovskaya, Moscow, Russia
+
+> Technical lead at Nvidia, evangelist of Moscow Python community
+
+<a name="levonovich"></a>![levonovich](/2019/img/speakers/2019/levonovich.png)Nikita Levonovich, Dmitrov, Russia
+
+> Technical lead at Questdoers. 
