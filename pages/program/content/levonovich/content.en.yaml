@@ -1,7 +1,7 @@
 speaker: |
-    **Nikita Levonovich**, Questdoers
+    **Nikita Levonovich**, EscapeRoomMakers
     
-title: "Micropython for arcade games and quests in reality"
+title: "Micropython for arcade games and escaperooms"
 
 description: |
     EscapeRoomMakers use Micropython for developing the last generation of escape rooms and arcade games. The modern escape room contains about 10 devices that communicate over a network with MQTT. Most of those devices are microcontrollers (ESP32) that control peripheral devices like mp3-players, relays, displays, diodes, buttons, etc. But a couple of years ago escape rooms had fewer devices, and the prevailing type of device was Arduino, which could communicate over several protocols.
