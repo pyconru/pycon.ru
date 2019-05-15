@@ -102,6 +102,6 @@
 
 > Data science lead в рекламном агентстве Dentsu Aegis Russia.
 
-<a name="artem_korolev"></a>![artem_korolev](/2019/img/speakers/2019/artem_korolev.jpg)Тимур Кадыров, Москва, Россия
+<a name="timur_kadirov"></a>![timur_kadirov](/2019/img/speakers/2019/timur_kadirov.jpg)Тимур Кадыров, Москва, Россия
 
 > Senior data scientist в рекламном агентстве Dentsu Aegis Russia.
