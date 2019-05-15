@@ -85,3 +85,19 @@
 <a name="kuzmin"></a>![kuzmin](/2018/img/speakers/2018/kuzmin1.jpg) Alexey Kuzmin, Moscow, Russia
 >
 > Tech lead at Domclick.ru.
+
+<a name="orlov"></a>![orlov](/2019/img/speakers/2019/orlov.jpg)Dmitry Orlov, Moscow, Russia
+
+> Backend developer at Edadil.
+
+<a name="artemenko"></a>![artemenko](/2019/img/speakers/2019/artemenko.jpg)Alexander Artemenko, Moscow, Russia
+
+> Developer at Yandex. 
+
+<a name="artem_korolev"></a>![artem_korolev](/2019/img/speakers/2019/artem_korolev.jpg)Artem Korolev, Moscow, Russia
+
+> Data science lead at Dentsu Aegis Russia.
+
+<a name="artem_korolev"></a>![artem_korolev](/2019/img/speakers/2019/artem_korolev.jpg)Timur Kadyrov, Moscow, Russia
+
+> Senior data scientist at Dentsu Aegis Russia.
