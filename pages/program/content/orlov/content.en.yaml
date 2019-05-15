@@ -1,0 +1,10 @@
+speaker: |
+    **Dmitry Orlov**, Domclick.ru
+    
+title: "Asynchronous RabbitMQ driver from the author" 
+
+description: |
+    When I started writing Open Source library for communication with rabbitmq using asyncio I imagined creating simple and clear interface for everyone.
+    Now it looks like a success, but it also took a while. This story is about me going deep into the driver (pika), fixing random bugs, writing my own driver, and trying not to break public API and not to "harm" users.
+    What's missing in asyncio to implement network libraries without pain.
+    The AMQP 0.9 design problems. 
