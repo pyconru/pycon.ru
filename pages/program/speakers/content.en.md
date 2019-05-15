@@ -98,6 +98,6 @@
 
 > Data science lead at Dentsu Aegis Russia.
 
-<a name="artem_korolev"></a>![artem_korolev](/2019/img/speakers/2019/artem_korolev.jpg)Timur Kadyrov, Moscow, Russia
+<a name="timur_kadirov"></a>![timur_kadirov](/2019/img/speakers/2019/timur_kadirov.jpg)Timur Kadyrov, Moscow, Russia
 
 > Senior data scientist at Dentsu Aegis Russia.
