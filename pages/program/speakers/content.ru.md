@@ -26,12 +26,30 @@
 
 > Twitter: [@antocuni](https://twitter.com/antocuni)
 
+<a name="vlasovskih"></a>![vlasovskih](/2017/img/speakers/2017/vlasovskih.JPG)Андрей Власовских, Санкт-Петербург, Россия
+
+> Руководитель PyCharm Community в JetBrains. Активный участник python-комьюнити, контрибьютор PEP 484, 561.
+
+> Twitter: [@vlasovskikh](https://twitter.com/vlasovskikh)
 
 <a name="kirill-borisov"></a>![borisov](/2019/img/speakers/2019/borisov.png)Кирилл Борисов, Амстердам, Нидерланды
 
 > Разработчик в Booking.com. За 12 лет в индустрии Кирилл прошел долгий путь, усеянный костылями и посыпанный битым кодом. От монолитных учетных систем до микросервисов авторизации — эта непростая дорога была усеяна гниющими каркасами старых систем.
 
 > Но все было не зря: это путешествие наградило его немалым опытом, прохладными историями и некоторым количеством ценных советов, которым он уже не первый год делится на конференциях и митапах. Характер нордический, есть коты.
+
+<a name="haerov"></a>![haerov](/2019/img/speakers/2019/haerov.jpg)Александр Хаёров, Сингапур
+
+> Development Lead, Chainstack. Руководит разработкой, разбирается в  инфраструкте, программирует на Python и любит стикеры.
+
+<a name="tsyganov"></a>![tsyganov](/2019/img/speakers/2019/tsyganov.png)Иван Цыганов, Санкт-Петербург, Россия
+
+> Ведущий программист в компании Positive Technologies. Спикер множества конференций для программистов и тестировщиков. 
+Организатор «The Standoff» — соревнований между атакующими и экспертами в области информационной безопасности в рамках конференции по информационной безопасности Positive Hack Days.
+
+<a name="borisov"></a>![borisov](/2018/img/speakers/2018/borisov.jpg)Сергей Борисов, Москва, Россия
+
+> Технический руководитель команды «Импорт» в ДомКлик.
 
 <a name="artem-malishev"></a>![malishev](/2019/img/speakers/2019/malishev.jpg)Артём Малышев, Калуга, Россия
 
@@ -51,28 +69,10 @@
 
 > Разработчик в Яндексе, аспирант. Программирует на Python и занимается теорией в области автоматных моделей вычислений: от классических до квантовых.
 
-<a name="haerov"></a>![haerov](/2019/img/speakers/2019/haerov.jpg)Александр Хаёров, Сингапур
-
-> Development Lead, Chainstack. Руководит разработкой, разбирается в  инфраструкте, программирует на Python и любит стикеры.
-
 <a name="markov"></a>![markov](/2019/img/speakers/2019/markov.jpg)Николай Марков, Москва, Россия
 
 > Ведущий инженер по анализу данных в Aligned Research, один из организаторов pydata. 
 
-<a name="tsyganov"></a>![tsyganov](/2019/img/speakers/2019/tsyganov.png)Иван Цыганов, Санкт-Петербург, Россия
-
-> Ведущий программист в компании Positive Technologies. Спикер множества конференций для программистов и тестировщиков. 
-Организатор «The Standoff» — соревнований между атакующими и экспертами в области информационной безопасности в рамках конференции по информационной безопасности Positive Hack Days.
-
-<a name="borisov"></a>![borisov](/2018/img/speakers/2018/borisov.jpg)Сергей Борисов, Москва, Россия
-
-> Технический руководитель команды «Импорт» в ДомКлик.
-
-<a name="vlasovskih"></a>![vlasovskih](/2017/img/speakers/2017/vlasovskih.JPG)Андрей Власовских, Санкт-Петербург, Россия
-
-> Руководитель PyCharm Community в JetBrains. Активный участник python-комьюнити, контрибьютор PEP 484, 561.
-
-> Twitter: [@vlasovskikh](https://twitter.com/vlasovskikh)
 
 <a name="patrushev"></a>![patrushev](/2019/img/speakers/2019/patrushev.jpg)Антон Патрушев, Екатеринбург, Россия
 
@@ -89,3 +89,19 @@
 <a name="kuzmin"></a>![kuzmin](/2018/img/speakers/2018/kuzmin1.jpg) Алексей Кузьмин, Москва, Россия
 
 > Директор разработки в ДомКлик. Руководит направлением работы с данными и машинного обучения. 
+
+<a name="orlov"></a>![orlov](/2019/img/speakers/2019/orlov.jpg)Дмитрий Орлов, Москва, Россия
+
+> Руководитель разработки бэкенда в Едадиле.
+
+<a name="artemenko"></a>![artemenko](/2019/img/speakers/2019/artemenko.jpg)Александр Артёменко, Москва, Россия
+
+> Разработчик в Яндексе. 
+
+<a name="artem_korolev"></a>![artem_korolev](/2019/img/speakers/2019/artem_korolev.jpg)Артем Королев, Москва, Россия
+
+> Data science lead в рекламном агентстве Dentsu Aegis Russia.
+
+<a name="artem_korolev"></a>![artem_korolev](/2019/img/speakers/2019/artem_korolev.jpg)Тимур Кадыров, Москва, Россия
+
+> Senior data scientist в рекламном агентстве Dentsu Aegis Russia.
