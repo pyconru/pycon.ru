@@ -1,0 +1,23 @@
+speaker: |
+    **Artem Korolev, Timur Kadyrov**, Dentsu Aegis Russia
+    
+title: "Creation of industrial datasets for deep learning approach"
+
+description: |
+    Using Python as a tool, we would like to talk about topic that is not covered by Coursera and data science blog on Medium. 
+    
+    — where does dataset come from
+    
+    — is it worth to label pics with your own hands or give them to assessors market
+    
+    — how to brief assessors team
+    
+    — why some pictures seem to belong to the relevant class but not eligible for train dataset
+    
+    — should i use the pic with a small resolution or trimmed badly
+    
+    — should i wait for complete training or train network iteratively
+    
+    — etc.
+    
+    The main reason of our report is to prove that deep learning is not for big companies only with data science departments. We will tell you how to start image recognition with zero experience and come back to client with result in two weeks after first tests w/o Google, Azure, AWS vision API usage.
