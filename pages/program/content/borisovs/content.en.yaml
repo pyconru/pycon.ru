@@ -2,3 +2,10 @@ speaker: |
     **Sergei Borisov**, Domclick.ru
     
 title: "Workshop «Testing asynchronous applications»"
+
+description: |
+    You all know about the importance of testing. I’m gonna show you how I test asynchronous apps including database and other infrastructural services with a little help of Docker and Pytest.
+    During the master class we will pack the basic web application into Docker and seal it with tests. Furthermore, we will compare the usage convenience of unittest and pytest, look at how some of the pytest plugins are working and learn to use mocks only when they are truly needed. Finally, we will try to beat all the slow tests. 
+    All you need to participate is just Docker.
+    
+    The master class is going to be particularly helpful for those who are just starting to write pytest tests. However, those who want to master fixtures and try new approaches to CI/CD are also welcome to come.
