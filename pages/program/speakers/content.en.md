@@ -28,6 +28,10 @@
 
 > Twitter: [@antocuni](https://twitter.com/antocuni)
 
+<a name="bakunov"></a>![bakunov](/2019/img/speakers/2019/bakunov.jpg)Grigory Bakunov, Moscow, Russia
+
+> Director of technology distribution at Yandex. Programming popularizer. One of the creators and permanent presenter of the podcast Radio-T.
+
 <a name="kirill-borisov"></a>![borisov](/2019/img/speakers/2019/borisov.png)Kirill Borisov, Amsterdam, Netherlands
 
 > Developer at Booking.com 
