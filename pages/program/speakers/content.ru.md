@@ -109,3 +109,11 @@
 <a name="timur_kadirov"></a>![timur_kadirov](/2019/img/speakers/2019/timur_kadirov.jpg)Тимур Кадыров, Москва, Россия
 
 > Senior data scientist в рекламном агентстве Dentsu Aegis Russia.
+
+<a name="bragin"></a>![bragin](/2019/img/speakers/2019/bragin.JPG)Антон Брагин, Санкт-Петербург, Россия
+
+> JetBrains, разработчик в команде PyCharm. Занимался исследованиями в области биоинформатики и молекулярной биологии, преподает в Институте биоинформатики.
+
+<a name="litvinov"></a>![litvinov](/2019/img/speakers/2019/litvinov.jpg)Василий Литвинов, Нижний Новгород, Россия
+
+> Software Engineer, Intel. Последние несколько лет - разработка инструментов профилирования смешанного Python/C (native) кода.
