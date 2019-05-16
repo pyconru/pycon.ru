@@ -105,3 +105,11 @@
 <a name="timur_kadirov"></a>![timur_kadirov](/2019/img/speakers/2019/timur_kadirov.jpg)Timur Kadyrov, Moscow, Russia
 
 > Senior data scientist at Dentsu Aegis Russia.
+
+<a name="bragin"></a>![bragin](/2019/img/speakers/2019/bragin.JPG)Anton Bragin, St. Petersburg, Russia
+
+> JetBrains, developer at PyCharm. 
+
+<a name="litvinov"></a>![litvinov](/2019/img/speakers/2019/litvinov.jpg)Vasily Litvinov, Nizhny Novgorod, Russia
+
+> Software Engineer, Intel. 
