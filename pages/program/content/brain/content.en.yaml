@@ -1,0 +1,11 @@
+speaker: |
+    **Anton Bragin**, JetBrains
+    
+title: "Jupyter Notebooks – There is a Better Way"
+
+description: |
+    Scientific notebooks including Jupyter are extremely popular nowadays both among Python newbies and amateur data scientists. A six million estimate of the total amount of notebook users speaks for itself. However, there are notebook haters who point out that notebook usage contradicts good programming practices, the results are hard to reproduce and interactive development with notebooks is spoiled by the lack of consistency between a notebook code and running kernel state.
+
+    In my talk, I will review Jupyter pain-points and existing tools and approaches that could be used to fix or mitigate them.
+
+    The talk is recommended for both Jupyter fans, who are ready to critically review the whole concept behind scientific notebooks, and notebook pessimists willing to give a second chance to Jupyter, alongside with everybody who is interested in data analysis and presentation using Python.
