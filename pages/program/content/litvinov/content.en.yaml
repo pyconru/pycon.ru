@@ -1,0 +1,7 @@
+speaker: |
+    **Vasily Litvinov**, Intel
+    
+title: "Profiling Python and C for fun and profit, or Pandas, go fast!"
+
+description: |
+    Brief coverage of current state of profilers, then focusing on tools that can do mixed-mode profiling (showing Python and C/other native functions in one go). Usage will be illustrated by analysing and speeding up some parts of Pandas.
