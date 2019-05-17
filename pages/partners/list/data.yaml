@@ -14,6 +14,9 @@ sections:
   sponsors:  
   - logo: /2019/img/speakers/2019/wg_logo_mainpage.png
     link: https://wargaming.com/ru/ 
+      
+  - logo: /2019/img/speakers/2019/evrone-logo.png
+    link: jobs.evrone.com/ru     
     
 - name: "Информационные партнёры"
   sponsors:
