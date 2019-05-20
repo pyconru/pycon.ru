@@ -2,9 +2,9 @@
 
 The tickets cost:
 
-• 20 000 rubles (upon arrival in a double or triple room)
+• 22 000 rubles (upon arrival in a double or triple room)
 
-• 28 000 rubles (for single occupancy) 
+• 32 000 rubles (for single occupancy) 
 
 <b>Your ticket includes:</b>
 
@@ -19,10 +19,6 @@ The tickets cost:
 • Entertainment
 	
 • Bus from the city to the venue and back.
-	
-## Special price for students
-	
-Special discount for students: -50%. To buy a ticket for a special price, send a student scan to mppycon@gmail.com, in return we will send you a promotional code. After entering this code, you will be able to buy a discount ticket.
 
 ## Registration
 
