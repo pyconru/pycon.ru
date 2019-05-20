@@ -113,3 +113,7 @@
 <a name="litvinov"></a>![litvinov](/2019/img/speakers/2019/litvinov.jpg)Vasily Litvinov, Nizhny Novgorod, Russia
 
 > Software Engineer, Intel. 
+
+<a name="blinov"></a>![blinov](/2019/img/speakers/2019/blinov.jpg)Vladislav Blinov, Yekaterinburg, Russia
+
+> Senior developer at Tinkoff.ru.
