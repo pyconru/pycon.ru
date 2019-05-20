@@ -10,7 +10,7 @@ The tickets cost:
 
 • Participation in the conference (2 days)
 	
-• Hotel accommodation
+• Hotel accommodation in the «PineRiver»
 	
 • Lunch and dinner on June, 24 and breakfast and lunch on June, 25
 	
