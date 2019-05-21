@@ -32,9 +32,17 @@
 
 > Director of technology distribution at Yandex. Programming popularizer. One of the creators and permanent presenter of the podcast Radio-T.
 
+<a name="vlasovskih"></a>![vlasovskih](/2017/img/speakers/2017/vlasovskih.JPG)Andrey Vlasovskikh, St. Petersburg, Russia
+
+> Technical lead of PyCharm and the maintainer of IdeaVim at JetBrains. He is an active member of the Python typing community and a contributor to PEP 484, 561.
+
 <a name="kirill-borisov"></a>![borisov](/2019/img/speakers/2019/borisov.png)Kirill Borisov, Amsterdam, Netherlands
 
 > Developer at Booking.com 
+
+<a name="koshelev"></a>![koshelev](/2018/img/speakers/2018/koshelev.jpg) Alexander Koshelev, Moscow, Russia
+
+> Python-developer at Yandex.
 
 <a name="artem-malishev"></a>![malishev](/2019/img/speakers/2019/malishev.jpg)Artem Malyshev, Kaluga, Russia
 
@@ -69,10 +77,6 @@
 <a name="borisov"></a>![borisov](/2018/img/speakers/2018/borisov.jpg)Sergei Borisov, Moscow, Russia
 
 > Tech lead at Domclick.ru.
-
-<a name="vlasovskih"></a>![vlasovskih](/2017/img/speakers/2017/vlasovskih.JPG)Andrey Vlasovskikh, St. Petersburg, Russia
-
-> Technical lead of PyCharm and the maintainer of IdeaVim at JetBrains. He is an active member of the Python typing community and a contributor to PEP 484, 561.
 
 <a name="patrushev"></a>![patrushev](/2019/img/speakers/2019/patrushev.jpg)Anton Patrushev, Yekaterinburg, Russia
 
