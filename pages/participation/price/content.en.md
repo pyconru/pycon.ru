@@ -6,6 +6,8 @@ The tickets cost:
 
 • 32 000 rubles (for single occupancy) 
 
+• 17 000 rubles (ticket without hotel stay) 
+
 <b>Your ticket includes:</b>
 
 • Participation in the conference (2 days)
