@@ -168,6 +168,6 @@
 </div>
 
 <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-<script src="/2019/js/tickets-b.js"></script>
+<script src="/2019/js/tickets-с.js"></script>
 
 <script src="https://ticketscloud.com/static/scripts/widget/tcwidget.js"></script>
