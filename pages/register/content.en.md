@@ -4,20 +4,20 @@ The tickets cost:
 
 • 22 000 rubles (upon arrival in a double or triple room)
 
-• 32 000 rubles (for single occupancy) 
+• 32 000 rubles (for single occupancy)
 
 <b>Your ticket includes:</b>
 
 • Participation in the conference (2 days)
-	
+
 • Hotel accommodation in the «PineRiver»
-	
+
 • Lunch and dinner on June, 24 and breakfast and lunch on June, 25
-	
+
 • All coffee breaks
-	
+
 • Entertainment
-	
+
 • Bus from the city to the venue and back.
 
 ## Registration
@@ -134,6 +134,6 @@ The tickets cost:
 </div>
 
 <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-<script src="/2019/js/tickets_en-a.js"></script>
+<script src="/2019/js/tickets_en-b.js"></script>
 
 <script src="https://ticketscloud.com/static/scripts/widget/tcwidget.js"></script>
