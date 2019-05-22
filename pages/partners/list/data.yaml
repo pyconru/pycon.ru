@@ -4,6 +4,11 @@ sections:
   sponsors:
   - logo: /2019/img/speakers/2019/JetBrains.jpg
     link: https://www.jetbrains.com/pycharm/
+    
+- name: "Цифровой партнёр"
+  sponsors: 
+  - logo: /2018/img/speakers/2018/MegaFon.png
+    link: https://job.megafon.ru
 
 - name: "Серебряный партнёр"
   sponsors:  
@@ -17,11 +22,6 @@ sections:
       
   - logo: /2019/img/speakers/2019/evrone-logo.png
     link: https://jobs.evrone.com/ru  
- 
-- name: "Диджитал партнёр"
-  sponsors: 
-  - logo: /2018/img/speakers/2018/MegaFon.png
-    link: https://job.megafon.ru
     
 - name: "Информационные партнёры"
   sponsors:
