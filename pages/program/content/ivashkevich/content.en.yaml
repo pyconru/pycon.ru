@@ -1,0 +1,11 @@
+speaker: |
+    **Gleb Ivashkevich**, datarythmics
+    
+title: "Julia, Python and machine learning"
+
+description: |
+    Progress in machine learning and deep learning is blazingly fast, as new architectures emerge and shift in hardware for neural networks training and inference is on its way.
+
+    With these changes in landscape, Python is challenged by younger and more suitable languages. We will discuss one of Python contenders: Julia.
+
+    Julia was designed as a high performance, JIT compiled language for technical computing, and offers first-class metaprogramming facilities and interoperability with C and Python. We will explore the basics of Julia, and what it offers for machine learning and whether it worth a try if you're a data scientist.
