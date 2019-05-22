@@ -1,0 +1,11 @@
+speaker: |
+    **Dmitry Khodakov**, Avito.ru
+    
+title: "CPU bound tasks in Python web services"
+
+description: |
+    In Avito, we often have to apply the machine learning models in realtime and combine asyncronous calls and heavy CPU bound operations. We are faced with the problems of scaling and high resource consumption by the final service.
+
+    — What to do if you need to combine i/o bound network operations and cpu bound calculations bound? Lets talk about multiprocessing in python and his friendship with asyncio.
+
+    — I'll show you how we accelerated one production system 50 times, abandoning pandas/numpy in favor of pure python.
