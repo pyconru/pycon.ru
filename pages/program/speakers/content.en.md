@@ -125,3 +125,7 @@
 <a name="gleb.jpg"></a>![gleb.jpg](/2019/img/speakers/2019/gleb.jpg)Gleb Ivashkevich, Moscow, Russia
 
 > Founder and CEO of datarythmics, developer of machine learning systems for industry, long-time Python developer, co-organizer of Moscow Julia meetup.
+
+<a name="khodakov"></a>![khodakov](/2019/img/speakers/2019/khodakov.jpg)Dmitry Khodakov, Moscow, Russia
+
+> Technical Team Lead at Avito.ru.
