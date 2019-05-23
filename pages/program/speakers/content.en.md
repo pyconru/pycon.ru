@@ -129,3 +129,7 @@
 <a name="khodakov"></a>![khodakov](/2019/img/speakers/2019/khodakov.jpg)Dmitry Khodakov, Moscow, Russia
 
 > Technical Team Lead at Avito.ru.
+
+<a name="adil"></a>![adil](/2019/img/speakers/2019/adil.jpg)Adil Khashtamov, Almaty, Kazakhstan
+
+> Playrix, Marketing Automation Tech Lead.
