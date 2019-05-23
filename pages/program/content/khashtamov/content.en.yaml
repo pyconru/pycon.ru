@@ -1,0 +1,7 @@
+speaker: |
+    **Adil Khashtamov**, Playrix
+    
+title: "ETL tools in the Python ecosystem"
+
+description: |
+    Any organization which produces data while operating will eventually face the stage when the number of regular tasks increases and dependencies among them become complicated. It is crucial to make those pipelines reliable and fault tolerant. In my talk I would like to present the ecosystem of tools and frameworks to build data pipelines in Python in order to collect, enrich and load data to Data lakes and Data warehouses. Especially I will focus on Luigi, Airflow, Prefect and Celery and how we deploy our data pipelines with Luigi to production at Playrix.
