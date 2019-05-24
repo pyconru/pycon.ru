@@ -22,6 +22,11 @@ sections:
       
   - logo: /2019/img/speakers/2019/evrone-logo.png
     link: https://jobs.evrone.com/ru  
+
+- name: "Спонсор афтепати"
+  sponsors:  
+  - logo: /2019/img/speakers/2019/mixvel-logo-by-sirena.png
+    link: http://www.sirena-travel.ru
     
 - name: "Информационные партнёры"
   sponsors:
