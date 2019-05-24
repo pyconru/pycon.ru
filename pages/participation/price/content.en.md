@@ -4,8 +4,6 @@ The tickets cost:
 
 • 22 000 rubles (upon arrival in a double or triple room)
 
-• 32 000 rubles (for single occupancy) 
-
 • 17 000 rubles (ticket without hotel stay) 
 
 <b>Your ticket includes:</b>
