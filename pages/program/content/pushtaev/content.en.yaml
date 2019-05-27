@@ -1,7 +1,0 @@
-speaker: |
-    **Vadim Pushtayev**, Mail.Ru
-    
-title: "Developing asynchronous daemons"
-
-description: |
-    I'm gonna explain how we develop multriprocessing services that run asyncio loops. I'll mention how we deal with IPC, shared memory and how communication with storages and queues is done.
