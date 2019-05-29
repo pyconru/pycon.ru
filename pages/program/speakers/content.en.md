@@ -133,3 +133,7 @@
 <a name="kirillov"></a>![kirillov](/2019/img/speakers/2019/kirillov.JPG)Stanislav Kirillov, Moscow, Russia
 
 > Senior developer at CatBoost.
+
+<a name="mazaev"></a>![mazaev](/2019/img/speakers/2019/mazaev.jpg)Maxim Mazaev, Moscow, Russia
+
+> Python-developer at CIAN.
