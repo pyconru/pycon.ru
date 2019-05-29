@@ -119,7 +119,7 @@
       Нет
     </label>
   </div>
-  <!-- <div class="tickets--field">
+  <div class="tickets--field">
     <div class="tickets--label">Нужно ли вам место для палатки?</div>
     <label for="tickets_tent_yes" class="tickets--label">
       <input type="radio" name="tent" value="yes" id="tickets_tent_yes" class="tickets--radio_input" />
@@ -129,7 +129,7 @@
       <input type="radio" name="tent" value="no" id="tickets_tent_no" class="tickets--radio_input" checked />
       Нет
     </label>
-  </div> -->
+  </div>
   <div class="tickets--field tickets--field-non_mandatory">
     <div class="tickets--label">Опыт разработки на Python <span class="tickets--non_mandatory">(не обязательно)</span></div>
     <label for="tickets_experience_senior" class="tickets--label">
@@ -168,6 +168,6 @@
 </div>
 
 <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-<script src="/2019/js/tickets-e.js"></script>
+<script src="/2019/js/tickets-f.js"></script>
 
 <script src="https://ticketscloud.com/static/scripts/widget/tcwidget.js"></script>
