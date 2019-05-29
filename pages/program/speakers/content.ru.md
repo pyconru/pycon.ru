@@ -133,3 +133,7 @@
 <a name="adil"></a>![adil](/2019/img/speakers/2019/adil.jpg)Адиль Хаштамов, Алматы, Казахстан
 
 > Playrix, Marketing Automation Tech Lead, ведет [блог](https://khashtamov.com/ru/).
+
+<a name="kirillov"></a>![kirillov](/2019/img/speakers/2019/kirillov.JPG)Станислав Кириллов, Москва, Россия
+
+> Ведущий разработчик CatBoost, любит решать задачи про стабильность и скорость машинного обучения.
