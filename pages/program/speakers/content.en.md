@@ -129,3 +129,7 @@
 <a name="adil"></a>![adil](/2019/img/speakers/2019/adil.jpg)Adil Khashtamov, Almaty, Kazakhstan
 
 > Playrix, Marketing Automation Tech Lead.
+
+<a name="kirillov"></a>![kirillov](/2019/img/speakers/2019/kirillov.JPG)Stanislav Kirillov, Moscow, Russia
+
+> Senior developer at CatBoost.
