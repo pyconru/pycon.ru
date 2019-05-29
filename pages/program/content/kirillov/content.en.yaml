@@ -1,0 +1,9 @@
+speaker: |
+    **Stanislav Kirillov**, CatBoost
+    
+title: "CatBoost and Python: fast training and prediction of CatBoost models in Python applications"
+
+description: |
+    Gradient boosted decision trees models solve many practical tasks. Training and prediction are often done with Python both in experimental and production settings. Understanding how input data is used inside GBDT libraries could give you clues to more efficient model trainig and prediction with low data transformation overheads.
+ 
+    Yandex lead developer Stanislav Kirillov will share experience on writing Cython wrapper for CatBoost C++ code. He will explain how to prepare data for effective passing from Python to C++. This talk will give you tips and tricks for training and prediction time optimization and will explain how to train CatBoost models on large datasets faster with low memory overheads
