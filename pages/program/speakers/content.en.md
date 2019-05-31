@@ -137,3 +137,7 @@
 <a name="mazaev"></a>![mazaev](/2019/img/speakers/2019/mazaev.jpg)Maxim Mazaev, Moscow, Russia
 
 > Python-developer at CIAN.
+
+<a name="tcema"></a>![tcema](/2019/img/speakers/2019/tcema.jpg)Boris Tsema, Minsk, Belarus
+
+> Python-developer at Wargaming.
