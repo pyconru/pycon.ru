@@ -146,3 +146,7 @@
 
 > Python-разработчик в Wargaming.
 
+<a name="kataev"></a>![kataev](/2018/img/speakers/2018/kataev.jpeg)Денис Катаев, Екатеринбург, Россия
+
+> Разработчик в Tinkoff.ru.
+
