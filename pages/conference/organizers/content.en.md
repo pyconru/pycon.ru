@@ -15,7 +15,7 @@
 
 ![elovskih](/2019/img/speakers/2019/elovskih.jpg) Mikhail Yelovskikh<br>Developer at Yandex.Cloud
 
-![ermakov](/2019/img/speakers/2019/ermakov.JPG)Petr Ermakov<br>Senior Data Scientist at LAMODA
+![ermakov](/2019/img/speakers/2019/ermakov.JPG)Petr Ermakov<br>Senior Data Scientist at LAMODA, Data Coach at DataGym
 
 ##Organization team
 
