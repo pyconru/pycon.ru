@@ -141,3 +141,7 @@
 <a name="tcema"></a>![tcema](/2019/img/speakers/2019/tcema.jpg)Boris Tsema, Minsk, Belarus
 
 > Python-developer at Wargaming.
+
+<a name="kataev"></a>![kataev](/2018/img/speakers/2018/kataev.jpeg)Denis Kataev, Yekaterinburg
+
+> Developer at Tinkoff.ru.
