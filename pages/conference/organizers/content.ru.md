@@ -16,7 +16,7 @@
 
 ![elovskih](/2019/img/speakers/2019/elovskih.jpg) Михаил Еловских<br>Разработчик в Яндекс.Облаке
 
-![ermakov](/2019/img/speakers/2019/ermakov.JPG) Пётр Ермаков<br>Senior Data Scientist в LAMODA
+![ermakov](/2019/img/speakers/2019/ermakov.JPG) Пётр Ермаков<br>Senior Data Scientist в LAMODA, Data Coach в DataGym
 
 
 ##Организационный комитет
