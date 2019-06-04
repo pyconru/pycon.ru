@@ -23,6 +23,11 @@ sections:
   - logo: /2019/img/speakers/2019/evrone-logo.png
     link: https://jobs.evrone.com/ru 
 
+- name: "SUPPORTED BY"
+  sponsors:
+  - logo: /2018/img/speakers/2018/psf1.png
+    link: https://www.python.org/psf/
+
 - name: "Information Partners"
   sponsors:
   - logo: /2019/img/speakers/2019/fareast.png
