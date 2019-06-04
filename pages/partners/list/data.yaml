@@ -26,7 +26,12 @@ sections:
 - name: "Спонсор афтепати"
   sponsors:  
   - logo: /2019/img/speakers/2019/mixvel-logo-by-sirena1.png
-    link: http://www.sirena-travel.ru
+    link: http://www.sirena-travel.ru   
+
+- name: "При поддержке"
+  sponsors:
+  - logo: /2018/img/speakers/2018/psf1.png
+    link: https://www.python.org/psf/ 
     
 - name: "Информационные партнёры"
   sponsors:
