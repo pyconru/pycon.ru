@@ -1,0 +1,28 @@
+speaker: |
+    **Raymond Hettinger**, Python core developer
+    
+title: "Build powerful, new data structures with Python's abstract base classes"
+
+description: |
+    * Learn how Python's abstract base classes work and why you would want them.
+    
+    * Explore the rich ABCs for collections.
+    
+    * Leverage that knowledge to build several, new powerful data structures:
+    
+    — Bit sets
+    
+    — Binary tree list
+    
+    — Persistent file dictionary
+    
+    — SQL based persistent, concurrent dictionary
+    * Talk includes:
+    
+    — Summary notes
+    
+    — Working code
+    
+    — Instructions for building your own collections
+    
+    — Instructions for building your own ABCs
