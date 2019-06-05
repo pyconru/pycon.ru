@@ -15,6 +15,18 @@ sections:
   - logo: /2017/img/speakers/2017/FIN_CIAN-logo-cyrillic-horizontal-blue.png
     link: https://www.cian.ru 
 
+  - logo: /2019/img/speakers/2019/yandex_logo.png
+    link: https://yandex.ru/company/ 
+  
+  - logo: /2019/img/speakers/2019/PT_logo.png
+    link: https://www.ptsecurity.com/ru-ru/ 
+ 
+  - logo: /2019/img/speakers/2019/intSFT_rgb.png
+    link: https://software.intel.com/ru-ru/ 
+    
+  - logo: /2019/img/speakers/2019/SL_logo_PNG.png
+    link: www.softline.ru 
+
 - name: "Бронзовый партнёр"
   sponsors:  
   - logo: /2019/img/speakers/2019/wg_logo_mainpage.png
