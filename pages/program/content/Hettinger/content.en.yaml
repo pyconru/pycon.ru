@@ -4,11 +4,11 @@ speaker: |
 title: "Build powerful, new data structures with Python's abstract base classes"
 
 description: |
-    * Learn how Python's abstract base classes work and why you would want them.
+    1. Learn how Python's abstract base classes work and why you would want them.
     
-    * Explore the rich ABCs for collections.
+    2. Explore the rich ABCs for collections.
     
-    * Leverage that knowledge to build several, new powerful data structures:
+    3. Leverage that knowledge to build several, new powerful data structures:
     
     — Bit sets
     
@@ -18,7 +18,7 @@ description: |
     
     — SQL based persistent, concurrent dictionary
 
-    * Talk includes:
+    4. Talk includes:
     
     — Summary notes
     
