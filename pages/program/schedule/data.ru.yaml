@@ -153,14 +153,14 @@ day2:
       time: "12:20"
 
   b3b:
-    - speaker: "Адиль Хаштамов, Playrix"
-      talk: "ETL инструменты в экосистеме Python"
-      slug: "khashtamov"
-      time: "11:50"
-
     - speaker: "Дмитрий Ходаков, Авито"
       talk: "CPU bound задачи в веб-сервисах на Python"
       slug: "khodakov"
+      time: "11:50"
+
+    - speaker: "Адиль Хаштамов, Playrix"
+      talk: "ETL инструменты в экосистеме Python"
+      slug: "khashtamov"
       time: "12:20"
 
   b4:
@@ -232,3 +232,4 @@ day2:
       time: "17:50"
 
 
+Расписание предварительное. Возможны изменения.
