@@ -95,12 +95,12 @@ day1:
 
   b6:
     - break: "Перерыв"
-      time: "18:55"
+      time: "19:00"
 
   b7:
     - break: "Lightning Talks"
       slug: "lightning-talks-1"
-      time: "19:10"
+      time: "19:15"
 
   b8:
     - break: "Ужин"
