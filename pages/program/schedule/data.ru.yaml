@@ -14,6 +14,7 @@ day1:
 
     - speaker: "Travis E. Oliphant, Anaconda Inc."
       talk: "Тема скоро появится"
+      slug: "Oliphant"
       time: "12:30"
 
     - break: "Перерыв"
@@ -223,6 +224,7 @@ day2:
   b8:
     - speaker: "Григорий Бакунов, Яндекс"
       talk: "Тема скоро появится"
+      slug: "bakunov"
       time: "17:10"
   
   b9:      
