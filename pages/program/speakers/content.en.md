@@ -40,7 +40,7 @@
 
 > Developer at Booking.com 
 
-<a name="koshelev"></a>![koshelev](/2018/img/speakers/2018/koshelev.jpg) Alexander Koshelev, Moscow, Russia
+<a name="koshelev"></a>![koshelev](/2019/img/speakers/2019/koshelev.jpg) Alexander Koshelev, Moscow, Russia
 
 > Python-developer at Yandex.
 
