@@ -1,0 +1,234 @@
+day1:
+  b0:
+    - time: "10:00"
+      break: "Регистрация"
+
+  b1:
+    - speaker: "Raymond Hettinger, Python core developer"
+      talk: "Build powerful, new data structures with Python's abstract base classes"
+      slug: "Hettinger"
+      time: "11:15"
+
+    - break: "Перерыв"
+      time: "12:15"
+
+    - speaker: "Travis E. Oliphant, Anaconda Inc."
+      talk: "Тема скоро появится"
+      slug: "Oliphant"
+      time: "12:30"
+
+    - break: "Перерыв"
+      time: "13:15"
+
+    - speaker: "Michael Foord, Python core developer"
+      talk: "The golden age of software engineering"
+      slug: "Foord"
+      time: "13:30"
+
+  b2:
+    - break: Обед
+      time: "14:15"
+
+  b3a:
+    - speaker: "Андрей Власовских, JetBrains"
+      talk: "Что будет в Python 3.8 и чего не будет"
+      slug: "vlasovskih"
+      time: "15:15"
+
+    - speaker: "Иван Цыганов, Positive Technologies"
+      talk: "(Без)опасные зависимости"
+      slug: "tsyganov"
+      time: "15:55"
+
+  b3b:
+    - speaker: "Кирилл Борисов, Booking.com"
+      talk: "Слишком умная квартира: IoT + Python + все остальное"
+      slug: "borisov"
+      time: "15:15"
+
+    - speaker: "Никита Левонович, Квестоделы"
+      talk: "Micropython для аркадных игр и квестов в реальности"
+      slug: "levonovich"
+      time: "15:55"
+
+  b4:
+    - break: "Кофе-брейк"
+      time: "16:35"
+
+  b5a:
+    - speaker: "Александр Хаёров, Chainstack"
+      talk: "Прощай, Virtual Environments?"
+      slug: "khaerov"
+      time: "17:05"
+
+    - speaker: "Алексей Кузьмин, ДомКлик"
+      talk: "Поиск и оптимизация узких мест в Python"
+      slug: "Kuzmin"
+      time: "17:45"
+
+    - speaker: "Злата Обуховская, Nvidia"
+      talk: "Structured Concurrency. Что не так с асинхронностью в питоне?"
+      slug: "zlata"
+      time: "18:25"
+
+  b5b:
+    - speaker: "Дмитрий Орлов, Едадил"
+      talk: "Асинхронный драйвер к RabbitMQ от автора"
+      slug: "orlov"
+      time: "17:05"
+
+    - speaker: "Ришат Ибрагимов, Яндекс"
+      talk: "Квантовое программирование на Python: учимся на примерах"
+      slug: "ibragimov"
+      time: "17:45"
+
+    - speaker: "Максим Мазаев, ЦИАН"
+      talk: "Проверка типов в большом проекте"
+      slug: "mazaev"
+      time: "18:25"
+
+  b5c:
+    - speaker: "Сергей Борисов, ДомКлик"
+      talk: "Мастер-класс «Тестирование асинхронных приложений»"
+      slug: "borisovs"
+      time: "17:05"
+
+  b6:
+    - break: "Перерыв"
+      time: "18:55"
+
+  b7:
+    - break: "Lightning Talks"
+      slug: "lightning-talks-1"
+      time: "19:10"
+
+  b8:
+    - break: "Ужин"
+      time: "20:00"
+
+  b9:
+    - break: "Афтепати"
+      time: "21:00"
+
+day2:
+  b0:
+    - time: "09:00"
+      break: "Завтрак"
+
+  b2a:
+    - speaker: "Артем Малышев, drylabs.io"
+      talk: "Инструменты Domain-driven design"
+      slug: "Malyshev"
+      time: "10:00"
+
+    - speaker: "Антон Патрушев, Spherical"
+      talk: "Python&Rust: вместе веселей"
+      slug: "Patrushev"
+      time: "10:40"
+
+  b2b:
+    - speaker: "Борис Цема, Wargaming"
+      talk: "Как мы уменьшили сложность наших проектов"
+      slug: "tcema"
+      time: "10:00"
+
+    - speaker: "Денис Катаев, Tinkoff.ru"
+      talk: "Пишем приложения на SQLAlchemy"
+      slug: "Kataev"
+      time: "10:40"
+
+  b2:
+    - break: "Перерыв"
+      time: "11:20"
+
+  b3a:
+    - speaker: "Александр Артёменко, Яндекс"
+      talk: "Макросы для Питониста"
+      slug: "Artemenko"
+      time: "11:50"
+
+    - speaker: "Василий Литвинов, Intel"
+      talk: "Profiling Python and C for fun and profit, or Pandas, go fast!"
+      slug: "litvinov"
+      time: "12:20"
+
+  b3b:
+    - speaker: "Адиль Хаштамов, Playrix"
+      talk: "ETL инструменты в экосистеме Python"
+      slug: "khashtamov"
+      time: "11:50"
+
+    - speaker: "Дмитрий Ходаков, Авито"
+      talk: "CPU bound задачи в веб-сервисах на Python"
+      slug: "khodakov"
+      time: "12:20"
+
+  b4:
+    - break: "Обед"
+      time: "13:00"
+
+  b5a:
+    - speaker: "Антон Брагин, JetBrains"
+      talk: "Jupyter Notebooks — There is a Better Way"
+      slug: "bragin"
+      time: "14:00"
+
+    - speaker: "Александр Кошелев, Яндекс"
+      talk: "Сборка Docker образов без build зависимостей"
+      slug: "Koshelev"
+      time: "14:40"
+
+  b5b:
+    - speaker: "Станислав Кириллов, CatBoost"
+      talk: "CatBoost и Python: как быстро учить и применять CatBoost модели в Python приложениях"
+      slug: "kirillov"
+      time: "14:00"
+
+    - speaker: "Глеб Ивашкевич, datarythmics"
+      talk: "Julia, Python и машинное обучение"
+      slug: "ivashkevich"
+      time: "14:40"
+
+  b5c:
+    - speaker: "Николай Марков, Aligned Research"
+      talk: "Воркшоп «Пакетируем питонопроект от А до Я»"
+      slug: "markov"
+      time: "14:00"
+
+  b6:
+    - break: "Кофе-брейк"
+      time: "15:20"
+
+  b7a:
+    - speaker: "Никита Гришко, Flo Health Inc"
+      talk: "Evolution of dependency management"
+      slug: "grishko"
+      time: "15:50"
+
+    - speaker: "Antonio Cuni, PyPy core developer"
+      talk: "How PyPy can help for high-performance computing"
+      slug: "cuni"
+      time: "16:30"
+
+  b7b:
+    - speaker: "Артем Королев, Тимур Кадыров, Dentsu Aegis Russia"
+      talk: "Создание индустриальных датасетов для задач глубокого обучения"
+      slug: "kotolev"
+      time: "15:50"
+
+    - speaker: "Владислав Блинов, Tinkoff.ru"
+      talk: "Как написать чат-бота, если нет времени получать PhD?"
+      slug: "blinov"
+      time: "16:30"
+
+  b8:
+    - speaker: "Григорий Бакунов, Яндекс"
+      talk: "Тема скоро появится"
+      slug: "bakunov"
+      time: "17:10"
+
+  b9:
+    - break: "Торжественное закрытие"
+      time: "17:50"
+
+
