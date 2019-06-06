@@ -163,7 +163,7 @@ day2:
       slug: "khodakov"
       time: "12:20"
   
-   b4:
+  b4:
     - break: "Обед"
       time: "13:00"
 
