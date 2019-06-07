@@ -41,14 +41,14 @@ day1:
       time: "15:55"
 
   b3b:
-    - speaker: "Кирилл Борисов, Booking.com"
-      talk: "Слишком умная квартира: IoT + Python + все остальное"
-      slug: "borisov"
+    - speaker: "Артем Малышев, drylabs.io"
+      talk: "Инструменты Domain-driven design"
+      slug: "Malyshev"
       time: "15:15"
 
-    - speaker: "Никита Левонович, Квестоделы"
-      talk: "Micropython для аркадных игр и квестов в реальности"
-      slug: "levonovich"
+    - speaker: "Антон Патрушев, Spherical"
+      talk: "Python&Rust: вместе веселей"
+      slug: "Patrushev"    
       time: "15:55"
 
   b4:
@@ -116,14 +116,14 @@ day2:
       break: "Завтрак"
 
   b2a:
-    - speaker: "Артем Малышев, drylabs.io"
-      talk: "Инструменты Domain-driven design"
-      slug: "Malyshev"
+    - speaker: "Кирилл Борисов, Booking.com"
+      talk: "Слишком умная квартира: IoT + Python + все остальное"
+      slug: "borisov"
       time: "10:00"
-
-    - speaker: "Антон Патрушев, Spherical"
-      talk: "Python&Rust: вместе веселей"
-      slug: "Patrushev"
+    
+    - speaker: "Никита Левонович, Квестоделы"
+      talk: "Micropython для аркадных игр и квестов в реальности"
+      slug: "levonovich"
       time: "10:40"
 
   b2b:
