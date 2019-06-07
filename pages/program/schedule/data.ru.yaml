@@ -41,9 +41,9 @@ day1:
       time: "15:55"
 
   b3b:
-    - speaker: "Артем Малышев, drylabs.io"
-      talk: "Инструменты Domain-driven design"
-      slug: "Malyshev"
+    - speaker: "Василий Литвинов, Intel"
+      talk: "Profiling Python and C for fun and profit, or Pandas, go fast!"
+      slug: "litvinov"
       time: "15:15"
 
     - speaker: "Антон Патрушев, Spherical"
@@ -147,9 +147,9 @@ day2:
       slug: "Artemenko"
       time: "11:50"
 
-    - speaker: "Василий Литвинов, Intel"
-      talk: "Profiling Python and C for fun and profit, or Pandas, go fast!"
-      slug: "litvinov"
+    - speaker: "Артем Малышев, drylabs.io"
+      talk: "Инструменты Domain-driven design"
+      slug: "Malyshev"
       time: "12:20"
 
   b3b:
