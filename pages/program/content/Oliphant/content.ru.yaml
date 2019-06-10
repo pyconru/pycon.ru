@@ -1,4 +1,7 @@
 speaker: |
     **Travis Oliphant**, Anaconda Inc
     
-title: "Тема скоро появится"
+title: "Brief review of Array computing in Python, where it is heading, and why it matters"
+
+description: |
+    Python has been used to find gravitational waves and image black holes and has become the de facto language for machine learning.  In this talk, I describe how this happened through the efforts of cooperative, community-driven open-source and dedicated volunteers.  I will then describe how the big-data and deep learning communities have enhanced the landscape of array computing make accessible to Python users incredible computational capability.  Finally, I will provide some thoughts and perspective on what may be coming next and what it will enable.
