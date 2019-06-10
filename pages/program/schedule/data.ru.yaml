@@ -56,14 +56,14 @@ day1:
       time: "16:35"
 
   b5a:
+    - speaker: "Никита Гришко, Flo Health Inc"
+      talk: "Evolution of dependency management"
+      slug: "grishko"    
+      time: "17:05"
+
     - speaker: "Александр Хаёров, Chainstack"
       talk: "Прощай, Virtual Environments?"
       slug: "khaerov"
-      time: "17:05"
-
-    - speaker: "Алексей Кузьмин, ДомКлик"
-      talk: "Поиск и оптимизация узких мест в Python"
-      slug: "Kuzmin"
       time: "17:45"
 
     - speaker: "Злата Обуховская, Nvidia"
@@ -200,9 +200,9 @@ day2:
       time: "15:20"
 
   b7a:
-    - speaker: "Никита Гришко, Flo Health Inc"
-      talk: "Evolution of dependency management"
-      slug: "grishko"
+   - speaker: "Алексей Кузьмин, ДомКлик"
+      talk: "Поиск и оптимизация узких мест в Python"
+      slug: "Kuzmin"   
       time: "15:50"
 
     - speaker: "Antonio Cuni, PyPy core developer"
