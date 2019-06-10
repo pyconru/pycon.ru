@@ -13,7 +13,7 @@ day1:
       time: "12:15"
 
     - speaker: "Travis E. Oliphant, Anaconda Inc."
-      talk: "Тема скоро появится"
+      talk: "Brief review of Array computing in Python, where it is heading, and why it matters"
       slug: "Oliphant"
       time: "12:30"
 
