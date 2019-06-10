@@ -116,14 +116,14 @@ day2:
       break: "Завтрак"
 
   b2a:
+    - speaker: "Никита Левонович, Квестоделы"
+      talk: "Micropython для аркадных игр и квестов в реальности"
+      slug: "levonovich" 
+      time: "10:00"
+    
     - speaker: "Кирилл Борисов, Booking.com"
       talk: "Слишком умная квартира: IoT + Python + все остальное"
       slug: "borisov"
-      time: "10:00"
-    
-    - speaker: "Никита Левонович, Квестоделы"
-      talk: "Micropython для аркадных игр и квестов в реальности"
-      slug: "levonovich"
       time: "10:40"
 
   b2b:
