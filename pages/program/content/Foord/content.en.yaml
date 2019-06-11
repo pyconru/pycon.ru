@@ -1,4 +1,7 @@
 speaker: |
     **Michael Foord**, Python core developer
     
-title: "The golden age of software engineering"
+title: "Process Engineering: A Golden Age for Software Engineering"
+
+description: |
+    Python and its ecosystem and now mature and Python is one of the most popular programming languages in the world. From version control to continuous integration, IDEs to linters, documentation to deployment, virtualization to packaging, we have an unrivalled set of tools and practises available to us. Software Engineering is so much more than writing code and throwing it over a wall, in this talk we’ll take a slightly backward facing look at how modern tooling fits into powerful workflows for building and creating projects and how that’s been shaped by the community. Process Engineering: software development for humans.
