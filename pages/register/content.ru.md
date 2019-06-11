@@ -3,7 +3,7 @@
 Желающих участвовать оказалось много, и несмотря на то, что мы выкупили все номера на базах «Cronwell Яхонты Таруса» и «PineRiver», билеты с проживанием закончились.
 
 ## Билет без проживания стоит 17 000 рублей
-Вы можете купить билет без проживания. В этом случае вы сами выбираете, где ночевать, сами оплачиваете и добираетесь до места ночевки. 
+Вы можете купить билет без проживания. В этом случае вы сами выбираете, где ночевать, сами оплачиваете и добираетесь до места ночевки.
 
 В стоимость билета входит:
 
@@ -158,6 +158,6 @@
 </div>
 
 <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-<script src="/2019/js/tickets-f.js"></script>
+<script src="/2019/js/tickets-g.js"></script>
 
 <script src="https://ticketscloud.com/static/scripts/widget/tcwidget.js"></script>
