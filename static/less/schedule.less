@@ -98,8 +98,8 @@
       }
 
       .columns-wrapper {
-        .clearfix();
-        position: relative;
+        display: flex;
+        clear: both;
       }
 
       .b {
@@ -180,8 +180,8 @@
       }
 
       .columns-wrapper {
-        .clearfix();
-        position: relative;
+        display: flex;
+        clear: both;
       }
 
       .b {
@@ -194,9 +194,9 @@
           clear: left;
         }
 
-        &2a, &2b {
+        &2a, &2b, &2c {
           background: @peach;
-          width: 380px;
+          width: 240px;
           display: inline-block;
           float: left;
         }
@@ -205,6 +205,11 @@
         }
         &2b {
           background: @green;
+          margin-right: 20px;
+        }
+        &2c {
+          background: @pink;
+          margin-top: 96px;
         }
 
         &3a, &3b {
