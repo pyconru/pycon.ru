@@ -88,9 +88,9 @@ day1:
       time: "18:25"
 
   b5c:
-    - speaker: "Сергей Борисов, ДомКлик"
-      talk: "Мастер-класс «Тестирование асинхронных приложений»"
-      slug: "borisovs"
+    - speaker: "Raymond Hettinger, Python core developer"
+      talk: "Тема воркшопа скоро появится"
+      slug: "Hettinger-workshop"
       time: "17:05"
 
   b6:
@@ -115,33 +115,41 @@ day2:
     - time: "09:00"
       break: "Завтрак"
 
-  b2a:
+  b1a:
     - speaker: "Никита Левонович, Квестоделы"
       talk: "Micropython для аркадных игр и квестов в реальности"
       slug: "levonovich" 
-      time: "10:00"
-    
+      time: "10:00"    
+  
+  b1b:
+    - speaker: "Борис Цема, Wargaming"
+      talk: "Как мы уменьшили сложность наших проектов"
+      slug: "tcema"
+      time: "10:00"  
+  
+  b2a: 
     - speaker: "Кирилл Борисов, Booking.com"
       talk: "Слишком умная квартира: IoT + Python + все остальное"
       slug: "borisov"
       time: "10:40"
 
-  b2b:
-    - speaker: "Борис Цема, Wargaming"
-      talk: "Как мы уменьшили сложность наших проектов"
-      slug: "tcema"
-      time: "10:00"
-
+  b2b: 
     - speaker: "Денис Катаев, Tinkoff.ru"
       talk: "Пишем приложения на SQLAlchemy"
       slug: "Kataev"
       time: "10:40"
 
-  b2:
+  b2c: 
+    - speaker: "Сергей Борисов, ДомКлик"
+      talk: "Мастер-класс «Тестирование асинхронных приложений»"
+      slug: "borisovs"
+      time: "10:40"
+
+  b3:
     - break: "Перерыв"
       time: "11:20"
 
-  b3a:
+  b4a:
     - speaker: "Александр Артёменко, Яндекс"
       talk: "Макросы для Питониста"
       slug: "Artemenko"
@@ -152,7 +160,7 @@ day2:
       slug: "Malyshev"
       time: "12:20"
 
-  b3b:
+  b4b:
     - speaker: "Дмитрий Ходаков, Авито"
       talk: "CPU bound задачи в веб-сервисах на Python"
       slug: "khodakov"
@@ -163,11 +171,11 @@ day2:
       slug: "khashtamov"
       time: "12:20"
 
-  b4:
+  b5:
     - break: "Обед"
       time: "13:00"
 
-  b5a:
+  b6a:
     - speaker: "Антон Брагин, JetBrains"
       talk: "Jupyter Notebooks — There is a Better Way"
       slug: "bragin"
@@ -178,7 +186,7 @@ day2:
       slug: "Koshelev"
       time: "14:40"
 
-  b5b:
+  b6b:
     - speaker: "Станислав Кириллов, CatBoost"
       talk: "CatBoost и Python: как быстро учить и применять CatBoost модели в Python приложениях"
       slug: "kirillov"
@@ -189,17 +197,17 @@ day2:
       slug: "ivashkevich"
       time: "14:40"
 
-  b5c:
+  b6c:
     - speaker: "Николай Марков, Aligned Research"
       talk: "Воркшоп «Как упаковать питонопроект, чтобы не было стыдно»"
       slug: "markov"
       time: "14:00"
 
-  b6:
+  b7:
     - break: "Кофе-брейк"
       time: "15:20"
 
-  b7a:
+  b8a:
     - speaker: "Алексей Кузьмин, ДомКлик"
       talk: "Поиск и оптимизация узких мест в Python"
       slug: "Kuzmin"   
@@ -210,7 +218,7 @@ day2:
       slug: "cuni"
       time: "16:30"
 
-  b7b:
+  b8b:
     - speaker: "Артем Королев, Тимур Кадыров, Dentsu Aegis Russia"
       talk: "Создание индустриальных датасетов для задач глубокого обучения"
       slug: "kotolev"
@@ -221,13 +229,13 @@ day2:
       slug: "blinov"
       time: "16:30"
 
-  b8:
+  b9:
     - speaker: "Григорий Бакунов, Яндекс"
       talk: "Тема скоро появится"
       slug: "bakunov"
       time: "17:10"
 
-  b9:
+  b10:
     - break: "Торжественное закрытие"
       time: "17:50"
 
