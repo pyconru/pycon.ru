@@ -2,7 +2,7 @@
 
 The tickets cost:
 
-• 17 000 rubles (ticket without hotel stay) 
+• 19 000 rubles (ticket without hotel stay) 
 
 <b>Your ticket includes:</b>
 
