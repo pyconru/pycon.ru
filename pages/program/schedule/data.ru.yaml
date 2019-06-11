@@ -21,7 +21,7 @@ day1:
       time: "13:15"
 
     - speaker: "Michael Foord, Python core developer"
-      talk: "The golden age of software engineering"
+      talk: "Process Engineering: A Golden Age for Software Engineering"
       slug: "Foord"
       time: "13:30"
 
