@@ -89,7 +89,7 @@ day1:
 
   b5c:
     - speaker: "Raymond Hettinger, Python core developer"
-      talk: "Тема воркшопа скоро появится"
+      talk: "Воркшоп от Раймонда Хеттингера (до 18.35)"
       slug: "Hettinger-workshop"
       time: "17:05"
 
@@ -127,7 +127,7 @@ day2:
       time: "10:40"
 
   b2b:
-    - speaker: "Борис Цема, Wargaming"
+    - speaker: "Борис Цема, Wargaming.net"
       talk: "Как мы уменьшили сложность наших проектов"
       slug: "tcema"
       time: "10:00"
@@ -144,7 +144,7 @@ day2:
       time: "10:40"
 
   b2:
-    - break: "Перерыв"
+    - break: "Кофе-брейк"
       time: "11:20"
 
   b3a:
