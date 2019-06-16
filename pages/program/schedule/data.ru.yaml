@@ -89,7 +89,7 @@ day1:
 
   b5c:
     - speaker: "Raymond Hettinger, Python core developer"
-      talk: "Воркшоп от Раймонда Хеттингера (до 18.35)"
+      talk: "Воркшоп «Tutorial on Function Dispatchers and Microweb-frameworks» (до 18.35)"
       slug: "Hettinger-workshop"
       time: "17:05"
 
