@@ -1,4 +1,47 @@
 speaker: |
     **Raymond Hettinger**, Python core developer
     
-title: "Тема воркшопа скоро появится"
+title: "Tutorial on Function Dispatchers and Microweb-frameworks"
+
+description: |
+    Level-up your core Python skills while learning to build both batch and interactive function dispatchers. Get an insight into how to implement interactive shells, test runners, and micro-webframeworks such as Flask and Bottle.
+
+    Prerequisite skills: Be comfortable with the basics of lists, dictionaries, looping functions, classes, and try/except.
+
+    Approximate time: 2 1/4 hours.
+
+    Bring your computer, this is a hands-on session using Python 3.7 or Python 3.8.
+
+    Topics covered:
+    
+    — function annotations
+    
+    — conditional expressions
+    
+    — the getattr() function
+    
+    — the dict.get() method
+    
+    — function decorators
+    
+    — filtered task lists
+    
+    — the @ notation
+    
+    — dispatch dictionaries
+    
+    — logging module
+    
+    — dataclasses module
+    
+    — json module
+    
+    — http.HTTPStatus
+    
+    — url parsing
+    
+    — REST API servers
+    
+    — HTTP headers
+    
+    — WSGI applications
