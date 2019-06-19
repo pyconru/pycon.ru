@@ -103,10 +103,20 @@
       }
 
       .b {
-        &1 {
-          background: @blue;
-          clear: both;
+        &1a, &1b {
+          background: @peach;
+          width: 380px;
+          display: inline-block;
+          float: left;
         }
+        &1a {
+          margin-right: 20px;
+        }
+        &1b {
+          margin-top: 102px;
+          background: @green;
+        }
+
         &3a, &3b {
           background: @peach;
           width: 380px;

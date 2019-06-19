@@ -3,7 +3,7 @@ day1:
     - time: "10:00"
       break: "Регистрация"
 
-  b1:
+  b1a:
     - speaker: "Raymond Hettinger, Python core developer"
       talk: "Build powerful, new data structures with Python's abstract base classes"
       slug: "Hettinger"
@@ -24,6 +24,11 @@ day1:
       talk: "Process Engineering: A Golden Age for Software Engineering"
       slug: "Foord"
       time: "13:30"
+
+  b1b:
+    - talk: "Tech Talks от Мегафона (до 18:25)"
+      slug: "techtalks"
+      time: "12:30"
 
   b2:
     - break: Обед

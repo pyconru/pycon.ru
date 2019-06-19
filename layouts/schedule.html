@@ -41,7 +41,8 @@
   {% set sch = _('Small conference hall') %}
   {% set trdch = _('Conference hall in 3rd building') %}
   {% set halls_day_1 = {
-    'b1': lch,
+    'b1a': lch,
+    'b1b': sch,
     'b3a': lch,
     'b3b': sch,
     'b5a': lch,
@@ -53,7 +54,18 @@
   {% if day1 is defined %}
     <h2>{{ _('Day') }} 1</h2>
     <section class="day1">
-      {% for block in ['b0', 'b1', 'b2'] %}
+      {% for block in ['b0'] %}
+        {{ render_block(day1, block, halls_day_1) }}
+      {% endfor %}
+
+      <h4>{{ lch }}</h4><h4 class="last">{{ sch }}</h4>
+      <div class="columns-wrapper">
+        {% for block in ['b1a', 'b1b'] %}
+          {{ render_block(day1, block, halls_day_1) }}
+        {% endfor %}
+      </div>
+
+      {% for block in ['b2'] %}
         {{ render_block(day1, block, halls_day_1) }}
       {% endfor %}
 
