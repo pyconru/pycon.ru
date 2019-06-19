@@ -27,3 +27,9 @@ description: |
     — Docker
 
     Мастер-класс подойдет как тем, кто только начинает писать тесты на pytest, так и тем, кто хочет увереннее жонглировать фикстурами и опробовать новые подходы к CI / CD.
+    
+    Для участия в мастер-классе нужно взять свой ноутбук с установленными на нем:
+    
+    — Docker и docker-compose (https://docs.docker.com/install/)
+    
+    — Образ: docker pull juntatalor/pycon2019-python-pytest
