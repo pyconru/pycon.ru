@@ -42,7 +42,7 @@
   {% set trdch = _('Conference hall in 3rd building') %}
   {% set halls_day_1 = {
     'b1a': lch,
-    'b1b': sch,
+    'b1b': trdch,
     'b3a': lch,
     'b3b': sch,
     'b5a': lch,
@@ -58,7 +58,7 @@
         {{ render_block(day1, block, halls_day_1) }}
       {% endfor %}
 
-      <h4>{{ lch }}</h4><h4 class="last">{{ sch }}</h4>
+      <h4 class="two-thirds">{{ lch }}</h4><h4 class="third last">{{ trdch }}</h4>
       <div class="columns-wrapper">
         {% for block in ['b1a', 'b1b'] %}
           {{ render_block(day1, block, halls_day_1) }}
