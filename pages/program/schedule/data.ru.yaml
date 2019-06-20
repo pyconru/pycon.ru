@@ -26,7 +26,7 @@ day1:
       time: "13:30"
 
   b1b:
-    - talk: "Tech Talks от Мегафона (до 18:25)"
+    - talk: "Tech Talks от МегаФона (до 18:25)"
       slug: "techtalks"
       time: "12:30"
 
