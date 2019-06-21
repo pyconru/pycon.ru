@@ -16,7 +16,11 @@
 
 ![elovskih](/2019/img/speakers/2019/elovskih.jpg) Михаил Еловских<br>Разработчик в Яндекс.Облаке
 
+![mogilnikov](/2019/img/speakers/2019/mogilnikov.jpg) Алексей Могильников<br>ML в BCS 
+
 ![ermakov](/2019/img/speakers/2019/ermakov.JPG) Пётр Ермаков<br>Senior Data Scientist в LAMODA, Data Coach в DataGym
+
+
 
 
 ##Организационный комитет
