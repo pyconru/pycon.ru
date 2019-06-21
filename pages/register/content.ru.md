@@ -35,13 +35,32 @@
 
 
 <form id="tickets_form" action="#" class="tickets">
+  <input
+    type="hidden"
+    name="payment"
+    value="company"
+    id="tickets_payment_company"
+    class="tickets--radio_input set_action_on_check"
+    data-saic-action="#"
+    data-saic-method="post"
+  />
   <div
     class="tickets--field show_if_checked set_action_if_checked"
     data-sif-watch='input'
     data-sif-src="#tickets_payment_company"
     data-sif-what="#toggle_company_details"
   >
-    <div class="tickets--label">Метод оплаты</div>
+    <input
+      type="hidden"
+      name="payment"
+      value="card"
+      id="tickets_payment_card"
+      class="tickets--radio_input set_action_on_check"
+      data-saic-action="#"
+      data-saic-method="post"
+      checked
+    />
+    <!-- <div class="tickets--label">Метод оплаты</div>
     <label for="tickets_payment_company" class="tickets--label">
       <input
         type="radio"
@@ -66,7 +85,7 @@
         checked
       />
       Заплачу сам банковской картой
-    </label>
+    </label> -->
   </div>
   <div id="tickets_picker"></div>
   <div class="tickets--field">
