@@ -146,9 +146,9 @@
         {{ render_block(day2, block, halls_day_2) }}
       {% endfor %}
 
-      <h4>{{ lch }}</h4><h4 class="last">{{ sch }}</h4>
+      <h4 class="third">{{ lch }}</h4><h4 class="third">{{ sch }}</h4><h4 class="third last">{{ trdch }}</h4>
       <div class="columns-wrapper">
-        {% for block in ['b7a', 'b7b'] %}
+        {% for block in ['b7a', 'b7b', 'b7c'] %}
           {{ render_block(day2, block, halls_day_2) }}
         {% endfor %}
       </div>

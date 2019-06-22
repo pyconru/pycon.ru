@@ -232,6 +232,12 @@ day2:
       slug: "blinov"
       time: "16:30"
 
+  b7c:
+    - speaker: "Michael Foord, Python core developer"
+      talk: "Воркшоп «The Python Object Model»"
+      slug: "foordworkshop"
+      time: "15.50"
+
   b8:
     - speaker: "Григорий Бакунов, Яндекс"
       talk: "Тема скоро появится"
