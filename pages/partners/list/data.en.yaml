@@ -42,6 +42,9 @@ sections:
 
 - name: "Information Partners"
   sponsors:
+  - logo: /2019/img/speakers/2019/pytup.png
+    link: https://yandex.ru/pytup/ 
+    
   - logo: /2019/img/speakers/2019/fareast.png
     link: https://vk.com/fepycom
 
